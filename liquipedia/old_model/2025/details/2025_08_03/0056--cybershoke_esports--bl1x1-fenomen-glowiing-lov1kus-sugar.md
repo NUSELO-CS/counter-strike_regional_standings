@@ -1,0 +1,135 @@
+### Roster Details<br />
+Team Name: CYBERSHOKE Esports<br />
+Roster: bl1x1, FenomeN, glowiing, lov1kus, sugaR<br />
+Global Rank: [56](../../standings_global_2025_08_03.md)<br />
+<br />
+Region: [Europe]( ../../standings_europe_2025_08_03.md)<br />
+Regional Rank: [39]( ../../standings_europe_2025_08_03.md)<br />
+<br />
+Final Rank Value:  971.6<br />
+<br />
+Final Rank Value (971.6) = Starting Rank Value (883.1) + Head To Head Adjustments (88.4)<br />
+
+#### Starting Rank Value<br />
+To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
+- Bounty Offered: 0.329[<sup>1</sup>](#table2)
+- Bounty Collected: 0.398[<sup>2</sup>](#table1)
+- Opponent Network: 0.281[<sup>2</sup>](#table1)
+- LAN Wins: 0.000[<sup>2</sup>](#table1)
+
+The average of these factors is 0.252<br />
+<br />
+Next, take the maximum and minimum average across all teams and compute the following:<br />
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 883.1
+- 400 + ( ( 0.252 - 0.000 ) / ( 0.834 - 0.000 ) ) * 1600 = 883.1
+
+
+#### Factors<br />
+Below you can see a table of all of the matches that contributed to this roster's Final Rank Value.<br />
+Note:<br />
+
+- For Bounty Collected, Opponent Network, and LAN Wins, we consider only the ten best results over the past 6 months.
+- Raw values for those factors are multiplied by Age Weight. Bounty and Opponent Network values are also multiplied by Event Weight. The adjusted value is shown in parenthesis.
+- The final value for a factor is the total of its adjusted values divided by 10. Bounty Collected is further scaled by the curve function[<sup>3</sup>](#curveFunction)
+- Head to head adjustments are based on rosters' starting rank values. The results shown below are adjusted by Age Weight and not Event Weight
+<span id="table1"></span><br />
+
+
+| Match Played | Match ID | Date       | Opponent                       | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                      |
+| -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
+|           72 |      570 | 2025-06-20 | Sangal Esports                 | L   | 0.896      | -            | -                | -                | -         |   -14.10 | bl1x1, FenomeN, glowiing, lov1kus, sugaR    |
+|           71 |      581 | 2025-06-19 | Ninjas in Pyjamas              | L   | 0.891      | -            | -                | -                | -         |    -2.64 | bl1x1, FenomeN, glowiing, KaiR0N-, lov1kus  |
+|           70 |      587 | 2025-06-19 | Betclic Apogee Esports         | L   | 0.889      | -            | -                | -                | -         |   -11.32 | bl1x1, FenomeN, glowiing, lov1kus, notineki |
+|           69 |      606 | 2025-06-17 | Zero Tenacity                  | W   | 0.879      | 0.435        | -                | 0.791 (0.302)    | 0 (0.000) |    11.76 | bl1x1, FenomeN, glowiing, lov1kus, notineki |
+|           68 |      633 | 2025-06-16 | Sashi Esport                   | W   | 0.869      | 0.485        | -                | 1.000 (0.421)    | 0 (0.000) |    13.49 | bl1x1, FenomeN, glowiing, lov1kus, notineki |
+|           67 |      640 | 2025-06-15 | Iberian Soul                   | L   | 0.866      | -            | -                | -                | -         |    -4.92 | bl1x1, FenomeN, glowiing, lov1kus, notineki |
+|           66 |      685 | 2025-06-14 | Marius                         | W   | 0.858      | 0.485        | -                | 0.548 (0.228)    | 0 (0.000) |     5.84 | bl1x1, FenomeN, glowiing, lov1kus, notineki |
+|           65 |      724 | 2025-06-13 | Sangal Esports                 | W   | 0.850      | 0.435        | 0.037 (0.014)    | 0.725 (0.268)    | 0 (0.000) |    15.39 | bl1x1, FenomeN, glowiing, lov1kus, notineki |
+|           64 |      771 | 2025-06-11 | Ex-Sabre Esports               | W   | 0.836      | -            | -                | -                | 0 (0.000) |     6.91 | bl1x1, FenomeN, glowiing, lov1kus, notineki |
+|           63 |      798 | 2025-06-09 | 9INE                           | L   | 0.823      | -            | -                | -                | -         |    -8.69 | bl1x1, FenomeN, glowiing, lov1kus, notineki |
+|           62 |      813 | 2025-06-08 | RUBY                           | W   | 0.817      | 0.485        | 0.024 (0.009)    | 0.921 (0.365)    | 0 (0.000) |    12.09 | bl1x1, FenomeN, glowiing, lov1kus, notineki |
+|           61 |      896 | 2025-05-31 | Passion UA                     | L   | 0.766      | -            | -                | -                | -         |    -6.20 | bl1x1, FenomeN, glowiing, lov1kus, notineki |
+|           60 |      912 | 2025-05-30 | SINNERS Esports                | W   | 0.756      | -            | -                | -                | 0 (0.000) |    10.74 | bl1x1, FenomeN, glowiing, lov1kus, notineki |
+|           59 |      922 | 2025-05-29 | Nexus Gaming                   | L   | 0.750      | -            | -                | -                | -         |   -11.05 | bl1x1, FenomeN, glowiing, lov1kus, notineki |
+|           58 |      926 | 2025-05-28 | M1 Gaming                      | L   | 0.744      | -            | -                | -                | -         |   -17.47 | bl1x1, FenomeN, glowiing, lov1kus, notineki |
+|           57 |      934 | 2025-05-27 | BIG                            | W   | 0.738      | 0.435        | 0.183 (0.059)    | -                | 0 (0.000) |    18.15 | bl1x1, FenomeN, glowiing, lov1kus, notineki |
+|           56 |      959 | 2025-05-25 | Nexus Gaming                   | W   | 0.725      | 0.435        | 0.153 (0.048)    | 0.888 (0.280)    | 0 (0.000) |    12.18 | bl1x1, FenomeN, glowiing, lov1kus, notineki |
+|           55 |      986 | 2025-05-23 | Ninjas in Pyjamas              | W   | 0.712      | 0.435        | 0.194 (0.060)    | 0.844 (0.261)    | 0 (0.000) |    21.31 | bl1x1, FenomeN, glowiing, lov1kus, notineki |
+|           54 |      993 | 2025-05-23 | Passion UA                     | L   | 0.711      | -            | -                | -                | -         |    -4.70 | bl1x1, FenomeN, glowiing, lov1kus, notineki |
+|           53 |     1002 | 2025-05-22 | Fire Flux Esports              | W   | 0.705      | -            | -                | -                | -         |     7.62 | bl1x1, FenomeN, glowiing, lov1kus, notineki |
+|           52 |     1037 | 2025-05-21 | Sangal Esports                 | L   | 0.697      | -            | -                | -                | -         |    -9.84 | bl1x1, FenomeN, glowiing, lov1kus, notineki |
+|           51 |     1050 | 2025-05-20 | Eternal Fire                   | W   | 0.692      | -            | -                | -                | -         |     7.53 | bl1x1, FenomeN, glowiing, lov1kus, notineki |
+|           50 |     1057 | 2025-05-20 | TPuDCATb TPu                   | L   | 0.691      | -            | -                | -                | -         |   -12.17 | bl1x1, FenomeN, glowiing, lov1kus, notineki |
+|           49 |     1087 | 2025-05-19 | Iberian Soul                   | L   | 0.684      | -            | -                | -                | -         |    -2.64 | bl1x1, FenomeN, glowiing, lov1kus, notineki |
+|           48 |     1115 | 2025-05-17 | Illuminar Gaming               | W   | 0.671      | -            | -                | -                | -         |     2.08 | bl1x1, FenomeN, glowiing, lov1kus, notineki |
+|           47 |     1165 | 2025-05-15 | Marius                         | W   | 0.657      | -            | -                | -                | -         |     7.17 | bl1x1, FenomeN, glowiing, lov1kus, notineki |
+|           46 |     1170 | 2025-05-15 | Zero Tenacity                  | W   | 0.656      | -            | -                | -                | -         |     9.80 | bl1x1, FenomeN, glowiing, lov1kus, notineki |
+|           45 |     1225 | 2025-05-13 | Sashi Esport                   | W   | 0.643      | 0.393        | -                | 1.000 (0.253)    | -         |    12.27 | bl1x1, FenomeN, glowiing, lov1kus, notineki |
+|           44 |     1237 | 2025-05-12 | ENCE                           | L   | 0.638      | -            | -                | -                | -         |    -5.78 | bl1x1, FenomeN, glowiing, lov1kus, notineki |
+|           43 |     1247 | 2025-05-12 | Iberian Soul                   | L   | 0.637      | -            | -                | -                | -         |    -2.06 | bl1x1, FenomeN, glowiing, lov1kus, notineki |
+|           42 |     1253 | 2025-05-12 | TPuDCATb TPu                   | W   | 0.636      | -            | -                | -                | -         |     9.21 | bl1x1, FenomeN, glowiing, lov1kus, notineki |
+|           41 |     1265 | 2025-05-11 | 9INE                           | L   | 0.632      | -            | -                | -                | -         |    -4.73 | bl1x1, FenomeN, glowiing, lov1kus, notineki |
+|           40 |     1272 | 2025-05-11 | Sashi Esport                   | L   | 0.630      | -            | -                | -                | -         |    -8.00 | bl1x1, FenomeN, glowiing, lov1kus, notineki |
+|           39 |     1280 | 2025-05-11 | Sangal Esports                 | L   | 0.629      | -            | -                | -                | -         |    -9.54 | bl1x1, FenomeN, glowiing, lov1kus, notineki |
+|           38 |     1326 | 2025-05-09 | Nexus Gaming                   | L   | 0.616      | -            | -                | -                | -         |    -9.48 | bl1x1, FenomeN, glowiing, lov1kus, notineki |
+|           37 |     1374 | 2025-05-07 | Dynamo Eclot                   | W   | 0.605      | 0.435        | 0.082 (0.022)    | -                | -         |    10.36 | bl1x1, FenomeN, glowiing, lov1kus, notineki |
+|           36 |     1410 | 2025-05-06 | Nexus Gaming                   | W   | 0.598      | 0.393        | 0.153 (0.036)    | 0.888 (0.208)    | -         |    10.64 | bl1x1, FenomeN, glowiing, lov1kus, notineki |
+|           35 |     1442 | 2025-05-05 | ENCE                           | L   | 0.590      | -            | -                | -                | -         |    -5.29 | bl1x1, FenomeN, glowiing, lov1kus, notineki |
+|           34 |     1507 | 2025-05-02 | Alliance                       | W   | 0.571      | 0.384        | 0.052 (0.011)    | -                | -         |    14.13 | bl1x1, FenomeN, glowiing, lov1kus, notineki |
+|           33 |     1511 | 2025-05-02 | Sashi Esport                   | W   | 0.570      | 0.384        | -                | 1.000 (0.219)    | -         |    10.55 | bl1x1, FenomeN, glowiing, KaiR0N-, notineki |
+|           32 |     1546 | 2025-04-30 | Nexus Gaming                   | L   | 0.559      | -            | -                | -                | -         |    -7.44 | bl1x1, FenomeN, glowiing, lov1kus, notineki |
+|           31 |     1601 | 2025-04-28 | Hesta                          | W   | 0.545      | -            | -                | -                | -         |     2.13 | bl1x1, FenomeN, glowiing, lov1kus, notineki |
+|           30 |     1663 | 2025-04-26 | Metizport                      | L   | 0.530      | -            | -                | -                | -         |    -7.55 | bl1x1, FenomeN, glowiing, lov1kus, notineki |
+|           29 |     1689 | 2025-04-24 | Maestro Esports (Belgian team) | L   | 0.519      | -            | -                | -                | -         |   -14.92 | bl1x1, FenomeN, glowiing, lov1kus, notineki |
+|           28 |     1702 | 2025-04-23 | Fnatic                         | L   | 0.512      | -            | -                | -                | -         |    -2.35 | bl1x1, FenomeN, glowiing, lov1kus, notineki |
+|           27 |     1784 | 2025-04-18 | TEAM NEXT LEVEL                | W   | 0.477      | 0.435        | 0.128 (0.026)    | -                | -         |    12.12 | bl1x1, FenomeN, glowiing, lov1kus, notineki |
+|           26 |     1893 | 2025-04-14 | SkyFury                        | W   | 0.450      | -            | -                | -                | -         |     1.72 | bl1x1, FenomeN, glowiing, lov1kus, notineki |
+|           25 |     1937 | 2025-04-11 | PARIVISION                     | W   | 0.433      | 0.435        | 0.122 (0.023)    | -                | -         |     9.38 | bl1x1, FenomeN, glowiing, lov1kus, notineki |
+|           24 |     2117 | 2025-04-04 | 1win Team                      | W   | 0.384      | -            | -                | -                | -         |     3.94 | bl1x1, FenomeN, glowiing, lov1kus, notineki |
+|           23 |     2199 | 2025-04-02 | Sangal Esports                 | W   | 0.371      | -            | -                | -                | -         |     6.39 | bl1x1, FenomeN, glowiing, lov1kus, notineki |
+|           22 |     2264 | 2025-03-31 | Inputprayers                   | L   | 0.357      | -            | -                | -                | -         |   -10.11 | bl1x1, FenomeN, glowiing, lov1kus, notineki |
+|           21 |     2294 | 2025-03-30 | B8                             | L   | 0.350      | -            | -                | -                | -         |    -1.39 | bl1x1, FenomeN, glowiing, lov1kus, notineki |
+|           20 |     2342 | 2025-03-29 | GUN5 Esports                   | L   | 0.345      | -            | -                | -                | -         |    -3.96 | bl1x1, FenomeN, glowiing, lov1kus, notineki |
+|           19 |     2408 | 2025-03-28 | B8                             | W   | 0.338      | -            | -                | -                | -         |     9.34 | bl1x1, FenomeN, glowiing, lov1kus, notineki |
+|           18 |     2488 | 2025-03-27 | Sashi Esport                   | W   | 0.331      | -            | -                | -                | -         |     6.50 | bl1x1, FenomeN, glowiing, lov1kus, notineki |
+|           17 |     2943 | 2025-03-09 | BetBoom Team                   | L   | 0.210      | -            | -                | -                | -         |    -0.41 | bl1x1, FenomeN, glowiing, lov1kus, notineki |
+|           16 |     3027 | 2025-03-08 | Portuguese Family              | W   | 0.203      | -            | -                | -                | -         |     0.89 | bl1x1, FenomeN, glowiing, lov1kus, notineki |
+|           15 |     3092 | 2025-03-07 | Nemiga Gaming                  | L   | 0.196      | -            | -                | -                | -         |    -1.35 | bl1x1, FenomeN, glowiing, lov1kus, notineki |
+|           14 |     3381 | 2025-02-25 | Nemiga Gaming                  | W   | 0.131      | -            | -                | -                | -         |     3.24 | bl1x1, FenomeN, glowiing, lov1kus, notineki |
+|           13 |     3447 | 2025-02-22 | B8                             | L   | 0.111      | -            | -                | -                | -         |    -0.40 | bl1x1, FenomeN, glowiing, lov1kus, notineki |
+|           12 |     3466 | 2025-02-21 | Nemiga Gaming                  | W   | 0.104      | -            | -                | -                | -         |     2.58 | bl1x1, FenomeN, glowiing, lov1kus, notineki |
+|           11 |     3520 | 2025-02-18 | Sashi Esport                   | L   | 0.086      | -            | -                | -                | -         |    -0.95 | bl1x1, FenomeN, glowiing, lov1kus, notineki |
+|           10 |     3531 | 2025-02-18 | ECSTATIC                       | W   | 0.084      | -            | -                | -                | -         |     2.38 | bl1x1, FenomeN, glowiing, lov1kus, notineki |
+|            9 |     3557 | 2025-02-16 | 500                            | W   | 0.070      | -            | -                | -                | -         |     0.87 | bl1x1, FenomeN, glowiing, lov1kus, notineki |
+|            8 |     3609 | 2025-02-14 | NXT                            | W   | 0.056      | -            | -                | -                | -         |     0.75 | bl1x1, FenomeN, glowiing, lov1kus, notineki |
+|            7 |     3649 | 2025-02-12 | BC.Game Esports                | L   | 0.043      | -            | -                | -                | -         |    -0.78 | bl1x1, FenomeN, glowiing, lov1kus, notineki |
+|            6 |     3676 | 2025-02-11 | Monte                          | L   | 0.036      | -            | -                | -                | -         |    -1.01 | bl1x1, FenomeN, glowiing, lov1kus, notineki |
+|            5 |     3729 | 2025-02-09 | KONO.ECF                       | W   | 0.026      | -            | -                | -                | -         |     0.09 | bl1x1, FenomeN, glowiing, lov1kus, notineki |
+|            4 |     3781 | 2025-02-08 | TEAM NEXT LEVEL                | L   | 0.019      | -            | -                | -                | -         |    -0.11 | bl1x1, FenomeN, glowiing, lov1kus, notineki |
+|            3 |     3791 | 2025-02-08 | AMKAL ESPORTS                  | W   | 0.018      | -            | -                | -                | -         |     0.10 | bl1x1, FenomeN, glowiing, lov1kus, notineki |
+|            2 |     3837 | 2025-02-07 | Alliance                       | W   | 0.010      | -            | -                | -                | -         |     0.26 | bl1x1, FenomeN, glowiing, lov1kus, notineki |
+|            1 |     3857 | 2025-02-06 | AMKAL ESPORTS                  | L   | 0.004      | -            | -                | -                | -         |    -0.10 | bl1x1, FenomeN, glowiing, lov1kus, notineki |
+
+<br />
+<span id="table2"></span><br />
+To calculate a roster's Bounty Offered:<br />
+
+- First, take the sum of their top 10 scaled winnings ($3,963.08)
+- Divide that value by the 5th highest value among all rosters ($436,168.75)
+- The final value (0.01) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
+
+Top ten winnings for this roster:<br />
+
+| Event Date | Age Weight | Prize Winnings | Scaled Winnings |
+| :- | -: | :- | :- |
+| 2025-06-04 |      0.792 | $910.71        | $721.23         |
+| 2025-06-01 |      0.772 | $2,000.00      | $1,543.33       |
+| 2025-05-31 |      0.763 | $1,500.00      | $1,145.00       |
+| 2025-05-11 |      0.632 | $500.00        | $316.11         |
+| 2025-02-23 |      0.119 | $2,000.00      | $237.41         |
+
+
+<span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />
+
+---
+_Event data for Regional Standings provided by LiquipediaDB_<br />

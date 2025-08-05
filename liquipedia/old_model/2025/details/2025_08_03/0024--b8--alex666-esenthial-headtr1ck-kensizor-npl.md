@@ -1,0 +1,114 @@
+### Roster Details<br />
+Team Name: B8<br />
+Roster: alex666, esenthial, headtr1ck, kensizor, npl<br />
+Global Rank: [24](../../standings_global_2025_08_03.md)<br />
+<br />
+Region: [Europe]( ../../standings_europe_2025_08_03.md)<br />
+Regional Rank: [17]( ../../standings_europe_2025_08_03.md)<br />
+<br />
+Final Rank Value:  1292.9<br />
+<br />
+Final Rank Value (1292.9) = Starting Rank Value (1251.4) + Head To Head Adjustments (41.4)<br />
+
+#### Starting Rank Value<br />
+To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
+- Bounty Offered: 0.521[<sup>1</sup>](#table2)
+- Bounty Collected: 0.439[<sup>2</sup>](#table1)
+- Opponent Network: 0.182[<sup>2</sup>](#table1)
+- LAN Wins: 0.634[<sup>2</sup>](#table1)
+
+The average of these factors is 0.444<br />
+<br />
+Next, take the maximum and minimum average across all teams and compute the following:<br />
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1251.4
+- 400 + ( ( 0.444 - 0.000 ) / ( 0.834 - 0.000 ) ) * 1600 = 1251.4
+
+
+#### Factors<br />
+Below you can see a table of all of the matches that contributed to this roster's Final Rank Value.<br />
+Note:<br />
+
+- For Bounty Collected, Opponent Network, and LAN Wins, we consider only the ten best results over the past 6 months.
+- Raw values for those factors are multiplied by Age Weight. Bounty and Opponent Network values are also multiplied by Event Weight. The adjusted value is shown in parenthesis.
+- The final value for a factor is the total of its adjusted values divided by 10. Bounty Collected is further scaled by the curve function[<sup>3</sup>](#curveFunction)
+- Head to head adjustments are based on rosters' starting rank values. The results shown below are adjusted by Age Weight and not Event Weight
+<span id="table1"></span><br />
+
+
+| Match Played | Match ID | Date       | Opponent           | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                       |
+| -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
+|           50 |      116 | 2025-07-24 | FlyQuest           | L   | 1.000      | -            | -                | -                | -         |   -16.17 | alex666, esenthial, headtr1ck, kensizor, npl |
+|           49 |      129 | 2025-07-23 | Astralis           | L   | 1.000      | -            | -                | -                | -         |    -3.22 | alex666, esenthial, headtr1ck, kensizor, npl |
+|           48 |      776 | 2025-06-10 | Lynn Vision Gaming | L   | 0.832      | -            | -                | -                | -         |    -8.18 | alex666, esenthial, headtr1ck, kensizor, npl |
+|           47 |      789 | 2025-06-09 | FURIA              | L   | 0.826      | -            | -                | -                | -         |    -3.90 | alex666, esenthial, headtr1ck, kensizor, npl |
+|           46 |      806 | 2025-06-08 | HEROIC             | W   | 0.818      | 0.143        | 0.386 (0.045)    | -                | 1 (0.818) |    19.59 | alex666, esenthial, headtr1ck, kensizor, npl |
+|           45 |      822 | 2025-06-07 | Virtus.pro         | L   | 0.813      | -            | -                | -                | -         |    -9.92 | alex666, esenthial, headtr1ck, kensizor, npl |
+|           44 |      831 | 2025-06-07 | Team Falcons       | W   | 0.811      | 0.143        | 1.000 (0.116)    | -                | 1 (0.811) |    23.69 | alex666, esenthial, headtr1ck, kensizor, npl |
+|           43 |      860 | 2025-06-04 | Wildcard           | W   | 0.792      | -            | -                | -                | 1 (0.792) |     4.76 | alex666, esenthial, headtr1ck, kensizor, npl |
+|           42 |      876 | 2025-06-03 | OG                 | W   | 0.786      | -            | -                | -                | 1 (0.786) |     5.72 | alex666, esenthial, headtr1ck, kensizor, npl |
+|           41 |      883 | 2025-06-03 | Imperial Esports   | W   | 0.785      | 0.143        | 0.122 (0.014)    | -                | 1 (0.785) |     4.63 | alex666, esenthial, headtr1ck, kensizor, npl |
+|           40 |     1263 | 2025-05-11 | PARIVISION         | W   | 0.632      | 0.500        | 0.122 (0.039)    | 1.000 (0.316)    | 0 (0.000) |     4.13 | alex666, esenthial, headtr1ck, kensizor, npl |
+|           39 |     1337 | 2025-05-08 | SINNERS Esports    | W   | 0.612      | 0.500        | -                | 0.476 (0.146)    | 0 (0.000) |     2.13 | alex666, esenthial, headtr1ck, kensizor, npl |
+|           38 |     1363 | 2025-05-07 | Betera Esports     | W   | 0.606      | -            | -                | -                | -         |     1.17 | alex666, esenthial, headtr1ck, kensizor, npl |
+|           37 |     1398 | 2025-05-06 | Zero Tenacity      | W   | 0.599      | 0.500        | -                | 0.791 (0.237)    | -         |     2.22 | alex666, esenthial, headtr1ck, kensizor, npl |
+|           36 |     1468 | 2025-05-03 | Chinggis Warriors  | W   | 0.582      | 0.624        | -                | 0.597 (0.217)    | 1 (0.582) |     3.98 | alex666, esenthial, headtr1ck, kensizor, npl |
+|           35 |     1490 | 2025-05-03 | BIG                | L   | 0.577      | -            | -                | -                | -         |   -11.01 | alex666, esenthial, headtr1ck, kensizor, npl |
+|           34 |     1516 | 2025-05-01 | JiJieHao           | W   | 0.569      | 0.624        | 0.052 (0.019)    | 0.254 (0.090)    | 1 (0.569) |     3.53 | alex666, esenthial, headtr1ck, kensizor, npl |
+|           33 |     1522 | 2025-05-01 | BIG                | L   | 0.565      | -            | -                | -                | -         |   -11.22 | alex666, esenthial, headtr1ck, kensizor, npl |
+|           32 |     1565 | 2025-04-30 | The Huns Esports   | W   | 0.557      | 0.624        | 0.035 (0.012)    | 0.303 (0.105)    | 1 (0.557) |     3.02 | alex666, esenthial, headtr1ck, kensizor, npl |
+|           31 |     1614 | 2025-04-27 | HEROIC             | L   | 0.538      | -            | -                | -                | -         |    -3.91 | alex666, esenthial, headtr1ck, kensizor, npl |
+|           30 |     1652 | 2025-04-26 | BetBoom Team       | W   | 0.532      | 0.548        | 0.301 (0.088)    | 0.631 (0.184)    | -         |     9.99 | alex666, esenthial, headtr1ck, kensizor, npl |
+|           29 |     1679 | 2025-04-25 | HEROIC             | W   | 0.524      | 0.548        | 0.386 (0.111)    | 0.654 (0.188)    | -         |    13.03 | alex666, esenthial, headtr1ck, kensizor, npl |
+|           28 |     1698 | 2025-04-24 | Partizan Esports   | W   | 0.516      | 0.548        | 0.077 (0.022)    | 0.782 (0.221)    | -         |     2.49 | alex666, esenthial, headtr1ck, kensizor, npl |
+|           27 |     1809 | 2025-04-17 | Astralis           | W   | 0.471      | 0.143        | 0.895 (0.060)    | -                | -         |    13.82 | alex666, esenthial, headtr1ck, kensizor, npl |
+|           26 |     1818 | 2025-04-17 | ENCE               | W   | 0.470      | -            | -                | -                | -         |     4.48 | alex666, esenthial, headtr1ck, kensizor, npl |
+|           25 |     1839 | 2025-04-16 | 9Pandas            | W   | 0.465      | -            | -                | -                | -         |     1.93 | alex666, esenthial, headtr1ck, kensizor, npl |
+|           24 |     1850 | 2025-04-16 | BC.Game Esports    | W   | 0.463      | -            | -                | -                | -         |     1.81 | alex666, esenthial, headtr1ck, kensizor, npl |
+|           23 |     1875 | 2025-04-15 | PARIVISION         | W   | 0.456      | -            | -                | -                | -         |     3.65 | alex666, esenthial, headtr1ck, kensizor, npl |
+|           22 |     1885 | 2025-04-14 | SAW                | L   | 0.452      | -            | -                | -                | -         |    -4.25 | alex666, esenthial, headtr1ck, kensizor, npl |
+|           21 |     1896 | 2025-04-14 | Metizport          | L   | 0.449      | -            | -                | -                | -         |   -12.10 | alex666, esenthial, headtr1ck, kensizor, npl |
+|           20 |     2263 | 2025-03-31 | Ninjas in Pyjamas  | L   | 0.358      | -            | -                | -                | -         |    -2.60 | alex666, esenthial, headtr1ck, kensizor, npl |
+|           19 |     2289 | 2025-03-30 | GUN5 Esports       | W   | 0.351      | -            | -                | -                | -         |     2.28 | alex666, esenthial, headtr1ck, kensizor, npl |
+|           18 |     2294 | 2025-03-30 | CYBERSHOKE Esports | W   | 0.350      | -            | -                | -                | -         |     1.39 | alex666, esenthial, headtr1ck, kensizor, npl |
+|           17 |     2332 | 2025-03-29 | PARIVISION         | W   | 0.346      | -            | -                | -                | -         |     2.68 | alex666, esenthial, headtr1ck, kensizor, npl |
+|           16 |     2360 | 2025-03-29 | ENCE               | W   | 0.343      | -            | -                | -                | -         |     2.84 | alex666, esenthial, headtr1ck, kensizor, npl |
+|           15 |     2408 | 2025-03-28 | CYBERSHOKE Esports | L   | 0.338      | -            | -                | -                | -         |    -9.34 | alex666, esenthial, headtr1ck, kensizor, npl |
+|           14 |     2502 | 2025-03-27 | Roler Coaster      | W   | 0.330      | -            | -                | -                | -         |     0.20 | alex666, esenthial, headtr1ck, kensizor, npl |
+|           13 |     2575 | 2025-03-25 | Nemiga Gaming      | W   | 0.319      | 0.500        | -                | 0.738 (0.118)    | -         |     3.19 | alex666, esenthial, headtr1ck, kensizor, npl |
+|           12 |     2730 | 2025-03-18 | Zero Tenacity      | L   | 0.273      | -            | -                | -                | -         |    -7.68 | alex666, esenthial, headtr1ck, kensizor, npl |
+|           11 |     3332 | 2025-02-26 | TPuDCATb TPu       | W   | 0.139      | -            | -                | -                | -         |     0.36 | alex666, esenthial, headtr1ck, kensizor, npl |
+|           10 |     3428 | 2025-02-23 | BC.Game Esports    | W   | 0.119      | -            | -                | -                | -         |     0.34 | alex666, esenthial, headtr1ck, kensizor, npl |
+|            9 |     3434 | 2025-02-23 | 9Pandas            | W   | 0.117      | -            | -                | -                | -         |     0.32 | alex666, esenthial, headtr1ck, kensizor, npl |
+|            8 |     3447 | 2025-02-22 | CYBERSHOKE Esports | W   | 0.111      | -            | -                | -                | -         |     0.40 | alex666, esenthial, headtr1ck, kensizor, npl |
+|            7 |     3474 | 2025-02-20 | Monte              | W   | 0.099      | -            | -                | -                | -         |     0.14 | alex666, esenthial, headtr1ck, kensizor, npl |
+|            6 |     3494 | 2025-02-19 | Iberian Soul       | W   | 0.092      | -            | -                | -                | -         |     2.16 | alex666, esenthial, headtr1ck, kensizor, npl |
+|            5 |     3577 | 2025-02-15 | 500                | L   | 0.064      | -            | -                | -                | -         |    -1.86 | alex666, esenthial, headtr1ck, kensizor, npl |
+|            4 |     3598 | 2025-02-14 | Nemiga Gaming      | W   | 0.058      | -            | -                | -                | -         |     0.60 | alex666, esenthial, headtr1ck, kensizor, npl |
+|            3 |     3645 | 2025-02-12 | GUN5 Esports       | W   | 0.044      | -            | -                | -                | -         |     0.27 | alex666, esenthial, headtr1ck, kensizor, npl |
+|            2 |     3836 | 2025-02-07 | PARIVISION         | L   | 0.010      | -            | -                | -                | -         |    -0.24 | alex666, esenthial, headtr1ck, kensizor, npl |
+|            1 |     3847 | 2025-02-06 | Alliance           | W   | 0.005      | -            | -                | -                | -         |     0.07 | alex666, esenthial, headtr1ck, kensizor, npl |
+
+<br />
+<span id="table2"></span><br />
+To calculate a roster's Bounty Offered:<br />
+
+- First, take the sum of their top 10 scaled winnings ($52,528.94)
+- Divide that value by the 5th highest value among all rosters ($436,168.75)
+- The final value (0.12) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
+
+Top ten winnings for this roster:<br />
+
+| Event Date | Age Weight | Prize Winnings | Scaled Winnings |
+| :- | -: | :- | :- |
+| 2025-07-25 |      1.000 | $2,500.00      | $2,500.00       |
+| 2025-05-11 |      0.632 | $17,000.00     | $10,747.78      |
+| 2025-05-04 |      0.583 | $30,000.00     | $17,499.31      |
+| 2025-04-27 |      0.538 | $35,000.00     | $18,841.67      |
+| 2025-02-23 |      0.119 | $22,000.00     | $2,611.48       |
+| 2025-02-15 |      0.066 | $5,000.00      | $328.70         |
+
+
+<span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />
+
+---
+_Event data for Regional Standings provided by LiquipediaDB_<br />
