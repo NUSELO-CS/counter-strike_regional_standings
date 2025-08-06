@@ -15,8 +15,10 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 - Bounty Offered: 0.470[<sup>1</sup>](#table2)
 - Bounty Collected: 0.302[<sup>2</sup>](#table1)
 - Opponent Network: 0.020[<sup>2</sup>](#table1)
-- Own Network: 0.200[<sup>2</sup>](#table1)
 - LAN Wins: 0.255[<sup>2</sup>](#table1)
+
+And hidden factors not included in the average:<br />
+- Own Network: 0.200[<sup>2</sup>](#table1)
 
 The average of these factors is 0.262<br />
 <br />
