@@ -6,9 +6,9 @@ Global Rank: [141](../../standings_global_2025_08_03.md)<br />
 Region: [Asia]( ../../standings_asia_2025_08_03.md)<br />
 Regional Rank: [19]( ../../standings_asia_2025_08_03.md)<br />
 <br />
-Final Rank Value:  667.2<br />
+Final Rank Value:  663.4<br />
 <br />
-Final Rank Value (667.2) = Starting Rank Value (677.5) + Head To Head Adjustments (-10.2)<br />
+Final Rank Value (663.4) = Starting Rank Value (673.6) + Head To Head Adjustments (-10.2)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.145<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 677.5
-- 400 + ( ( 0.145 - 0.000 ) / ( 0.834 - 0.000 ) ) * 1600 = 677.5
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 673.6
+- 400 + ( ( 0.145 - 0.000 ) / ( 0.845 - 0.000 ) ) * 1600 = 673.6
 
 
 #### Factors<br />
@@ -38,34 +38,34 @@ Note:<br />
 | Match Played | Match ID | Date       | Opponent                   | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                             |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |           32 |     1589 | 2025-04-29 | FengDa Gaming              | L   | 0.551      | -            | -                | -                | -         |    -7.79 | gas, Marek, Purely, qqGOD, VanceKK |
-|           31 |     1625 | 2025-04-27 | Chinggis Warriors          | L   | 0.537      | -            | -                | -                | -         |    -2.24 | gas, Marek, Purely, qqGOD, VanceKK |
-|           30 |     1670 | 2025-04-25 | Rare Atom                  | L   | 0.529      | -            | -                | -                | -         |    -1.10 | gas, Marek, Purely, qqGOD, VanceKK |
-|           29 |     1753 | 2025-04-20 | TEAM XDM                   | W   | 0.490      | 0.143        | 0.002 (0.000)    | 0.023 (0.002)    | 1 (0.490) |     7.10 | gas, Marek, Purely, qqGOD, VanceKK |
-|           28 |     1823 | 2025-04-17 | Change The Game            | W   | 0.470      | 0.143        | 0.000 (0.000)    | 0.112 (0.008)    | 1 (0.470) |     4.96 | gas, Marek, Purely, qqGOD, VanceKK |
+|           31 |     1625 | 2025-04-27 | Chinggis Warriors          | L   | 0.537      | -            | -                | -                | -         |    -2.29 | gas, Marek, Purely, qqGOD, VanceKK |
+|           30 |     1670 | 2025-04-25 | Rare Atom                  | L   | 0.529      | -            | -                | -                | -         |    -1.11 | gas, Marek, Purely, qqGOD, VanceKK |
+|           29 |     1753 | 2025-04-20 | TEAM XDM                   | W   | 0.490      | 0.143        | 0.002 (0.000)    | 0.023 (0.002)    | 1 (0.490) |     7.11 | gas, Marek, Purely, qqGOD, VanceKK |
+|           28 |     1823 | 2025-04-17 | Change The Game            | W   | 0.470      | 0.143        | 0.000 (0.000)    | 0.112 (0.008)    | 1 (0.470) |     5.00 | gas, Marek, Purely, qqGOD, VanceKK |
 |           27 |     1986 | 2025-04-09 | Rare Atom                  | L   | 0.417      | -            | -                | -                | -         |    -0.83 | gas, Marek, Purely, qqGOD, VanceKK |
-|           26 |     1993 | 2025-04-09 | Rare Atom                  | L   | 0.417      | -            | -                | -                | -         |    -0.83 | gas, Marek, Purely, qqGOD, VanceKK |
-|           25 |     2030 | 2025-04-08 | Chinggis Warriors          | W   | 0.411      | 0.143        | 0.028 (0.002)    | 0.597 (0.035)    | 0 (0.000) |    11.67 | gas, Marek, Purely, qqGOD, VanceKK |
-|           24 |     2039 | 2025-04-08 | Chinggis Warriors          | L   | 0.411      | -            | -                | -                | -         |    -1.26 | gas, Marek, Purely, qqGOD, VanceKK |
-|           23 |     2192 | 2025-04-02 | Lynn Vision Gaming         | L   | 0.371      | -            | -                | -                | -         |    -0.13 | gas, Marek, Purely, qqGOD, VanceKK |
-|           22 |     2201 | 2025-04-02 | Lynn Vision Gaming         | L   | 0.371      | -            | -                | -                | -         |    -0.13 | gas, Marek, Purely, qqGOD, VanceKK |
-|           21 |     2245 | 2025-04-01 | The Huns Esports           | L   | 0.364      | -            | -                | -                | -         |    -1.54 | gas, Marek, Purely, qqGOD, VanceKK |
-|           20 |     2252 | 2025-04-01 | The Huns Esports           | L   | 0.364      | -            | -                | -                | -         |    -1.56 | gas, Marek, Purely, qqGOD, VanceKK |
-|           19 |     2432 | 2025-03-27 | Shika                      | L   | 0.335      | -            | -                | -                | -         |    -6.04 | gas, Marek, Purely, qqGOD, VanceKK |
-|           18 |     2498 | 2025-03-27 | TYLOO                      | L   | 0.330      | -            | -                | -                | -         |    -0.02 | gas, Marek, Purely, qqGOD, VanceKK |
-|           17 |     2542 | 2025-03-26 | THE (Russian team)         | L   | 0.324      | -            | -                | -                | -         |    -5.65 | gas, Marek, Purely, qqGOD, VanceKK |
-|           16 |     2549 | 2025-03-26 | THE (Russian team)         | L   | 0.324      | -            | -                | -                | -         |    -5.81 | gas, Marek, Purely, qqGOD, VanceKK |
+|           26 |     1993 | 2025-04-09 | Rare Atom                  | L   | 0.417      | -            | -                | -                | -         |    -0.84 | gas, Marek, Purely, qqGOD, VanceKK |
+|           25 |     2030 | 2025-04-08 | Chinggis Warriors          | W   | 0.411      | 0.143        | 0.028 (0.002)    | 0.597 (0.035)    | 0 (0.000) |    11.63 | gas, Marek, Purely, qqGOD, VanceKK |
+|           24 |     2039 | 2025-04-08 | Chinggis Warriors          | L   | 0.411      | -            | -                | -                | -         |    -1.29 | gas, Marek, Purely, qqGOD, VanceKK |
+|           23 |     2192 | 2025-04-02 | Lynn Vision Gaming         | L   | 0.371      | -            | -                | -                | -         |    -0.12 | gas, Marek, Purely, qqGOD, VanceKK |
+|           22 |     2201 | 2025-04-02 | Lynn Vision Gaming         | L   | 0.371      | -            | -                | -                | -         |    -0.12 | gas, Marek, Purely, qqGOD, VanceKK |
+|           21 |     2245 | 2025-04-01 | The Huns Esports           | L   | 0.364      | -            | -                | -                | -         |    -1.57 | gas, Marek, Purely, qqGOD, VanceKK |
+|           20 |     2252 | 2025-04-01 | The Huns Esports           | L   | 0.364      | -            | -                | -                | -         |    -1.60 | gas, Marek, Purely, qqGOD, VanceKK |
+|           19 |     2432 | 2025-03-27 | Shika                      | L   | 0.335      | -            | -                | -                | -         |    -6.03 | gas, Marek, Purely, qqGOD, VanceKK |
+|           18 |     2498 | 2025-03-27 | TYLOO                      | L   | 0.330      | -            | -                | -                | -         |    -0.03 | gas, Marek, Purely, qqGOD, VanceKK |
+|           17 |     2542 | 2025-03-26 | THE (Russian team)         | L   | 0.324      | -            | -                | -                | -         |    -5.64 | gas, Marek, Purely, qqGOD, VanceKK |
+|           16 |     2549 | 2025-03-26 | THE (Russian team)         | L   | 0.324      | -            | -                | -                | -         |    -5.80 | gas, Marek, Purely, qqGOD, VanceKK |
 |           15 |     2579 | 2025-03-25 | FengDa Gaming              | L   | 0.318      | -            | -                | -                | -         |    -4.96 | gas, Marek, Purely, qqGOD, VanceKK |
 |           14 |     2587 | 2025-03-25 | FengDa Gaming              | W   | 0.318      | 0.143        | 0.004 (0.000)    | 0.183 (0.008)    | 0 (0.000) |     5.14 | gas, Marek, Purely, qqGOD, VanceKK |
-|           13 |     2699 | 2025-03-19 | Harizma                    | W   | 0.278      | 0.143        | 0.000 (0.000)    | 0.036 (0.001)    | 0 (0.000) |     2.18 | gas, Marek, Purely, qqGOD, VanceKK |
-|           12 |     2705 | 2025-03-19 | Harizma                    | W   | 0.278      | 0.143        | 0.000 (0.000)    | 0.036 (0.001)    | 0 (0.000) |     2.22 | gas, Marek, Purely, qqGOD, VanceKK |
+|           13 |     2699 | 2025-03-19 | Harizma                    | W   | 0.278      | 0.143        | 0.000 (0.000)    | 0.036 (0.001)    | 0 (0.000) |     2.21 | gas, Marek, Purely, qqGOD, VanceKK |
+|           12 |     2705 | 2025-03-19 | Harizma                    | W   | 0.278      | 0.143        | 0.000 (0.000)    | 0.036 (0.001)    | 0 (0.000) |     2.24 | gas, Marek, Purely, qqGOD, VanceKK |
 |           11 |     2828 | 2025-03-12 | Gods Reign                 | W   | 0.231      | 0.143        | 0.002 (0.000)    | 0.118 (0.004)    | 0 (0.000) |     3.53 | gas, Marek, Purely, qqGOD, VanceKK |
 |           10 |     2829 | 2025-03-12 | Gods Reign                 | W   | 0.231      | 0.143        | 0.002 (0.000)    | 0.118 (0.004)    | 0 (0.000) |     3.60 | gas, Marek, Purely, qqGOD, VanceKK |
 |            9 |     3344 | 2025-02-26 | -72C                       | L   | 0.138      | -            | -                | -                | -         |    -2.40 | gas, Marek, Purely, qqGOD, VanceKK |
-|            8 |     3348 | 2025-02-26 | -72C                       | L   | 0.138      | -            | -                | -                | -         |    -2.43 | gas, Marek, Purely, qqGOD, VanceKK |
+|            8 |     3348 | 2025-02-26 | -72C                       | L   | 0.138      | -            | -                | -                | -         |    -2.42 | gas, Marek, Purely, qqGOD, VanceKK |
 |            7 |     3393 | 2025-02-24 | Kaleido Gaming             | L   | 0.129      | -            | -                | -                | -         |    -1.67 | gas, Marek, Purely, qqGOD, VanceKK |
 |            6 |     3413 | 2025-02-24 | Shika                      | L   | 0.123      | -            | -                | -                | -         |    -2.29 | gas, Marek, Purely, qqGOD, VanceKK |
-|            5 |     3501 | 2025-02-19 | Looking4Org (Russian team) | W   | 0.091      | 0.143        | 0.000 (0.000)    | 0.018 (0.000)    | 0 (0.000) |     0.74 | gas, Marek, Purely, qqGOD, VanceKK |
-|            4 |     3503 | 2025-02-19 | Looking4Org (Russian team) | L   | 0.091      | -            | -                | -                | -         |    -2.14 | gas, Marek, Purely, qqGOD, VanceKK |
+|            5 |     3501 | 2025-02-19 | Looking4Org (Russian team) | W   | 0.091      | 0.143        | 0.000 (0.000)    | 0.018 (0.000)    | 0 (0.000) |     0.75 | gas, Marek, Purely, qqGOD, VanceKK |
+|            4 |     3503 | 2025-02-19 | Looking4Org (Russian team) | L   | 0.091      | -            | -                | -                | -         |    -2.13 | gas, Marek, Purely, qqGOD, VanceKK |
 |            3 |     3714 | 2025-02-09 | Rooster                    | L   | 0.028      | -            | -                | -                | -         |    -0.39 | gas, Marek, Purely, qqGOD, VanceKK |
 |            2 |     3743 | 2025-02-08 | SemperFi Esports           | L   | 0.022      | -            | -                | -                | -         |    -0.25 | gas, Marek, Purely, qqGOD, VanceKK |
 |            1 |     3808 | 2025-02-07 | DXA Esports                | W   | 0.016      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     0.09 | gas, Marek, Purely, qqGOD, VanceKK |
@@ -75,7 +75,7 @@ Note:<br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($466.56)
-- Divide that value by the 5th highest value among all rosters ($436,168.75)
+- Divide that value by the 5th highest value among all rosters ($439,157.18)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

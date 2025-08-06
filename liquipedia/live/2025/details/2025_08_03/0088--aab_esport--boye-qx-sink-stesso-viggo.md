@@ -6,9 +6,9 @@ Global Rank: [88](../../standings_global_2025_08_03.md)<br />
 Region: [Europe]( ../../standings_europe_2025_08_03.md)<br />
 Regional Rank: [61]( ../../standings_europe_2025_08_03.md)<br />
 <br />
-Final Rank Value:  846.3<br />
+Final Rank Value:  842.8<br />
 <br />
-Final Rank Value (846.3) = Starting Rank Value (854.5) + Head To Head Adjustments (-8.2)<br />
+Final Rank Value (842.8) = Starting Rank Value (850.9) + Head To Head Adjustments (-8.0)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.238<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 854.5
-- 400 + ( ( 0.238 - 0.000 ) / ( 0.839 - 0.000 ) ) * 1600 = 854.5
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 850.9
+- 400 + ( ( 0.238 - 0.000 ) / ( 0.845 - 0.000 ) ) * 1600 = 850.9
 
 
 #### Factors<br />
@@ -37,20 +37,20 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent           | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                            |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            7 |      145 | 2025-07-20 | Iberian Soul       | L   | 1.000      | -            | -                | -                | -         |    -3.08 | Boye, qx, SinK, stesso, Viggo     |
-|            6 |      157 | 2025-07-19 | Iberian Soul       | W   | 1.000      | 0.300        | 0.183 (0.055)    | 1.000 (0.300)    | 1 (1.000) |    28.69 | Boye, qx, SinK, stesso, Viggo     |
-|            5 |      168 | 2025-07-19 | 8Sins              | W   | 1.000      | 0.300        | 0.001 (0.000)    | 0.124 (0.037)    | 1 (1.000) |     9.59 | Boye, qx, SinK, stesso, Viggo     |
-|            4 |      196 | 2025-07-18 | Glitchtech Esports | W   | 1.000      | 0.300        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (1.000) |     2.87 | Boye, qx, SinK, stesso, Viggo     |
-|            3 |      410 | 2025-07-09 | Hesta              | L   | 1.000      | -            | -                | -                | -         |   -24.77 | Boye, qx, SinK, stesso, Viggo     |
-|            2 |      412 | 2025-07-09 | BASEMENT BOYS      | W   | 1.000      | 0.147        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     2.55 | Boye, qx, SinK, stesso, Viggo     |
-|            1 |      422 | 2025-07-09 | NOVAQ              | L   | 1.000      | -            | -                | -                | -         |   -24.07 | Boye, Griller, Patti, SinK, Viggo |
+|            7 |      145 | 2025-07-20 | Iberian Soul       | L   | 1.000      | -            | -                | -                | -         |    -3.10 | Boye, qx, SinK, stesso, Viggo     |
+|            6 |      157 | 2025-07-19 | Iberian Soul       | W   | 1.000      | 0.300        | 0.182 (0.055)    | 1.000 (0.300)    | 1 (1.000) |    28.68 | Boye, qx, SinK, stesso, Viggo     |
+|            5 |      168 | 2025-07-19 | 8Sins              | W   | 1.000      | 0.300        | 0.001 (0.000)    | 0.124 (0.037)    | 1 (1.000) |     9.63 | Boye, qx, SinK, stesso, Viggo     |
+|            4 |      196 | 2025-07-18 | Glitchtech Esports | W   | 1.000      | 0.300        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (1.000) |     2.92 | Boye, qx, SinK, stesso, Viggo     |
+|            3 |      410 | 2025-07-09 | Hesta              | L   | 1.000      | -            | -                | -                | -         |   -24.71 | Boye, qx, SinK, stesso, Viggo     |
+|            2 |      412 | 2025-07-09 | BASEMENT BOYS      | W   | 1.000      | 0.147        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     2.60 | Boye, qx, SinK, stesso, Viggo     |
+|            1 |      422 | 2025-07-09 | NOVAQ              | L   | 1.000      | -            | -                | -                | -         |   -24.02 | Boye, Griller, Patti, SinK, Viggo |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($1,139.89)
-- Divide that value by the 5th highest value among all rosters ($436,168.75)
+- Divide that value by the 5th highest value among all rosters ($439,157.18)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

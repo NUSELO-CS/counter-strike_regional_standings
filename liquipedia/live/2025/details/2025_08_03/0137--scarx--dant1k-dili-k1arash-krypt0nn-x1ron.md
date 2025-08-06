@@ -6,9 +6,9 @@ Global Rank: [137](../../standings_global_2025_08_03.md)<br />
 Region: [Asia]( ../../standings_asia_2025_08_03.md)<br />
 Regional Rank: [16]( ../../standings_asia_2025_08_03.md)<br />
 <br />
-Final Rank Value:  683.2<br />
+Final Rank Value:  681.2<br />
 <br />
-Final Rank Value (683.2) = Starting Rank Value (644.8) + Head To Head Adjustments (38.4)<br />
+Final Rank Value (681.2) = Starting Rank Value (642.8) + Head To Head Adjustments (38.4)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.128<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 644.8
-- 400 + ( ( 0.128 - 0.000 ) / ( 0.839 - 0.000 ) ) * 1600 = 644.8
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 642.8
+- 400 + ( ( 0.128 - 0.000 ) / ( 0.845 - 0.000 ) ) * 1600 = 642.8
 
 
 #### Factors<br />
@@ -38,20 +38,20 @@ Note:<br />
 | Match Played | Match ID | Date       | Opponent                | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                 |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |            8 |       78 | 2025-07-27 | Legion (Pakistani team) | W   | 1.000      | 0.262        | 0.005 (0.001)    | 0.180 (0.047)    | 0 (0.000) |    16.02 | Dant1k, Dili, k1araSh, KryPt0NN, x1ron |
-|            7 |       80 | 2025-07-26 | Victores Sumus          | W   | 1.000      | 0.262        | 0.003 (0.001)    | 0.111 (0.029)    | 0 (0.000) |    11.98 | Dant1k, Dili, k1araSh, KryPt0NN, x1ron |
-|            6 |     1956 | 2025-04-10 | JiJieHao                | L   | 0.424      | -            | -                | -                | -         |    -1.60 | Dant1k, Dili, k1araSh, KryPt0NN, x1ron |
-|            5 |     1960 | 2025-04-10 | Eruption                | W   | 0.423      | 0.525        | 0.009 (0.002)    | 0.166 (0.037)    | 0 (0.000) |    10.08 | Dant1k, Dili, k1araSh, KryPt0NN, x1ron |
+|            7 |       80 | 2025-07-26 | Victores Sumus          | W   | 1.000      | 0.262        | 0.002 (0.001)    | 0.111 (0.029)    | 0 (0.000) |    11.99 | Dant1k, Dili, k1araSh, KryPt0NN, x1ron |
+|            6 |     1956 | 2025-04-10 | JiJieHao                | L   | 0.424      | -            | -                | -                | -         |    -1.61 | Dant1k, Dili, k1araSh, KryPt0NN, x1ron |
+|            5 |     1960 | 2025-04-10 | Eruption                | W   | 0.423      | 0.525        | 0.009 (0.002)    | 0.166 (0.037)    | 0 (0.000) |    10.06 | Dant1k, Dili, k1araSh, KryPt0NN, x1ron |
 |            4 |     2411 | 2025-03-28 | JiJieHao                | L   | 0.338      | -            | -                | -                | -         |    -1.21 | Dant1k, Dili, k1araSh, KryPt0NN, x1ron |
-|            3 |     2423 | 2025-03-28 | POWERmix                | W   | 0.337      | 0.624        | 0.000 (0.000)    | 0.023 (0.005)    | 0 (0.000) |     2.21 | Dant1k, Dili, k1araSh, KryPt0NN, x1ron |
-|            2 |     2482 | 2025-03-27 | St4rboys                | W   | 0.331      | 0.624        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     2.07 | Dant1k, Dili, k1araSh, KryPt0NN, x1ron |
-|            1 |     2495 | 2025-03-27 | JiJieHao                | L   | 0.330      | -            | -                | -                | -         |    -1.17 | Dant1k, Dili, k1araSh, KryPt0NN, x1ron |
+|            3 |     2423 | 2025-03-28 | POWERmix                | W   | 0.337      | 0.624        | 0.000 (0.000)    | 0.023 (0.005)    | 0 (0.000) |     2.23 | Dant1k, Dili, k1araSh, KryPt0NN, x1ron |
+|            2 |     2482 | 2025-03-27 | St4rboys                | W   | 0.331      | 0.624        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     2.09 | Dant1k, Dili, k1araSh, KryPt0NN, x1ron |
+|            1 |     2495 | 2025-03-27 | JiJieHao                | L   | 0.330      | -            | -                | -                | -         |    -1.18 | Dant1k, Dili, k1araSh, KryPt0NN, x1ron |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($1,000.00)
-- Divide that value by the 5th highest value among all rosters ($436,168.75)
+- Divide that value by the 5th highest value among all rosters ($439,157.18)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

@@ -6,22 +6,22 @@ Global Rank: [79](../../standings_global_2025_08_03.md)<br />
 Region: [Americas]( ../../standings_americas_2025_08_03.md)<br />
 Regional Rank: [17]( ../../standings_americas_2025_08_03.md)<br />
 <br />
-Final Rank Value:  862.9<br />
+Final Rank Value:  859.6<br />
 <br />
-Final Rank Value (862.9) = Starting Rank Value (759.0) + Head To Head Adjustments (103.9)<br />
+Final Rank Value (859.6) = Starting Rank Value (755.0) + Head To Head Adjustments (104.6)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.338[<sup>1</sup>](#table2)
-- Bounty Collected: 0.308[<sup>2</sup>](#table1)
+- Bounty Collected: 0.310[<sup>2</sup>](#table1)
 - Opponent Network: 0.102[<sup>2</sup>](#table1)
 - LAN Wins: 0.000[<sup>2</sup>](#table1)
 
-The average of these factors is 0.187<br />
+The average of these factors is 0.188<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 759.0
-- 400 + ( ( 0.187 - 0.000 ) / ( 0.834 - 0.000 ) ) * 1600 = 759.0
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 755.0
+- 400 + ( ( 0.188 - 0.000 ) / ( 0.845 - 0.000 ) ) * 1600 = 755.0
 
 
 #### Factors<br />
@@ -37,29 +37,29 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                            |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           16 |       17 | 2025-08-01 | BOSS             | L   | 1.000      | -            | -                | -                | -         |   -21.60 | dare, MarKE, shane, slump, snav   |
-|           15 |       34 | 2025-07-31 | M80              | L   | 1.000      | -            | -                | -                | -         |    -5.17 | FaNg, MarkE, shane, slump, snav   |
-|           14 |       37 | 2025-07-29 | Marsborne        | W   | 1.000      | 0.384        | 0.010 (0.004)    | 0.600 (0.230)    | 0 (0.000) |    17.24 | FaNg, MarkE, shane, slump, snav   |
-|           13 |       61 | 2025-07-27 | M80              | L   | 1.000      | -            | -                | -                | -         |    -5.22 | dare, MarkE, shane, slump, snav   |
-|           12 |       85 | 2025-07-26 | Supernova Comets | W   | 1.000      | 0.303        | 0.075 (0.023)    | 0.200 (0.060)    | 0 (0.000) |    12.29 | dare, MarkE, shane, slump, snav   |
-|           11 |      279 | 2025-07-14 | M80              | L   | 1.000      | -            | -                | -                | -         |    -5.12 | dare, MarKE, shane, slump, snav   |
-|           10 |      300 | 2025-07-13 | M80              | W   | 1.000      | 0.143        | 0.101 (0.014)    | 0.767 (0.110)    | 0 (0.000) |    26.76 | dare, MarKE, shane, slump, snav   |
+|           16 |       17 | 2025-08-01 | BOSS             | L   | 1.000      | -            | -                | -                | -         |   -21.61 | dare, MarKE, shane, slump, snav   |
+|           15 |       34 | 2025-07-31 | M80              | L   | 1.000      | -            | -                | -                | -         |    -5.07 | FaNg, MarkE, shane, slump, snav   |
+|           14 |       37 | 2025-07-29 | Marsborne        | W   | 1.000      | 0.384        | 0.010 (0.004)    | 0.600 (0.230)    | 0 (0.000) |    17.26 | FaNg, MarkE, shane, slump, snav   |
+|           13 |       61 | 2025-07-27 | M80              | L   | 1.000      | -            | -                | -                | -         |    -5.12 | dare, MarkE, shane, slump, snav   |
+|           12 |       85 | 2025-07-26 | Supernova Comets | W   | 1.000      | 0.303        | 0.074 (0.023)    | 0.200 (0.060)    | 0 (0.000) |    12.21 | dare, MarkE, shane, slump, snav   |
+|           11 |      279 | 2025-07-14 | M80              | L   | 1.000      | -            | -                | -                | -         |    -5.00 | dare, MarKE, shane, slump, snav   |
+|           10 |      300 | 2025-07-13 | M80              | W   | 1.000      | 0.143        | 0.122 (0.017)    | 0.767 (0.110)    | 0 (0.000) |    26.89 | dare, MarKE, shane, slump, snav   |
 |            9 |      318 | 2025-07-12 | BOSS             | W   | 1.000      | 0.143        | 0.007 (0.001)    | 0.327 (0.047)    | 0 (0.000) |    11.80 | dare, MarKE, shane, slump, snav   |
-|            8 |      323 | 2025-07-12 | LAG Gaming       | W   | 1.000      | 0.143        | 0.014 (0.002)    | 0.429 (0.061)    | 0 (0.000) |    12.53 | dare, MarKE, shane, slump, snav   |
-|            7 |      345 | 2025-07-11 | Anything else    | W   | 1.000      | -            | -                | -                | 0 (0.000) |     7.84 | dare, MarKE, shane, slump, snav   |
+|            8 |      323 | 2025-07-12 | LAG Gaming       | W   | 1.000      | 0.143        | 0.014 (0.002)    | 0.429 (0.061)    | 0 (0.000) |    12.56 | dare, MarKE, shane, slump, snav   |
+|            7 |      345 | 2025-07-11 | Anything else    | W   | 1.000      | -            | -                | -                | 0 (0.000) |     7.86 | dare, MarKE, shane, slump, snav   |
 |            6 |      486 | 2025-06-30 | BOSS             | W   | 0.967      | 0.333        | 0.007 (0.002)    | 0.327 (0.105)    | 0 (0.000) |    12.33 | dare, MarKE, nosraC, shane, XotiC |
-|            5 |      491 | 2025-06-29 | LAG Gaming       | W   | 0.961      | 0.333        | 0.014 (0.004)    | 0.429 (0.137)    | 0 (0.000) |    13.41 | dare, MarKE, nosraC, shane, XotiC |
-|            4 |      509 | 2025-06-25 | Party Astronauts | W   | 0.934      | 0.333        | 0.004 (0.001)    | 0.312 (0.097)    | 0 (0.000) |    11.94 | dare, MarKE, nosraC, shane, XotiC |
-|            3 |      634 | 2025-06-15 | LAG Gaming       | W   | 0.868      | 0.333        | 0.014 (0.004)    | 0.429 (0.124)    | 0 (0.000) |    12.33 | dare, MarKE, nosraC, shane, XotiC |
-|            2 |      659 | 2025-06-14 | BLUEJAYS         | L   | 0.861      | -            | -                | -                | -         |    -6.61 | dare, MarKE, nosraC, shane, XotiC |
-|            1 |      730 | 2025-06-12 | Marca Registrada | W   | 0.847      | 0.333        | 0.002 (0.001)    | 0.183 (0.052)    | -         |     9.19 | dare, MarKE, nosraC, shane, XotiC |
+|            5 |      491 | 2025-06-29 | LAG Gaming       | W   | 0.961      | 0.333        | 0.014 (0.004)    | 0.429 (0.137)    | 0 (0.000) |    13.44 | dare, MarKE, nosraC, shane, XotiC |
+|            4 |      509 | 2025-06-25 | Party Astronauts | W   | 0.934      | 0.333        | 0.004 (0.001)    | 0.312 (0.097)    | 0 (0.000) |    12.04 | dare, MarKE, nosraC, shane, XotiC |
+|            3 |      634 | 2025-06-15 | LAG Gaming       | W   | 0.868      | 0.333        | 0.014 (0.004)    | 0.429 (0.124)    | 0 (0.000) |    12.36 | dare, MarKE, nosraC, shane, XotiC |
+|            2 |      659 | 2025-06-14 | BLUEJAYS         | L   | 0.861      | -            | -                | -                | -         |    -6.55 | dare, MarKE, nosraC, shane, XotiC |
+|            1 |      730 | 2025-06-12 | Marca Registrada | W   | 0.847      | 0.333        | 0.002 (0.001)    | 0.183 (0.052)    | -         |     9.20 | dare, MarKE, nosraC, shane, XotiC |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($4,836.34)
-- Divide that value by the 5th highest value among all rosters ($436,168.75)
+- Divide that value by the 5th highest value among all rosters ($439,157.18)
 - The final value (0.01) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

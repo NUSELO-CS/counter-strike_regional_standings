@@ -6,22 +6,22 @@ Global Rank: [99](../../standings_global_2025_08_03.md)<br />
 Region: [Europe]( ../../standings_europe_2025_08_03.md)<br />
 Regional Rank: [68]( ../../standings_europe_2025_08_03.md)<br />
 <br />
-Final Rank Value:  810.7<br />
+Final Rank Value:  807.5<br />
 <br />
-Final Rank Value (810.7) = Starting Rank Value (804.6) + Head To Head Adjustments (6.1)<br />
+Final Rank Value (807.5) = Starting Rank Value (801.3) + Head To Head Adjustments (6.2)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
-- Bounty Offered: 0.309[<sup>1</sup>](#table2)
-- Bounty Collected: 0.218[<sup>2</sup>](#table1)
+- Bounty Offered: 0.308[<sup>1</sup>](#table2)
+- Bounty Collected: 0.217[<sup>2</sup>](#table1)
 - Opponent Network: 0.003[<sup>2</sup>](#table1)
 - LAN Wins: 0.320[<sup>2</sup>](#table1)
 
 The average of these factors is 0.212<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 804.6
-- 400 + ( ( 0.212 - 0.000 ) / ( 0.839 - 0.000 ) ) * 1600 = 804.6
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 801.3
+- 400 + ( ( 0.212 - 0.000 ) / ( 0.845 - 0.000 ) ) * 1600 = 801.3
 
 
 #### Factors<br />
@@ -37,26 +37,26 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent               | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                      |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           13 |       66 | 2025-07-27 | Iberian Soul           | L   | 1.000      | -            | -                | -                | -         |    -2.53 | Icarus, Jayy2s, P3R3IIRA, rafaxF, seabraez  |
-|           12 |       72 | 2025-07-27 | É MÁFIA                | W   | 1.000      | 0.309        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (1.000) |     2.83 | Icarus, Jayy2s, P3R3IIRA, rafaxF, seabraez  |
-|           11 |     1271 | 2025-05-11 | Desemprego             | W   | 0.631      | 0.315        | 0.004 (0.001)    | 0.124 (0.025)    | 1 (0.631) |    11.08 | aragornN, Icarus, krazy, P3R3IIRA, seabraez |
-|           10 |     1293 | 2025-05-10 | LA MASIA               | W   | 0.625      | 0.315        | 0.008 (0.002)    | 0.023 (0.005)    | 1 (0.625) |     5.69 | aragornN, Icarus, krazy, P3R3IIRA, seabraez |
-|            9 |     1317 | 2025-05-09 | Impulse GW             | W   | 0.619      | 0.315        | 0.001 (0.000)    | 0.000 (0.000)    | 1 (0.619) |     3.36 | aragornN, Icarus, krazy, P3R3IIRA, seabraez |
-|            8 |     2639 | 2025-03-21 | TPuDCATb TPu           | L   | 0.292      | -            | -                | -                | -         |    -3.95 | aragornN, Icarus, krazy, P3R3IIRA, seabraez |
+|           13 |       66 | 2025-07-27 | Iberian Soul           | L   | 1.000      | -            | -                | -                | -         |    -2.54 | Icarus, Jayy2s, P3R3IIRA, rafaxF, seabraez  |
+|           12 |       72 | 2025-07-27 | É MÁFIA                | W   | 1.000      | 0.309        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (1.000) |     2.88 | Icarus, Jayy2s, P3R3IIRA, rafaxF, seabraez  |
+|           11 |     1271 | 2025-05-11 | Desemprego             | W   | 0.631      | 0.315        | 0.004 (0.001)    | 0.124 (0.025)    | 1 (0.631) |    11.07 | aragornN, Icarus, krazy, P3R3IIRA, seabraez |
+|           10 |     1293 | 2025-05-10 | LA MASIA               | W   | 0.625      | 0.315        | 0.008 (0.002)    | 0.023 (0.005)    | 1 (0.625) |     5.71 | aragornN, Icarus, krazy, P3R3IIRA, seabraez |
+|            9 |     1317 | 2025-05-09 | Impulse GW             | W   | 0.619      | 0.315        | 0.001 (0.000)    | 0.000 (0.000)    | 1 (0.619) |     3.40 | aragornN, Icarus, krazy, P3R3IIRA, seabraez |
+|            8 |     2639 | 2025-03-21 | TPuDCATb TPu           | L   | 0.292      | -            | -                | -                | -         |    -3.92 | aragornN, Icarus, krazy, P3R3IIRA, seabraez |
 |            7 |     2772 | 2025-03-15 | Desemprego             | L   | 0.252      | -            | -                | -                | -         |    -3.68 | aragornN, Icarus, krazy, P3R3IIRA, seabraez |
-|            6 |     2776 | 2025-03-15 | ECSTATIC               | L   | 0.251      | -            | -                | -                | -         |    -0.55 | aragornN, Icarus, krazy, P3R3IIRA, seabraez |
+|            6 |     2776 | 2025-03-15 | ECSTATIC               | L   | 0.251      | -            | -                | -                | -         |    -0.56 | aragornN, Icarus, krazy, P3R3IIRA, seabraez |
 |            5 |     3056 | 2025-03-07 | Zero Tenacity          | L   | 0.199      | -            | -                | -                | -         |    -2.52 | aragornN, Icarus, krazy, P3R3IIRA, seabraez |
 |            4 |     3311 | 2025-02-27 | BC.Game Esports        | L   | 0.143      | -            | -                | -                | -         |    -1.99 | aragornN, Icarus, krazy, P3R3IIRA, seabraez |
-|            3 |     3357 | 2025-02-26 | Alliance               | L   | 0.136      | -            | -                | -                | -         |    -0.41 | aragornN, Icarus, krazy, P3R3IIRA, seabraez |
+|            3 |     3357 | 2025-02-26 | Alliance               | L   | 0.136      | -            | -                | -                | -         |    -0.42 | aragornN, Icarus, krazy, P3R3IIRA, seabraez |
 |            2 |     3481 | 2025-02-20 | Betclic Apogee Esports | L   | 0.097      | -            | -                | -                | -         |    -0.59 | aragornN, Icarus, krazy, P3R3IIRA, seabraez |
-|            1 |     3505 | 2025-02-19 | PARIVISION             | L   | 0.091      | -            | -                | -                | -         |    -0.62 | aragornN, Icarus, krazy, P3R3IIRA, seabraez |
+|            1 |     3505 | 2025-02-19 | PARIVISION             | L   | 0.091      | -            | -                | -                | -         |    -0.63 | aragornN, Icarus, krazy, P3R3IIRA, seabraez |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($2,502.98)
-- Divide that value by the 5th highest value among all rosters ($436,168.75)
+- Divide that value by the 5th highest value among all rosters ($439,157.18)
 - The final value (0.01) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

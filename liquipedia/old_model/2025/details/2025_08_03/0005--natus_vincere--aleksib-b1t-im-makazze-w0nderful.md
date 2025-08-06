@@ -6,22 +6,22 @@ Global Rank: [5](../../standings_global_2025_08_03.md)<br />
 Region: [Europe]( ../../standings_europe_2025_08_03.md)<br />
 Regional Rank: [4]( ../../standings_europe_2025_08_03.md)<br />
 <br />
-Final Rank Value:  1754.7<br />
+Final Rank Value:  1784.9<br />
 <br />
-Final Rank Value (1754.7) = Starting Rank Value (1748.4) + Head To Head Adjustments (6.3)<br />
+Final Rank Value (1784.9) = Starting Rank Value (1788.5) + Head To Head Adjustments (-3.6)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
-- Bounty Offered: 0.795[<sup>1</sup>](#table2)
-- Bounty Collected: 0.671[<sup>2</sup>](#table1)
-- Opponent Network: 0.406[<sup>2</sup>](#table1)
+- Bounty Offered: 0.794[<sup>1</sup>](#table2)
+- Bounty Collected: 0.702[<sup>2</sup>](#table1)
+- Opponent Network: 0.499[<sup>2</sup>](#table1)
 - LAN Wins: 0.939[<sup>2</sup>](#table1)
 
-The average of these factors is 0.703<br />
+The average of these factors is 0.734<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1748.4
-- 400 + ( ( 0.703 - 0.000 ) / ( 0.834 - 0.000 ) ) * 1600 = 1748.4
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1788.5
+- 400 + ( ( 0.734 - 0.000 ) / ( 0.845 - 0.000 ) ) * 1600 = 1788.5
 
 
 #### Factors<br />
@@ -37,43 +37,43 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                               |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           30 |       13 | 2025-08-02 | Team Spirit       | L   | 1.000      | -            | -                | -                | -         |    -7.28 | Aleksib, b1t, iM, makazze, w0nderful |
-|           29 |       27 | 2025-08-01 | The MongolZ       | W   | 1.000      | 1.000        | 1.000 (1.000)    | 0.529 (0.529)    | 1 (1.000) |    17.73 | Aleksib, b1t, iM, makazze, w0nderful |
-|           28 |       40 | 2025-07-29 | FaZe Clan         | W   | 1.000      | 1.000        | 0.497 (0.497)    | 0.592 (0.592)    | 1 (1.000) |    10.91 | Aleksib, b1t, iM, makazze, w0nderful |
-|           27 |       43 | 2025-07-29 | Ninjas in Pyjamas | W   | 1.000      | 1.000        | 0.194 (0.194)    | 0.844 (0.844)    | 1 (1.000) |     4.74 | Aleksib, b1t, iM, makazze, w0nderful |
-|           26 |       53 | 2025-07-28 | MOUZ              | L   | 1.000      | -            | -                | -                | -         |    -9.35 | Aleksib, b1t, iM, makazze, w0nderful |
-|           25 |       90 | 2025-07-26 | FaZe Clan         | W   | 1.000      | 1.000        | 0.497 (0.497)    | 0.592 (0.592)    | 1 (1.000) |    10.78 | Aleksib, b1t, iM, makazze, w0nderful |
-|           24 |      561 | 2025-06-20 | Team Vitality     | L   | 0.899      | -            | -                | -                | -         |    -4.12 | Aleksib, b1t, iM, jL, w0nderful      |
-|           23 |      666 | 2025-06-14 | G2 Esports        | W   | 0.859      | -            | -                | -                | 1 (0.859) |     8.20 | Aleksib, b1t, iM, jL, w0nderful      |
-|           22 |      715 | 2025-06-13 | Team Spirit       | L   | 0.852      | -            | -                | -                | -         |    -5.59 | Aleksib, b1t, iM, jL, w0nderful      |
-|           21 |      738 | 2025-06-12 | 3DMAX             | W   | 0.846      | -            | -                | -                | 1 (0.846) |     9.34 | Aleksib, b1t, iM, jL, w0nderful      |
-|           20 |      743 | 2025-06-12 | Nemiga Gaming     | W   | 0.845      | -            | -                | -                | 1 (0.845) |     1.36 | Aleksib, b1t, iM, jL, w0nderful      |
-|           19 |     1146 | 2025-05-16 | Astralis          | L   | 0.663      | -            | -                | -                | -         |   -11.00 | Aleksib, b1t, iM, jL, w0nderful      |
-|           18 |     1224 | 2025-05-13 | Aurora Gaming     | W   | 0.644      | 1.000        | 0.557 (0.359)    | 0.464 (0.298)    | 1 (0.644) |     7.62 | Aleksib, b1t, iM, jL, w0nderful      |
-|           17 |     1245 | 2025-05-12 | The MongolZ       | L   | 0.637      | -            | -                | -                | -         |    -7.38 | Aleksib, b1t, iM, jL, w0nderful      |
-|           16 |     1277 | 2025-05-11 | BIG               | W   | 0.630      | 1.000        | 0.183 (0.115)    | 0.327 (0.206)    | 1 (0.630) |     1.07 | Aleksib, b1t, iM, jL, w0nderful      |
-|           15 |     1300 | 2025-05-10 | M80               | W   | 0.624      | 1.000        | -                | 0.767 (0.479)    | 1 (0.624) |     0.97 | Aleksib, b1t, iM, jL, w0nderful      |
-|           14 |     1706 | 2025-04-23 | Team Liquid       | L   | 0.510      | -            | -                | -                | -         |   -14.73 | Aleksib, b1t, iM, jL, w0nderful      |
-|           13 |     1711 | 2025-04-22 | FlyQuest          | W   | 0.508      | 1.000        | -                | 0.484 (0.246)    | -         |     1.22 | Aleksib, b1t, iM, jL, w0nderful      |
-|           12 |     1723 | 2025-04-22 | Team Falcons      | L   | 0.503      | -            | -                | -                | -         |    -8.65 | Aleksib, b1t, iM, jL, w0nderful      |
-|           11 |     1735 | 2025-04-21 | MIBR              | W   | 0.497      | -            | -                | -                | -         |     1.01 | Aleksib, b1t, iM, jL, w0nderful      |
-|           10 |     2396 | 2025-03-28 | Team Spirit       | L   | 0.339      | -            | -                | -                | -         |    -2.46 | Aleksib, b1t, iM, jL, w0nderful      |
-|            9 |     2599 | 2025-03-24 | Aurora Gaming     | L   | 0.312      | -            | -                | -                | -         |    -6.22 | Aleksib, b1t, iM, jL, w0nderful      |
-|            8 |     2621 | 2025-03-22 | The MongolZ       | W   | 0.300      | 0.715        | 1.000 (0.214)    | -                | -         |     6.07 | Aleksib, b1t, iM, jL, w0nderful      |
-|            7 |     2657 | 2025-03-20 | FURIA             | W   | 0.286      | 0.715        | 0.481 (0.098)    | 0.621 (0.127)    | -         |     3.95 | Aleksib, b1t, iM, jL, w0nderful      |
-|            6 |     2788 | 2025-03-14 | The MongolZ       | L   | 0.245      | -            | -                | -                | -         |    -2.72 | Aleksib, b1t, iM, jL, w0nderful      |
-|            5 |     2871 | 2025-03-10 | G2 Esports        | W   | 0.219      | 1.000        | 0.407 (0.089)    | -                | -         |     1.64 | Aleksib, b1t, iM, jL, w0nderful      |
-|            4 |     2935 | 2025-03-09 | PaiN Gaming       | W   | 0.211      | -            | -                | -                | -         |     1.26 | Aleksib, b1t, iM, jL, w0nderful      |
-|            3 |     3025 | 2025-03-08 | TYLOO             | W   | 0.203      | 1.000        | 0.851 (0.173)    | 0.732 (0.149)    | -         |     3.54 | Aleksib, b1t, iM, jL, w0nderful      |
-|            2 |     3078 | 2025-03-07 | SAW               | L   | 0.198      | -            | -                | -                | -         |    -5.49 | Aleksib, b1t, iM, jL, w0nderful      |
-|            1 |     3787 | 2025-02-08 | Team Spirit       | L   | 0.019      | -            | -                | -                | -         |    -0.14 | Aleksib, b1t, iM, jL, w0nderful      |
+|           30 |       13 | 2025-08-02 | Team Spirit       | L   | 1.000      | -            | -                | -                | -         |    -8.13 | Aleksib, b1t, iM, makazze, w0nderful |
+|           29 |       27 | 2025-08-01 | The MongolZ       | W   | 1.000      | 1.000        | 1.000 (1.000)    | 0.529 (0.529)    | 1 (1.000) |    16.92 | Aleksib, b1t, iM, makazze, w0nderful |
+|           28 |       40 | 2025-07-29 | FaZe Clan         | W   | 1.000      | 1.000        | 0.494 (0.494)    | 0.592 (0.592)    | 1 (1.000) |    11.63 | Aleksib, b1t, iM, makazze, w0nderful |
+|           27 |       43 | 2025-07-29 | Ninjas in Pyjamas | W   | 1.000      | 1.000        | 0.193 (0.193)    | 0.844 (0.844)    | 1 (1.000) |     3.96 | Aleksib, b1t, iM, makazze, w0nderful |
+|           26 |       53 | 2025-07-28 | MOUZ              | L   | 1.000      | -            | -                | -                | -         |    -9.85 | Aleksib, b1t, iM, makazze, w0nderful |
+|           25 |       90 | 2025-07-26 | FaZe Clan         | W   | 1.000      | 1.000        | 0.494 (0.494)    | 0.592 (0.592)    | 1 (1.000) |    11.61 | Aleksib, b1t, iM, makazze, w0nderful |
+|           24 |      561 | 2025-06-20 | Team Vitality     | L   | 0.899      | -            | -                | -                | -         |    -4.73 | Aleksib, b1t, iM, jL, w0nderful      |
+|           23 |      666 | 2025-06-14 | G2 Esports        | W   | 0.859      | 1.000        | 0.446 (0.383)    | 0.355 (0.305)    | 1 (0.859) |     8.10 | Aleksib, b1t, iM, jL, w0nderful      |
+|           22 |      715 | 2025-06-13 | Team Spirit       | L   | 0.852      | -            | -                | -                | -         |    -6.38 | Aleksib, b1t, iM, jL, w0nderful      |
+|           21 |      738 | 2025-06-12 | 3DMAX             | W   | 0.846      | 1.000        | 0.374 (0.317)    | 0.571 (0.483)    | 1 (0.846) |     8.85 | Aleksib, b1t, iM, jL, w0nderful      |
+|           20 |      743 | 2025-06-12 | Nemiga Gaming     | W   | 0.845      | 1.000        | -                | 0.738 (0.624)    | 1 (0.845) |     1.22 | Aleksib, b1t, iM, jL, w0nderful      |
+|           19 |     1146 | 2025-05-16 | Astralis          | L   | 0.663      | -            | -                | -                | -         |   -12.17 | Aleksib, b1t, iM, jL, w0nderful      |
+|           18 |     1224 | 2025-05-13 | Aurora Gaming     | W   | 0.644      | 1.000        | 0.595 (0.383)    | 0.464 (0.298)    | 1 (0.644) |     7.19 | Aleksib, b1t, iM, jL, w0nderful      |
+|           17 |     1245 | 2025-05-12 | The MongolZ       | L   | 0.637      | -            | -                | -                | -         |    -8.19 | Aleksib, b1t, iM, jL, w0nderful      |
+|           16 |     1277 | 2025-05-11 | BIG               | W   | 0.630      | 1.000        | 0.182 (0.114)    | -                | 1 (0.630) |     0.85 | Aleksib, b1t, iM, jL, w0nderful      |
+|           15 |     1300 | 2025-05-10 | M80               | W   | 0.624      | 1.000        | -                | 0.767 (0.479)    | 1 (0.624) |     0.80 | Aleksib, b1t, iM, jL, w0nderful      |
+|           14 |     1706 | 2025-04-23 | Team Liquid       | L   | 0.510      | -            | -                | -                | -         |   -14.91 | Aleksib, b1t, iM, jL, w0nderful      |
+|           13 |     1711 | 2025-04-22 | FlyQuest          | W   | 0.508      | 1.000        | -                | 0.484 (0.246)    | -         |     0.98 | Aleksib, b1t, iM, jL, w0nderful      |
+|           12 |     1723 | 2025-04-22 | Team Falcons      | L   | 0.503      | -            | -                | -                | -         |    -9.67 | Aleksib, b1t, iM, jL, w0nderful      |
+|           11 |     1735 | 2025-04-21 | MIBR              | W   | 0.497      | -            | -                | -                | -         |     0.82 | Aleksib, b1t, iM, jL, w0nderful      |
+|           10 |     2396 | 2025-03-28 | Team Spirit       | L   | 0.339      | -            | -                | -                | -         |    -2.89 | Aleksib, b1t, iM, jL, w0nderful      |
+|            9 |     2599 | 2025-03-24 | Aurora Gaming     | L   | 0.312      | -            | -                | -                | -         |    -6.47 | Aleksib, b1t, iM, jL, w0nderful      |
+|            8 |     2621 | 2025-03-22 | The MongolZ       | W   | 0.300      | 0.715        | 1.000 (0.214)    | -                | -         |     5.60 | Aleksib, b1t, iM, jL, w0nderful      |
+|            7 |     2657 | 2025-03-20 | FURIA             | W   | 0.286      | -            | -                | -                | -         |     4.07 | Aleksib, b1t, iM, jL, w0nderful      |
+|            6 |     2788 | 2025-03-14 | The MongolZ       | L   | 0.245      | -            | -                | -                | -         |    -3.11 | Aleksib, b1t, iM, jL, w0nderful      |
+|            5 |     2871 | 2025-03-10 | G2 Esports        | W   | 0.219      | -            | -                | -                | -         |     1.60 | Aleksib, b1t, iM, jL, w0nderful      |
+|            4 |     2935 | 2025-03-09 | PaiN Gaming       | W   | 0.211      | -            | -                | -                | -         |     1.42 | Aleksib, b1t, iM, jL, w0nderful      |
+|            3 |     3025 | 2025-03-08 | TYLOO             | W   | 0.203      | 1.000        | 0.864 (0.176)    | -                | -         |     3.08 | Aleksib, b1t, iM, jL, w0nderful      |
+|            2 |     3078 | 2025-03-07 | SAW               | L   | 0.198      | -            | -                | -                | -         |    -5.66 | Aleksib, b1t, iM, jL, w0nderful      |
+|            1 |     3787 | 2025-02-08 | Team Spirit       | L   | 0.019      | -            | -                | -                | -         |    -0.16 | Aleksib, b1t, iM, jL, w0nderful      |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($241,286.67)
-- Divide that value by the 5th highest value among all rosters ($436,168.75)
+- Divide that value by the 5th highest value among all rosters ($439,157.18)
 - The final value (0.55) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

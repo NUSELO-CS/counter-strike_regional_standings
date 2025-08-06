@@ -6,9 +6,9 @@ Global Rank: [76](../../standings_global_2025_08_03.md)<br />
 Region: [Europe]( ../../standings_europe_2025_08_03.md)<br />
 Regional Rank: [54]( ../../standings_europe_2025_08_03.md)<br />
 <br />
-Final Rank Value:  887.3<br />
+Final Rank Value:  884.3<br />
 <br />
-Final Rank Value (887.3) = Starting Rank Value (777.0) + Head To Head Adjustments (110.4)<br />
+Final Rank Value (884.3) = Starting Rank Value (773.8) + Head To Head Adjustments (110.4)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.198<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 777.0
-- 400 + ( ( 0.198 - 0.000 ) / ( 0.839 - 0.000 ) ) * 1600 = 777.0
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 773.8
+- 400 + ( ( 0.198 - 0.000 ) / ( 0.845 - 0.000 ) ) * 1600 = 773.8
 
 
 #### Factors<br />
@@ -37,24 +37,24 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent                | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                       |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           11 |       47 | 2025-07-28 | KOLESIE                 | W   | 1.000      | 0.143        | 0.048 (0.007)    | 0.543 (0.078)    | 0 (0.000) |    25.03 | 1nhuman, byek, drowranger, SP1NT, whsup      |
-|           10 |      115 | 2025-07-24 | SINNERS Esports         | W   | 1.000      | 0.143        | 0.026 (0.004)    | 0.476 (0.068)    | 0 (0.000) |    16.85 | 1nhuman, bogemtdarf, byek, drowranger, whsup |
-|            9 |      127 | 2025-07-23 | Dynamo Eclot            | W   | 1.000      | 0.143        | 0.082 (0.012)    | 0.734 (0.105)    | 0 (0.000) |    17.88 | 1nhuman, bogemtdarf, byek, drowranger, whsup |
-|            8 |      338 | 2025-07-12 | GUN5 Esports            | L   | 1.000      | -            | -                | -                | -         |   -11.09 | 1nhuman, bogemtdarf, byek, drowranger, whsup |
-|            7 |      391 | 2025-07-10 | ENCE                    | W   | 1.000      | 0.483        | 0.140 (0.068)    | 0.729 (0.352)    | 0 (0.000) |    26.79 | 1nhuman, bogemtdarf, byek, drowranger, whsup |
+|           11 |       47 | 2025-07-28 | KOLESIE                 | W   | 1.000      | 0.143        | 0.048 (0.007)    | 0.543 (0.078)    | 0 (0.000) |    25.02 | 1nhuman, byek, drowranger, SP1NT, whsup      |
+|           10 |      115 | 2025-07-24 | SINNERS Esports         | W   | 1.000      | 0.143        | 0.026 (0.004)    | 0.476 (0.068)    | 0 (0.000) |    16.89 | 1nhuman, bogemtdarf, byek, drowranger, whsup |
+|            9 |      127 | 2025-07-23 | Dynamo Eclot            | W   | 1.000      | 0.143        | 0.081 (0.012)    | 0.734 (0.105)    | 0 (0.000) |    17.88 | 1nhuman, bogemtdarf, byek, drowranger, whsup |
+|            8 |      338 | 2025-07-12 | GUN5 Esports            | L   | 1.000      | -            | -                | -                | -         |   -11.08 | 1nhuman, bogemtdarf, byek, drowranger, whsup |
+|            7 |      391 | 2025-07-10 | ENCE                    | W   | 1.000      | 0.483        | 0.140 (0.067)    | 0.729 (0.352)    | 0 (0.000) |    26.79 | 1nhuman, bogemtdarf, byek, drowranger, whsup |
 |            6 |      423 | 2025-07-09 | AMKAL ESPORTS           | W   | 1.000      | 0.483        | 0.005 (0.002)    | 0.609 (0.294)    | 0 (0.000) |    16.36 | 1nhuman, bogemtdarf, byek, drowranger, whsup |
 |            5 |      439 | 2025-07-08 | Fire Flux Esports       | W   | 1.000      | 0.483        | 0.003 (0.001)    | 0.511 (0.247)    | 0 (0.000) |    15.44 | 1nhuman, bogemtdarf, byek, drowranger, whsup |
 |            4 |      454 | 2025-07-06 | FORZE Reload            | L   | 1.000      | -            | -                | -                | -         |   -15.31 | 1nhuman, bogemtdarf, byek, drowranger, whsup |
-|            3 |      485 | 2025-07-01 | HEROIC Academy          | W   | 0.969      | 0.483        | 0.002 (0.001)    | 0.223 (0.104)    | 0 (0.000) |    12.96 | 1nhuman, bogemtdarf, byek, drowranger, whsup |
+|            3 |      485 | 2025-07-01 | HEROIC Academy          | W   | 0.969      | 0.483        | 0.002 (0.001)    | 0.223 (0.104)    | 0 (0.000) |    12.98 | 1nhuman, bogemtdarf, byek, drowranger, whsup |
 |            2 |     1509 | 2025-05-02 | Chinggis Warriors       | L   | 0.571      | -            | -                | -                | -         |    -3.21 | 1nhuman, borosto, byek, spira, whsup         |
-|            1 |     1562 | 2025-04-30 | Nomads (Mongolian team) | W   | 0.557      | 0.416        | 0.014 (0.003)    | 0.153 (0.035)    | 0 (0.000) |     8.66 | 1nhuman, borosto, byek, forzetsky, whsup     |
+|            1 |     1562 | 2025-04-30 | Nomads (Mongolian team) | W   | 0.557      | 0.416        | 0.013 (0.003)    | 0.153 (0.035)    | 0 (0.000) |     8.67 | 1nhuman, borosto, byek, forzetsky, whsup     |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($4,088.98)
-- Divide that value by the 5th highest value among all rosters ($436,168.75)
+- Divide that value by the 5th highest value among all rosters ($439,157.18)
 - The final value (0.01) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

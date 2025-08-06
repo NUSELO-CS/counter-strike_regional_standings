@@ -6,9 +6,9 @@ Global Rank: [100](../../standings_global_2025_08_03.md)<br />
 Region: [Europe]( ../../standings_europe_2025_08_03.md)<br />
 Regional Rank: [70]( ../../standings_europe_2025_08_03.md)<br />
 <br />
-Final Rank Value:  789.8<br />
+Final Rank Value:  784.8<br />
 <br />
-Final Rank Value (789.8) = Starting Rank Value (744.7) + Head To Head Adjustments (45.1)<br />
+Final Rank Value (784.8) = Starting Rank Value (739.9) + Head To Head Adjustments (45.0)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.180<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 744.7
-- 400 + ( ( 0.180 - 0.000 ) / ( 0.834 - 0.000 ) ) * 1600 = 744.7
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 739.9
+- 400 + ( ( 0.180 - 0.000 ) / ( 0.845 - 0.000 ) ) * 1600 = 739.9
 
 
 #### Factors<br />
@@ -37,21 +37,21 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent           | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                            |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            8 |      859 | 2025-06-04 | ENCE               | L   | 0.792      | -            | -                | -                | -         |    -3.11 | AntyVirus, fanatyk, Frontsiderr, PeTeRoOo, suonko |
-|            7 |      886 | 2025-06-03 | SPARTA Esports     | W   | 0.784      | 0.393        | 0.000 (0.000)    | 0.142 (0.044)    | 0 (0.000) |     7.78 | AntyVirus, fanatyk, Frontsiderr, PeTeRoOo, suonko |
-|            6 |      926 | 2025-05-28 | CYBERSHOKE Esports | W   | 0.744      | 0.393        | 0.009 (0.003)    | 0.751 (0.220)    | 0 (0.000) |    17.47 | AntyVirus, fanatyk, Frontsiderr, PeTeRoOo, suonko |
-|            5 |     1029 | 2025-05-21 | Dynamo Eclot       | W   | 0.698      | 0.393        | 0.082 (0.022)    | 0.734 (0.201)    | 0 (0.000) |    15.66 | AntyVirus, fanatyk, Frontsiderr, PeTeRoOo, suonko |
-|            4 |     1047 | 2025-05-20 | Sashi Esport       | L   | 0.692      | -            | -                | -                | -         |    -5.42 | AntyVirus, fanatyk, Frontsiderr, PeTeRoOo, suonko |
-|            3 |     1182 | 2025-05-14 | Hesta              | W   | 0.651      | 0.393        | 0.000 (0.000)    | 0.217 (0.056)    | 0 (0.000) |     5.21 | AntyVirus, fanatyk, Frontsiderr, PeTeRoOo, suonko |
-|            2 |     1426 | 2025-05-05 | Monte              | L   | 0.592      | -            | -                | -                | -         |    -7.49 | AntyVirus, fanatyk, Frontsiderr, PeTeRoOo, suonko |
-|            1 |     1585 | 2025-04-29 | ENCE               | W   | 0.551      | 0.393        | 0.140 (0.030)    | 0.729 (0.158)    | 0 (0.000) |    14.95 | AntyVirus, fanatyk, Frontsiderr, PeTeRoOo, suonko |
+|            8 |      859 | 2025-06-04 | ENCE               | L   | 0.792      | -            | -                | -                | -         |    -3.15 | AntyVirus, fanatyk, Frontsiderr, PeTeRoOo, suonko |
+|            7 |      886 | 2025-06-03 | SPARTA Esports     | W   | 0.784      | 0.393        | 0.000 (0.000)    | 0.142 (0.044)    | 0 (0.000) |     7.84 | AntyVirus, fanatyk, Frontsiderr, PeTeRoOo, suonko |
+|            6 |      926 | 2025-05-28 | CYBERSHOKE Esports | W   | 0.744      | 0.393        | 0.009 (0.003)    | 0.751 (0.220)    | 0 (0.000) |    17.43 | AntyVirus, fanatyk, Frontsiderr, PeTeRoOo, suonko |
+|            5 |     1029 | 2025-05-21 | Dynamo Eclot       | W   | 0.698      | 0.393        | 0.081 (0.022)    | 0.734 (0.201)    | 0 (0.000) |    15.63 | AntyVirus, fanatyk, Frontsiderr, PeTeRoOo, suonko |
+|            4 |     1047 | 2025-05-20 | Sashi Esport       | L   | 0.692      | -            | -                | -                | -         |    -5.46 | AntyVirus, fanatyk, Frontsiderr, PeTeRoOo, suonko |
+|            3 |     1182 | 2025-05-14 | Hesta              | W   | 0.651      | 0.393        | 0.000 (0.000)    | 0.217 (0.056)    | 0 (0.000) |     5.27 | AntyVirus, fanatyk, Frontsiderr, PeTeRoOo, suonko |
+|            2 |     1426 | 2025-05-05 | Monte              | L   | 0.592      | -            | -                | -                | -         |    -7.51 | AntyVirus, fanatyk, Frontsiderr, PeTeRoOo, suonko |
+|            1 |     1585 | 2025-04-29 | ENCE               | W   | 0.551      | 0.393        | 0.140 (0.030)    | 0.729 (0.158)    | 0 (0.000) |    14.92 | AntyVirus, fanatyk, Frontsiderr, PeTeRoOo, suonko |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($5,409.21)
-- Divide that value by the 5th highest value among all rosters ($436,168.75)
+- Divide that value by the 5th highest value among all rosters ($439,157.18)
 - The final value (0.01) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

@@ -6,9 +6,9 @@ Global Rank: [241](../../standings_global_2025_08_03.md)<br />
 Region: [Americas]( ../../standings_americas_2025_08_03.md)<br />
 Regional Rank: [79]( ../../standings_americas_2025_08_03.md)<br />
 <br />
-Final Rank Value:  477.4<br />
+Final Rank Value:  476.8<br />
 <br />
-Final Rank Value (477.4) = Starting Rank Value (474.6) + Head To Head Adjustments (2.8)<br />
+Final Rank Value (476.8) = Starting Rank Value (473.6) + Head To Head Adjustments (3.2)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.039<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 474.6
-- 400 + ( ( 0.039 - 0.000 ) / ( 0.834 - 0.000 ) ) * 1600 = 474.6
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 473.6
+- 400 + ( ( 0.039 - 0.000 ) / ( 0.845 - 0.000 ) ) * 1600 = 473.6
 
 
 #### Factors<br />
@@ -37,14 +37,14 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                             |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           10 |       25 | 2025-08-01 | Legacy          | L   | 1.000      | -            | -                | -                | -         |    -0.37 | Alisson, bacc, divine, pepe, zmb   |
-|            9 |      247 | 2025-07-16 | Keyd Stars      | L   | 1.000      | -            | -                | -                | -         |    -6.13 | Alisson, bacc, divine, Kadzz, pepe |
-|            8 |      401 | 2025-07-09 | R2 Esports Club | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.036 (0.005)    | 0 (0.000) |    15.34 | Alisson, bacc, divine, Kadzz, pepe |
-|            7 |     2404 | 2025-03-28 | R2 Esports Club | L   | 0.339      | -            | -                | -                | -         |    -5.40 | Alisson, bacc, divine, Kadzz, pepe |
-|            6 |     2462 | 2025-03-27 | SELVA           | L   | 0.333      | -            | -                | -                | -         |    -1.80 | Alisson, bacc, divine, Kadzz, pepe |
+|           10 |       25 | 2025-08-01 | Legacy          | L   | 1.000      | -            | -                | -                | -         |    -0.27 | Alisson, bacc, divine, pepe, zmb   |
+|            9 |      247 | 2025-07-16 | Keyd Stars      | L   | 1.000      | -            | -                | -                | -         |    -5.92 | Alisson, bacc, divine, Kadzz, pepe |
+|            8 |      401 | 2025-07-09 | R2 Esports Club | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.036 (0.005)    | 0 (0.000) |    15.38 | Alisson, bacc, divine, Kadzz, pepe |
+|            7 |     2404 | 2025-03-28 | R2 Esports Club | L   | 0.339      | -            | -                | -                | -         |    -5.39 | Alisson, bacc, divine, Kadzz, pepe |
+|            6 |     2462 | 2025-03-27 | SELVA           | L   | 0.333      | -            | -                | -                | -         |    -1.82 | Alisson, bacc, divine, Kadzz, pepe |
 |            5 |     2917 | 2025-03-09 | Dusty Roots     | L   | 0.212      | -            | -                | -                | -         |    -2.94 | Alisson, bacc, divine, Kadzz, pepe |
-|            4 |     2978 | 2025-03-08 | Thekillaz       | W   | 0.206      | 0.143        | 0.001 (0.000)    | 0.045 (0.001)    | 0 (0.000) |     4.37 | Alisson, bacc, divine, Kadzz, pepe |
-|            3 |     3053 | 2025-03-07 | Legacy          | L   | 0.199      | -            | -                | -                | -         |    -0.09 | Alisson, bacc, divine, Kadzz, pepe |
+|            4 |     2978 | 2025-03-08 | Thekillaz       | W   | 0.206      | 0.143        | 0.001 (0.000)    | 0.045 (0.001)    | 0 (0.000) |     4.36 | Alisson, bacc, divine, Kadzz, pepe |
+|            3 |     3053 | 2025-03-07 | Legacy          | L   | 0.199      | -            | -                | -                | -         |    -0.05 | Alisson, bacc, divine, Kadzz, pepe |
 |            2 |     3762 | 2025-02-08 | Nitro.GG        | L   | 0.020      | -            | -                | -                | -         |    -0.32 | Alisson, bacc, divine, Kadzz, pepe |
 |            1 |     3819 | 2025-02-07 | 20/70           | W   | 0.014      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     0.17 | Alisson, bacc, divine, Kadzz, pepe |
 
@@ -53,7 +53,7 @@ Note:<br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($0.00)
-- Divide that value by the 5th highest value among all rosters ($436,168.75)
+- Divide that value by the 5th highest value among all rosters ($439,157.18)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

@@ -6,22 +6,22 @@ Global Rank: [52](../../standings_global_2025_08_03.md)<br />
 Region: [Europe]( ../../standings_europe_2025_08_03.md)<br />
 Regional Rank: [36]( ../../standings_europe_2025_08_03.md)<br />
 <br />
-Final Rank Value:  1000.8<br />
+Final Rank Value:  997.1<br />
 <br />
-Final Rank Value (1000.8) = Starting Rank Value (987.6) + Head To Head Adjustments (13.1)<br />
+Final Rank Value (997.1) = Starting Rank Value (982.6) + Head To Head Adjustments (14.5)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
-- Bounty Offered: 0.551[<sup>1</sup>](#table2)
-- Bounty Collected: 0.395[<sup>2</sup>](#table1)
+- Bounty Offered: 0.550[<sup>1</sup>](#table2)
+- Bounty Collected: 0.394[<sup>2</sup>](#table1)
 - Opponent Network: 0.287[<sup>2</sup>](#table1)
 - LAN Wins: 0.000[<sup>2</sup>](#table1)
 
 The average of these factors is 0.308<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 987.6
-- 400 + ( ( 0.308 - 0.000 ) / ( 0.839 - 0.000 ) ) * 1600 = 987.6
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 982.6
+- 400 + ( ( 0.308 - 0.000 ) / ( 0.845 - 0.000 ) ) * 1600 = 982.6
 
 
 #### Factors<br />
@@ -37,72 +37,72 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent               | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                           |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           72 |      524 | 2025-06-23 | Iberian Soul           | L   | 0.919      | -            | -                | -                | -         |    -6.01 | BTN, lauNX, ragga, s0und, XELLOW |
-|           71 |      533 | 2025-06-22 | TEAM NEXT LEVEL        | W   | 0.912      | 0.435        | 0.128 (0.051)    | 1.000 (0.396)    | 0 (0.000) |    22.35 | BTN, lauNX, ragga, s0und, XELLOW |
-|           70 |      551 | 2025-06-21 | GUN5 Esports           | W   | 0.905      | 0.435        | 0.052 (0.020)    | 0.838 (0.330)    | 0 (0.000) |    14.38 | BTN, lauNX, ragga, s0und, XELLOW |
+|           72 |      524 | 2025-06-23 | Iberian Soul           | L   | 0.919      | -            | -                | -                | -         |    -6.07 | BTN, lauNX, ragga, s0und, XELLOW |
+|           71 |      533 | 2025-06-22 | TEAM NEXT LEVEL        | W   | 0.912      | 0.435        | 0.127 (0.050)    | 1.000 (0.396)    | 0 (0.000) |    22.32 | BTN, lauNX, ragga, s0und, XELLOW |
+|           70 |      551 | 2025-06-21 | GUN5 Esports           | W   | 0.905      | 0.435        | 0.051 (0.020)    | 0.838 (0.330)    | 0 (0.000) |    14.40 | BTN, lauNX, ragga, s0und, XELLOW |
 |           69 |      595 | 2025-06-18 | Marius                 | L   | 0.884      | -            | -                | -                | -         |   -21.09 | BTN, lauNX, ragga, s0und, XELLOW |
-|           68 |      615 | 2025-06-17 | Sangal Esports         | L   | 0.877      | -            | -                | -                | -         |   -14.81 | BTN, lauNX, ragga, s0und, XELLOW |
-|           67 |      623 | 2025-06-16 | Ex-Sabre Esports       | W   | 0.872      | -            | -                | -                | 0 (0.000) |     5.49 | BTN, lauNX, ragga, s0und, XELLOW |
-|           66 |      627 | 2025-06-16 | GUN5 Esports           | W   | 0.871      | 0.485        | 0.052 (0.022)    | 0.838 (0.354)    | 0 (0.000) |    12.90 | BTN, lauNX, ragga, s0und, XELLOW |
-|           65 |      632 | 2025-06-16 | FAVBET Team            | W   | 0.869      | 0.435        | -                | 0.636 (0.240)    | 0 (0.000) |    11.89 | BTN, lauNX, ragga, s0und, XELLOW |
-|           64 |      690 | 2025-06-14 | HEROIC Academy         | W   | 0.856      | -            | -                | -                | 0 (0.000) |     5.88 | BTN, lauNX, ragga, s0und, XELLOW |
-|           63 |      723 | 2025-06-13 | Leo Team               | W   | 0.850      | -            | -                | -                | 0 (0.000) |     3.94 | BTN, lauNX, ragga, s0und, XELLOW |
-|           62 |      752 | 2025-06-12 | FAVBET Team            | L   | 0.844      | -            | -                | -                | -         |   -14.77 | BTN, lauNX, ragga, s0und, XELLOW |
-|           61 |      756 | 2025-06-12 | Sashi Esport           | L   | 0.843      | -            | -                | -                | -         |   -13.60 | BTN, lauNX, ragga, s0und, XELLOW |
-|           60 |      763 | 2025-06-11 | RUBY                   | L   | 0.839      | -            | -                | -                | -         |   -16.18 | BTN, lauNX, ragga, s0und, XELLOW |
-|           59 |      767 | 2025-06-11 | KOLESIE                | W   | 0.837      | -            | -                | -                | 0 (0.000) |    17.34 | BTN, lauNX, ragga, s0und, XELLOW |
-|           58 |      782 | 2025-06-10 | Fisher College         | W   | 0.830      | -            | -                | -                | 0 (0.000) |     4.15 | BTN, lauNX, ragga, s0und, XELLOW |
-|           57 |      837 | 2025-06-07 | Fire Flux Esports      | L   | 0.809      | -            | -                | -                | -         |   -18.01 | BTN, lauNX, ragga, s0und, XELLOW |
-|           56 |      902 | 2025-05-31 | PARIVISION             | W   | 0.763      | 0.435        | 0.122 (0.041)    | 1.000 (0.332)    | 0 (0.000) |    14.89 | BTN, lauNX, ragga, s0und, XELLOW |
-|           55 |      906 | 2025-05-30 | SINNERS Esports        | W   | 0.758      | -            | -                | -                | -         |     9.41 | BTN, lauNX, ragga, s0und, XELLOW |
-|           54 |      922 | 2025-05-29 | CYBERSHOKE Esports     | W   | 0.750      | 0.435        | -                | 0.751 (0.245)    | -         |    11.12 | BTN, lauNX, ragga, s0und, XELLOW |
-|           53 |      923 | 2025-05-28 | Passion UA             | L   | 0.745      | -            | -                | -                | -         |    -6.87 | BTN, lauNX, ragga, s0und, XELLOW |
+|           68 |      615 | 2025-06-17 | Sangal Esports         | L   | 0.877      | -            | -                | -                | -         |   -14.79 | BTN, lauNX, ragga, s0und, XELLOW |
+|           67 |      623 | 2025-06-16 | Ex-Sabre Esports       | W   | 0.872      | -            | -                | -                | 0 (0.000) |     5.50 | BTN, lauNX, ragga, s0und, XELLOW |
+|           66 |      627 | 2025-06-16 | GUN5 Esports           | W   | 0.871      | 0.485        | 0.051 (0.022)    | 0.838 (0.354)    | 0 (0.000) |    12.93 | BTN, lauNX, ragga, s0und, XELLOW |
+|           65 |      632 | 2025-06-16 | FAVBET Team            | W   | 0.869      | 0.435        | -                | 0.636 (0.240)    | 0 (0.000) |    11.91 | BTN, lauNX, ragga, s0und, XELLOW |
+|           64 |      690 | 2025-06-14 | HEROIC Academy         | W   | 0.856      | -            | -                | -                | 0 (0.000) |     5.90 | BTN, lauNX, ragga, s0und, XELLOW |
+|           63 |      723 | 2025-06-13 | Leo Team               | W   | 0.850      | -            | -                | -                | 0 (0.000) |     3.98 | BTN, lauNX, ragga, s0und, XELLOW |
+|           62 |      752 | 2025-06-12 | FAVBET Team            | L   | 0.844      | -            | -                | -                | -         |   -14.75 | BTN, lauNX, ragga, s0und, XELLOW |
+|           61 |      756 | 2025-06-12 | Sashi Esport           | L   | 0.843      | -            | -                | -                | -         |   -13.59 | BTN, lauNX, ragga, s0und, XELLOW |
+|           60 |      763 | 2025-06-11 | RUBY                   | L   | 0.839      | -            | -                | -                | -         |   -16.17 | BTN, lauNX, ragga, s0und, XELLOW |
+|           59 |      767 | 2025-06-11 | KOLESIE                | W   | 0.837      | -            | -                | -                | 0 (0.000) |    17.32 | BTN, lauNX, ragga, s0und, XELLOW |
+|           58 |      782 | 2025-06-10 | Fisher College         | W   | 0.830      | -            | -                | -                | 0 (0.000) |     4.18 | BTN, lauNX, ragga, s0und, XELLOW |
+|           57 |      837 | 2025-06-07 | Fire Flux Esports      | L   | 0.809      | -            | -                | -                | -         |   -17.99 | BTN, lauNX, ragga, s0und, XELLOW |
+|           56 |      902 | 2025-05-31 | PARIVISION             | W   | 0.763      | 0.435        | 0.121 (0.040)    | 1.000 (0.332)    | 0 (0.000) |    14.92 | BTN, lauNX, ragga, s0und, XELLOW |
+|           55 |      906 | 2025-05-30 | SINNERS Esports        | W   | 0.758      | -            | -                | -                | -         |     9.47 | BTN, lauNX, ragga, s0und, XELLOW |
+|           54 |      922 | 2025-05-29 | CYBERSHOKE Esports     | W   | 0.750      | 0.435        | -                | 0.751 (0.245)    | -         |    11.14 | BTN, lauNX, ragga, s0und, XELLOW |
+|           53 |      923 | 2025-05-28 | Passion UA             | L   | 0.745      | -            | -                | -                | -         |    -6.89 | BTN, lauNX, ragga, s0und, XELLOW |
 |           52 |      931 | 2025-05-27 | Betclic Apogee Esports | W   | 0.739      | -            | -                | -                | -         |    15.59 | BTN, lauNX, ragga, s0und, XELLOW |
 |           51 |      940 | 2025-05-27 | Ninjas in Pyjamas      | L   | 0.737      | -            | -                | -                | -         |    -1.23 | BTN, lauNX, ragga, s0und, XELLOW |
-|           50 |      959 | 2025-05-25 | CYBERSHOKE Esports     | L   | 0.725      | -            | -                | -                | -         |   -12.09 | BTN, lauNX, ragga, s0und, XELLOW |
-|           49 |      990 | 2025-05-23 | Monte                  | W   | 0.711      | -            | -                | -                | -         |     8.09 | BTN, lauNX, ragga, s0und, XELLOW |
-|           48 |     1040 | 2025-05-21 | Zero Tenacity          | W   | 0.696      | 0.435        | -                | 0.791 (0.239)    | -         |     9.91 | BTN, lauNX, ragga, s0und, XELLOW |
-|           47 |     1088 | 2025-05-19 | ENCE                   | L   | 0.684      | -            | -                | -                | -         |    -6.23 | BTN, lauNX, ragga, s0und, XELLOW |
-|           46 |     1104 | 2025-05-18 | Sangal Esports         | W   | 0.677      | -            | -                | -                | -         |    11.09 | BTN, lauNX, ragga, s0und, XELLOW |
+|           50 |      959 | 2025-05-25 | CYBERSHOKE Esports     | L   | 0.725      | -            | -                | -                | -         |   -12.07 | BTN, lauNX, ragga, s0und, XELLOW |
+|           49 |      990 | 2025-05-23 | Monte                  | W   | 0.711      | -            | -                | -                | -         |     8.12 | BTN, lauNX, ragga, s0und, XELLOW |
+|           48 |     1040 | 2025-05-21 | Zero Tenacity          | W   | 0.696      | 0.435        | -                | 0.791 (0.239)    | -         |     9.94 | BTN, lauNX, ragga, s0und, XELLOW |
+|           47 |     1088 | 2025-05-19 | ENCE                   | L   | 0.684      | -            | -                | -                | -         |    -6.20 | BTN, lauNX, ragga, s0und, XELLOW |
+|           46 |     1104 | 2025-05-18 | Sangal Esports         | W   | 0.677      | -            | -                | -                | -         |    11.13 | BTN, lauNX, ragga, s0und, XELLOW |
 |           45 |     1132 | 2025-05-16 | ENCE                   | L   | 0.665      | -            | -                | -                | -         |    -7.14 | BTN, lauNX, ragga, s0und, XELLOW |
-|           44 |     1183 | 2025-05-14 | Dynamo Eclot           | W   | 0.651      | 0.435        | 0.082 (0.023)    | -                | -         |     9.39 | BTN, lauNX, ragga, s0und, XELLOW |
-|           43 |     1215 | 2025-05-13 | Dynamo Eclot           | L   | 0.645      | -            | -                | -                | -         |   -11.02 | BTN, lauNX, ragga, s0und, XELLOW |
-|           42 |     1252 | 2025-05-12 | Fire Flux Esports      | W   | 0.636      | -            | -                | -                | -         |     6.03 | BTN, lauNX, ragga, s0und, XELLOW |
-|           41 |     1264 | 2025-05-11 | RUBY                   | W   | 0.632      | 0.435        | -                | 0.921 (0.253)    | -         |     9.58 | BTN, lauNX, ragga, s0und, XELLOW |
-|           40 |     1326 | 2025-05-09 | CYBERSHOKE Esports     | W   | 0.616      | -            | -                | -                | -         |     9.56 | BTN, lauNX, ragga, s0und, XELLOW |
-|           39 |     1336 | 2025-05-08 | GUN5 Esports           | L   | 0.613      | -            | -                | -                | -         |    -9.51 | BTN, lauNX, ragga, s0und, XELLOW |
-|           38 |     1369 | 2025-05-07 | Sashi Esport           | L   | 0.605      | -            | -                | -                | -         |    -9.10 | BTN, lauNX, ragga, s0und, XELLOW |
-|           37 |     1410 | 2025-05-06 | CYBERSHOKE Esports     | L   | 0.598      | -            | -                | -                | -         |   -10.55 | BTN, lauNX, ragga, s0und, XELLOW |
-|           36 |     1417 | 2025-05-06 | Passion UA             | W   | 0.597      | 0.435        | 0.098 (0.025)    | 1.000 (0.259)    | -         |    15.47 | BTN, lauNX, ragga, s0und, XELLOW |
-|           35 |     1433 | 2025-05-05 | Sashi Esport           | L   | 0.591      | -            | -                | -                | -         |    -9.09 | BTN, lauNX, ragga, s0und, XELLOW |
-|           34 |     1546 | 2025-04-30 | CYBERSHOKE Esports     | W   | 0.559      | -            | -                | -                | -         |     7.54 | BTN, lauNX, ragga, s0und, XELLOW |
-|           33 |     1604 | 2025-04-28 | Eternal Fire           | W   | 0.544      | -            | -                | -                | -         |     5.03 | BTN, lauNX, ragga, s0und, XELLOW |
-|           32 |     1694 | 2025-04-24 | GUN5 Esports           | L   | 0.518      | -            | -                | -                | -         |    -7.47 | BTN, lauNX, ragga, s0und, XELLOW |
-|           31 |     1700 | 2025-04-23 | Partizan Esports       | L   | 0.512      | -            | -                | -                | -         |    -8.31 | BTN, lauNX, ragga, s0und, XELLOW |
-|           30 |     1717 | 2025-04-22 | TEAM NEXT LEVEL        | L   | 0.505      | -            | -                | -                | -         |    -4.12 | BTN, lauNX, ragga, s0und, XELLOW |
-|           29 |     1732 | 2025-04-21 | SINNERS Esports        | W   | 0.498      | -            | -                | -                | -         |     7.35 | BTN, lauNX, ragga, s0und, XELLOW |
-|           28 |     1761 | 2025-04-19 | Dynamo Eclot           | L   | 0.485      | -            | -                | -                | -         |    -7.84 | ADRON, BTN, ragga, s0und, XELLOW |
-|           27 |     1765 | 2025-04-19 | JANO Esports           | W   | 0.484      | -            | -                | -                | -         |     2.87 | BTN, lauNX, ragga, s0und, XELLOW |
-|           26 |     1774 | 2025-04-18 | Metizport              | W   | 0.478      | -            | -                | -                | -         |     7.81 | ADRON, BTN, ragga, s0und, XELLOW |
-|           25 |     1779 | 2025-04-18 | LA MASIA               | W   | 0.478      | -            | -                | -                | -         |     2.41 | ADRON, BTN, ragga, s0und, XELLOW |
-|           24 |     1800 | 2025-04-17 | ENCE                   | W   | 0.472      | 0.657        | 0.140 (0.044)    | 0.729 (0.226)    | -         |    10.24 | ADRON, BTN, ragga, s0und, XELLOW |
-|           23 |     1811 | 2025-04-17 | Team Spirit Academy    | W   | 0.471      | 0.657        | 0.065 (0.020)    | -                | -         |     9.14 | ADRON, BTN, ragga, s0und, XELLOW |
-|           22 |     1820 | 2025-04-17 | BetBoom Team           | L   | 0.470      | -            | -                | -                | -         |    -1.20 | ADRON, BTN, ragga, s0und, XELLOW |
-|           21 |     1912 | 2025-04-13 | PARIVISION             | L   | 0.444      | -            | -                | -                | -         |    -5.12 | BTN, lauNX, ragga, s0und, XELLOW |
-|           20 |     1919 | 2025-04-12 | SkyFury                | L   | 0.439      | -            | -                | -                | -         |   -12.54 | BTN, lauNX, ragga, s0und, XELLOW |
-|           19 |     2133 | 2025-04-03 | LA MASIA               | W   | 0.379      | -            | -                | -                | -         |     1.98 | ADRON, BTN, ragga, s0und, XELLOW |
-|           18 |     2142 | 2025-04-03 | ENCE                   | L   | 0.378      | -            | -                | -                | -         |    -4.24 | ADRON, BTN, ragga, s0und, XELLOW |
-|           17 |     2156 | 2025-04-03 | BetBoom Team           | L   | 0.376      | -            | -                | -                | -         |    -1.05 | ADRON, BTN, ragga, s0und, XELLOW |
-|           16 |     2197 | 2025-04-02 | Partizan Esports       | L   | 0.371      | -            | -                | -                | -         |    -6.20 | ADRON, BTN, ragga, s0und, XELLOW |
-|           15 |     2206 | 2025-04-02 | Dynamo Eclot           | W   | 0.370      | 0.607        | 0.082 (0.018)    | -                | -         |     5.97 | ADRON, BTN, ragga, s0und, XELLOW |
-|           14 |     2417 | 2025-03-28 | AMKAL ESPORTS          | L   | 0.337      | -            | -                | -                | -         |    -7.59 | BTN, lauNX, ragga, s0und, XELLOW |
-|           13 |     2472 | 2025-03-27 | Fire Flux Esports      | L   | 0.332      | -            | -                | -                | -         |    -7.28 | BTN, lauNX, ragga, s0und, XELLOW |
-|           12 |     2553 | 2025-03-26 | Sangal Esports         | L   | 0.324      | -            | -                | -                | -         |    -6.05 | ADRON, BTN, ragga, s0und, XELLOW |
-|           11 |     2806 | 2025-03-13 | 9Pandas                | L   | 0.239      | -            | -                | -                | -         |    -4.92 | ADRON, BTN, ragga, s0und, XELLOW |
-|           10 |     2846 | 2025-03-11 | Fnatic                 | L   | 0.225      | -            | -                | -                | -         |    -1.24 | ADRON, BTN, ragga, s0und, XELLOW |
-|            9 |     2865 | 2025-03-10 | FUT Esports            | W   | 0.219      | 0.435        | 0.300 (0.029)    | -                | -         |     4.25 | ADRON, BTN, ragga, s0und, XELLOW |
-|            8 |     2908 | 2025-03-09 | Monte                  | W   | 0.213      | -            | -                | -                | -         |     1.44 | ADRON, BTN, ragga, s0und, XELLOW |
-|            7 |     3018 | 2025-03-08 | 500                    | L   | 0.204      | -            | -                | -                | -         |    -4.42 | ADRON, BTN, ragga, s0und, XELLOW |
+|           44 |     1183 | 2025-05-14 | Dynamo Eclot           | W   | 0.651      | 0.435        | 0.081 (0.023)    | -                | -         |     9.43 | BTN, lauNX, ragga, s0und, XELLOW |
+|           43 |     1215 | 2025-05-13 | Dynamo Eclot           | L   | 0.645      | -            | -                | -                | -         |   -10.97 | BTN, lauNX, ragga, s0und, XELLOW |
+|           42 |     1252 | 2025-05-12 | Fire Flux Esports      | W   | 0.636      | -            | -                | -                | -         |     6.05 | BTN, lauNX, ragga, s0und, XELLOW |
+|           41 |     1264 | 2025-05-11 | RUBY                   | W   | 0.632      | 0.435        | -                | 0.921 (0.253)    | -         |     9.60 | BTN, lauNX, ragga, s0und, XELLOW |
+|           40 |     1326 | 2025-05-09 | CYBERSHOKE Esports     | W   | 0.616      | -            | -                | -                | -         |     9.60 | BTN, lauNX, ragga, s0und, XELLOW |
+|           39 |     1336 | 2025-05-08 | GUN5 Esports           | L   | 0.613      | -            | -                | -                | -         |    -9.47 | BTN, lauNX, ragga, s0und, XELLOW |
+|           38 |     1369 | 2025-05-07 | Sashi Esport           | L   | 0.605      | -            | -                | -                | -         |    -9.08 | BTN, lauNX, ragga, s0und, XELLOW |
+|           37 |     1410 | 2025-05-06 | CYBERSHOKE Esports     | L   | 0.598      | -            | -                | -                | -         |   -10.51 | BTN, lauNX, ragga, s0und, XELLOW |
+|           36 |     1417 | 2025-05-06 | Passion UA             | W   | 0.597      | 0.435        | 0.097 (0.025)    | 1.000 (0.259)    | -         |    15.45 | BTN, lauNX, ragga, s0und, XELLOW |
+|           35 |     1433 | 2025-05-05 | Sashi Esport           | L   | 0.591      | -            | -                | -                | -         |    -9.07 | BTN, lauNX, ragga, s0und, XELLOW |
+|           34 |     1546 | 2025-04-30 | CYBERSHOKE Esports     | W   | 0.559      | -            | -                | -                | -         |     7.57 | BTN, lauNX, ragga, s0und, XELLOW |
+|           33 |     1604 | 2025-04-28 | Eternal Fire           | W   | 0.544      | -            | -                | -                | -         |     5.06 | BTN, lauNX, ragga, s0und, XELLOW |
+|           32 |     1694 | 2025-04-24 | GUN5 Esports           | L   | 0.518      | -            | -                | -                | -         |    -7.43 | BTN, lauNX, ragga, s0und, XELLOW |
+|           31 |     1700 | 2025-04-23 | Partizan Esports       | L   | 0.512      | -            | -                | -                | -         |    -8.28 | BTN, lauNX, ragga, s0und, XELLOW |
+|           30 |     1717 | 2025-04-22 | TEAM NEXT LEVEL        | L   | 0.505      | -            | -                | -                | -         |    -4.14 | BTN, lauNX, ragga, s0und, XELLOW |
+|           29 |     1732 | 2025-04-21 | SINNERS Esports        | W   | 0.498      | -            | -                | -                | -         |     7.39 | BTN, lauNX, ragga, s0und, XELLOW |
+|           28 |     1761 | 2025-04-19 | Dynamo Eclot           | L   | 0.485      | -            | -                | -                | -         |    -7.79 | ADRON, BTN, ragga, s0und, XELLOW |
+|           27 |     1765 | 2025-04-19 | JANO Esports           | W   | 0.484      | -            | -                | -                | -         |     2.90 | BTN, lauNX, ragga, s0und, XELLOW |
+|           26 |     1774 | 2025-04-18 | Metizport              | W   | 0.478      | -            | -                | -                | -         |     7.88 | ADRON, BTN, ragga, s0und, XELLOW |
+|           25 |     1779 | 2025-04-18 | LA MASIA               | W   | 0.478      | -            | -                | -                | -         |     2.44 | ADRON, BTN, ragga, s0und, XELLOW |
+|           24 |     1800 | 2025-04-17 | ENCE                   | W   | 0.472      | 0.657        | 0.140 (0.043)    | 0.729 (0.226)    | -         |    10.25 | ADRON, BTN, ragga, s0und, XELLOW |
+|           23 |     1811 | 2025-04-17 | Team Spirit Academy    | W   | 0.471      | 0.657        | 0.064 (0.020)    | -                | -         |     9.16 | ADRON, BTN, ragga, s0und, XELLOW |
+|           22 |     1820 | 2025-04-17 | BetBoom Team           | L   | 0.470      | -            | -                | -                | -         |    -1.14 | ADRON, BTN, ragga, s0und, XELLOW |
+|           21 |     1912 | 2025-04-13 | PARIVISION             | L   | 0.444      | -            | -                | -                | -         |    -5.11 | BTN, lauNX, ragga, s0und, XELLOW |
+|           20 |     1919 | 2025-04-12 | SkyFury                | L   | 0.439      | -            | -                | -                | -         |   -12.51 | BTN, lauNX, ragga, s0und, XELLOW |
+|           19 |     2133 | 2025-04-03 | LA MASIA               | W   | 0.379      | -            | -                | -                | -         |     2.00 | ADRON, BTN, ragga, s0und, XELLOW |
+|           18 |     2142 | 2025-04-03 | ENCE                   | L   | 0.378      | -            | -                | -                | -         |    -4.23 | ADRON, BTN, ragga, s0und, XELLOW |
+|           17 |     2156 | 2025-04-03 | BetBoom Team           | L   | 0.376      | -            | -                | -                | -         |    -0.99 | ADRON, BTN, ragga, s0und, XELLOW |
+|           16 |     2197 | 2025-04-02 | Partizan Esports       | L   | 0.371      | -            | -                | -                | -         |    -6.18 | ADRON, BTN, ragga, s0und, XELLOW |
+|           15 |     2206 | 2025-04-02 | Dynamo Eclot           | W   | 0.370      | 0.607        | 0.081 (0.018)    | -                | -         |     6.00 | ADRON, BTN, ragga, s0und, XELLOW |
+|           14 |     2417 | 2025-03-28 | AMKAL ESPORTS          | L   | 0.337      | -            | -                | -                | -         |    -7.57 | BTN, lauNX, ragga, s0und, XELLOW |
+|           13 |     2472 | 2025-03-27 | Fire Flux Esports      | L   | 0.332      | -            | -                | -                | -         |    -7.26 | BTN, lauNX, ragga, s0und, XELLOW |
+|           12 |     2553 | 2025-03-26 | Sangal Esports         | L   | 0.324      | -            | -                | -                | -         |    -6.04 | ADRON, BTN, ragga, s0und, XELLOW |
+|           11 |     2806 | 2025-03-13 | 9Pandas                | L   | 0.239      | -            | -                | -                | -         |    -4.90 | ADRON, BTN, ragga, s0und, XELLOW |
+|           10 |     2846 | 2025-03-11 | Fnatic                 | L   | 0.225      | -            | -                | -                | -         |    -1.25 | ADRON, BTN, ragga, s0und, XELLOW |
+|            9 |     2865 | 2025-03-10 | FUT Esports            | W   | 0.219      | 0.435        | 0.298 (0.028)    | -                | -         |     4.25 | ADRON, BTN, ragga, s0und, XELLOW |
+|            8 |     2908 | 2025-03-09 | Monte                  | W   | 0.213      | -            | -                | -                | -         |     1.46 | ADRON, BTN, ragga, s0und, XELLOW |
+|            7 |     3018 | 2025-03-08 | 500                    | L   | 0.204      | -            | -                | -                | -         |    -4.40 | ADRON, BTN, ragga, s0und, XELLOW |
 |            6 |     3080 | 2025-03-07 | Ninjas in Pyjamas      | L   | 0.198      | -            | -                | -                | -         |    -0.30 | ADRON, BTN, ragga, s0und, XELLOW |
 |            5 |     3482 | 2025-02-20 | BC.Game Esports        | L   | 0.096      | -            | -                | -                | -         |    -2.13 | ADRON, BTN, ragga, s0und, XELLOW |
 |            4 |     3608 | 2025-02-14 | Partizan Esports       | L   | 0.057      | -            | -                | -                | -         |    -0.94 | ADRON, BTN, ragga, s0und, XELLOW |
@@ -115,7 +115,7 @@ Note:<br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($66,546.40)
-- Divide that value by the 5th highest value among all rosters ($436,168.75)
+- Divide that value by the 5th highest value among all rosters ($439,157.18)
 - The final value (0.15) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

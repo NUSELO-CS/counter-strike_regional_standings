@@ -6,13 +6,13 @@ Global Rank: [66](../../standings_global_2025_08_03.md)<br />
 Region: [Americas]( ../../standings_americas_2025_08_03.md)<br />
 Regional Rank: [13]( ../../standings_americas_2025_08_03.md)<br />
 <br />
-Final Rank Value:  920.6<br />
+Final Rank Value:  917.7<br />
 <br />
-Final Rank Value (920.6) = Starting Rank Value (906.0) + Head To Head Adjustments (14.5)<br />
+Final Rank Value (917.7) = Starting Rank Value (899.1) + Head To Head Adjustments (18.6)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
-- Bounty Offered: 0.335[<sup>1</sup>](#table2)
+- Bounty Offered: 0.334[<sup>1</sup>](#table2)
 - Bounty Collected: 0.309[<sup>2</sup>](#table1)
 - Opponent Network: 0.135[<sup>2</sup>](#table1)
 - LAN Wins: 0.277[<sup>2</sup>](#table1)
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.264<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 906.0
-- 400 + ( ( 0.264 - 0.000 ) / ( 0.834 - 0.000 ) ) * 1600 = 906.0
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 899.1
+- 400 + ( ( 0.264 - 0.000 ) / ( 0.845 - 0.000 ) ) * 1600 = 899.1
 
 
 #### Factors<br />
@@ -37,67 +37,67 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                           |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           71 |       10 | 2025-08-02 | M80              | L   | 1.000      | -            | -                | -                | -         |    -5.66 | chop, Grizz, motm, viz, WolfY    |
-|           70 |       24 | 2025-08-01 | Wildcard         | W   | 1.000      | 0.143        | 0.066 (0.009)    | 0.412 (0.059)    | 0 (0.000) |    19.95 | chop, Grizz, motm, viz, WolfY    |
-|           69 |       37 | 2025-07-29 | Getting Info     | L   | 1.000      | -            | -                | -                | -         |   -17.24 | chop, Grizz, motm, viz, WolfY    |
-|           68 |       87 | 2025-07-26 | LAG Gaming       | W   | 1.000      | 0.384        | 0.014 (0.005)    | 0.429 (0.165)    | 0 (0.000) |     8.58 | chop, Grizz, motm, viz, WolfY    |
-|           67 |      110 | 2025-07-24 | MIGHT            | W   | 1.000      | 0.384        | -                | 0.279 (0.107)    | 0 (0.000) |     4.75 | chop, Grizz, motm, viz, WolfY    |
-|           66 |      151 | 2025-07-19 | Fluxo            | L   | 1.000      | -            | -                | -                | -         |   -10.94 | chop, Grizz, motm, viz, WolfY    |
+|           71 |       10 | 2025-08-02 | M80              | L   | 1.000      | -            | -                | -                | -         |    -5.57 | chop, Grizz, motm, viz, WolfY    |
+|           70 |       24 | 2025-08-01 | Wildcard         | W   | 1.000      | 0.143        | 0.065 (0.009)    | 0.412 (0.059)    | 0 (0.000) |    20.00 | chop, Grizz, motm, viz, WolfY    |
+|           69 |       37 | 2025-07-29 | Getting Info     | L   | 1.000      | -            | -                | -                | -         |   -17.26 | chop, Grizz, motm, viz, WolfY    |
+|           68 |       87 | 2025-07-26 | LAG Gaming       | W   | 1.000      | 0.384        | 0.014 (0.005)    | 0.429 (0.165)    | 0 (0.000) |     8.59 | chop, Grizz, motm, viz, WolfY    |
+|           67 |      110 | 2025-07-24 | MIGHT            | W   | 1.000      | 0.384        | -                | 0.279 (0.107)    | 0 (0.000) |     4.74 | chop, Grizz, motm, viz, WolfY    |
+|           66 |      151 | 2025-07-19 | Fluxo            | L   | 1.000      | -            | -                | -                | -         |   -11.03 | chop, Grizz, motm, viz, WolfY    |
 |           65 |      162 | 2025-07-19 | LAG Gaming       | W   | 1.000      | 0.407        | 0.014 (0.006)    | 0.429 (0.175)    | 1 (1.000) |     8.50 | chop, Grizz, motm, viz, WolfY    |
-|           64 |      190 | 2025-07-18 | NRG              | L   | 1.000      | -            | -                | -                | -         |    -7.29 | chop, Grizz, motm, viz, WolfY    |
+|           64 |      190 | 2025-07-18 | NRG              | L   | 1.000      | -            | -                | -                | -         |    -7.22 | chop, Grizz, motm, viz, WolfY    |
 |           63 |      199 | 2025-07-18 | LAG Gaming       | W   | 1.000      | 0.407        | 0.014 (0.006)    | 0.429 (0.175)    | 1 (1.000) |     8.85 | chop, Grizz, motm, viz, WolfY    |
-|           62 |      280 | 2025-07-14 | M80              | L   | 1.000      | -            | -                | -                | -         |    -6.50 | chop, Grizz, viz, Walco, WolfY   |
-|           61 |      301 | 2025-07-13 | BLUEJAYS         | W   | 1.000      | 0.143        | 0.036 (0.005)    | 0.823 (0.118)    | 0 (0.000) |    17.82 | chop, Grizz, viz, Walco, WolfY   |
-|           60 |      304 | 2025-07-13 | BOSS             | W   | 1.000      | -            | -                | -                | 0 (0.000) |     9.15 | chop, Grizz, viz, Walco, WolfY   |
-|           59 |      321 | 2025-07-12 | Marca Registrada | W   | 1.000      | -            | -                | -                | -         |     7.12 | chop, Grizz, Lucid, Walco, WolfY |
-|           58 |      325 | 2025-07-12 | BLUEJAYS         | L   | 1.000      | -            | -                | -                | -         |   -12.78 | chop, Grizz, Lucid, Walco, WolfY |
+|           62 |      280 | 2025-07-14 | M80              | L   | 1.000      | -            | -                | -                | -         |    -6.36 | chop, Grizz, viz, Walco, WolfY   |
+|           61 |      301 | 2025-07-13 | BLUEJAYS         | W   | 1.000      | 0.143        | 0.036 (0.005)    | 0.823 (0.118)    | 0 (0.000) |    17.88 | chop, Grizz, viz, Walco, WolfY   |
+|           60 |      304 | 2025-07-13 | BOSS             | W   | 1.000      | -            | -                | -                | 0 (0.000) |     9.13 | chop, Grizz, viz, Walco, WolfY   |
+|           59 |      321 | 2025-07-12 | Marca Registrada | W   | 1.000      | -            | -                | -                | -         |     7.11 | chop, Grizz, Lucid, Walco, WolfY |
+|           58 |      325 | 2025-07-12 | BLUEJAYS         | L   | 1.000      | -            | -                | -                | -         |   -12.72 | chop, Grizz, Lucid, Walco, WolfY |
 |           57 |      346 | 2025-07-11 | Tsunami Esports  | W   | 1.000      | -            | -                | -                | -         |     6.06 | chop, Grizz, viz, Walco, WolfY   |
-|           56 |     1203 | 2025-05-13 | BLUEJAYS         | L   | 0.647      | -            | -                | -                | -         |   -11.52 | chop, Grizz, Minus, motm, WolfY  |
+|           56 |     1203 | 2025-05-13 | BLUEJAYS         | L   | 0.647      | -            | -                | -                | -         |   -11.50 | chop, Grizz, Minus, motm, WolfY  |
 |           55 |     1286 | 2025-05-10 | BLUEJAYS         | W   | 0.627      | 0.384        | 0.036 (0.009)    | 0.823 (0.198)    | -         |    11.52 | chop, Grizz, Minus, motm, WolfY  |
 |           54 |     1312 | 2025-05-09 | Tsunami Esports  | W   | 0.621      | -            | -                | -                | -         |     3.84 | chop, Grizz, Minus, motm, WolfY  |
-|           53 |     1391 | 2025-05-06 | Legacy           | L   | 0.601      | -            | -                | -                | -         |    -3.46 | chop, Grizz, Minus, motm, WolfY  |
-|           52 |     1470 | 2025-05-03 | BLUEJAYS         | L   | 0.580      | -            | -                | -                | -         |    -7.76 | chop, Grizz, Minus, motm, WolfY  |
-|           51 |     1474 | 2025-05-03 | NRG              | L   | 0.580      | -            | -                | -                | -         |    -4.96 | chop, Grizz, Minus, motm, WolfY  |
-|           50 |     1477 | 2025-05-03 | BLUEJAYS         | W   | 0.579      | 0.303        | 0.036 (0.006)    | 0.823 (0.144)    | -         |    10.61 | chop, Grizz, Minus, motm, WolfY  |
-|           49 |     1543 | 2025-04-30 | BLUEJAYS         | W   | 0.561      | 0.333        | 0.036 (0.007)    | 0.823 (0.154)    | -         |    10.79 | chop, Grizz, Minus, motm, WolfY  |
-|           48 |     1576 | 2025-04-29 | Fisher College   | W   | 0.553      | -            | -                | -                | -         |     4.97 | chop, Grizz, Minus, motm, WolfY  |
-|           47 |     1688 | 2025-04-24 | Daaku            | W   | 0.521      | -            | -                | -                | -         |     2.21 | chop, Grizz, Minus, motm, WolfY  |
-|           46 |     1744 | 2025-04-20 | Wanted Goons     | W   | 0.494      | -            | -                | -                | -         |     3.01 | chop, Grizz, Minus, motm, WolfY  |
-|           45 |     1759 | 2025-04-19 | BLUEJAYS         | L   | 0.487      | -            | -                | -                | -         |    -5.98 | chop, Grizz, Minus, motm, WolfY  |
-|           44 |     1804 | 2025-04-17 | BLUEJAYS         | L   | 0.472      | -            | -                | -                | -         |    -8.41 | chop, Grizz, Minus, motm, WolfY  |
-|           43 |     1832 | 2025-04-16 | BLUEJAYS         | W   | 0.466      | -            | -                | -                | -         |     9.01 | chop, Grizz, Minus, motm, WolfY  |
-|           42 |     1857 | 2025-04-15 | Wildcard         | L   | 0.460      | -            | -                | -                | -         |    -5.45 | chop, Grizz, Minus, motm, WolfY  |
-|           41 |     1901 | 2025-04-13 | BLUEJAYS         | W   | 0.447      | 0.333        | -                | 0.375 (0.056)    | -         |     6.23 | chop, Grizz, Minus, motm, WolfY  |
-|           40 |     1952 | 2025-04-10 | Daaku            | L   | 0.427      | -            | -                | -                | -         |   -11.85 | chop, Grizz, Minus, motm, WolfY  |
-|           39 |     2007 | 2025-04-08 | InControl        | W   | 0.414      | -            | -                | -                | -         |     1.66 | chop, Grizz, Minus, motm, WolfY  |
-|           38 |     2012 | 2025-04-08 | InControl        | W   | 0.414      | -            | -                | -                | -         |     1.69 | chop, Grizz, Minus, motm, WolfY  |
-|           37 |     2058 | 2025-04-07 | JERSA ESPORTS    | W   | 0.407      | -            | -                | -                | -         |     1.47 | chop, Grizz, Minus, motm, WolfY  |
-|           36 |     2162 | 2025-04-02 | Party Astronauts | L   | 0.374      | -            | -                | -                | -         |    -8.62 | chop, Grizz, Minus, motm, WolfY  |
-|           35 |     2169 | 2025-04-02 | Party Astronauts | W   | 0.374      | -            | -                | -                | -         |     3.20 | chop, Grizz, Minus, motm, WolfY  |
-|           34 |     2223 | 2025-04-01 | Legacy           | L   | 0.368      | -            | -                | -                | -         |    -1.64 | chop, Grizz, Minus, motm, WolfY  |
-|           33 |     2229 | 2025-04-01 | Legacy           | L   | 0.367      | -            | -                | -                | -         |    -1.67 | chop, Grizz, Minus, motm, WolfY  |
-|           32 |     2269 | 2025-03-30 | M80              | L   | 0.354      | -            | -                | -                | -         |    -1.75 | chop, Grizz, Minus, motm, WolfY  |
-|           31 |     2272 | 2025-03-30 | Mythic           | W   | 0.354      | -            | -                | -                | -         |     1.21 | chop, Grizz, Minus, motm, WolfY  |
-|           30 |     2316 | 2025-03-29 | M80              | L   | 0.347      | -            | -                | -                | -         |    -1.73 | chop, Grizz, Minus, motm, WolfY  |
-|           29 |     2372 | 2025-03-28 | Team Aether      | W   | 0.341      | -            | -                | -                | -         |     1.41 | chop, Grizz, Minus, motm, WolfY  |
-|           28 |     2439 | 2025-03-27 | Seoul            | W   | 0.334      | -            | -                | -                | -         |     0.63 | chop, Grizz, Minus, motm, WolfY  |
-|           27 |     2517 | 2025-03-26 | NRG              | W   | 0.328      | 0.143        | 0.057 (0.003)    | -                | -         |     7.56 | chop, Grizz, Minus, motm, WolfY  |
-|           26 |     2523 | 2025-03-26 | NRG              | W   | 0.328      | 0.143        | 0.057 (0.003)    | -                | -         |     7.72 | chop, Grizz, Minus, motm, WolfY  |
-|           25 |     2566 | 2025-03-25 | Akimbo Esports   | L   | 0.321      | -            | -                | -                | -         |    -7.83 | chop, Grizz, Minus, motm, WolfY  |
-|           24 |     2570 | 2025-03-25 | Akimbo Esports   | W   | 0.321      | -            | -                | -                | -         |     2.31 | chop, Grizz, Minus, motm, WolfY  |
-|           23 |     2717 | 2025-03-18 | Arrival Seven    | L   | 0.275      | -            | -                | -                | -         |    -6.09 | chop, Grizz, Minus, motm, WolfY  |
-|           22 |     2721 | 2025-03-18 | Arrival Seven    | L   | 0.274      | -            | -                | -                | -         |    -6.21 | chop, Grizz, Minus, motm, WolfY  |
-|           21 |     3052 | 2025-03-07 | Fisher College   | L   | 0.200      | -            | -                | -                | -         |    -4.86 | chop, Grizz, Minus, motm, WolfY  |
-|           20 |     3110 | 2025-03-06 | LAG Gaming       | L   | 0.194      | -            | -                | -                | -         |    -4.32 | chop, Grizz, Minus, motm, WolfY  |
-|           19 |     3154 | 2025-03-05 | MIGHT            | W   | 0.187      | -            | -                | -                | -         |     1.27 | chop, Grizz, Minus, motm, WolfY  |
-|           18 |     3224 | 2025-03-02 | BLUEJAYS         | L   | 0.167      | -            | -                | -                | -         |    -3.21 | chop, Grizz, Minus, motm, WolfY  |
-|           17 |     3226 | 2025-03-02 | Getting Info     | W   | 0.166      | -            | -                | -                | 1 (0.166) |     1.53 | chop, Grizz, Minus, motm, WolfY  |
-|           16 |     3244 | 2025-03-01 | Wanted Goons     | W   | 0.161      | -            | -                | -                | 1 (0.161) |     0.90 | chop, Grizz, Minus, motm, WolfY  |
-|           15 |     3249 | 2025-03-01 | Team Aether      | W   | 0.160      | -            | -                | -                | 1 (0.160) |     0.63 | chop, Grizz, Minus, motm, WolfY  |
-|           14 |     3317 | 2025-02-26 | BLUEJAYS         | W   | 0.141      | -            | -                | -                | -         |     1.75 | chop, Grizz, Minus, motm, WolfY  |
-|           13 |     3321 | 2025-02-26 | BLUEJAYS         | W   | 0.141      | -            | -                | -                | -         |     1.76 | chop, Grizz, Minus, motm, WolfY  |
-|           12 |     3363 | 2025-02-25 | LAG Gaming       | L   | 0.135      | -            | -                | -                | -         |    -3.02 | chop, Grizz, Minus, motm, WolfY  |
-|           11 |     3367 | 2025-02-25 | LAG Gaming       | W   | 0.134      | -            | -                | -                | -         |     1.23 | chop, Grizz, Minus, motm, WolfY  |
+|           53 |     1391 | 2025-05-06 | Legacy           | L   | 0.601      | -            | -                | -                | -         |    -2.21 | chop, Grizz, Minus, motm, WolfY  |
+|           52 |     1470 | 2025-05-03 | BLUEJAYS         | L   | 0.580      | -            | -                | -                | -         |    -7.73 | chop, Grizz, Minus, motm, WolfY  |
+|           51 |     1474 | 2025-05-03 | NRG              | L   | 0.580      | -            | -                | -                | -         |    -4.93 | chop, Grizz, Minus, motm, WolfY  |
+|           50 |     1477 | 2025-05-03 | BLUEJAYS         | W   | 0.579      | 0.303        | 0.036 (0.006)    | 0.823 (0.144)    | -         |    10.65 | chop, Grizz, Minus, motm, WolfY  |
+|           49 |     1543 | 2025-04-30 | BLUEJAYS         | W   | 0.561      | 0.333        | 0.036 (0.007)    | 0.823 (0.154)    | -         |    10.83 | chop, Grizz, Minus, motm, WolfY  |
+|           48 |     1576 | 2025-04-29 | Fisher College   | W   | 0.553      | -            | -                | -                | -         |     4.99 | chop, Grizz, Minus, motm, WolfY  |
+|           47 |     1688 | 2025-04-24 | Daaku            | W   | 0.521      | -            | -                | -                | -         |     2.25 | chop, Grizz, Minus, motm, WolfY  |
+|           46 |     1744 | 2025-04-20 | Wanted Goons     | W   | 0.494      | -            | -                | -                | -         |     3.04 | chop, Grizz, Minus, motm, WolfY  |
+|           45 |     1759 | 2025-04-19 | BLUEJAYS         | L   | 0.487      | -            | -                | -                | -         |    -5.95 | chop, Grizz, Minus, motm, WolfY  |
+|           44 |     1804 | 2025-04-17 | BLUEJAYS         | L   | 0.472      | -            | -                | -                | -         |    -8.39 | chop, Grizz, Minus, motm, WolfY  |
+|           43 |     1832 | 2025-04-16 | BLUEJAYS         | W   | 0.466      | -            | -                | -                | -         |     9.05 | chop, Grizz, Minus, motm, WolfY  |
+|           42 |     1857 | 2025-04-15 | Wildcard         | L   | 0.460      | -            | -                | -                | -         |    -5.48 | chop, Grizz, Minus, motm, WolfY  |
+|           41 |     1901 | 2025-04-13 | BLUEJAYS         | W   | 0.447      | 0.333        | -                | 0.375 (0.056)    | -         |     6.25 | chop, Grizz, Minus, motm, WolfY  |
+|           40 |     1952 | 2025-04-10 | Daaku            | L   | 0.427      | -            | -                | -                | -         |   -11.82 | chop, Grizz, Minus, motm, WolfY  |
+|           39 |     2007 | 2025-04-08 | InControl        | W   | 0.414      | -            | -                | -                | -         |     1.69 | chop, Grizz, Minus, motm, WolfY  |
+|           38 |     2012 | 2025-04-08 | InControl        | W   | 0.414      | -            | -                | -                | -         |     1.72 | chop, Grizz, Minus, motm, WolfY  |
+|           37 |     2058 | 2025-04-07 | JERSA ESPORTS    | W   | 0.407      | -            | -                | -                | -         |     1.50 | chop, Grizz, Minus, motm, WolfY  |
+|           36 |     2162 | 2025-04-02 | Party Astronauts | L   | 0.374      | -            | -                | -                | -         |    -8.56 | chop, Grizz, Minus, motm, WolfY  |
+|           35 |     2169 | 2025-04-02 | Party Astronauts | W   | 0.374      | -            | -                | -                | -         |     3.26 | chop, Grizz, Minus, motm, WolfY  |
+|           34 |     2223 | 2025-04-01 | Legacy           | L   | 0.368      | -            | -                | -                | -         |    -0.96 | chop, Grizz, Minus, motm, WolfY  |
+|           33 |     2229 | 2025-04-01 | Legacy           | L   | 0.367      | -            | -                | -                | -         |    -0.97 | chop, Grizz, Minus, motm, WolfY  |
+|           32 |     2269 | 2025-03-30 | M80              | L   | 0.354      | -            | -                | -                | -         |    -1.70 | chop, Grizz, Minus, motm, WolfY  |
+|           31 |     2272 | 2025-03-30 | Mythic           | W   | 0.354      | -            | -                | -                | -         |     1.24 | chop, Grizz, Minus, motm, WolfY  |
+|           30 |     2316 | 2025-03-29 | M80              | L   | 0.347      | -            | -                | -                | -         |    -1.68 | chop, Grizz, Minus, motm, WolfY  |
+|           29 |     2372 | 2025-03-28 | Team Aether      | W   | 0.341      | -            | -                | -                | -         |     1.44 | chop, Grizz, Minus, motm, WolfY  |
+|           28 |     2439 | 2025-03-27 | Seoul            | W   | 0.334      | -            | -                | -                | -         |     0.65 | chop, Grizz, Minus, motm, WolfY  |
+|           27 |     2517 | 2025-03-26 | NRG              | W   | 0.328      | 0.143        | 0.059 (0.003)    | -                | -         |     7.56 | chop, Grizz, Minus, motm, WolfY  |
+|           26 |     2523 | 2025-03-26 | NRG              | W   | 0.328      | 0.143        | 0.059 (0.003)    | -                | -         |     7.73 | chop, Grizz, Minus, motm, WolfY  |
+|           25 |     2566 | 2025-03-25 | Akimbo Esports   | L   | 0.321      | -            | -                | -                | -         |    -7.80 | chop, Grizz, Minus, motm, WolfY  |
+|           24 |     2570 | 2025-03-25 | Akimbo Esports   | W   | 0.321      | -            | -                | -                | -         |     2.33 | chop, Grizz, Minus, motm, WolfY  |
+|           23 |     2717 | 2025-03-18 | Arrival Seven    | L   | 0.275      | -            | -                | -                | -         |    -6.05 | chop, Grizz, Minus, motm, WolfY  |
+|           22 |     2721 | 2025-03-18 | Arrival Seven    | L   | 0.274      | -            | -                | -                | -         |    -6.17 | chop, Grizz, Minus, motm, WolfY  |
+|           21 |     3052 | 2025-03-07 | Fisher College   | L   | 0.200      | -            | -                | -                | -         |    -4.84 | chop, Grizz, Minus, motm, WolfY  |
+|           20 |     3110 | 2025-03-06 | LAG Gaming       | L   | 0.194      | -            | -                | -                | -         |    -4.30 | chop, Grizz, Minus, motm, WolfY  |
+|           19 |     3154 | 2025-03-05 | MIGHT            | W   | 0.187      | -            | -                | -                | -         |     1.29 | chop, Grizz, Minus, motm, WolfY  |
+|           18 |     3224 | 2025-03-02 | BLUEJAYS         | L   | 0.167      | -            | -                | -                | -         |    -3.20 | chop, Grizz, Minus, motm, WolfY  |
+|           17 |     3226 | 2025-03-02 | Getting Info     | W   | 0.166      | -            | -                | -                | 1 (0.166) |     1.54 | chop, Grizz, Minus, motm, WolfY  |
+|           16 |     3244 | 2025-03-01 | Wanted Goons     | W   | 0.161      | -            | -                | -                | 1 (0.161) |     0.91 | chop, Grizz, Minus, motm, WolfY  |
+|           15 |     3249 | 2025-03-01 | Team Aether      | W   | 0.160      | -            | -                | -                | 1 (0.160) |     0.64 | chop, Grizz, Minus, motm, WolfY  |
+|           14 |     3317 | 2025-02-26 | BLUEJAYS         | W   | 0.141      | -            | -                | -                | -         |     1.76 | chop, Grizz, Minus, motm, WolfY  |
+|           13 |     3321 | 2025-02-26 | BLUEJAYS         | W   | 0.141      | -            | -                | -                | -         |     1.78 | chop, Grizz, Minus, motm, WolfY  |
+|           12 |     3363 | 2025-02-25 | LAG Gaming       | L   | 0.135      | -            | -                | -                | -         |    -3.01 | chop, Grizz, Minus, motm, WolfY  |
+|           11 |     3367 | 2025-02-25 | LAG Gaming       | W   | 0.134      | -            | -                | -                | -         |     1.24 | chop, Grizz, Minus, motm, WolfY  |
 |           10 |     3513 | 2025-02-18 | Nouns Esports    | L   | 0.088      | -            | -                | -                | -         |    -2.52 | chop, Grizz, Minus, motm, WolfY  |
 |            9 |     3515 | 2025-02-18 | Nouns Esports    | L   | 0.088      | -            | -                | -                | -         |    -2.52 | chop, Grizz, Minus, motm, WolfY  |
 |            8 |     3653 | 2025-02-11 | BLUEJAYS         | L   | 0.041      | -            | -                | -                | -         |    -0.52 | chop, Grizz, Minus, motm, WolfY  |
@@ -106,7 +106,7 @@ Note:<br />
 |            5 |     3685 | 2025-02-10 | MCS Gaming       | W   | 0.033      | -            | -                | -                | -         |     0.09 | chop, Minus, motm, steel, WolfY  |
 |            4 |     3719 | 2025-02-09 | M80              | L   | 0.027      | -            | -                | -                | -         |    -0.15 | chop, Minus, motm, steel, WolfY  |
 |            3 |     3750 | 2025-02-08 | BLUEJAYS         | W   | 0.021      | -            | -                | -                | -         |     0.39 | chop, Grizz, Minus, motm, WolfY  |
-|            2 |     3753 | 2025-02-08 | Getting Info     | W   | 0.020      | -            | -                | -                | -         |     0.18 | chop, Grizz, Minus, motm, WolfY  |
+|            2 |     3753 | 2025-02-08 | Getting Info     | W   | 0.020      | -            | -                | -                | -         |     0.19 | chop, Grizz, Minus, motm, WolfY  |
 |            1 |     3766 | 2025-02-08 | MCS Gaming       | W   | 0.020      | -            | -                | -                | -         |     0.05 | chop, Minus, motm, steel, WolfY  |
 
 <br />
@@ -114,7 +114,7 @@ Note:<br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($4,489.17)
-- Divide that value by the 5th highest value among all rosters ($436,168.75)
+- Divide that value by the 5th highest value among all rosters ($439,157.18)
 - The final value (0.01) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

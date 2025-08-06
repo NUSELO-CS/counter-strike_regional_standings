@@ -6,22 +6,22 @@ Global Rank: [19](../../standings_global_2025_08_03.md)<br />
 Region: [Europe]( ../../standings_europe_2025_08_03.md)<br />
 Regional Rank: [14]( ../../standings_europe_2025_08_03.md)<br />
 <br />
-Final Rank Value:  1451.1<br />
+Final Rank Value:  1450.4<br />
 <br />
-Final Rank Value (1451.1) = Starting Rank Value (1528.0) + Head To Head Adjustments (-76.9)<br />
+Final Rank Value (1450.4) = Starting Rank Value (1522.9) + Head To Head Adjustments (-72.5)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
-- Bounty Offered: 0.584[<sup>1</sup>](#table2)
-- Bounty Collected: 0.535[<sup>2</sup>](#table1)
+- Bounty Offered: 0.583[<sup>1</sup>](#table2)
+- Bounty Collected: 0.543[<sup>2</sup>](#table1)
 - Opponent Network: 0.390[<sup>2</sup>](#table1)
 - LAN Wins: 0.856[<sup>2</sup>](#table1)
 
-The average of these factors is 0.592<br />
+The average of these factors is 0.593<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1528.0
-- 400 + ( ( 0.592 - 0.000 ) / ( 0.839 - 0.000 ) ) * 1600 = 1528.0
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1522.9
+- 400 + ( ( 0.593 - 0.000 ) / ( 0.845 - 0.000 ) ) * 1600 = 1522.9
 
 
 #### Factors<br />
@@ -37,49 +37,49 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent               | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                      |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           51 |       43 | 2025-07-29 | Natus Vincere          | L   | 1.000      | -            | -                | -                | -         |    -4.80 | ewjerkz, r1nkle, sjuush, Snappi, xKacpersky |
-|           50 |       54 | 2025-07-28 | HEROIC                 | W   | 1.000      | 1.000        | 0.386 (0.386)    | 0.654 (0.654)    | 1 (1.000) |    18.03 | ewjerkz, r1nkle, sjuush, Snappi, xKacpersky |
-|           49 |       89 | 2025-07-26 | Aurora Gaming          | L   | 1.000      | -            | -                | -                | -         |    -7.71 | ewjerkz, r1nkle, sjuush, Snappi, xKacpersky |
-|           48 |      114 | 2025-07-24 | 3DMAX                  | W   | 1.000      | 0.769        | 0.335 (0.257)    | 0.571 (0.439)    | 1 (1.000) |    23.36 | ewjerkz, r1nkle, sjuush, Snappi, xKacpersky |
-|           47 |      123 | 2025-07-23 | HEROIC                 | W   | 1.000      | 0.769        | 0.386 (0.296)    | 0.654 (0.503)    | 1 (1.000) |    19.31 | ewjerkz, r1nkle, sjuush, Snappi, xKacpersky |
-|           46 |      534 | 2025-06-22 | FUT Esports            | L   | 0.912      | -            | -                | -                | -         |   -22.34 | arrozdoce, ewjerkz, r1nkle, sjuush, Snappi  |
-|           45 |      540 | 2025-06-22 | BIG                    | W   | 0.910      | 0.435        | 0.183 (0.072)    | -                | -         |     5.51 | arrozdoce, ewjerkz, r1nkle, sjuush, Snappi  |
-|           44 |      543 | 2025-06-22 | Fnatic                 | L   | 0.909      | -            | -                | -                | -         |   -19.87 | arrozdoce, ewjerkz, r1nkle, sjuush, Snappi  |
-|           43 |      552 | 2025-06-21 | TEAM NEXT LEVEL        | W   | 0.905      | 0.435        | 0.128 (0.050)    | 1.000 (0.393)    | -         |     6.25 | arrozdoce, ewjerkz, r1nkle, sjuush, Snappi  |
-|           42 |      569 | 2025-06-20 | Iberian Soul           | W   | 0.897      | 0.485        | 0.183 (0.080)    | 1.000 (0.435)    | -         |     7.79 | arrozdoce, ewjerkz, r1nkle, sjuush, Snappi  |
+|           51 |       43 | 2025-07-29 | Natus Vincere          | L   | 1.000      | -            | -                | -                | -         |    -4.56 | ewjerkz, r1nkle, sjuush, Snappi, xKacpersky |
+|           50 |       54 | 2025-07-28 | HEROIC                 | W   | 1.000      | 1.000        | 0.404 (0.404)    | 0.654 (0.654)    | 1 (1.000) |    18.73 | ewjerkz, r1nkle, sjuush, Snappi, xKacpersky |
+|           49 |       89 | 2025-07-26 | Aurora Gaming          | L   | 1.000      | -            | -                | -                | -         |    -7.33 | ewjerkz, r1nkle, sjuush, Snappi, xKacpersky |
+|           48 |      114 | 2025-07-24 | 3DMAX                  | W   | 1.000      | 0.769        | 0.374 (0.287)    | 0.571 (0.439)    | 1 (1.000) |    24.06 | ewjerkz, r1nkle, sjuush, Snappi, xKacpersky |
+|           47 |      123 | 2025-07-23 | HEROIC                 | W   | 1.000      | 0.769        | 0.404 (0.311)    | 0.654 (0.503)    | 1 (1.000) |    20.07 | ewjerkz, r1nkle, sjuush, Snappi, xKacpersky |
+|           46 |      534 | 2025-06-22 | FUT Esports            | L   | 0.912      | -            | -                | -                | -         |   -22.35 | arrozdoce, ewjerkz, r1nkle, sjuush, Snappi  |
+|           45 |      540 | 2025-06-22 | BIG                    | W   | 0.910      | 0.435        | 0.182 (0.072)    | -                | -         |     5.56 | arrozdoce, ewjerkz, r1nkle, sjuush, Snappi  |
+|           44 |      543 | 2025-06-22 | Fnatic                 | L   | 0.909      | -            | -                | -                | -         |   -19.91 | arrozdoce, ewjerkz, r1nkle, sjuush, Snappi  |
+|           43 |      552 | 2025-06-21 | TEAM NEXT LEVEL        | W   | 0.905      | 0.435        | 0.127 (0.050)    | 1.000 (0.393)    | -         |     6.21 | arrozdoce, ewjerkz, r1nkle, sjuush, Snappi  |
+|           42 |      569 | 2025-06-20 | Iberian Soul           | W   | 0.897      | 0.485        | 0.182 (0.079)    | 1.000 (0.435)    | -         |     7.70 | arrozdoce, ewjerkz, r1nkle, sjuush, Snappi  |
 |           41 |      581 | 2025-06-19 | CYBERSHOKE Esports     | W   | 0.891      | 0.435        | -                | 0.751 (0.291)    | -         |     2.30 | arrozdoce, ewjerkz, r1nkle, sjuush, Snappi  |
 |           40 |      596 | 2025-06-18 | Sangal Esports         | W   | 0.884      | 0.485        | -                | 0.725 (0.311)    | -         |     2.17 | arrozdoce, ewjerkz, r1nkle, sjuush, Snappi  |
-|           39 |      656 | 2025-06-15 | ECSTATIC               | L   | 0.863      | -            | -                | -                | -         |   -19.24 | arrozdoce, ewjerkz, r1nkle, sjuush, Snappi  |
-|           38 |      674 | 2025-06-14 | Fnatic                 | L   | 0.858      | -            | -                | -                | -         |   -20.16 | arrozdoce, ewjerkz, r1nkle, sjuush, Snappi  |
-|           37 |      694 | 2025-06-14 | Metizport              | W   | 0.856      | -            | -                | -                | 1 (0.856) |     1.45 | arrozdoce, ewjerkz, r1nkle, sjuush, Snappi  |
+|           39 |      656 | 2025-06-15 | ECSTATIC               | L   | 0.863      | -            | -                | -                | -         |   -19.26 | arrozdoce, ewjerkz, r1nkle, sjuush, Snappi  |
+|           38 |      674 | 2025-06-14 | Fnatic                 | L   | 0.858      | -            | -                | -                | -         |   -20.22 | arrozdoce, ewjerkz, r1nkle, sjuush, Snappi  |
+|           37 |      694 | 2025-06-14 | Metizport              | W   | 0.856      | -            | -                | -                | 1 (0.856) |     1.47 | arrozdoce, ewjerkz, r1nkle, sjuush, Snappi  |
 |           36 |      710 | 2025-06-13 | Phantom Esports        | W   | 0.852      | -            | -                | -                | 1 (0.852) |     0.07 | arrozdoce, ewjerkz, r1nkle, sjuush, Snappi  |
-|           35 |      901 | 2025-05-31 | FUT Esports            | L   | 0.764      | -            | -                | -                | -         |   -21.04 | arrozdoce, ewjerkz, r1nkle, sjuush, Snappi  |
+|           35 |      901 | 2025-05-31 | FUT Esports            | L   | 0.764      | -            | -                | -                | -         |   -21.05 | arrozdoce, ewjerkz, r1nkle, sjuush, Snappi  |
 |           34 |      905 | 2025-05-30 | GUN5 Esports           | W   | 0.759      | 0.435        | -                | 0.838 (0.276)    | -         |     1.21 | arrozdoce, ewjerkz, r1nkle, sjuush, Snappi  |
-|           33 |      940 | 2025-05-27 | Nexus Gaming           | W   | 0.737      | 0.435        | 0.153 (0.049)    | 0.888 (0.284)    | -         |     1.23 | arrozdoce, ewjerkz, r1nkle, sjuush, Snappi  |
-|           32 |      964 | 2025-05-25 | Sashi Esport           | W   | 0.723      | 0.435        | -                | 1.000 (0.314)    | -         |     1.41 | arrozdoce, ewjerkz, r1nkle, sjuush, Snappi  |
+|           33 |      940 | 2025-05-27 | Nexus Gaming           | W   | 0.737      | 0.435        | 0.152 (0.049)    | 0.888 (0.284)    | -         |     1.23 | arrozdoce, ewjerkz, r1nkle, sjuush, Snappi  |
+|           32 |      964 | 2025-05-25 | Sashi Esport           | W   | 0.723      | 0.435        | -                | 1.000 (0.314)    | -         |     1.40 | arrozdoce, ewjerkz, r1nkle, sjuush, Snappi  |
 |           31 |      986 | 2025-05-23 | CYBERSHOKE Esports     | L   | 0.712      | -            | -                | -                | -         |   -21.48 | arrozdoce, ewjerkz, r1nkle, sjuush, Snappi  |
 |           30 |     1025 | 2025-05-21 | Dynamo Eclot           | W   | 0.699      | -            | -                | -                | -         |     0.80 | arrozdoce, ewjerkz, r1nkle, sjuush, Snappi  |
-|           29 |     1136 | 2025-05-16 | Team Spirit            | L   | 0.665      | -            | -                | -                | -         |    -1.52 | arrozdoce, ewjerkz, r1nkle, sjuush, Snappi  |
-|           28 |     1195 | 2025-05-13 | G2 Esports             | W   | 0.649      | 1.000        | 0.049 (0.031)    | -                | 1 (0.649) |     0.71 | arrozdoce, ewjerkz, r1nkle, sjuush, Snappi  |
-|           27 |     1229 | 2025-05-12 | HOTU                   | W   | 0.642      | -            | -                | -                | 1 (0.642) |     0.97 | arrozdoce, ewjerkz, r1nkle, sjuush, Snappi  |
-|           26 |     1251 | 2025-05-12 | Aurora Gaming          | L   | 0.636      | -            | -                | -                | -         |    -6.12 | arrozdoce, ewjerkz, r1nkle, sjuush, Snappi  |
-|           25 |     1274 | 2025-05-11 | Team Spirit            | L   | 0.630      | -            | -                | -                | -         |    -1.53 | arrozdoce, ewjerkz, r1nkle, sjuush, Snappi  |
-|           24 |     1302 | 2025-05-10 | Virtus.pro             | W   | 0.624      | 1.000        | 0.159 (0.099)    | -                | 1 (0.624) |     9.97 | arrozdoce, ewjerkz, r1nkle, sjuush, Snappi  |
+|           29 |     1136 | 2025-05-16 | Team Spirit            | L   | 0.665      | -            | -                | -                | -         |    -1.49 | arrozdoce, ewjerkz, r1nkle, sjuush, Snappi  |
+|           28 |     1195 | 2025-05-13 | G2 Esports             | W   | 0.649      | 1.000        | 0.048 (0.031)    | -                | 1 (0.649) |     0.72 | arrozdoce, ewjerkz, r1nkle, sjuush, Snappi  |
+|           27 |     1229 | 2025-05-12 | HOTU                   | W   | 0.642      | -            | -                | -                | 1 (0.642) |     0.96 | arrozdoce, ewjerkz, r1nkle, sjuush, Snappi  |
+|           26 |     1251 | 2025-05-12 | Aurora Gaming          | L   | 0.636      | -            | -                | -                | -         |    -5.81 | arrozdoce, ewjerkz, r1nkle, sjuush, Snappi  |
+|           25 |     1274 | 2025-05-11 | Team Spirit            | L   | 0.630      | -            | -                | -                | -         |    -1.50 | arrozdoce, ewjerkz, r1nkle, sjuush, Snappi  |
+|           24 |     1302 | 2025-05-10 | Virtus.pro             | W   | 0.624      | 1.000        | 0.199 (0.124)    | -                | 1 (0.624) |    11.01 | arrozdoce, ewjerkz, r1nkle, sjuush, Snappi  |
 |           23 |     1609 | 2025-04-27 | Sharks Esports         | W   | 0.541      | -            | -                | -                | 1 (0.541) |     0.72 | arrozdoce, ewjerkz, r1nkle, sjuush, Snappi  |
-|           22 |     1611 | 2025-04-27 | NRG                    | W   | 0.539      | -            | -                | -                | 1 (0.539) |     2.00 | arrozdoce, ewjerkz, r1nkle, sjuush, Snappi  |
+|           22 |     1611 | 2025-04-27 | NRG                    | W   | 0.539      | -            | -                | -                | 1 (0.539) |     2.12 | arrozdoce, ewjerkz, r1nkle, sjuush, Snappi  |
 |           21 |     1630 | 2025-04-27 | Game Hunters           | W   | 0.536      | -            | -                | -                | -         |     0.31 | arrozdoce, ewjerkz, r1nkle, sjuush, Snappi  |
-|           20 |     1643 | 2025-04-26 | LAG Gaming             | W   | 0.535      | -            | -                | -                | -         |     0.24 | arrozdoce, ewjerkz, r1nkle, sjuush, Snappi  |
+|           20 |     1643 | 2025-04-26 | LAG Gaming             | W   | 0.535      | -            | -                | -                | -         |     0.25 | arrozdoce, ewjerkz, r1nkle, sjuush, Snappi  |
 |           19 |     1915 | 2025-04-13 | TEAM NEXT LEVEL        | L   | 0.443      | -            | -                | -                | -         |   -12.21 | arrozdoce, ewjerkz, r1nkle, sjuush, Snappi  |
-|           18 |     2242 | 2025-04-01 | Metizport              | W   | 0.364      | -            | -                | -                | -         |     0.51 | arrozdoce, ewjerkz, r1nkle, sjuush, Snappi  |
-|           17 |     2263 | 2025-03-31 | B8                     | W   | 0.358      | 0.769        | 0.120 (0.033)    | -                | -         |     2.92 | arrozdoce, ewjerkz, r1nkle, sjuush, Snappi  |
-|           16 |     2290 | 2025-03-30 | Fnatic                 | W   | 0.351      | -            | -                | -                | -         |     2.30 | arrozdoce, ewjerkz, r1nkle, sjuush, Snappi  |
+|           18 |     2242 | 2025-04-01 | Metizport              | W   | 0.364      | -            | -                | -                | -         |     0.52 | arrozdoce, ewjerkz, r1nkle, sjuush, Snappi  |
+|           17 |     2263 | 2025-03-31 | B8                     | W   | 0.358      | 0.769        | 0.139 (0.038)    | -                | -         |     3.23 | arrozdoce, ewjerkz, r1nkle, sjuush, Snappi  |
+|           16 |     2290 | 2025-03-30 | Fnatic                 | W   | 0.351      | -            | -                | -                | -         |     2.28 | arrozdoce, ewjerkz, r1nkle, sjuush, Snappi  |
 |           15 |     2296 | 2025-03-30 | AMKAL ESPORTS          | W   | 0.350      | -            | -                | -                | -         |     0.24 | arrozdoce, ewjerkz, r1nkle, sjuush, Snappi  |
-|           14 |     2344 | 2025-03-29 | Fnatic                 | L   | 0.345      | -            | -                | -                | -         |    -8.73 | arrozdoce, ewjerkz, r1nkle, sjuush, Snappi  |
-|           13 |     2407 | 2025-03-28 | JANO Esports           | W   | 0.338      | -            | -                | -                | -         |     0.12 | arrozdoce, ewjerkz, r1nkle, sjuush, Snappi  |
-|           12 |     2503 | 2025-03-27 | Passion UA             | W   | 0.330      | -            | -                | -                | -         |     2.14 | arrozdoce, ewjerkz, r1nkle, sjuush, Snappi  |
-|           11 |     2889 | 2025-03-10 | Fnatic                 | L   | 0.217      | -            | -                | -                | -         |    -5.42 | arrozdoce, ewjerkz, r1nkle, sjuush, Snappi  |
+|           14 |     2344 | 2025-03-29 | Fnatic                 | L   | 0.345      | -            | -                | -                | -         |    -8.75 | arrozdoce, ewjerkz, r1nkle, sjuush, Snappi  |
+|           13 |     2407 | 2025-03-28 | JANO Esports           | W   | 0.338      | -            | -                | -                | -         |     0.13 | arrozdoce, ewjerkz, r1nkle, sjuush, Snappi  |
+|           12 |     2503 | 2025-03-27 | Passion UA             | W   | 0.330      | -            | -                | -                | -         |     2.12 | arrozdoce, ewjerkz, r1nkle, sjuush, Snappi  |
+|           11 |     2889 | 2025-03-10 | Fnatic                 | L   | 0.217      | -            | -                | -                | -         |    -5.43 | arrozdoce, ewjerkz, r1nkle, sjuush, Snappi  |
 |           10 |     2933 | 2025-03-09 | Betclic Apogee Esports | L   | 0.211      | -            | -                | -                | -         |    -6.16 | arrozdoce, ewjerkz, r1nkle, sjuush, Snappi  |
-|            9 |     2988 | 2025-03-08 | Fnatic                 | W   | 0.205      | -            | -                | -                | -         |     1.31 | arrozdoce, ewjerkz, r1nkle, sjuush, Snappi  |
+|            9 |     2988 | 2025-03-08 | Fnatic                 | W   | 0.205      | -            | -                | -                | -         |     1.30 | arrozdoce, ewjerkz, r1nkle, sjuush, Snappi  |
 |            8 |     3080 | 2025-03-07 | Nexus Gaming           | W   | 0.198      | -            | -                | -                | -         |     0.30 | arrozdoce, ewjerkz, r1nkle, sjuush, Snappi  |
 |            7 |     3390 | 2025-02-25 | Tricked Esport         | L   | 0.130      | -            | -                | -                | -         |    -3.95 | ewjerkz, JACKZ, r1nkle, sjuush, Snappi      |
 |            6 |     3410 | 2025-02-24 | Fire Flux Esports      | L   | 0.124      | -            | -                | -                | -         |    -3.84 | ewjerkz, JACKZ, r1nkle, sjuush, Snappi      |
@@ -94,7 +94,7 @@ Note:<br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($84,781.69)
-- Divide that value by the 5th highest value among all rosters ($436,168.75)
+- Divide that value by the 5th highest value among all rosters ($439,157.18)
 - The final value (0.19) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

@@ -6,13 +6,13 @@ Global Rank: [152](../../standings_global_2025_08_03.md)<br />
 Region: [Europe]( ../../standings_europe_2025_08_03.md)<br />
 Regional Rank: [90]( ../../standings_europe_2025_08_03.md)<br />
 <br />
-Final Rank Value:  645.4<br />
+Final Rank Value:  641.6<br />
 <br />
-Final Rank Value (645.4) = Starting Rank Value (657.7) + Head To Head Adjustments (-12.3)<br />
+Final Rank Value (641.6) = Starting Rank Value (654.1) + Head To Head Adjustments (-12.4)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
-- Bounty Offered: 0.348[<sup>1</sup>](#table2)
+- Bounty Offered: 0.347[<sup>1</sup>](#table2)
 - Bounty Collected: 0.188[<sup>2</sup>](#table1)
 - Opponent Network: 0.001[<sup>2</sup>](#table1)
 - LAN Wins: 0.000[<sup>2</sup>](#table1)
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.134<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 657.7
-- 400 + ( ( 0.134 - 0.000 ) / ( 0.834 - 0.000 ) ) * 1600 = 657.7
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 654.1
+- 400 + ( ( 0.134 - 0.000 ) / ( 0.845 - 0.000 ) ) * 1600 = 654.1
 
 
 #### Factors<br />
@@ -37,13 +37,13 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                 |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            8 |      984 | 2025-05-23 | Zerance         | L   | 0.712      | -            | -                | -                | -         |    -7.99 | AverOna, Jammie, k175un4, sosya, uulis |
-|            7 |     1004 | 2025-05-22 | FURIA Female    | L   | 0.705      | -            | -                | -                | -         |    -3.33 | AverOna, Jammie, k175un4, sosya, uulis |
-|            6 |     1924 | 2025-04-12 | BIG EQUIPA      | W   | 0.438      | 0.338        | 0.002 (0.000)    | 0.076 (0.011)    | 0 (0.000) |     6.67 | AverOna, Jammie, k175un4, sosya, uulis |
-|            5 |     1938 | 2025-04-11 | Zerance         | L   | 0.432      | -            | -                | -                | -         |    -4.96 | AverOna, Jammie, k175un4, sosya, uulis |
-|            4 |     2183 | 2025-04-02 | Imperial Female | L   | 0.372      | -            | -                | -                | -         |    -3.33 | AverOna, Jammie, k175un4, sosya, uulis |
-|            3 |     2692 | 2025-03-19 | CS2NEWS Ladies  | L   | 0.279      | -            | -                | -                | -         |    -4.98 | AverOna, Jammie, k175un4, sosya, uulis |
-|            2 |     2821 | 2025-03-12 | Spray and Slay  | W   | 0.232      | 0.338        | 0.001 (0.000)    | 0.007 (0.001)    | 0 (0.000) |     3.05 | AverOna, Jammie, k175un4, sosya, uulis |
+|            8 |      984 | 2025-05-23 | Zerance         | L   | 0.712      | -            | -                | -                | -         |    -8.02 | AverOna, Jammie, k175un4, sosya, uulis |
+|            7 |     1004 | 2025-05-22 | FURIA Female    | L   | 0.705      | -            | -                | -                | -         |    -3.40 | AverOna, Jammie, k175un4, sosya, uulis |
+|            6 |     1924 | 2025-04-12 | BIG EQUIPA      | W   | 0.438      | 0.338        | 0.002 (0.000)    | 0.076 (0.011)    | 0 (0.000) |     6.68 | AverOna, Jammie, k175un4, sosya, uulis |
+|            5 |     1938 | 2025-04-11 | Zerance         | L   | 0.432      | -            | -                | -                | -         |    -4.98 | AverOna, Jammie, k175un4, sosya, uulis |
+|            4 |     2183 | 2025-04-02 | Imperial Female | L   | 0.372      | -            | -                | -                | -         |    -3.36 | AverOna, Jammie, k175un4, sosya, uulis |
+|            3 |     2692 | 2025-03-19 | CS2NEWS Ladies  | L   | 0.279      | -            | -                | -                | -         |    -4.97 | AverOna, Jammie, k175un4, sosya, uulis |
+|            2 |     2821 | 2025-03-12 | Spray and Slay  | W   | 0.232      | 0.338        | 0.001 (0.000)    | 0.007 (0.001)    | 0 (0.000) |     3.06 | AverOna, Jammie, k175un4, sosya, uulis |
 |            1 |     3163 | 2025-03-05 | Let Her Cook    | W   | 0.186      | 0.338        | 0.001 (0.000)    | 0.038 (0.002)    | 0 (0.000) |     2.55 | AverOna, Jammie, k175un4, sosya, uulis |
 
 <br />
@@ -51,7 +51,7 @@ Note:<br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($5,798.89)
-- Divide that value by the 5th highest value among all rosters ($436,168.75)
+- Divide that value by the 5th highest value among all rosters ($439,157.18)
 - The final value (0.01) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

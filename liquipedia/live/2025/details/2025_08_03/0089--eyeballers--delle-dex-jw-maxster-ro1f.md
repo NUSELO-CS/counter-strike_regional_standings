@@ -6,13 +6,13 @@ Global Rank: [89](../../standings_global_2025_08_03.md)<br />
 Region: [Europe]( ../../standings_europe_2025_08_03.md)<br />
 Regional Rank: [62]( ../../standings_europe_2025_08_03.md)<br />
 <br />
-Final Rank Value:  843.8<br />
+Final Rank Value:  840.5<br />
 <br />
-Final Rank Value (843.8) = Starting Rank Value (810.8) + Head To Head Adjustments (32.9)<br />
+Final Rank Value (840.5) = Starting Rank Value (807.4) + Head To Head Adjustments (33.1)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
-- Bounty Offered: 0.379[<sup>1</sup>](#table2)
+- Bounty Offered: 0.378[<sup>1</sup>](#table2)
 - Bounty Collected: 0.292[<sup>2</sup>](#table1)
 - Opponent Network: 0.191[<sup>2</sup>](#table1)
 - LAN Wins: 0.000[<sup>2</sup>](#table1)
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.215<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 810.8
-- 400 + ( ( 0.215 - 0.000 ) / ( 0.839 - 0.000 ) ) * 1600 = 810.8
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 807.4
+- 400 + ( ( 0.215 - 0.000 ) / ( 0.845 - 0.000 ) ) * 1600 = 807.4
 
 
 #### Factors<br />
@@ -37,26 +37,26 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent                                  | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                        |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           23 |      134 | 2025-07-22 | ESC Gaming                                | L   | 1.000      | -            | -                | -                | -         |   -12.03 | delle, dex, JW, maxster, Ro1f |
-|           22 |      138 | 2025-07-21 | TPuDCATb TPu                              | W   | 1.000      | 0.435        | 0.020 (0.008)    | 0.937 (0.407)    | 0 (0.000) |    16.17 | delle, dex, JW, maxster, Ro1f |
-|           21 |      173 | 2025-07-19 | FORZE Reload                              | W   | 1.000      | 0.435        | 0.005 (0.002)    | 0.323 (0.140)    | 0 (0.000) |    15.49 | dex, HEAP, JW, maxster, Ro1f  |
+|           23 |      134 | 2025-07-22 | ESC Gaming                                | L   | 1.000      | -            | -                | -                | -         |   -12.04 | delle, dex, JW, maxster, Ro1f |
+|           22 |      138 | 2025-07-21 | TPuDCATb TPu                              | W   | 1.000      | 0.435        | 0.019 (0.008)    | 0.937 (0.407)    | 0 (0.000) |    16.21 | delle, dex, JW, maxster, Ro1f |
+|           21 |      173 | 2025-07-19 | FORZE Reload                              | W   | 1.000      | 0.435        | 0.005 (0.002)    | 0.323 (0.140)    | 0 (0.000) |    15.50 | dex, HEAP, JW, maxster, Ro1f  |
 |           20 |      217 | 2025-07-17 | NXT                                       | W   | 1.000      | 0.435        | 0.001 (0.001)    | 0.274 (0.119)    | 0 (0.000) |    15.04 | dex, HEAP, JW, maxster, Ro1f  |
-|           19 |      245 | 2025-07-16 | GUN5 Esports                              | L   | 1.000      | -            | -                | -                | -         |    -9.54 | dex, HEAP, JW, maxster, Ro1f  |
-|           18 |      372 | 2025-07-11 | Iberian Soul                              | L   | 1.000      | -            | -                | -                | -         |    -2.59 | dex, HEAP, JW, maxster, Ro1f  |
-|           17 |      444 | 2025-07-07 | FORZE Reload                              | L   | 1.000      | -            | -                | -                | -         |   -15.72 | dex, HEAP, JW, maxster, Ro1f  |
-|           16 |      469 | 2025-07-03 | NOVAQ                                     | W   | 0.984      | 0.483        | 0.000 (0.000)    | 0.380 (0.180)    | 0 (0.000) |     7.67 | dex, HEAP, JW, maxster, Ro1f  |
+|           19 |      245 | 2025-07-16 | GUN5 Esports                              | L   | 1.000      | -            | -                | -                | -         |    -9.53 | dex, HEAP, JW, maxster, Ro1f  |
+|           18 |      372 | 2025-07-11 | Iberian Soul                              | L   | 1.000      | -            | -                | -                | -         |    -2.63 | dex, HEAP, JW, maxster, Ro1f  |
+|           17 |      444 | 2025-07-07 | FORZE Reload                              | L   | 1.000      | -            | -                | -                | -         |   -15.71 | dex, HEAP, JW, maxster, Ro1f  |
+|           16 |      469 | 2025-07-03 | NOVAQ                                     | W   | 0.984      | 0.483        | 0.000 (0.000)    | 0.380 (0.180)    | 0 (0.000) |     7.71 | dex, HEAP, JW, maxster, Ro1f  |
 |           15 |      472 | 2025-07-02 | AMKAL ESPORTS                             | W   | 0.979      | 0.483        | 0.005 (0.002)    | 0.609 (0.288)    | 0 (0.000) |    15.72 | dex, HEAP, JW, maxster, Ro1f  |
-|           14 |      476 | 2025-07-02 | NOVAQ                                     | W   | 0.977      | 0.435        | 0.000 (0.000)    | 0.380 (0.161)    | 0 (0.000) |     8.69 | dex, HEAP, JW, maxster, Ro1f  |
-|           13 |      508 | 2025-06-26 | RUBY                                      | W   | 0.938      | 0.435        | 0.024 (0.010)    | 0.921 (0.375)    | 0 (0.000) |    17.76 | delle, dex, HEAP, JW, Ro1f    |
-|           12 |      695 | 2025-06-14 | Sashi Esport                              | L   | 0.856      | -            | -                | -                | -         |    -6.92 | dex, HEAP, JW, poiii, Ro1f    |
-|           11 |      703 | 2025-06-13 | ECSTATIC                                  | L   | 0.852      | -            | -                | -                | -         |    -1.76 | dex, HEAP, JW, poiii, Ro1f    |
-|           10 |      814 | 2025-06-08 | Monte                                     | L   | 0.816      | -            | -                | -                | -         |   -10.93 | dex, HEAP, JW, poiii, Ro1f    |
-|            9 |      855 | 2025-06-05 | ENCE Academy                              | W   | 0.796      | 0.384        | 0.021 (0.006)    | 0.208 (0.064)    | 0 (0.000) |    11.98 | dex, HEAP, JW, poiii, Ro1f    |
-|            8 |      869 | 2025-06-04 | Monte                                     | L   | 0.789      | -            | -                | -                | -         |   -10.54 | dex, HEAP, JW, poiii, Ro1f    |
-|            7 |      917 | 2025-05-29 | 8Sins                                     | W   | 0.751      | 0.384        | 0.001 (0.000)    | 0.124 (0.036)    | 0 (0.000) |     8.03 | dex, HEAP, JW, poiii, Ro1f    |
+|           14 |      476 | 2025-07-02 | NOVAQ                                     | W   | 0.977      | 0.435        | 0.000 (0.000)    | 0.380 (0.161)    | 0 (0.000) |     8.74 | dex, HEAP, JW, maxster, Ro1f  |
+|           13 |      508 | 2025-06-26 | RUBY                                      | W   | 0.938      | 0.435        | 0.024 (0.010)    | 0.921 (0.375)    | 0 (0.000) |    17.78 | delle, dex, HEAP, JW, Ro1f    |
+|           12 |      695 | 2025-06-14 | Sashi Esport                              | L   | 0.856      | -            | -                | -                | -         |    -6.93 | dex, HEAP, JW, poiii, Ro1f    |
+|           11 |      703 | 2025-06-13 | ECSTATIC                                  | L   | 0.852      | -            | -                | -                | -         |    -1.77 | dex, HEAP, JW, poiii, Ro1f    |
+|           10 |      814 | 2025-06-08 | Monte                                     | L   | 0.816      | -            | -                | -                | -         |   -10.92 | dex, HEAP, JW, poiii, Ro1f    |
+|            9 |      855 | 2025-06-05 | ENCE Academy                              | W   | 0.796      | 0.384        | 0.021 (0.006)    | 0.208 (0.064)    | 0 (0.000) |    11.99 | dex, HEAP, JW, poiii, Ro1f    |
+|            8 |      869 | 2025-06-04 | Monte                                     | L   | 0.789      | -            | -                | -                | -         |   -10.53 | dex, HEAP, JW, poiii, Ro1f    |
+|            7 |      917 | 2025-05-29 | 8Sins                                     | W   | 0.751      | 0.384        | 0.001 (0.000)    | 0.124 (0.036)    | 0 (0.000) |     8.07 | dex, HEAP, JW, poiii, Ro1f    |
 |            6 |      939 | 2025-05-27 | Copenhagen Wolves (American organization) | W   | 0.737      | 0.384        | 0.028 (0.008)    | 0.487 (0.138)    | 0 (0.000) |    11.54 | dex, HEAP, JW, poiii, Ro1f    |
-|            5 |     1457 | 2025-05-04 | Megoshort                                 | L   | 0.584      | -            | -                | -                | -         |   -12.88 | delle, dex, HEAP, JW, poiii   |
-|            4 |     1485 | 2025-05-03 | Johnny Speeds                             | L   | 0.578      | -            | -                | -                | -         |    -5.44 | delle, dex, HEAP, JW, poiii   |
+|            5 |     1457 | 2025-05-04 | Megoshort                                 | L   | 0.584      | -            | -                | -                | -         |   -12.85 | delle, dex, HEAP, JW, poiii   |
+|            4 |     1485 | 2025-05-03 | Johnny Speeds                             | L   | 0.578      | -            | -                | -                | -         |    -5.46 | delle, dex, HEAP, JW, poiii   |
 |            3 |     1914 | 2025-04-13 | Sashi Esport                              | L   | 0.443      | -            | -                | -                | -         |    -4.03 | delle, dex, HEAP, JW, poiii   |
 |            2 |     3451 | 2025-02-22 | Sangal Esports                            | L   | 0.110      | -            | -                | -                | -         |    -1.27 | delle, dex, HEAP, JW, poiii   |
 |            1 |     3468 | 2025-02-21 | BC.Game Esports                           | L   | 0.103      | -            | -                | -                | -         |    -1.52 | delle, dex, HEAP, JW, poiii   |
@@ -66,7 +66,7 @@ Note:<br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($10,000.00)
-- Divide that value by the 5th highest value among all rosters ($436,168.75)
+- Divide that value by the 5th highest value among all rosters ($439,157.18)
 - The final value (0.02) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

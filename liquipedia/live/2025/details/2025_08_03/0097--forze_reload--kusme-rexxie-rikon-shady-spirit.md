@@ -6,13 +6,13 @@ Global Rank: [97](../../standings_global_2025_08_03.md)<br />
 Region: [Europe]( ../../standings_europe_2025_08_03.md)<br />
 Regional Rank: [66]( ../../standings_europe_2025_08_03.md)<br />
 <br />
-Final Rank Value:  818.2<br />
+Final Rank Value:  815.2<br />
 <br />
-Final Rank Value (818.2) = Starting Rank Value (764.0) + Head To Head Adjustments (54.1)<br />
+Final Rank Value (815.2) = Starting Rank Value (761.1) + Head To Head Adjustments (54.1)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
-- Bounty Offered: 0.300[<sup>1</sup>](#table2)
+- Bounty Offered: 0.299[<sup>1</sup>](#table2)
 - Bounty Collected: 0.304[<sup>2</sup>](#table1)
 - Opponent Network: 0.160[<sup>2</sup>](#table1)
 - LAN Wins: 0.000[<sup>2</sup>](#table1)
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.191<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 764.0
-- 400 + ( ( 0.191 - 0.000 ) / ( 0.839 - 0.000 ) ) * 1600 = 764.0
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 761.1
+- 400 + ( ( 0.191 - 0.000 ) / ( 0.845 - 0.000 ) ) * 1600 = 761.1
 
 
 #### Factors<br />
@@ -37,18 +37,18 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent            | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                              |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           13 |      173 | 2025-07-19 | EYEBALLERS          | L   | 1.000      | -            | -                | -                | -         |   -15.49 | KusMe, rexxie, rikon, shady, spirit |
-|           12 |      387 | 2025-07-10 | Passion UA          | L   | 1.000      | -            | -                | -                | -         |    -4.02 | KusMe, rexxie, rikon, shady, spirit |
-|           11 |      444 | 2025-07-07 | EYEBALLERS          | W   | 1.000      | 0.435        | 0.023 (0.010)    | 0.406 (0.176)    | 0 (0.000) |    15.72 | KusMe, rexxie, rikon, shady, spirit |
-|           10 |      448 | 2025-07-07 | AMKAL ESPORTS       | W   | 1.000      | 0.483        | 0.005 (0.002)    | 0.609 (0.294)    | 0 (0.000) |    16.65 | KusMe, rexxie, rikon, shady, spirit |
-|            9 |      454 | 2025-07-06 | SENZA Esports       | W   | 1.000      | 0.483        | 0.009 (0.005)    | 0.373 (0.180)    | 0 (0.000) |    15.31 | KusMe, rexxie, rikon, shady, spirit |
-|            8 |      463 | 2025-07-04 | Fisher College      | W   | 0.991      | 0.483        | 0.001 (0.001)    | 0.255 (0.122)    | 0 (0.000) |     9.68 | KusMe, rexxie, rikon, shady, spirit |
-|            7 |      474 | 2025-07-02 | Fire Flux Esports   | L   | 0.978      | -            | -                | -                | -         |   -13.48 | KusMe, rexxie, rikon, shady, spirit |
-|            6 |      489 | 2025-06-30 | TPuDCATb TPu        | W   | 0.964      | 0.435        | 0.020 (0.008)    | 0.937 (0.393)    | 0 (0.000) |    17.18 | KusMe, rexxie, rikon, shady, spirit |
-|            5 |      513 | 2025-06-25 | Marius              | W   | 0.931      | 0.435        | 0.011 (0.005)    | 0.548 (0.222)    | 0 (0.000) |    15.17 | KusMe, rexxie, rikon, shady, spirit |
-|            4 |     1021 | 2025-05-21 | SINNERS Esports     | L   | 0.699      | -            | -                | -                | -         |    -7.37 | KusMe, rexxie, rikon, shady, spirit |
-|            3 |     1120 | 2025-05-17 | Dynamo Eclot        | L   | 0.670      | -            | -                | -                | -         |    -5.88 | KusMe, rexxie, rikon, shady, spirit |
-|            2 |     1221 | 2025-05-13 | Team Spirit Academy | L   | 0.644      | -            | -                | -                | -         |    -3.80 | KusMe, rexxie, rikon, shady, spirit |
+|           13 |      173 | 2025-07-19 | EYEBALLERS          | L   | 1.000      | -            | -                | -                | -         |   -15.50 | KusMe, rexxie, rikon, shady, spirit |
+|           12 |      387 | 2025-07-10 | Passion UA          | L   | 1.000      | -            | -                | -                | -         |    -4.05 | KusMe, rexxie, rikon, shady, spirit |
+|           11 |      444 | 2025-07-07 | EYEBALLERS          | W   | 1.000      | 0.435        | 0.023 (0.010)    | 0.406 (0.176)    | 0 (0.000) |    15.71 | KusMe, rexxie, rikon, shady, spirit |
+|           10 |      448 | 2025-07-07 | AMKAL ESPORTS       | W   | 1.000      | 0.483        | 0.005 (0.002)    | 0.609 (0.294)    | 0 (0.000) |    16.64 | KusMe, rexxie, rikon, shady, spirit |
+|            9 |      454 | 2025-07-06 | SENZA Esports       | W   | 1.000      | 0.483        | 0.009 (0.004)    | 0.373 (0.180)    | 0 (0.000) |    15.31 | KusMe, rexxie, rikon, shady, spirit |
+|            8 |      463 | 2025-07-04 | Fisher College      | W   | 0.991      | 0.483        | 0.001 (0.001)    | 0.255 (0.122)    | 0 (0.000) |     9.70 | KusMe, rexxie, rikon, shady, spirit |
+|            7 |      474 | 2025-07-02 | Fire Flux Esports   | L   | 0.978      | -            | -                | -                | -         |   -13.49 | KusMe, rexxie, rikon, shady, spirit |
+|            6 |      489 | 2025-06-30 | TPuDCATb TPu        | W   | 0.964      | 0.435        | 0.019 (0.008)    | 0.937 (0.393)    | 0 (0.000) |    17.22 | KusMe, rexxie, rikon, shady, spirit |
+|            5 |      513 | 2025-06-25 | Marius              | W   | 0.931      | 0.435        | 0.011 (0.005)    | 0.548 (0.222)    | 0 (0.000) |    15.16 | KusMe, rexxie, rikon, shady, spirit |
+|            4 |     1021 | 2025-05-21 | SINNERS Esports     | L   | 0.699      | -            | -                | -                | -         |    -7.36 | KusMe, rexxie, rikon, shady, spirit |
+|            3 |     1120 | 2025-05-17 | Dynamo Eclot        | L   | 0.670      | -            | -                | -                | -         |    -5.87 | KusMe, rexxie, rikon, shady, spirit |
+|            2 |     1221 | 2025-05-13 | Team Spirit Academy | L   | 0.644      | -            | -                | -                | -         |    -3.81 | KusMe, rexxie, rikon, shady, spirit |
 |            1 |     1266 | 2025-05-11 | Partizan Esports    | W   | 0.631      | 0.435        | 0.077 (0.021)    | 0.782 (0.214)    | 0 (0.000) |    14.46 | KusMe, rexxie, rikon, shady, spirit |
 
 <br />
@@ -56,7 +56,7 @@ Note:<br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($2,000.00)
-- Divide that value by the 5th highest value among all rosters ($436,168.75)
+- Divide that value by the 5th highest value among all rosters ($439,157.18)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

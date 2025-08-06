@@ -6,9 +6,9 @@ Global Rank: [136](../../standings_global_2025_08_03.md)<br />
 Region: [Europe]( ../../standings_europe_2025_08_03.md)<br />
 Regional Rank: [86]( ../../standings_europe_2025_08_03.md)<br />
 <br />
-Final Rank Value:  689.8<br />
+Final Rank Value:  687.7<br />
 <br />
-Final Rank Value (689.8) = Starting Rank Value (649.9) + Head To Head Adjustments (39.9)<br />
+Final Rank Value (687.7) = Starting Rank Value (647.8) + Head To Head Adjustments (39.9)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.131<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 649.9
-- 400 + ( ( 0.131 - 0.000 ) / ( 0.839 - 0.000 ) ) * 1600 = 649.9
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 647.8
+- 400 + ( ( 0.131 - 0.000 ) / ( 0.845 - 0.000 ) ) * 1600 = 647.8
 
 
 #### Factors<br />
@@ -37,20 +37,20 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                             |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           15 |      367 | 2025-07-11 | PARIVISION       | L   | 1.000      | -            | -                | -                | -         |    -3.70 | Fugor, keis, Masi, virtuoso, Xydoo |
-|           14 |      445 | 2025-07-07 | Wildcard Academy | W   | 1.000      | 0.483        | 0.001 (0.000)    | 0.130 (0.063)    | 0 (0.000) |    14.45 | Fugor, keis, Masi, virtuoso, Xydoo |
+|           15 |      367 | 2025-07-11 | PARIVISION       | L   | 1.000      | -            | -                | -                | -         |    -3.72 | Fugor, keis, Masi, virtuoso, Xydoo |
+|           14 |      445 | 2025-07-07 | Wildcard Academy | W   | 1.000      | 0.483        | 0.001 (0.000)    | 0.130 (0.063)    | 0 (0.000) |    14.46 | Fugor, keis, Masi, virtuoso, Xydoo |
 |           13 |      452 | 2025-07-06 | NOVAQ            | W   | 1.000      | 0.483        | 0.000 (0.000)    | 0.380 (0.183)    | 0 (0.000) |    13.63 | Fugor, keis, Masi, virtuoso, Xydoo |
-|           12 |      464 | 2025-07-04 | Anonymo Esports  | W   | 0.990      | 0.483        | 0.000 (0.000)    | 0.049 (0.024)    | 0 (0.000) |     8.57 | Fugor, keis, Masi, virtuoso, Xydoo |
+|           12 |      464 | 2025-07-04 | Anonymo Esports  | W   | 0.990      | 0.483        | 0.000 (0.000)    | 0.049 (0.024)    | 0 (0.000) |     8.62 | Fugor, keis, Masi, virtuoso, Xydoo |
 |           11 |      477 | 2025-07-02 | TPuDCATb TPu     | L   | 0.976      | -            | -                | -                | -         |    -8.70 | Fugor, keis, Masi, virtuoso, Xydoo |
-|           10 |      791 | 2025-06-09 | HEROIC Academy   | L   | 0.825      | -            | -                | -                | -         |   -10.25 | Fugor, keis, Masi, showk, Xydoo    |
-|            9 |      812 | 2025-06-08 | NOVAQ            | W   | 0.817      | 0.384        | 0.000 (0.000)    | 0.380 (0.119)    | 0 (0.000) |    11.61 | Fugor, keis, Masi, showk, Xydoo    |
-|            8 |      854 | 2025-06-05 | Modeame          | W   | 0.797      | 0.384        | 0.004 (0.001)    | 0.326 (0.100)    | 0 (0.000) |    14.10 | Fugor, keis, Masi, showk, Xydoo    |
-|            7 |      864 | 2025-06-04 | AMKAL ESPORTS    | L   | 0.791      | -            | -                | -                | -         |    -7.48 | Fugor, keis, Masi, showk, Xydoo    |
-|            6 |     2660 | 2025-03-20 | Ex-Sabre Esports | L   | 0.285      | -            | -                | -                | -         |    -3.06 | Fugor, keis, Masi, showk, Xydoo    |
-|            5 |     2731 | 2025-03-18 | Modeame          | W   | 0.272      | 0.372        | 0.004 (0.000)    | 0.326 (0.033)    | 0 (0.000) |     5.28 | Fugor, keis, Masi, showk, Xydoo    |
-|            4 |     2789 | 2025-03-14 | Nuclear TigeRES  | W   | 0.245      | 0.372        | 0.001 (0.000)    | 0.021 (0.002)    | 0 (0.000) |     2.47 | Fugor, keis, Masi, showk, Xydoo    |
+|           10 |      791 | 2025-06-09 | HEROIC Academy   | L   | 0.825      | -            | -                | -                | -         |   -10.27 | Fugor, keis, Masi, showk, Xydoo    |
+|            9 |      812 | 2025-06-08 | NOVAQ            | W   | 0.817      | 0.384        | 0.000 (0.000)    | 0.380 (0.119)    | 0 (0.000) |    11.63 | Fugor, keis, Masi, showk, Xydoo    |
+|            8 |      854 | 2025-06-05 | Modeame          | W   | 0.797      | 0.384        | 0.004 (0.001)    | 0.326 (0.100)    | 0 (0.000) |    14.08 | Fugor, keis, Masi, showk, Xydoo    |
+|            7 |      864 | 2025-06-04 | AMKAL ESPORTS    | L   | 0.791      | -            | -                | -                | -         |    -7.52 | Fugor, keis, Masi, showk, Xydoo    |
+|            6 |     2660 | 2025-03-20 | Ex-Sabre Esports | L   | 0.285      | -            | -                | -                | -         |    -3.07 | Fugor, keis, Masi, showk, Xydoo    |
+|            5 |     2731 | 2025-03-18 | Modeame          | W   | 0.272      | 0.372        | 0.004 (0.000)    | 0.326 (0.033)    | 0 (0.000) |     5.27 | Fugor, keis, Masi, showk, Xydoo    |
+|            4 |     2789 | 2025-03-14 | Nuclear TigeRES  | W   | 0.245      | 0.372        | 0.001 (0.000)    | 0.021 (0.002)    | 0 (0.000) |     2.48 | Fugor, keis, Masi, showk, Xydoo    |
 |            3 |     2820 | 2025-03-12 | FUT Esports      | W   | 0.233      | 0.372        | 0.000 (0.000)    | 0.154 (0.013)    | 0 (0.000) |     4.22 | Fugor, keis, Masi, showk, Xydoo    |
-|            2 |     2980 | 2025-03-08 | AMKAL ESPORTS    | L   | 0.206      | -            | -                | -                | -         |    -3.70 | Fugor, keis, Masi, showk, Xydoo    |
+|            2 |     2980 | 2025-03-08 | AMKAL ESPORTS    | L   | 0.206      | -            | -                | -                | -         |    -3.69 | Fugor, keis, Masi, showk, Xydoo    |
 |            1 |     3125 | 2025-03-06 | Ex-Heimo Esports | W   | 0.192      | 0.372        | 0.000 (0.000)    | 0.019 (0.001)    | 0 (0.000) |     2.45 | Fugor, keis, Masi, showk, Xydoo    |
 
 <br />
@@ -58,7 +58,7 @@ Note:<br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($596.67)
-- Divide that value by the 5th highest value among all rosters ($436,168.75)
+- Divide that value by the 5th highest value among all rosters ($439,157.18)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

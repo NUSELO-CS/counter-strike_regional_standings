@@ -6,22 +6,22 @@ Global Rank: [134](../../standings_global_2025_08_03.md)<br />
 Region: [Asia]( ../../standings_asia_2025_08_03.md)<br />
 Regional Rank: [14]( ../../standings_asia_2025_08_03.md)<br />
 <br />
-Final Rank Value:  683.7<br />
+Final Rank Value:  680.2<br />
 <br />
-Final Rank Value (683.7) = Starting Rank Value (688.5) + Head To Head Adjustments (-4.8)<br />
+Final Rank Value (680.2) = Starting Rank Value (684.9) + Head To Head Adjustments (-4.7)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
-- Bounty Offered: 0.295[<sup>1</sup>](#table2)
-- Bounty Collected: 0.294[<sup>2</sup>](#table1)
+- Bounty Offered: 0.294[<sup>1</sup>](#table2)
+- Bounty Collected: 0.295[<sup>2</sup>](#table1)
 - Opponent Network: 0.013[<sup>2</sup>](#table1)
 - LAN Wins: 0.000[<sup>2</sup>](#table1)
 
-The average of these factors is 0.150<br />
+The average of these factors is 0.151<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 688.5
-- 400 + ( ( 0.150 - 0.000 ) / ( 0.834 - 0.000 ) ) * 1600 = 688.5
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 684.9
+- 400 + ( ( 0.151 - 0.000 ) / ( 0.845 - 0.000 ) ) * 1600 = 684.9
 
 
 #### Factors<br />
@@ -37,43 +37,43 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent                   | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                               |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           30 |       32 | 2025-07-31 | The Huns Esports           | L   | 1.000      | -            | -                | -                | -         |    -5.30 | 1337x9, 3gl, Biuckmt, chengking, p5p |
-|           29 |      334 | 2025-07-12 | IHC Esports                | L   | 1.000      | -            | -                | -                | -         |   -15.92 | 1337x9, 3gl, Biuckmt, p5p, сhengking |
-|           28 |      340 | 2025-07-12 | SemperFi Esports           | L   | 1.000      | -            | -                | -                | -         |   -10.99 | 1337x9, 3gl, Biuckmt, p5p, сhengking |
-|           27 |      376 | 2025-07-11 | Ground Zero Gaming         | W   | 1.000      | 0.143        | 0.003 (0.000)    | 0.211 (0.030)    | 0 (0.000) |    14.06 | 1337x9, 3gl, Biuckmt, p5p, сhengking |
-|           26 |      459 | 2025-07-05 | Wings Up Gaming            | L   | 0.997      | -            | -                | -                | -         |   -11.46 | 1337x9, 3gl, Biuckmt, Marek, p5p     |
-|           25 |     1563 | 2025-04-30 | Rare Atom                  | L   | 0.557      | -            | -                | -                | -         |    -1.48 | 1337x9, 3gl, bea2, chengking, p5p    |
+|           30 |       32 | 2025-07-31 | The Huns Esports           | L   | 1.000      | -            | -                | -                | -         |    -5.39 | 1337x9, 3gl, Biuckmt, chengking, p5p |
+|           29 |      334 | 2025-07-12 | IHC Esports                | L   | 1.000      | -            | -                | -                | -         |   -15.94 | 1337x9, 3gl, Biuckmt, p5p, сhengking |
+|           28 |      340 | 2025-07-12 | SemperFi Esports           | L   | 1.000      | -            | -                | -                | -         |   -11.03 | 1337x9, 3gl, Biuckmt, p5p, сhengking |
+|           27 |      376 | 2025-07-11 | Ground Zero Gaming         | W   | 1.000      | 0.143        | 0.005 (0.001)    | 0.211 (0.030)    | 0 (0.000) |    14.33 | 1337x9, 3gl, Biuckmt, p5p, сhengking |
+|           26 |      459 | 2025-07-05 | Wings Up Gaming            | L   | 0.997      | -            | -                | -                | -         |   -11.48 | 1337x9, 3gl, Biuckmt, Marek, p5p     |
+|           25 |     1563 | 2025-04-30 | Rare Atom                  | L   | 0.557      | -            | -                | -                | -         |    -1.49 | 1337x9, 3gl, bea2, chengking, p5p    |
 |           24 |     1589 | 2025-04-29 | Just Swing (Chinese team)  | W   | 0.551      | 0.416        | 0.001 (0.000)    | 0.114 (0.026)    | 0 (0.000) |     7.79 | 1337x9, 3gl, bea2, chengking, p5p    |
-|           23 |     1982 | 2025-04-09 | -72C                       | W   | 0.418      | 0.143        | 0.003 (0.000)    | 0.092 (0.005)    | 0 (0.000) |     4.71 | 1337x9, 3gl, chengking, Jung1e, p5p  |
-|           22 |     1989 | 2025-04-09 | -72C                       | W   | 0.417      | 0.143        | 0.003 (0.000)    | 0.092 (0.005)    | 0 (0.000) |     4.87 | 1337x9, 3gl, chengking, Jung1e, p5p  |
+|           23 |     1982 | 2025-04-09 | -72C                       | W   | 0.418      | 0.143        | 0.003 (0.000)    | 0.092 (0.005)    | 0 (0.000) |     4.72 | 1337x9, 3gl, chengking, Jung1e, p5p  |
+|           22 |     1989 | 2025-04-09 | -72C                       | W   | 0.417      | 0.143        | 0.003 (0.000)    | 0.092 (0.005)    | 0 (0.000) |     4.88 | 1337x9, 3gl, chengking, Jung1e, p5p  |
 |           21 |     2032 | 2025-04-08 | Gods Reign                 | L   | 0.411      | -            | -                | -                | -         |    -7.45 | 1337x9, 3gl, chengking, Jung1e, p5p  |
 |           20 |     2040 | 2025-04-08 | Gods Reign                 | W   | 0.411      | 0.143        | 0.002 (0.000)    | 0.118 (0.007)    | 0 (0.000) |     5.59 | 1337x9, 3gl, chengking, Jung1e, p5p  |
-|           19 |     2244 | 2025-04-01 | Kaleido Gaming             | W   | 0.364      | 0.143        | 0.011 (0.001)    | 0.147 (0.008)    | 0 (0.000) |     6.21 | 1337x9, 3gl, chengking, Jung1e, p5p  |
-|           18 |     2251 | 2025-04-01 | Kaleido Gaming             | W   | 0.364      | 0.143        | 0.011 (0.001)    | 0.147 (0.008)    | 0 (0.000) |     6.41 | 1337x9, 3gl, chengking, Jung1e, p5p  |
-|           17 |     2541 | 2025-03-26 | The Huns Esports           | L   | 0.324      | -            | -                | -                | -         |    -1.54 | 1337x9, 3gl, chengking, Jung1e, p5p  |
-|           16 |     2548 | 2025-03-26 | The Huns Esports           | L   | 0.324      | -            | -                | -                | -         |    -1.57 | 1337x9, 3gl, chengking, Jung1e, p5p  |
+|           19 |     2244 | 2025-04-01 | Kaleido Gaming             | W   | 0.364      | 0.143        | 0.011 (0.001)    | 0.147 (0.008)    | 0 (0.000) |     6.20 | 1337x9, 3gl, chengking, Jung1e, p5p  |
+|           18 |     2251 | 2025-04-01 | Kaleido Gaming             | W   | 0.364      | 0.143        | 0.011 (0.001)    | 0.147 (0.008)    | 0 (0.000) |     6.39 | 1337x9, 3gl, chengking, Jung1e, p5p  |
+|           17 |     2541 | 2025-03-26 | The Huns Esports           | L   | 0.324      | -            | -                | -                | -         |    -1.58 | 1337x9, 3gl, chengking, Jung1e, p5p  |
+|           16 |     2548 | 2025-03-26 | The Huns Esports           | L   | 0.324      | -            | -                | -                | -         |    -1.60 | 1337x9, 3gl, chengking, Jung1e, p5p  |
 |           15 |     2579 | 2025-03-25 | Just Swing (Chinese team)  | W   | 0.318      | 0.143        | 0.001 (0.000)    | 0.114 (0.005)    | 0 (0.000) |     4.96 | 1337x9, 3gl, chengking, Jung1e, p5p  |
 |           14 |     2587 | 2025-03-25 | Just Swing (Chinese team)  | L   | 0.318      | -            | -                | -                | -         |    -5.14 | 1337x9, 3gl, chengking, Jung1e, p5p  |
-|           13 |     2603 | 2025-03-24 | TYLOO                      | L   | 0.311      | -            | -                | -                | -         |    -0.02 | 1337x9, 3gl, chengking, Jung1e, p5p  |
-|           12 |     2604 | 2025-03-24 | TYLOO                      | W   | 0.310      | 0.143        | 0.851 (0.038)    | 0.732 (0.032)    | 0 (0.000) |     9.75 | 1337x9, 3gl, chengking, Jung1e, p5p  |
-|           11 |     2664 | 2025-03-20 | Rare Atom                  | L   | 0.284      | -            | -                | -                | -         |    -0.69 | 1337x9, 3gl, chengking, Jung1e, p5p  |
-|           10 |     2665 | 2025-03-20 | Rare Atom                  | L   | 0.284      | -            | -                | -                | -         |    -0.69 | 1337x9, 3gl, chengking, Jung1e, p5p  |
-|            9 |     2737 | 2025-03-18 | Looking4Org (Russian team) | L   | 0.271      | -            | -                | -                | -         |    -6.47 | 1337x9, 3gl, chengking, Jung1e, p5p  |
-|            8 |     2743 | 2025-03-18 | Looking4Org (Russian team) | W   | 0.271      | 0.143        | 0.000 (0.000)    | -                | 0 (0.000) |     2.08 | 1337x9, 3gl, chengking, Jung1e, p5p  |
-|            7 |     3303 | 2025-02-27 | The QUBE Esports           | W   | 0.144      | -            | -                | -                | -         |     1.19 | 1337x9, 3gl, chengking, Jung1e, p5p  |
-|            6 |     3304 | 2025-02-27 | The QUBE Esports           | W   | 0.144      | -            | -                | -                | -         |     1.20 | 1337x9, 3gl, chengking, Jung1e, p5p  |
-|            5 |     3362 | 2025-02-25 | Change The Game            | L   | 0.135      | -            | -                | -                | -         |    -2.93 | 1337x9, 3gl, chengking, Jung1e, p5p  |
-|            4 |     3396 | 2025-02-24 | T.Beast                    | W   | 0.128      | -            | -                | -                | -         |     0.68 | 1337x9, 3gl, chengking, Jung1e, p5p  |
+|           13 |     2603 | 2025-03-24 | TYLOO                      | L   | 0.311      | -            | -                | -                | -         |    -0.03 | 1337x9, 3gl, chengking, Jung1e, p5p  |
+|           12 |     2604 | 2025-03-24 | TYLOO                      | W   | 0.310      | 0.143        | 0.864 (0.038)    | 0.732 (0.032)    | 0 (0.000) |     9.75 | 1337x9, 3gl, chengking, Jung1e, p5p  |
+|           11 |     2664 | 2025-03-20 | Rare Atom                  | L   | 0.284      | -            | -                | -                | -         |    -0.70 | 1337x9, 3gl, chengking, Jung1e, p5p  |
+|           10 |     2665 | 2025-03-20 | Rare Atom                  | L   | 0.284      | -            | -                | -                | -         |    -0.70 | 1337x9, 3gl, chengking, Jung1e, p5p  |
+|            9 |     2737 | 2025-03-18 | Looking4Org (Russian team) | L   | 0.271      | -            | -                | -                | -         |    -6.45 | 1337x9, 3gl, chengking, Jung1e, p5p  |
+|            8 |     2743 | 2025-03-18 | Looking4Org (Russian team) | W   | 0.271      | 0.143        | 0.000 (0.000)    | -                | 0 (0.000) |     2.10 | 1337x9, 3gl, chengking, Jung1e, p5p  |
+|            7 |     3303 | 2025-02-27 | The QUBE Esports           | W   | 0.144      | -            | -                | -                | -         |     1.20 | 1337x9, 3gl, chengking, Jung1e, p5p  |
+|            6 |     3304 | 2025-02-27 | The QUBE Esports           | W   | 0.144      | -            | -                | -                | -         |     1.21 | 1337x9, 3gl, chengking, Jung1e, p5p  |
+|            5 |     3362 | 2025-02-25 | Change The Game            | L   | 0.135      | -            | -                | -                | -         |    -2.92 | 1337x9, 3gl, chengking, Jung1e, p5p  |
+|            4 |     3396 | 2025-02-24 | T.Beast                    | W   | 0.128      | -            | -                | -                | -         |     0.69 | 1337x9, 3gl, chengking, Jung1e, p5p  |
 |            3 |     3419 | 2025-02-23 | Wings Up Gaming            | L   | 0.122      | -            | -                | -                | -         |    -1.46 | 1337x9, 3gl, chengking, Jung1e, p5p  |
-|            2 |     3526 | 2025-02-18 | Nomads (Mongolian team)    | L   | 0.084      | -            | -                | -                | -         |    -1.93 | 1337x9, 3gl, chengking, Jung1e, p5p  |
-|            1 |     3529 | 2025-02-18 | Nomads (Mongolian team)    | W   | 0.084      | 0.143        | -                | 0.107 (0.001)    | -         |     0.73 | 1337x9, 3gl, chengking, Jung1e, p5p  |
+|            2 |     3526 | 2025-02-18 | Nomads (Mongolian team)    | L   | 0.084      | -            | -                | -                | -         |    -1.92 | 1337x9, 3gl, chengking, Jung1e, p5p  |
+|            1 |     3529 | 2025-02-18 | Nomads (Mongolian team)    | W   | 0.084      | 0.143        | -                | 0.107 (0.001)    | -         |     0.74 | 1337x9, 3gl, chengking, Jung1e, p5p  |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($1,758.15)
-- Divide that value by the 5th highest value among all rosters ($436,168.75)
+- Divide that value by the 5th highest value among all rosters ($439,157.18)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

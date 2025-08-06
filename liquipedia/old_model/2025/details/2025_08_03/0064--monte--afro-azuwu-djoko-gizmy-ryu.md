@@ -6,22 +6,22 @@ Global Rank: [64](../../standings_global_2025_08_03.md)<br />
 Region: [Europe]( ../../standings_europe_2025_08_03.md)<br />
 Regional Rank: [45]( ../../standings_europe_2025_08_03.md)<br />
 <br />
-Final Rank Value:  933.8<br />
+Final Rank Value:  927.9<br />
 <br />
-Final Rank Value (933.8) = Starting Rank Value (815.7) + Head To Head Adjustments (118.2)<br />
+Final Rank Value (927.9) = Starting Rank Value (809.9) + Head To Head Adjustments (118.0)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.265[<sup>1</sup>](#table2)
-- Bounty Collected: 0.370[<sup>2</sup>](#table1)
+- Bounty Collected: 0.369[<sup>2</sup>](#table1)
 - Opponent Network: 0.232[<sup>2</sup>](#table1)
 - LAN Wins: 0.000[<sup>2</sup>](#table1)
 
 The average of these factors is 0.217<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 815.7
-- 400 + ( ( 0.217 - 0.000 ) / ( 0.834 - 0.000 ) ) * 1600 = 815.7
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 809.9
+- 400 + ( ( 0.217 - 0.000 ) / ( 0.845 - 0.000 ) ) * 1600 = 809.9
 
 
 #### Factors<br />
@@ -37,59 +37,59 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent            | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                         |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           46 |       50 | 2025-07-28 | TPuDCATb TPu        | W   | 1.000      | 0.143        | -                | 0.937 (0.134)    | 0 (0.000) |    12.30 | afro, AZUWU, Djoko, Gizmy, ryu |
+|           46 |       50 | 2025-07-28 | TPuDCATb TPu        | W   | 1.000      | 0.143        | -                | 0.937 (0.134)    | 0 (0.000) |    12.34 | afro, AZUWU, Djoko, Gizmy, ryu |
 |           45 |       92 | 2025-07-26 | RUBY                | W   | 1.000      | 0.143        | 0.024 (0.003)    | -                | 0 (0.000) |    15.99 | afro, AZUWU, Djoko, Gizmy, ryu |
-|           44 |      107 | 2025-07-25 | Fisher College      | W   | 1.000      | -            | -                | -                | 0 (0.000) |     4.96 | afro, AZUWU, Djoko, Gizmy, ryu |
-|           43 |      586 | 2025-06-19 | TEAM NEXT LEVEL     | L   | 0.889      | -            | -                | -                | -         |    -4.60 | afro, Bymas, Djoko, Gizmy, ryu |
-|           42 |      614 | 2025-06-17 | Dynamo Eclot        | W   | 0.877      | 0.435        | 0.082 (0.031)    | 0.734 (0.280)    | 0 (0.000) |    12.97 | afro, Bymas, Djoko, Gizmy, ryu |
-|           41 |      671 | 2025-06-14 | Sangal Esports      | W   | 0.859      | 0.435        | 0.037 (0.014)    | 0.725 (0.271)    | 0 (0.000) |    17.71 | afro, Bymas, Djoko, Gizmy, ryu |
-|           40 |      712 | 2025-06-13 | Iberian Soul        | L   | 0.852      | -            | -                | -                | -         |    -3.13 | afro, Bymas, Djoko, Gizmy, ryu |
-|           39 |      768 | 2025-06-11 | Partizan Esports    | W   | 0.837      | 0.435        | 0.077 (0.028)    | 0.782 (0.284)    | 0 (0.000) |    16.37 | afro, Bymas, Djoko, Gizmy, ryu |
-|           38 |      795 | 2025-06-09 | Leo Team            | W   | 0.824      | -            | -                | -                | 0 (0.000) |     5.24 | afro, Bymas, Djoko, Gizmy, ryu |
-|           37 |      814 | 2025-06-08 | EYEBALLERS          | W   | 0.816      | -            | -                | -                | 0 (0.000) |    10.84 | afro, Bymas, Djoko, Gizmy, ryu |
+|           44 |      107 | 2025-07-25 | Fisher College      | W   | 1.000      | -            | -                | -                | 0 (0.000) |     5.00 | afro, AZUWU, Djoko, Gizmy, ryu |
+|           43 |      586 | 2025-06-19 | TEAM NEXT LEVEL     | L   | 0.889      | -            | -                | -                | -         |    -4.67 | afro, Bymas, Djoko, Gizmy, ryu |
+|           42 |      614 | 2025-06-17 | Dynamo Eclot        | W   | 0.877      | 0.435        | 0.081 (0.031)    | 0.734 (0.280)    | 0 (0.000) |    12.96 | afro, Bymas, Djoko, Gizmy, ryu |
+|           41 |      671 | 2025-06-14 | Sangal Esports      | W   | 0.859      | 0.435        | 0.037 (0.014)    | 0.725 (0.271)    | 0 (0.000) |    17.70 | afro, Bymas, Djoko, Gizmy, ryu |
+|           40 |      712 | 2025-06-13 | Iberian Soul        | L   | 0.852      | -            | -                | -                | -         |    -3.22 | afro, Bymas, Djoko, Gizmy, ryu |
+|           39 |      768 | 2025-06-11 | Partizan Esports    | W   | 0.837      | 0.435        | 0.077 (0.028)    | 0.782 (0.284)    | 0 (0.000) |    16.34 | afro, Bymas, Djoko, Gizmy, ryu |
+|           38 |      795 | 2025-06-09 | Leo Team            | W   | 0.824      | -            | -                | -                | 0 (0.000) |     5.32 | afro, Bymas, Djoko, Gizmy, ryu |
+|           37 |      814 | 2025-06-08 | EYEBALLERS          | W   | 0.816      | -            | -                | -                | 0 (0.000) |    10.85 | afro, Bymas, Djoko, Gizmy, ryu |
 |           36 |      853 | 2025-06-05 | FAVBET Team         | L   | 0.798      | -            | -                | -                | -         |   -11.13 | afro, Bymas, Djoko, Gizmy, ryu |
-|           35 |      869 | 2025-06-04 | EYEBALLERS          | W   | 0.789      | -            | -                | -                | 0 (0.000) |    10.42 | afro, Bymas, Djoko, Gizmy, ryu |
-|           34 |      925 | 2025-05-28 | Sangal Esports      | L   | 0.745      | -            | -                | -                | -         |    -6.83 | afro, Gizmy, hAdji, leen, ryu  |
-|           33 |      944 | 2025-05-26 | Team Spirit Academy | L   | 0.732      | -            | -                | -                | -         |    -5.35 | afro, Gizmy, hAdji, leen, ryu  |
-|           32 |      949 | 2025-05-26 | Dynamo Eclot        | W   | 0.731      | 0.435        | 0.082 (0.026)    | 0.734 (0.233)    | 0 (0.000) |    12.79 | afro, Gizmy, hAdji, leen, ryu  |
-|           31 |      961 | 2025-05-25 | Fire Flux Esports   | L   | 0.725      | -            | -                | -                | -         |   -13.00 | afro, Gizmy, hAdji, leen, ryu  |
-|           30 |      990 | 2025-05-23 | Nexus Gaming        | L   | 0.711      | -            | -                | -                | -         |    -7.99 | afro, Gizmy, hAdji, leen, ryu  |
-|           29 |      996 | 2025-05-23 | 9INE                | W   | 0.709      | -            | -                | -                | -         |    17.83 | afro, Gizmy, hAdji, leen, ryu  |
-|           28 |     1016 | 2025-05-22 | Zero Tenacity       | L   | 0.703      | -            | -                | -                | -         |    -9.16 | afro, Gizmy, hAdji, leen, ryu  |
-|           27 |     1023 | 2025-05-21 | Eternal Fire        | L   | 0.699      | -            | -                | -                | -         |   -12.79 | afro, Gizmy, hAdji, leen, ryu  |
-|           26 |     1031 | 2025-05-21 | Marius              | W   | 0.698      | 0.435        | -                | 0.548 (0.166)    | -         |     8.94 | afro, Gizmy, hAdji, leen, ryu  |
-|           25 |     1038 | 2025-05-21 | Sashi Esport        | L   | 0.697      | -            | -                | -                | -         |    -8.18 | afro, Gizmy, hAdji, leen, ryu  |
-|           24 |     1059 | 2025-05-20 | AMKAL ESPORTS       | W   | 0.691      | -            | -                | -                | -         |     8.60 | afro, Gizmy, hAdji, leen, ryu  |
-|           23 |     1076 | 2025-05-19 | SINNERS Esports     | L   | 0.686      | -            | -                | -                | -         |   -10.67 | afro, Gizmy, hAdji, leen, ryu  |
-|           22 |     1084 | 2025-05-19 | Partizan Esports    | W   | 0.685      | 0.435        | 0.077 (0.023)    | 0.782 (0.233)    | -         |    11.65 | afro, Gizmy, hAdji, leen, ryu  |
+|           35 |      869 | 2025-06-04 | EYEBALLERS          | W   | 0.789      | -            | -                | -                | 0 (0.000) |    10.43 | afro, Bymas, Djoko, Gizmy, ryu |
+|           34 |      925 | 2025-05-28 | Sangal Esports      | L   | 0.745      | -            | -                | -                | -         |    -6.85 | afro, Gizmy, hAdji, leen, ryu  |
+|           33 |      944 | 2025-05-26 | Team Spirit Academy | L   | 0.732      | -            | -                | -                | -         |    -5.38 | afro, Gizmy, hAdji, leen, ryu  |
+|           32 |      949 | 2025-05-26 | Dynamo Eclot        | W   | 0.731      | 0.435        | 0.081 (0.026)    | 0.734 (0.233)    | 0 (0.000) |    12.78 | afro, Gizmy, hAdji, leen, ryu  |
+|           31 |      961 | 2025-05-25 | Fire Flux Esports   | L   | 0.725      | -            | -                | -                | -         |   -12.99 | afro, Gizmy, hAdji, leen, ryu  |
+|           30 |      990 | 2025-05-23 | Nexus Gaming        | L   | 0.711      | -            | -                | -                | -         |    -8.03 | afro, Gizmy, hAdji, leen, ryu  |
+|           29 |      996 | 2025-05-23 | 9INE                | W   | 0.709      | -            | -                | -                | -         |    17.78 | afro, Gizmy, hAdji, leen, ryu  |
+|           28 |     1016 | 2025-05-22 | Zero Tenacity       | L   | 0.703      | -            | -                | -                | -         |    -9.18 | afro, Gizmy, hAdji, leen, ryu  |
+|           27 |     1023 | 2025-05-21 | Eternal Fire        | L   | 0.699      | -            | -                | -                | -         |   -12.78 | afro, Gizmy, hAdji, leen, ryu  |
+|           26 |     1031 | 2025-05-21 | Marius              | W   | 0.698      | 0.435        | -                | 0.548 (0.166)    | -         |     8.92 | afro, Gizmy, hAdji, leen, ryu  |
+|           25 |     1038 | 2025-05-21 | Sashi Esport        | L   | 0.697      | -            | -                | -                | -         |    -8.22 | afro, Gizmy, hAdji, leen, ryu  |
+|           24 |     1059 | 2025-05-20 | AMKAL ESPORTS       | W   | 0.691      | -            | -                | -                | -         |     8.61 | afro, Gizmy, hAdji, leen, ryu  |
+|           23 |     1076 | 2025-05-19 | SINNERS Esports     | L   | 0.686      | -            | -                | -                | -         |   -10.66 | afro, Gizmy, hAdji, leen, ryu  |
+|           22 |     1084 | 2025-05-19 | Partizan Esports    | W   | 0.685      | 0.435        | 0.077 (0.023)    | 0.782 (0.233)    | -         |    11.62 | afro, Gizmy, hAdji, leen, ryu  |
 |           21 |     1135 | 2025-05-16 | Fire Flux Esports   | L   | 0.665      | -            | -                | -                | -         |   -12.50 | afro, Gizmy, hAdji, leen, ryu  |
-|           20 |     1161 | 2025-05-15 | Iberian Soul        | L   | 0.658      | -            | -                | -                | -         |    -1.91 | afro, Gizmy, hAdji, leen, ryu  |
-|           19 |     1163 | 2025-05-15 | Nemiga Gaming       | L   | 0.657      | -            | -                | -                | -         |    -4.18 | afro, Gizmy, hAdji, leen, ryu  |
-|           18 |     1212 | 2025-05-13 | RUBY                | W   | 0.645      | 0.435        | 0.024 (0.007)    | 0.921 (0.258)    | -         |    11.70 | afro, Gizmy, hAdji, leen, ryu  |
-|           17 |     1239 | 2025-05-12 | Iberian Soul        | L   | 0.638      | -            | -                | -                | -         |    -1.65 | afro, Gizmy, hAdji, leen, ryu  |
-|           16 |     1248 | 2025-05-12 | Team Spirit Academy | W   | 0.637      | 0.143        | 0.065 (0.006)    | -                | -         |    14.61 | afro, Gizmy, hAdji, leen, ryu  |
+|           20 |     1161 | 2025-05-15 | Iberian Soul        | L   | 0.658      | -            | -                | -                | -         |    -1.98 | afro, Gizmy, hAdji, leen, ryu  |
+|           19 |     1163 | 2025-05-15 | Nemiga Gaming       | L   | 0.657      | -            | -                | -                | -         |    -3.78 | afro, Gizmy, hAdji, leen, ryu  |
+|           18 |     1212 | 2025-05-13 | RUBY                | W   | 0.645      | 0.435        | 0.024 (0.007)    | 0.921 (0.258)    | -         |    11.68 | afro, Gizmy, hAdji, leen, ryu  |
+|           17 |     1239 | 2025-05-12 | Iberian Soul        | L   | 0.638      | -            | -                | -                | -         |    -1.71 | afro, Gizmy, hAdji, leen, ryu  |
+|           16 |     1248 | 2025-05-12 | Team Spirit Academy | W   | 0.637      | 0.143        | 0.064 (0.006)    | -                | -         |    14.58 | afro, Gizmy, hAdji, leen, ryu  |
 |           15 |     1279 | 2025-05-11 | Dynamo Eclot        | L   | 0.629      | -            | -                | -                | -         |    -8.09 | afro, Gizmy, hAdji, leen, ryu  |
-|           14 |     1290 | 2025-05-10 | Iberian Soul        | W   | 0.626      | 0.435        | 0.183 (0.050)    | 1.000 (0.272)    | -         |    18.31 | afro, Gizmy, hAdji, leen, ryu  |
-|           13 |     1320 | 2025-05-09 | ECSTATIC            | L   | 0.618      | -            | -                | -                | -         |    -1.90 | afro, Gizmy, hAdji, leen, ryu  |
-|           12 |     1412 | 2025-05-06 | Sangal Esports      | W   | 0.598      | 0.435        | 0.037 (0.010)    | 0.725 (0.188)    | -         |    11.58 | afro, Gizmy, hAdji, leen, ryu  |
-|           11 |     1426 | 2025-05-05 | M1 Gaming           | W   | 0.592      | -            | -                | -                | -         |     7.49 | afro, Gizmy, hAdji, leen, ryu  |
-|           10 |     1441 | 2025-05-05 | Ex-Sabre Esports    | W   | 0.590      | -            | -                | -                | -         |     8.66 | afro, Gizmy, hAdji, leen, ryu  |
-|            9 |     1487 | 2025-05-03 | RUBY                | L   | 0.578      | -            | -                | -                | -         |    -6.88 | afro, Gizmy, hAdji, leen, ryu  |
-|            8 |     1525 | 2025-05-01 | Sangal Esports      | L   | 0.565      | -            | -                | -                | -         |    -6.46 | afro, Gizmy, hAdji, leen, ryu  |
-|            7 |     1531 | 2025-05-01 | Fire Flux Esports   | W   | 0.564      | -            | -                | -                | -         |     8.20 | afro, Gizmy, hAdji, leen, ryu  |
-|            6 |     1544 | 2025-04-30 | LA MASIA            | W   | 0.559      | -            | -                | -                | -         |     4.78 | afro, Gizmy, hAdji, leen, ryu  |
-|            5 |     1567 | 2025-04-30 | Zero Tenacity       | W   | 0.557      | -            | -                | -                | -         |    10.95 | afro, Gizmy, hAdji, leen, ryu  |
+|           14 |     1290 | 2025-05-10 | Iberian Soul        | W   | 0.626      | 0.435        | 0.182 (0.049)    | 1.000 (0.272)    | -         |    18.26 | afro, Gizmy, hAdji, leen, ryu  |
+|           13 |     1320 | 2025-05-09 | ECSTATIC            | L   | 0.618      | -            | -                | -                | -         |    -1.94 | afro, Gizmy, hAdji, leen, ryu  |
+|           12 |     1412 | 2025-05-06 | Sangal Esports      | W   | 0.598      | 0.435        | 0.037 (0.010)    | 0.725 (0.188)    | -         |    11.55 | afro, Gizmy, hAdji, leen, ryu  |
+|           11 |     1426 | 2025-05-05 | M1 Gaming           | W   | 0.592      | -            | -                | -                | -         |     7.51 | afro, Gizmy, hAdji, leen, ryu  |
+|           10 |     1441 | 2025-05-05 | Ex-Sabre Esports    | W   | 0.590      | -            | -                | -                | -         |     8.68 | afro, Gizmy, hAdji, leen, ryu  |
+|            9 |     1487 | 2025-05-03 | RUBY                | L   | 0.578      | -            | -                | -                | -         |    -6.90 | afro, Gizmy, hAdji, leen, ryu  |
+|            8 |     1525 | 2025-05-01 | Sangal Esports      | L   | 0.565      | -            | -                | -                | -         |    -6.49 | afro, Gizmy, hAdji, leen, ryu  |
+|            7 |     1531 | 2025-05-01 | Fire Flux Esports   | W   | 0.564      | -            | -                | -                | -         |     8.21 | afro, Gizmy, hAdji, leen, ryu  |
+|            6 |     1544 | 2025-04-30 | LA MASIA            | W   | 0.559      | -            | -                | -                | -         |     4.81 | afro, Gizmy, hAdji, leen, ryu  |
+|            5 |     1567 | 2025-04-30 | Zero Tenacity       | W   | 0.557      | -            | -                | -                | -         |    10.94 | afro, Gizmy, hAdji, leen, ryu  |
 |            4 |     1603 | 2025-04-28 | FAVBET Team         | W   | 0.544      | -            | -                | -                | -         |     8.96 | afro, Gizmy, hAdji, leen, ryu  |
-|            3 |     1737 | 2025-04-21 | Fire Flux Esports   | L   | 0.496      | -            | -                | -                | -         |    -7.88 | afro, Gizmy, hAdji, leen, ryu  |
-|            2 |     1816 | 2025-04-17 | Eternal Fire        | L   | 0.470      | -            | -                | -                | -         |    -8.23 | afro, Gizmy, hAdji, leen, ryu  |
-|            1 |     1888 | 2025-04-14 | ECSTATIC            | L   | 0.451      | -            | -                | -                | -         |    -1.19 | afro, Gizmy, hAdji, leen, ryu  |
+|            3 |     1737 | 2025-04-21 | Fire Flux Esports   | L   | 0.496      | -            | -                | -                | -         |    -7.87 | afro, Gizmy, hAdji, leen, ryu  |
+|            2 |     1816 | 2025-04-17 | Eternal Fire        | L   | 0.470      | -            | -                | -                | -         |    -8.22 | afro, Gizmy, hAdji, leen, ryu  |
+|            1 |     1888 | 2025-04-14 | ECSTATIC            | L   | 0.451      | -            | -                | -                | -         |    -1.22 | afro, Gizmy, hAdji, leen, ryu  |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($738.33)
-- Divide that value by the 5th highest value among all rosters ($436,168.75)
+- Divide that value by the 5th highest value among all rosters ($439,157.18)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

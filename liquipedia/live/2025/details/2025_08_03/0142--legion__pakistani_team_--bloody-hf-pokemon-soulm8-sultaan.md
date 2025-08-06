@@ -6,9 +6,9 @@ Global Rank: [142](../../standings_global_2025_08_03.md)<br />
 Region: [Asia]( ../../standings_asia_2025_08_03.md)<br />
 Regional Rank: [19]( ../../standings_asia_2025_08_03.md)<br />
 <br />
-Final Rank Value:  673.2<br />
+Final Rank Value:  671.3<br />
 <br />
-Final Rank Value (673.2) = Starting Rank Value (646.1) + Head To Head Adjustments (27.1)<br />
+Final Rank Value (671.3) = Starting Rank Value (644.1) + Head To Head Adjustments (27.2)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.129<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 646.1
-- 400 + ( ( 0.129 - 0.000 ) / ( 0.839 - 0.000 ) ) * 1600 = 646.1
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 644.1
+- 400 + ( ( 0.129 - 0.000 ) / ( 0.845 - 0.000 ) ) * 1600 = 644.1
 
 
 #### Factors<br />
@@ -38,18 +38,18 @@ Note:<br />
 | Match Played | Match ID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                               |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |            6 |       78 | 2025-07-27 | ScarX            | L   | 1.000      | -            | -                | -                | -         |   -16.02 | Bloody, hf, PokemoN, SOULM8, SultaaN |
-|            5 |       81 | 2025-07-26 | BAITPEEKKK       | W   | 1.000      | 0.262        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     5.20 | Bloody, hf, PokemoN, SOULM8, SultaaN |
-|            4 |      495 | 2025-06-29 | Victores Sumus   | W   | 0.956      | 0.262        | 0.003 (0.001)    | 0.111 (0.028)    | 0 (0.000) |    12.01 | Bloody, hf, PokemoN, SOULM8, SultaaN |
-|            3 |      497 | 2025-06-28 | 4ever cool       | W   | 0.955      | 0.262        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     5.39 | Bloody, hf, PokemoN, SOULM8, SultaaN |
-|            2 |      963 | 2025-05-25 | Flashback Gaming | W   | 0.723      | 0.262        | 0.002 (0.000)    | 0.084 (0.016)    | 0 (0.000) |    10.38 | Bloody, HSB, PokemoN, SOULM8, x1ron  |
-|            1 |      967 | 2025-05-24 | Victores Sumus   | W   | 0.722      | 0.262        | 0.003 (0.000)    | 0.111 (0.021)    | 0 (0.000) |    10.10 | Bloody, HSB, PokemoN, SOULM8, x1ron  |
+|            5 |       81 | 2025-07-26 | BAITPEEKKK       | W   | 1.000      | 0.262        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     5.25 | Bloody, hf, PokemoN, SOULM8, SultaaN |
+|            4 |      495 | 2025-06-29 | Victores Sumus   | W   | 0.956      | 0.262        | 0.002 (0.001)    | 0.111 (0.028)    | 0 (0.000) |    12.02 | Bloody, hf, PokemoN, SOULM8, SultaaN |
+|            3 |      497 | 2025-06-28 | 4ever cool       | W   | 0.955      | 0.262        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     5.44 | Bloody, hf, PokemoN, SOULM8, SultaaN |
+|            2 |      963 | 2025-05-25 | Flashback Gaming | W   | 0.723      | 0.262        | 0.002 (0.000)    | 0.084 (0.016)    | 0 (0.000) |    10.39 | Bloody, HSB, PokemoN, SOULM8, x1ron  |
+|            1 |      967 | 2025-05-24 | Victores Sumus   | W   | 0.722      | 0.262        | 0.002 (0.000)    | 0.111 (0.021)    | 0 (0.000) |    10.11 | Bloody, HSB, PokemoN, SOULM8, x1ron  |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($2,179.12)
-- Divide that value by the 5th highest value among all rosters ($436,168.75)
+- Divide that value by the 5th highest value among all rosters ($439,157.18)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

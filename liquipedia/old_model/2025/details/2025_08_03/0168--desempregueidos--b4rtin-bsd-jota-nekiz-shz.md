@@ -4,11 +4,11 @@ Roster: b4rtiN, bsd, JOTA, NEKIZ, shz<br />
 Global Rank: [168](../../standings_global_2025_08_03.md)<br />
 <br />
 Region: [Americas]( ../../standings_americas_2025_08_03.md)<br />
-Regional Rank: [44]( ../../standings_americas_2025_08_03.md)<br />
+Regional Rank: [46]( ../../standings_americas_2025_08_03.md)<br />
 <br />
-Final Rank Value:  617.4<br />
+Final Rank Value:  615.6<br />
 <br />
-Final Rank Value (617.4) = Starting Rank Value (558.9) + Head To Head Adjustments (58.5)<br />
+Final Rank Value (615.6) = Starting Rank Value (556.8) + Head To Head Adjustments (58.8)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.083<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 558.9
-- 400 + ( ( 0.083 - 0.000 ) / ( 0.834 - 0.000 ) ) * 1600 = 558.9
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 556.8
+- 400 + ( ( 0.083 - 0.000 ) / ( 0.845 - 0.000 ) ) * 1600 = 556.8
 
 
 #### Factors<br />
@@ -38,24 +38,24 @@ Note:<br />
 | Match Played | Match ID | Date       | Opponent               | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                          |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |           12 |       16 | 2025-08-01 | ODDIK                  | L   | 1.000      | -            | -                | -                | -         |    -4.94 | b4rtiN, bsd, JOTA, NEKIZ, shz   |
-|           11 |      228 | 2025-07-16 | ODDIK                  | L   | 1.000      | -            | -                | -                | -         |    -4.37 | b4rtiN, bsd, JOTA, NEKIZ, shz   |
-|           10 |      240 | 2025-07-16 | LaChampionsLiga        | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.103 (0.015)    | 0 (0.000) |    10.62 | b4rtiN, bsd, JOTA, NEKIZ, shz   |
-|            9 |      362 | 2025-07-11 | Imperial Esports       | L   | 1.000      | -            | -                | -                | -         |    -3.08 | b4rtiN, JOTA, levi, shz, urban0 |
-|            8 |      399 | 2025-07-09 | BESTIA                 | L   | 1.000      | -            | -                | -                | -         |    -8.72 | b4rtiN, JOTA, levi, shz, urban0 |
-|            7 |      403 | 2025-07-09 | SELVA                  | W   | 1.000      | 0.384        | 0.017 (0.006)    | 0.375 (0.144)    | 0 (0.000) |    19.12 | b4rtiN, JOTA, levi, shz, urban0 |
-|            6 |      432 | 2025-07-08 | BESTIA                 | L   | 1.000      | -            | -                | -                | -         |    -8.12 | b4rtiN, JOTA, levi, shz, urban0 |
-|            5 |      442 | 2025-07-07 | Bounty Hunters Esports | W   | 1.000      | 0.143        | 0.009 (0.001)    | 0.470 (0.067)    | 0 (0.000) |    21.95 | b4rtiN, JOTA, levi, shz, urban0 |
-|            4 |      447 | 2025-07-07 | Imperial Esports       | W   | 1.000      | 0.143        | 0.122 (0.017)    | 0.670 (0.096)    | 0 (0.000) |    28.99 | b4rtiN, JOTA, levi, shz, urban0 |
-|            3 |      487 | 2025-06-30 | Bounty Hunters Esports | L   | 0.966      | -            | -                | -                | -         |    -8.12 | b4rtiN, JOTA, levi, shz, urban0 |
-|            2 |      492 | 2025-06-29 | RED Canids             | L   | 0.960      | -            | -                | -                | -         |    -6.78 | b4rtiN, JOTA, levi, shz, urban0 |
-|            1 |      494 | 2025-06-29 | SELVA                  | W   | 0.958      | 0.384        | 0.017 (0.006)    | 0.375 (0.138)    | 0 (0.000) |    21.93 | b4rtiN, JOTA, levi, shz, urban0 |
+|           11 |      228 | 2025-07-16 | ODDIK                  | L   | 1.000      | -            | -                | -                | -         |    -4.36 | b4rtiN, bsd, JOTA, NEKIZ, shz   |
+|           10 |      240 | 2025-07-16 | LaChampionsLiga        | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.103 (0.015)    | 0 (0.000) |    10.69 | b4rtiN, bsd, JOTA, NEKIZ, shz   |
+|            9 |      362 | 2025-07-11 | Imperial Esports       | L   | 1.000      | -            | -                | -                | -         |    -3.09 | b4rtiN, JOTA, levi, shz, urban0 |
+|            8 |      399 | 2025-07-09 | BESTIA                 | L   | 1.000      | -            | -                | -                | -         |    -8.62 | b4rtiN, JOTA, levi, shz, urban0 |
+|            7 |      403 | 2025-07-09 | SELVA                  | W   | 1.000      | 0.384        | 0.017 (0.007)    | 0.375 (0.144)    | 0 (0.000) |    19.15 | b4rtiN, JOTA, levi, shz, urban0 |
+|            6 |      432 | 2025-07-08 | BESTIA                 | L   | 1.000      | -            | -                | -                | -         |    -8.01 | b4rtiN, JOTA, levi, shz, urban0 |
+|            5 |      442 | 2025-07-07 | Bounty Hunters Esports | W   | 1.000      | 0.143        | 0.009 (0.001)    | 0.470 (0.067)    | 0 (0.000) |    21.96 | b4rtiN, JOTA, levi, shz, urban0 |
+|            4 |      447 | 2025-07-07 | Imperial Esports       | W   | 1.000      | 0.143        | 0.121 (0.017)    | 0.670 (0.096)    | 0 (0.000) |    28.98 | b4rtiN, JOTA, levi, shz, urban0 |
+|            3 |      487 | 2025-06-30 | Bounty Hunters Esports | L   | 0.966      | -            | -                | -                | -         |    -8.13 | b4rtiN, JOTA, levi, shz, urban0 |
+|            2 |      492 | 2025-06-29 | RED Canids             | L   | 0.960      | -            | -                | -                | -         |    -6.77 | b4rtiN, JOTA, levi, shz, urban0 |
+|            1 |      494 | 2025-06-29 | SELVA                  | W   | 0.958      | 0.384        | 0.017 (0.006)    | 0.375 (0.138)    | 0 (0.000) |    21.96 | b4rtiN, JOTA, levi, shz, urban0 |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($0.00)
-- Divide that value by the 5th highest value among all rosters ($436,168.75)
+- Divide that value by the 5th highest value among all rosters ($439,157.18)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

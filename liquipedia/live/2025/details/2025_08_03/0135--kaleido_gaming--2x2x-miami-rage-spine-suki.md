@@ -6,9 +6,9 @@ Global Rank: [135](../../standings_global_2025_08_03.md)<br />
 Region: [Asia]( ../../standings_asia_2025_08_03.md)<br />
 Regional Rank: [15]( ../../standings_asia_2025_08_03.md)<br />
 <br />
-Final Rank Value:  692.4<br />
+Final Rank Value:  689.8<br />
 <br />
-Final Rank Value (692.4) = Starting Rank Value (756.7) + Head To Head Adjustments (-64.3)<br />
+Final Rank Value (689.8) = Starting Rank Value (753.8) + Head To Head Adjustments (-64.0)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.187<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 756.7
-- 400 + ( ( 0.187 - 0.000 ) / ( 0.839 - 0.000 ) ) * 1600 = 756.7
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 753.8
+- 400 + ( ( 0.187 - 0.000 ) / ( 0.845 - 0.000 ) ) * 1600 = 753.8
 
 
 #### Factors<br />
@@ -37,40 +37,40 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent                   | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                              |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           36 |      369 | 2025-07-11 | Nomads (Mongolian team)    | L   | 1.000      | -            | -                | -                | -         |   -12.55 | 2X2X, Miami, rage, SPine, suki      |
-|           35 |     1350 | 2025-05-08 | The Huns Esports           | L   | 0.610      | -            | -                | -                | -         |    -3.04 | expSasiKi, Miami, rage, risk, SPine |
-|           34 |     1420 | 2025-05-06 | Lynn Vision Gaming         | L   | 0.597      | -            | -                | -                | -         |    -0.14 | expSasiKi, Miami, rage, risk, SPine |
-|           33 |     1622 | 2025-04-27 | Nomads (Mongolian team)    | L   | 0.537      | -            | -                | -                | -         |    -6.99 | expSasiKi, Miami, rage, risk, SPine |
-|           32 |     1626 | 2025-04-27 | Only One Word              | W   | 0.536      | 0.534        | 0.001 (0.000)    | 0.147 (0.042)    | 1 (0.536) |     7.53 | expSasiKi, Miami, rage, risk, SPine |
-|           31 |     1682 | 2025-04-25 | TEAM XDM                   | W   | 0.524      | 0.534        | 0.002 (0.001)    | 0.023 (0.007)    | 1 (0.524) |     6.94 | expSasiKi, Miami, rage, risk, SPine |
-|           30 |     1766 | 2025-04-19 | The QUBE Esports           | W   | 0.484      | 0.534        | 0.000 (0.000)    | -                | 1 (0.484) |     2.39 | expSasiKi, Miami, rage, risk, SPine |
-|           29 |     1792 | 2025-04-18 | Exusiai                    | L   | 0.476      | -            | -                | -                | -         |   -10.86 | expSasiKi, Miami, rage, risk, SPine |
-|           28 |     1987 | 2025-04-09 | The QUBE Esports           | L   | 0.417      | -            | -                | -                | -         |    -9.88 | expSasiKi, Miami, rage, risk, SPine |
-|           27 |     1994 | 2025-04-09 | The QUBE Esports           | L   | 0.417      | -            | -                | -                | -         |   -10.14 | expSasiKi, Miami, rage, risk, SPine |
-|           26 |     2034 | 2025-04-08 | Rare Atom                  | L   | 0.411      | -            | -                | -                | -         |    -0.97 | expSasiKi, Miami, rage, risk, SPine |
-|           25 |     2043 | 2025-04-08 | Rare Atom                  | L   | 0.411      | -            | -                | -                | -         |    -0.98 | expSasiKi, Miami, rage, risk, SPine |
-|           24 |     2196 | 2025-04-02 | The Huns Esports           | L   | 0.371      | -            | -                | -                | -         |    -2.12 | expSasiKi, Miami, rage, risk, SPine |
-|           23 |     2200 | 2025-04-02 | The Huns Esports           | L   | 0.371      | -            | -                | -                | -         |    -2.16 | expSasiKi, Miami, rage, risk, SPine |
-|           22 |     2244 | 2025-04-01 | FengDa Gaming              | L   | 0.364      | -            | -                | -                | -         |    -6.12 | expSasiKi, Miami, rage, risk, SPine |
-|           21 |     2251 | 2025-04-01 | FengDa Gaming              | L   | 0.364      | -            | -                | -                | -         |    -6.32 | expSasiKi, Miami, rage, risk, SPine |
-|           20 |     2357 | 2025-03-29 | Wings Up Gaming            | L   | 0.344      | -            | -                | -                | -         |    -4.18 | expSasiKi, Miami, rage, risk, SPine |
-|           19 |     2370 | 2025-03-28 | Shika                      | W   | 0.341      | 0.624        | 0.002 (0.000)    | 0.107 (0.023)    | 0 (0.000) |     3.63 | expSasiKi, Miami, rage, risk, SPine |
+|           36 |      369 | 2025-07-11 | Nomads (Mongolian team)    | L   | 1.000      | -            | -                | -                | -         |   -12.57 | 2X2X, Miami, rage, SPine, suki      |
+|           35 |     1350 | 2025-05-08 | The Huns Esports           | L   | 0.610      | -            | -                | -                | -         |    -3.05 | expSasiKi, Miami, rage, risk, SPine |
+|           34 |     1420 | 2025-05-06 | Lynn Vision Gaming         | L   | 0.597      | -            | -                | -                | -         |    -0.11 | expSasiKi, Miami, rage, risk, SPine |
+|           33 |     1622 | 2025-04-27 | Nomads (Mongolian team)    | L   | 0.537      | -            | -                | -                | -         |    -7.00 | expSasiKi, Miami, rage, risk, SPine |
+|           32 |     1626 | 2025-04-27 | Only One Word              | W   | 0.536      | 0.534        | 0.001 (0.000)    | 0.147 (0.042)    | 1 (0.536) |     7.55 | expSasiKi, Miami, rage, risk, SPine |
+|           31 |     1682 | 2025-04-25 | TEAM XDM                   | W   | 0.524      | 0.534        | 0.002 (0.001)    | 0.023 (0.007)    | 1 (0.524) |     6.96 | expSasiKi, Miami, rage, risk, SPine |
+|           30 |     1766 | 2025-04-19 | The QUBE Esports           | W   | 0.484      | 0.534        | 0.000 (0.000)    | -                | 1 (0.484) |     2.42 | expSasiKi, Miami, rage, risk, SPine |
+|           29 |     1792 | 2025-04-18 | Exusiai                    | L   | 0.476      | -            | -                | -                | -         |   -10.84 | expSasiKi, Miami, rage, risk, SPine |
+|           28 |     1987 | 2025-04-09 | The QUBE Esports           | L   | 0.417      | -            | -                | -                | -         |    -9.86 | expSasiKi, Miami, rage, risk, SPine |
+|           27 |     1994 | 2025-04-09 | The QUBE Esports           | L   | 0.417      | -            | -                | -                | -         |   -10.12 | expSasiKi, Miami, rage, risk, SPine |
+|           26 |     2034 | 2025-04-08 | Rare Atom                  | L   | 0.411      | -            | -                | -                | -         |    -0.96 | expSasiKi, Miami, rage, risk, SPine |
+|           25 |     2043 | 2025-04-08 | Rare Atom                  | L   | 0.411      | -            | -                | -                | -         |    -0.97 | expSasiKi, Miami, rage, risk, SPine |
+|           24 |     2196 | 2025-04-02 | The Huns Esports           | L   | 0.371      | -            | -                | -                | -         |    -2.13 | expSasiKi, Miami, rage, risk, SPine |
+|           23 |     2200 | 2025-04-02 | The Huns Esports           | L   | 0.371      | -            | -                | -                | -         |    -2.17 | expSasiKi, Miami, rage, risk, SPine |
+|           22 |     2244 | 2025-04-01 | FengDa Gaming              | L   | 0.364      | -            | -                | -                | -         |    -6.11 | expSasiKi, Miami, rage, risk, SPine |
+|           21 |     2251 | 2025-04-01 | FengDa Gaming              | L   | 0.364      | -            | -                | -                | -         |    -6.31 | expSasiKi, Miami, rage, risk, SPine |
+|           20 |     2357 | 2025-03-29 | Wings Up Gaming            | L   | 0.344      | -            | -                | -                | -         |    -4.17 | expSasiKi, Miami, rage, risk, SPine |
+|           19 |     2370 | 2025-03-28 | Shika                      | W   | 0.341      | 0.624        | 0.002 (0.000)    | 0.107 (0.023)    | 0 (0.000) |     3.65 | expSasiKi, Miami, rage, risk, SPine |
 |           18 |     2430 | 2025-03-28 | Rare Atom                  | L   | 0.336      | -            | -                | -                | -         |    -0.94 | expSasiKi, Miami, rage, risk, SPine |
-|           17 |     2508 | 2025-03-26 | Wings Up Gaming            | W   | 0.329      | 0.624        | 0.009 (0.002)    | 0.190 (0.039)    | 0 (0.000) |     6.36 | expSasiKi, Miami, rage, risk, SPine |
-|           16 |     2583 | 2025-03-25 | Looking4Org (Russian team) | W   | 0.318      | 0.369        | -                | 0.018 (0.002)    | 0 (0.000) |     2.00 | expSasiKi, Miami, rage, risk, SPine |
-|           15 |     2591 | 2025-03-25 | Looking4Org (Russian team) | W   | 0.318      | 0.369        | -                | 0.018 (0.002)    | 0 (0.000) |     2.04 | expSasiKi, Miami, rage, risk, SPine |
-|           14 |     2626 | 2025-03-22 | Gods Reign                 | L   | 0.298      | -            | -                | -                | -         |    -5.69 | expSasiKi, Miami, rage, risk, SPine |
-|           13 |     2629 | 2025-03-22 | Gods Reign                 | W   | 0.297      | 0.369        | 0.002 (0.000)    | 0.118 (0.013)    | 0 (0.000) |     3.74 | expSasiKi, Miami, rage, risk, SPine |
+|           17 |     2508 | 2025-03-26 | Wings Up Gaming            | W   | 0.329      | 0.624        | 0.009 (0.002)    | 0.190 (0.039)    | 0 (0.000) |     6.38 | expSasiKi, Miami, rage, risk, SPine |
+|           16 |     2583 | 2025-03-25 | Looking4Org (Russian team) | W   | 0.318      | 0.369        | -                | 0.018 (0.002)    | 0 (0.000) |     2.02 | expSasiKi, Miami, rage, risk, SPine |
+|           15 |     2591 | 2025-03-25 | Looking4Org (Russian team) | W   | 0.318      | 0.369        | -                | 0.018 (0.002)    | 0 (0.000) |     2.06 | expSasiKi, Miami, rage, risk, SPine |
+|           14 |     2626 | 2025-03-22 | Gods Reign                 | L   | 0.298      | -            | -                | -                | -         |    -5.68 | expSasiKi, Miami, rage, risk, SPine |
+|           13 |     2629 | 2025-03-22 | Gods Reign                 | W   | 0.297      | 0.369        | 0.002 (0.000)    | 0.118 (0.013)    | 0 (0.000) |     3.75 | expSasiKi, Miami, rage, risk, SPine |
 |           12 |     2697 | 2025-03-19 | TYLOO                      | L   | 0.278      | -            | -                | -                | -         |    -0.02 | expSasiKi, Miami, rage, risk, SPine |
 |           11 |     2703 | 2025-03-19 | TYLOO                      | L   | 0.278      | -            | -                | -                | -         |    -0.02 | expSasiKi, Miami, rage, risk, SPine |
-|           10 |     2738 | 2025-03-18 | Nomads (Mongolian team)    | L   | 0.271      | -            | -                | -                | -         |    -6.47 | expSasiKi, Miami, rage, risk, SPine |
-|            9 |     2739 | 2025-03-18 | Nomads (Mongolian team)    | L   | 0.271      | -            | -                | -                | -         |    -6.57 | expSasiKi, Miami, rage, risk, SPine |
-|            8 |     3359 | 2025-02-25 | Wings Up Gaming            | L   | 0.136      | -            | -                | -                | -         |    -1.73 | expSasiKi, Miami, rage, risk, SPine |
+|           10 |     2738 | 2025-03-18 | Nomads (Mongolian team)    | L   | 0.271      | -            | -                | -                | -         |    -6.45 | expSasiKi, Miami, rage, risk, SPine |
+|            9 |     2739 | 2025-03-18 | Nomads (Mongolian team)    | L   | 0.271      | -            | -                | -                | -         |    -6.56 | expSasiKi, Miami, rage, risk, SPine |
+|            8 |     3359 | 2025-02-25 | Wings Up Gaming            | L   | 0.136      | -            | -                | -                | -         |    -1.72 | expSasiKi, Miami, rage, risk, SPine |
 |            7 |     3393 | 2025-02-24 | Just Swing (Chinese team)  | W   | 0.129      | 0.624        | 0.001 (0.000)    | 0.114 (0.009)    | 0 (0.000) |     1.66 | expSasiKi, Miami, rage, risk, SPine |
 |            6 |     3408 | 2025-02-24 | Change The Game            | L   | 0.124      | -            | -                | -                | -         |    -2.95 | expSasiKi, Miami, rage, risk, SPine |
 |            5 |     3650 | 2025-02-11 | Lynn Vision Gaming         | L   | 0.042      | -            | -                | -                | -         |    -0.01 | expSasiKi, Miami, rage, risk, SPine |
 |            4 |     3710 | 2025-02-09 | Gods Reign                 | W   | 0.029      | 0.500        | 0.002 (0.000)    | 0.118 (0.002)    | 0 (0.000) |     0.35 | expSasiKi, Miami, rage, risk, SPine |
-|            3 |     3716 | 2025-02-09 | Shika                      | W   | 0.028      | 0.500        | 0.002 (0.000)    | 0.107 (0.002)    | -         |     0.28 | expSasiKi, Miami, rage, risk, SPine |
+|            3 |     3716 | 2025-02-09 | Shika                      | W   | 0.028      | 0.500        | 0.002 (0.000)    | 0.107 (0.002)    | -         |     0.29 | expSasiKi, Miami, rage, risk, SPine |
 |            2 |     3744 | 2025-02-08 | Gods Reign                 | L   | 0.022      | -            | -                | -                | -         |    -0.44 | expSasiKi, Miami, rage, risk, SPine |
 |            1 |     3839 | 2025-02-06 | Shika                      | W   | 0.009      | 0.500        | 0.002 (0.000)    | -                | -         |     0.09 | expSasiKi, Miami, rage, risk, SPine |
 
@@ -79,7 +79,7 @@ Note:<br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($4,646.25)
-- Divide that value by the 5th highest value among all rosters ($436,168.75)
+- Divide that value by the 5th highest value among all rosters ($439,157.18)
 - The final value (0.01) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

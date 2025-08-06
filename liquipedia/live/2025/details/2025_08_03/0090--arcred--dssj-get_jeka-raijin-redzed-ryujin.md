@@ -6,13 +6,13 @@ Global Rank: [90](../../standings_global_2025_08_03.md)<br />
 Region: [Europe]( ../../standings_europe_2025_08_03.md)<br />
 Regional Rank: [63]( ../../standings_europe_2025_08_03.md)<br />
 <br />
-Final Rank Value:  838.1<br />
+Final Rank Value:  834.6<br />
 <br />
-Final Rank Value (838.1) = Starting Rank Value (843.0) + Head To Head Adjustments (-4.9)<br />
+Final Rank Value (834.6) = Starting Rank Value (839.4) + Head To Head Adjustments (-4.8)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
-- Bounty Offered: 0.356[<sup>1</sup>](#table2)
+- Bounty Offered: 0.355[<sup>1</sup>](#table2)
 - Bounty Collected: 0.303[<sup>2</sup>](#table1)
 - Opponent Network: 0.069[<sup>2</sup>](#table1)
 - LAN Wins: 0.201[<sup>2</sup>](#table1)
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.232<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 843.0
-- 400 + ( ( 0.232 - 0.000 ) / ( 0.839 - 0.000 ) ) * 1600 = 843.0
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 839.4
+- 400 + ( ( 0.232 - 0.000 ) / ( 0.845 - 0.000 ) ) * 1600 = 839.4
 
 
 #### Factors<br />
@@ -37,26 +37,26 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent            | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                  |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           13 |      417 | 2025-07-09 | M1X                 | L   | 1.000      | -            | -                | -                | -         |   -20.82 | DSSj, Get_Jeka, Raijin, redzed, Ryujin  |
-|           12 |     1347 | 2025-05-08 | Team Spirit Academy | L   | 0.611      | -            | -                | -                | -         |    -4.96 | DSSj, Get_Jeka, Raijin, Ryujin, shg     |
-|           11 |     1368 | 2025-05-07 | 1win Team           | W   | 0.605      | 0.435        | 0.007 (0.002)    | 0.301 (0.079)    | 1 (0.605) |     7.04 | DSSj, Get_Jeka, Raijin, Ryujin, shg     |
-|           10 |     1379 | 2025-05-07 | PARIVISION          | W   | 0.604      | 0.435        | 0.122 (0.032)    | 1.000 (0.262)    | 1 (0.604) |    14.27 | DSSj, Get_Jeka, Raijin, Ryujin, shg     |
-|            9 |     1421 | 2025-05-06 | Sangal Esports      | W   | 0.596      | 0.435        | 0.037 (0.010)    | 0.725 (0.188)    | 1 (0.596) |    11.99 | DSSj, Get_Jeka, Raijin, Ryujin, shg     |
-|            8 |     1432 | 2025-05-05 | Team Spirit Academy | L   | 0.592      | -            | -                | -                | -         |    -4.50 | DSSj, Get_Jeka, Raijin, Ryujin, shg     |
-|            7 |     2113 | 2025-04-04 | NOVAQ               | L   | 0.385      | -            | -                | -                | -         |    -9.46 | 1NVISIBLEE, DSSj, Get_Jeka, Ryujin, shg |
-|            6 |     2187 | 2025-04-02 | TPuDCATb TPu        | W   | 0.372      | 0.384        | 0.020 (0.003)    | 0.937 (0.134)    | 0 (0.000) |     5.80 | 1NVISIBLEE, DSSj, Get_Jeka, Ryujin, shg |
-|            5 |     2241 | 2025-04-01 | PARIVISION          | L   | 0.365      | -            | -                | -                | -         |    -2.80 | 1NVISIBLEE, DSSj, Get_Jeka, Ryujin, shg |
+|           13 |      417 | 2025-07-09 | M1X                 | L   | 1.000      | -            | -                | -                | -         |   -20.78 | DSSj, Get_Jeka, Raijin, redzed, Ryujin  |
+|           12 |     1347 | 2025-05-08 | Team Spirit Academy | L   | 0.611      | -            | -                | -                | -         |    -4.95 | DSSj, Get_Jeka, Raijin, Ryujin, shg     |
+|           11 |     1368 | 2025-05-07 | 1win Team           | W   | 0.605      | 0.435        | 0.007 (0.002)    | 0.301 (0.079)    | 1 (0.605) |     7.05 | DSSj, Get_Jeka, Raijin, Ryujin, shg     |
+|           10 |     1379 | 2025-05-07 | PARIVISION          | W   | 0.604      | 0.435        | 0.121 (0.032)    | 1.000 (0.262)    | 1 (0.604) |    14.26 | DSSj, Get_Jeka, Raijin, Ryujin, shg     |
+|            9 |     1421 | 2025-05-06 | Sangal Esports      | W   | 0.596      | 0.435        | 0.037 (0.010)    | 0.725 (0.188)    | 1 (0.596) |    11.98 | DSSj, Get_Jeka, Raijin, Ryujin, shg     |
+|            8 |     1432 | 2025-05-05 | Team Spirit Academy | L   | 0.592      | -            | -                | -                | -         |    -4.49 | DSSj, Get_Jeka, Raijin, Ryujin, shg     |
+|            7 |     2113 | 2025-04-04 | NOVAQ               | L   | 0.385      | -            | -                | -                | -         |    -9.43 | 1NVISIBLEE, DSSj, Get_Jeka, Ryujin, shg |
+|            6 |     2187 | 2025-04-02 | TPuDCATb TPu        | W   | 0.372      | 0.384        | 0.019 (0.003)    | 0.937 (0.134)    | 0 (0.000) |     5.84 | 1NVISIBLEE, DSSj, Get_Jeka, Ryujin, shg |
+|            5 |     2241 | 2025-04-01 | PARIVISION          | L   | 0.365      | -            | -                | -                | -         |    -2.81 | 1NVISIBLEE, DSSj, Get_Jeka, Ryujin, shg |
 |            4 |     3014 | 2025-03-08 | Sashi Esport        | L   | 0.204      | -            | -                | -                | -         |    -2.05 | 1NVISIBLEE, DSSj, Get_Jeka, Ryujin, shg |
-|            3 |     3079 | 2025-03-07 | BetBoom Team        | L   | 0.198      | -            | -                | -                | -         |    -0.26 | 1NVISIBLEE, DSSj, Get_Jeka, Ryujin, shg |
+|            3 |     3079 | 2025-03-07 | BetBoom Team        | L   | 0.198      | -            | -                | -                | -         |    -0.24 | 1NVISIBLEE, DSSj, Get_Jeka, Ryujin, shg |
 |            2 |     3331 | 2025-02-26 | Zero Tenacity       | L   | 0.139      | -            | -                | -                | -         |    -2.04 | 1NVISIBLEE, DSSj, Get_Jeka, Ryujin, shg |
-|            1 |     3404 | 2025-02-24 | Team Spirit Academy | W   | 0.125      | 0.500        | 0.065 (0.004)    | 0.502 (0.031)    | 0 (0.000) |     2.88 | 1NVISIBLEE, DSSj, Get_Jeka, Ryujin, shg |
+|            1 |     3404 | 2025-02-24 | Team Spirit Academy | W   | 0.125      | 0.500        | 0.064 (0.004)    | 0.502 (0.031)    | 0 (0.000) |     2.88 | 1NVISIBLEE, DSSj, Get_Jeka, Ryujin, shg |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($6,737.78)
-- Divide that value by the 5th highest value among all rosters ($436,168.75)
+- Divide that value by the 5th highest value among all rosters ($439,157.18)
 - The final value (0.02) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

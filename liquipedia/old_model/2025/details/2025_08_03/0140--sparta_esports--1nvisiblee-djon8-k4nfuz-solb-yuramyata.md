@@ -6,22 +6,22 @@ Global Rank: [140](../../standings_global_2025_08_03.md)<br />
 Region: [Europe]( ../../standings_europe_2025_08_03.md)<br />
 Regional Rank: [87]( ../../standings_europe_2025_08_03.md)<br />
 <br />
-Final Rank Value:  667.3<br />
+Final Rank Value:  664.3<br />
 <br />
-Final Rank Value (667.3) = Starting Rank Value (594.4) + Head To Head Adjustments (72.9)<br />
+Final Rank Value (664.3) = Starting Rank Value (591.7) + Head To Head Adjustments (72.6)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.000[<sup>1</sup>](#table2)
-- Bounty Collected: 0.330[<sup>2</sup>](#table1)
+- Bounty Collected: 0.329[<sup>2</sup>](#table1)
 - Opponent Network: 0.076[<sup>2</sup>](#table1)
 - LAN Wins: 0.000[<sup>2</sup>](#table1)
 
 The average of these factors is 0.101<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 594.4
-- 400 + ( ( 0.101 - 0.000 ) / ( 0.834 - 0.000 ) ) * 1600 = 594.4
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 591.7
+- 400 + ( ( 0.101 - 0.000 ) / ( 0.845 - 0.000 ) ) * 1600 = 591.7
 
 
 #### Factors<br />
@@ -37,21 +37,21 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                     |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            8 |       26 | 2025-08-01 | Fnatic          | L   | 1.000      | -            | -                | -                | -         |    -1.29 | 1NVISIBLEE, Djon8, k4nfuz, SoLb, yuramyata |
-|            7 |      867 | 2025-06-04 | Iberian Soul    | W   | 0.791      | 0.393        | 0.183 (0.057)    | 1.000 (0.311)    | 0 (0.000) |    24.03 | 1NVISIBLEE, Djon8, k4nfuz, SoLb, yuramyata |
-|            6 |      886 | 2025-06-03 | M1 Gaming       | L   | 0.784      | -            | -                | -                | -         |    -7.78 | 1NVISIBLEE, Djon8, k4nfuz, SoLb, yuramyata |
-|            5 |      950 | 2025-05-26 | SINNERS Esports | W   | 0.731      | 0.393        | 0.026 (0.008)    | 0.476 (0.137)    | 0 (0.000) |    18.52 | 1NVISIBLEE, Djon8, k4nfuz, SoLb, yuramyata |
-|            4 |     1052 | 2025-05-20 | Dynamo Eclot    | W   | 0.692      | 0.393        | 0.082 (0.022)    | 0.734 (0.199)    | 0 (0.000) |    18.60 | 1NVISIBLEE, Djon8, k4nfuz, SoLb, yuramyata |
-|            3 |     1219 | 2025-05-13 | KONO.ECF        | W   | 0.644      | 0.393        | 0.000 (0.000)    | 0.030 (0.008)    | 0 (0.000) |     8.06 | 1NVISIBLEE, Djon8, k4nfuz, SoLb, yuramyata |
-|            2 |     1378 | 2025-05-07 | Sashi Esport    | L   | 0.604      | -            | -                | -                | -         |    -2.37 | 1NVISIBLEE, Djon8, k4nfuz, SoLb, yuramyata |
-|            1 |     1552 | 2025-04-30 | SINNERS Esports | W   | 0.558      | 0.393        | 0.026 (0.006)    | 0.476 (0.104)    | 0 (0.000) |    15.12 | 1NVISIBLEE, Djon8, k4nfuz, SoLb, yuramyata |
+|            8 |       26 | 2025-08-01 | Fnatic          | L   | 1.000      | -            | -                | -                | -         |    -1.33 | 1NVISIBLEE, Djon8, k4nfuz, SoLb, yuramyata |
+|            7 |      867 | 2025-06-04 | Iberian Soul    | W   | 0.791      | 0.393        | 0.182 (0.057)    | 1.000 (0.311)    | 0 (0.000) |    23.98 | 1NVISIBLEE, Djon8, k4nfuz, SoLb, yuramyata |
+|            6 |      886 | 2025-06-03 | M1 Gaming       | L   | 0.784      | -            | -                | -                | -         |    -7.84 | 1NVISIBLEE, Djon8, k4nfuz, SoLb, yuramyata |
+|            5 |      950 | 2025-05-26 | SINNERS Esports | W   | 0.731      | 0.393        | 0.026 (0.008)    | 0.476 (0.137)    | 0 (0.000) |    18.46 | 1NVISIBLEE, Djon8, k4nfuz, SoLb, yuramyata |
+|            4 |     1052 | 2025-05-20 | Dynamo Eclot    | W   | 0.692      | 0.393        | 0.081 (0.022)    | 0.734 (0.199)    | 0 (0.000) |    18.55 | 1NVISIBLEE, Djon8, k4nfuz, SoLb, yuramyata |
+|            3 |     1219 | 2025-05-13 | KONO.ECF        | W   | 0.644      | 0.393        | 0.000 (0.000)    | 0.030 (0.008)    | 0 (0.000) |     8.09 | 1NVISIBLEE, Djon8, k4nfuz, SoLb, yuramyata |
+|            2 |     1378 | 2025-05-07 | Sashi Esport    | L   | 0.604      | -            | -                | -                | -         |    -2.42 | 1NVISIBLEE, Djon8, k4nfuz, SoLb, yuramyata |
+|            1 |     1552 | 2025-04-30 | SINNERS Esports | W   | 0.558      | 0.393        | 0.026 (0.006)    | 0.476 (0.104)    | 0 (0.000) |    15.09 | 1NVISIBLEE, Djon8, k4nfuz, SoLb, yuramyata |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($0.00)
-- Divide that value by the 5th highest value among all rosters ($436,168.75)
+- Divide that value by the 5th highest value among all rosters ($439,157.18)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

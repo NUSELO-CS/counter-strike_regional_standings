@@ -6,9 +6,9 @@ Global Rank: [143](../../standings_global_2025_08_03.md)<br />
 Region: [Americas]( ../../standings_americas_2025_08_03.md)<br />
 Regional Rank: [37]( ../../standings_americas_2025_08_03.md)<br />
 <br />
-Final Rank Value:  662.7<br />
+Final Rank Value:  659.9<br />
 <br />
-Final Rank Value (662.7) = Starting Rank Value (636.3) + Head To Head Adjustments (26.5)<br />
+Final Rank Value (659.9) = Starting Rank Value (633.1) + Head To Head Adjustments (26.8)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.123<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 636.3
-- 400 + ( ( 0.123 - 0.000 ) / ( 0.834 - 0.000 ) ) * 1600 = 636.3
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 633.1
+- 400 + ( ( 0.123 - 0.000 ) / ( 0.845 - 0.000 ) ) * 1600 = 633.1
 
 
 #### Factors<br />
@@ -37,43 +37,43 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent               | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           38 |       38 | 2025-07-29 | M80                    | L   | 1.000      | -            | -                | -                | -         |    -1.71 | cbass, Gabe, jchancE, mds, REKMEISTER |
-|           37 |       83 | 2025-07-26 | Team Aether            | W   | 1.000      | 0.384        | 0.000 (0.000)    | 0.323 (0.124)    | 0 (0.000) |    12.15 | cbass, Gabe, jchancE, mds, REKMEISTER |
-|           36 |      156 | 2025-07-19 | M80                    | L   | 1.000      | -            | -                | -                | -         |    -1.68 | cbass, Gabe, jchancE, mds, REKMEISTER |
-|           35 |      161 | 2025-07-19 | Zomblers               | W   | 1.000      | 0.407        | 0.000 (0.000)    | 0.050 (0.020)    | 1 (1.000) |    11.90 | cbass, Gabe, jchancE, mds, REKMEISTER |
-|           34 |      178 | 2025-07-18 | Betclic Apogee Esports | L   | 1.000      | -            | -                | -                | -         |    -3.36 | cbass, Gabe, jchancE, mds, REKMEISTER |
-|           33 |      183 | 2025-07-18 | Tsunami Esports        | W   | 1.000      | 0.407        | 0.001 (0.001)    | 0.208 (0.085)    | 1 (1.000) |    15.25 | cbass, Gabe, jchancE, mds, REKMEISTER |
-|           32 |      344 | 2025-07-11 | Arrival Seven          | L   | 1.000      | -            | -                | -                | -         |   -11.27 | cbass, Gabe, jchancE, mds, REKMEISTER |
+|           38 |       38 | 2025-07-29 | M80                    | L   | 1.000      | -            | -                | -                | -         |    -1.67 | cbass, Gabe, jchancE, mds, REKMEISTER |
+|           37 |       83 | 2025-07-26 | Team Aether            | W   | 1.000      | 0.384        | 0.000 (0.000)    | 0.323 (0.124)    | 0 (0.000) |    12.18 | cbass, Gabe, jchancE, mds, REKMEISTER |
+|           36 |      156 | 2025-07-19 | M80                    | L   | 1.000      | -            | -                | -                | -         |    -1.64 | cbass, Gabe, jchancE, mds, REKMEISTER |
+|           35 |      161 | 2025-07-19 | Zomblers               | W   | 1.000      | 0.407        | 0.000 (0.000)    | 0.050 (0.020)    | 1 (1.000) |    11.93 | cbass, Gabe, jchancE, mds, REKMEISTER |
+|           34 |      178 | 2025-07-18 | Betclic Apogee Esports | L   | 1.000      | -            | -                | -                | -         |    -3.44 | cbass, Gabe, jchancE, mds, REKMEISTER |
+|           33 |      183 | 2025-07-18 | Tsunami Esports        | W   | 1.000      | 0.407        | 0.001 (0.001)    | 0.208 (0.085)    | 1 (1.000) |    15.24 | cbass, Gabe, jchancE, mds, REKMEISTER |
+|           32 |      344 | 2025-07-11 | Arrival Seven          | L   | 1.000      | -            | -                | -                | -         |   -11.28 | cbass, Gabe, jchancE, mds, REKMEISTER |
 |           31 |     1714 | 2025-04-22 | BLUEJAYS               | L   | 0.507      | -            | -                | -                | -         |    -2.31 | cbass, Gabe, Grave, jchancE, mds      |
-|           30 |     1760 | 2025-04-19 | Team Aether            | W   | 0.487      | 0.333        | 0.000 (0.000)    | 0.323 (0.052)    | 0 (0.000) |     6.12 | cbass, Gabe, Grave, jchancE, mds      |
+|           30 |     1760 | 2025-04-19 | Team Aether            | W   | 0.487      | 0.333        | 0.000 (0.000)    | 0.323 (0.052)    | 0 (0.000) |     6.13 | cbass, Gabe, Grave, jchancE, mds      |
 |           29 |     1902 | 2025-04-13 | Arrival Seven          | W   | 0.447      | 0.333        | 0.006 (0.001)    | 0.217 (0.032)    | 0 (0.000) |     9.33 | cbass, Gabe, Grave, jchancE, mds      |
-|           28 |     1955 | 2025-04-10 | LAG Gaming             | W   | 0.427      | 0.333        | 0.014 (0.002)    | 0.429 (0.061)    | 0 (0.000) |     9.01 | cbass, Gabe, Grave, jchancE, mds      |
-|           27 |     1964 | 2025-04-09 | Arrival Seven          | L   | 0.421      | -            | -                | -                | -         |    -4.37 | cbass, Gabe, Grave, jchancE, mds      |
+|           28 |     1955 | 2025-04-10 | LAG Gaming             | W   | 0.427      | 0.333        | 0.014 (0.002)    | 0.429 (0.061)    | 0 (0.000) |     9.00 | cbass, Gabe, Grave, jchancE, mds      |
+|           27 |     1964 | 2025-04-09 | Arrival Seven          | L   | 0.421      | -            | -                | -                | -         |    -4.38 | cbass, Gabe, Grave, jchancE, mds      |
 |           26 |     1968 | 2025-04-09 | Arrival Seven          | L   | 0.421      | -            | -                | -                | -         |    -4.52 | cbass, Gabe, Grave, jchancE, mds      |
-|           25 |     2018 | 2025-04-08 | MIGHT                  | L   | 0.414      | -            | -                | -                | -         |    -5.71 | cbass, Gabe, Grave, jchancE, mds      |
-|           24 |     2054 | 2025-04-07 | Team Aether            | W   | 0.408      | 0.143        | -                | 0.323 (0.019)    | 0 (0.000) |     5.08 | cbass, Gabe, Grave, jchancE, mds      |
-|           23 |     2056 | 2025-04-07 | Team Aether            | L   | 0.407      | -            | -                | -                | -         |    -7.94 | cbass, Gabe, Grave, jchancE, mds      |
-|           22 |     2118 | 2025-04-03 | Party Astronauts       | W   | 0.381      | 0.143        | 0.004 (0.000)    | 0.312 (0.017)    | 0 (0.000) |     7.31 | cbass, Gabe, Grave, jchancE, mds      |
-|           21 |     2120 | 2025-04-03 | Party Astronauts       | W   | 0.381      | 0.143        | 0.004 (0.000)    | 0.312 (0.017)    | 0 (0.000) |     7.54 | cbass, Gabe, Grave, jchancE, mds      |
-|           20 |     2163 | 2025-04-02 | Getting Info           | L   | 0.374      | -            | -                | -                | -         |    -3.54 | cbass, Gabe, Grave, jchancE, mds      |
-|           19 |     2170 | 2025-04-02 | Getting Info           | L   | 0.374      | -            | -                | -                | -         |    -3.64 | cbass, Gabe, Grave, jchancE, mds      |
-|           18 |     2320 | 2025-03-29 | Fisher College         | L   | 0.347      | -            | -                | -                | -         |    -4.59 | cbass, Gabe, Grave, jchancE, mds      |
-|           17 |     2375 | 2025-03-28 | BLUEJAYS               | L   | 0.341      | -            | -                | -                | -         |    -2.63 | cbass, Gabe, Grave, jchancE, mds      |
-|           16 |     2443 | 2025-03-27 | InControl              | W   | 0.334      | 0.143        | -                | 0.119 (0.006)    | 0 (0.000) |     4.14 | cbass, Gabe, Grave, jchancE, mds      |
-|           15 |     2513 | 2025-03-26 | LAG Gaming             | L   | 0.328      | -            | -                | -                | -         |    -3.57 | cbass, Gabe, Grave, jchancE, mds      |
-|           14 |     2519 | 2025-03-26 | LAG Gaming             | L   | 0.328      | -            | -                | -                | -         |    -3.66 | cbass, Gabe, Grave, jchancE, mds      |
-|           13 |     2596 | 2025-03-24 | NRG                    | L   | 0.315      | -            | -                | -                | -         |    -0.81 | cbass, Gabe, Grave, jchancE, mds      |
-|           12 |     2597 | 2025-03-24 | NRG                    | L   | 0.314      | -            | -                | -                | -         |    -0.82 | cbass, Gabe, Grave, jchancE, mds      |
-|           11 |     2676 | 2025-03-19 | Legacy                 | L   | 0.281      | -            | -                | -                | -         |    -0.34 | cbass, Gabe, Grave, jchancE, mds      |
-|           10 |     2681 | 2025-03-19 | Legacy                 | L   | 0.281      | -            | -                | -                | -         |    -0.34 | cbass, Gabe, Grave, jchancE, mds      |
+|           25 |     2018 | 2025-04-08 | MIGHT                  | L   | 0.414      | -            | -                | -                | -         |    -5.73 | cbass, Gabe, Grave, jchancE, mds      |
+|           24 |     2054 | 2025-04-07 | Team Aether            | W   | 0.408      | 0.143        | -                | 0.323 (0.019)    | 0 (0.000) |     5.10 | cbass, Gabe, Grave, jchancE, mds      |
+|           23 |     2056 | 2025-04-07 | Team Aether            | L   | 0.407      | -            | -                | -                | -         |    -7.92 | cbass, Gabe, Grave, jchancE, mds      |
+|           22 |     2118 | 2025-04-03 | Party Astronauts       | W   | 0.381      | 0.143        | 0.004 (0.000)    | 0.312 (0.017)    | 0 (0.000) |     7.34 | cbass, Gabe, Grave, jchancE, mds      |
+|           21 |     2120 | 2025-04-03 | Party Astronauts       | W   | 0.381      | 0.143        | 0.004 (0.000)    | 0.312 (0.017)    | 0 (0.000) |     7.57 | cbass, Gabe, Grave, jchancE, mds      |
+|           20 |     2163 | 2025-04-02 | Getting Info           | L   | 0.374      | -            | -                | -                | -         |    -3.57 | cbass, Gabe, Grave, jchancE, mds      |
+|           19 |     2170 | 2025-04-02 | Getting Info           | L   | 0.374      | -            | -                | -                | -         |    -3.67 | cbass, Gabe, Grave, jchancE, mds      |
+|           18 |     2320 | 2025-03-29 | Fisher College         | L   | 0.347      | -            | -                | -                | -         |    -4.61 | cbass, Gabe, Grave, jchancE, mds      |
+|           17 |     2375 | 2025-03-28 | BLUEJAYS               | L   | 0.341      | -            | -                | -                | -         |    -2.64 | cbass, Gabe, Grave, jchancE, mds      |
+|           16 |     2443 | 2025-03-27 | InControl              | W   | 0.334      | 0.143        | -                | 0.119 (0.006)    | 0 (0.000) |     4.15 | cbass, Gabe, Grave, jchancE, mds      |
+|           15 |     2513 | 2025-03-26 | LAG Gaming             | L   | 0.328      | -            | -                | -                | -         |    -3.58 | cbass, Gabe, Grave, jchancE, mds      |
+|           14 |     2519 | 2025-03-26 | LAG Gaming             | L   | 0.328      | -            | -                | -                | -         |    -3.67 | cbass, Gabe, Grave, jchancE, mds      |
+|           13 |     2596 | 2025-03-24 | NRG                    | L   | 0.315      | -            | -                | -                | -         |    -0.83 | cbass, Gabe, Grave, jchancE, mds      |
+|           12 |     2597 | 2025-03-24 | NRG                    | L   | 0.314      | -            | -                | -                | -         |    -0.83 | cbass, Gabe, Grave, jchancE, mds      |
+|           11 |     2676 | 2025-03-19 | Legacy                 | L   | 0.281      | -            | -                | -                | -         |    -0.19 | cbass, Gabe, Grave, jchancE, mds      |
+|           10 |     2681 | 2025-03-19 | Legacy                 | L   | 0.281      | -            | -                | -                | -         |    -0.19 | cbass, Gabe, Grave, jchancE, mds      |
 |            9 |     2746 | 2025-03-17 | LAG Gaming             | W   | 0.268      | 0.143        | 0.000 (0.000)    | -                | -         |     4.19 | cbass, Gabe, Grave, jchancE, mds      |
 |            8 |     2747 | 2025-03-17 | LAG Gaming             | W   | 0.268      | 0.143        | 0.000 (0.000)    | -                | -         |     4.29 | cbass, Gabe, Grave, jchancE, mds      |
-|            7 |     3047 | 2025-03-07 | Worms                  | L   | 0.200      | -            | -                | -                | -         |    -4.97 | cbass, Gabe, Grave, jchancE, LaffyTs  |
+|            7 |     3047 | 2025-03-07 | Worms                  | L   | 0.200      | -            | -                | -                | -         |    -4.95 | cbass, Gabe, Grave, jchancE, LaffyTs  |
 |            6 |     3102 | 2025-03-06 | Arrival Seven          | L   | 0.195      | -            | -                | -                | -         |    -2.37 | cbass, Gabe, Grave, jchancE, LaffyTs  |
-|            5 |     3151 | 2025-03-05 | Immigrants Peek        | W   | 0.187      | -            | -                | -                | -         |     1.71 | cbass, Gabe, Grave, jchancE, LaffyTs  |
-|            4 |     3316 | 2025-02-26 | InControl              | W   | 0.141      | -            | -                | -                | -         |     1.61 | cbass, Gabe, Grave, jchancE, mds      |
-|            3 |     3320 | 2025-02-26 | InControl              | W   | 0.141      | -            | -                | -                | -         |     1.63 | cbass, Gabe, Grave, jchancE, mds      |
-|            2 |     3725 | 2025-02-09 | MCS Gaming             | L   | 0.026      | -            | -                | -                | -         |    -0.59 | cbass, Gabe, Grave, jchancE, LaffyTs  |
+|            5 |     3151 | 2025-03-05 | Immigrants Peek        | W   | 0.187      | -            | -                | -                | -         |     1.73 | cbass, Gabe, Grave, jchancE, LaffyTs  |
+|            4 |     3316 | 2025-02-26 | InControl              | W   | 0.141      | -            | -                | -                | -         |     1.62 | cbass, Gabe, Grave, jchancE, mds      |
+|            3 |     3320 | 2025-02-26 | InControl              | W   | 0.141      | -            | -                | -                | -         |     1.64 | cbass, Gabe, Grave, jchancE, mds      |
+|            2 |     3725 | 2025-02-09 | MCS Gaming             | L   | 0.026      | -            | -                | -                | -         |    -0.58 | cbass, Gabe, Grave, jchancE, LaffyTs  |
 |            1 |     3773 | 2025-02-08 | M80                    | L   | 0.019      | -            | -                | -                | -         |    -0.03 | cbass, Gabe, Grave, jchancE, LaffyTs  |
 
 <br />
@@ -81,7 +81,7 @@ Note:<br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($0.00)
-- Divide that value by the 5th highest value among all rosters ($436,168.75)
+- Divide that value by the 5th highest value among all rosters ($439,157.18)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

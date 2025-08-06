@@ -6,9 +6,9 @@ Global Rank: [108](../../standings_global_2025_08_03.md)<br />
 Region: [Europe]( ../../standings_europe_2025_08_03.md)<br />
 Regional Rank: [74]( ../../standings_europe_2025_08_03.md)<br />
 <br />
-Final Rank Value:  766.4<br />
+Final Rank Value:  764.2<br />
 <br />
-Final Rank Value (766.4) = Starting Rank Value (708.6) + Head To Head Adjustments (57.8)<br />
+Final Rank Value (764.2) = Starting Rank Value (706.1) + Head To Head Adjustments (58.1)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.162<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 708.6
-- 400 + ( ( 0.162 - 0.000 ) / ( 0.839 - 0.000 ) ) * 1600 = 708.6
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 706.1
+- 400 + ( ( 0.162 - 0.000 ) / ( 0.845 - 0.000 ) ) * 1600 = 706.1
 
 
 #### Factors<br />
@@ -37,19 +37,19 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent       | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                      |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            6 |      286 | 2025-07-14 | Nemiga Gaming  | L   | 1.000      | -            | -                | -                | -         |    -1.95 | acoR, juanflatroo, rigoN, sinnopsyy, volt   |
-|            5 |      296 | 2025-07-14 | Sangal Esports | W   | 1.000      | 0.143        | 0.037 (0.005)    | 0.725 (0.104)    | 0 (0.000) |    23.94 | acoR, juanflatroo, rigoN, sinnopsyy, volt   |
-|            4 |      404 | 2025-07-09 | WATERMEL0N     | W   | 1.000      | 0.147        | 0.000 (0.000)    | 0.050 (0.007)    | 0 (0.000) |     4.30 | acoR, juanflatroo, rigoN, sinnopsyy, volt   |
-|            3 |      417 | 2025-07-09 | ARCRED         | W   | 1.000      | 0.147        | 0.015 (0.002)    | 0.114 (0.017)    | 0 (0.000) |    20.82 | acoR, juanflatroo, rigoN, sinnopsyy, volt   |
-|            2 |      890 | 2025-06-01 | Tricked Esport | L   | 0.771      | -            | -                | -                | -         |    -5.33 | gxx-, juanflatroo, rigoN, SENER1, sinnopsyy |
-|            1 |      898 | 2025-05-31 | ESC Gaming     | W   | 0.765      | 0.299        | 0.051 (0.012)    | 0.427 (0.098)    | 1 (0.765) |    16.06 | gxx-, juanflatroo, rigoN, SENER1, sinnopsyy |
+|            6 |      286 | 2025-07-14 | Nemiga Gaming  | L   | 1.000      | -            | -                | -                | -         |    -1.64 | acoR, juanflatroo, rigoN, sinnopsyy, volt   |
+|            5 |      296 | 2025-07-14 | Sangal Esports | W   | 1.000      | 0.143        | 0.037 (0.005)    | 0.725 (0.104)    | 0 (0.000) |    23.93 | acoR, juanflatroo, rigoN, sinnopsyy, volt   |
+|            4 |      404 | 2025-07-09 | WATERMEL0N     | W   | 1.000      | 0.147        | 0.000 (0.000)    | 0.050 (0.007)    | 0 (0.000) |     4.35 | acoR, juanflatroo, rigoN, sinnopsyy, volt   |
+|            3 |      417 | 2025-07-09 | ARCRED         | W   | 1.000      | 0.147        | 0.015 (0.002)    | 0.114 (0.017)    | 0 (0.000) |    20.78 | acoR, juanflatroo, rigoN, sinnopsyy, volt   |
+|            2 |      890 | 2025-06-01 | Tricked Esport | L   | 0.771      | -            | -                | -                | -         |    -5.36 | gxx-, juanflatroo, rigoN, SENER1, sinnopsyy |
+|            1 |      898 | 2025-05-31 | ESC Gaming     | W   | 0.765      | 0.299        | 0.051 (0.012)    | 0.427 (0.098)    | 1 (0.765) |    16.03 | gxx-, juanflatroo, rigoN, SENER1, sinnopsyy |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($874.87)
-- Divide that value by the 5th highest value among all rosters ($436,168.75)
+- Divide that value by the 5th highest value among all rosters ($439,157.18)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
