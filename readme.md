@@ -9,3 +9,7 @@ Delete the `/liquipedia` folder so you can generate new data for that match date
 Then type `cd model` in terminal and run `node main.js` 
 
 To modify matches / event weights you can make changes in `matchdata.json` , make any changes to the model formula in `/model`. Most aspects are contained in `team.js`
+
+## Data source
+
+LiquipediaDB and then manual tweaks were used to create the matchdata.json. If there are any issues with the data please make a pull request to get it fixed
