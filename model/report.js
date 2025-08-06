@@ -149,6 +149,7 @@ function displayTeamRankingSummary( team, teams, strDate ){
     output += formatLine( `- Bounty Offered: ${ team.modifiers.bountyOffered.toFixed(3) }[<sup>1</sup>](#table2)`, true);
     output += formatLine( `- Bounty Collected: ${ team.modifiers.bountyCollected.toFixed(3) }[<sup>2</sup>](#table1)`, true);
     output += formatLine( `- Opponent Network: ${ team.modifiers.opponentNetwork.toFixed(3) }[<sup>2</sup>](#table1)`, true);
+    output += formatLine( `- Own Network: ${ team.modifiers.ownNetwork.toFixed(3) }[<sup>2</sup>](#table1)`, true);
     output += formatLine( `- LAN Wins: ${ team.modifiers.lanFactor.toFixed(3) }[<sup>2</sup>](#table1)`, true);
     output += formatLine( '', true );
     output += formatLine( `The average of these factors is ${ team.seedValue.toFixed(3) }`);
