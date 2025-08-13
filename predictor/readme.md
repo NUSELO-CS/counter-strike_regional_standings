@@ -138,7 +138,7 @@ module.exports = {
 
     // leave as -1 to simulate match as next day (recommended).
     // NOTE: If you set a rankings time and do not set an overrided event time, the event time will be set as 1 day before the rankings time.
-    overrideRankingsTime: -1, 
+    overrideRankingsTime: -1,
 
     // list all teams competing in an event by their given team id. team ids are defined in teams.json
     targetTeamIds: [
