@@ -166,11 +166,15 @@ function calculateMatchInformationContent( match, rankingContext, events ){
     return informationContent;
 }
 
-function findTimeWindow( matches, filterEnd, dataWindow )
+function findTimeWindow( matches, filterEnd, dataWindow, overrideTimeStamp )
 {
     let endTime = filterEnd;
     if ( endTime < 0 )
         endTime = Math.max( ...matches.map( match => match.matchStartTime ) );
+
+    if(overrideTimeStamp !== undefined && overrideTimeStamp !== -1 && overrideTimeStamp > 1 && overrideTimeStamp > endTime) {
+        endTime = overrideTimeStamp;
+    } 
 
     let startTime = endTime - dataWindow;
 
@@ -212,7 +216,7 @@ class DataLoader
     // with the nth most prize winnings.
     setNthHighest( nth ) { this.rankingContext.setOutlierCount( nth ); }
 
-    loadData( versionTimestamp = -1, filename = '../data/matchdata.json' )
+    loadData( versionTimestamp = -1, filename = '../data/matchdata.json', overrideTimeStamp )
     {
         const data = fs.readFileSync( filename );
         const dataJson = JSON.parse( data );
@@ -228,7 +232,7 @@ class DataLoader
         // Remove unranked matches
         matches = filterUnrankedMatches( matches );
         
-        const [startTime,endTime] = findTimeWindow( matches, this.filterEndTime, this.filterWindow );
+        const [startTime,endTime] = findTimeWindow( matches, this.filterEndTime, this.filterWindow, overrideTimeStamp );
         let graceperiod = 30 * 24 * 3600; // 1 month
         this.rankingContext.setTimeWindow( startTime, endTime - graceperiod );
         matches = filterMatchesByTime( matches, startTime, endTime );

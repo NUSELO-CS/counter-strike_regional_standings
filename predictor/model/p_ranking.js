@@ -20,7 +20,7 @@ const SEED_MODIFIER_FACTORS = {
 const MIN_SEEDED_RANK = 400;
 const MAX_SEEDED_RANK = 2000;
 
-function generateRanking( versionTimestamp = -1, filename, newMatches, newEvents )
+function generateRanking( versionTimestamp = -1, filename, newMatches, newEvents, overrideTimeStamp )
 {
     // Parameters
     const rankingContext = new RankingContext;
@@ -28,7 +28,7 @@ function generateRanking( versionTimestamp = -1, filename, newMatches, newEvents
 
     const dataLoader = new DataLoader( rankingContext );
     // supply insertion variables to new rankings for comparison of outcome
-    dataLoader.loadData( versionTimestamp, filename, newMatches, newEvents );
+    dataLoader.loadData( versionTimestamp, filename, newMatches, newEvents, overrideTimeStamp );
 
     let teams = dataLoader.teams;
     let matches = dataLoader.matches;

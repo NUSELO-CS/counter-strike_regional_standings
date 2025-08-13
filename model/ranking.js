@@ -20,14 +20,14 @@ const SEED_MODIFIER_FACTORS = {
 const MIN_SEEDED_RANK = 400;
 const MAX_SEEDED_RANK = 2000;
 
-function generateRanking( versionTimestamp = -1, filename )
+function generateRanking( versionTimestamp = -1, filename, overrideTimeStamp )
 {
     // Parameters
     const rankingContext = new RankingContext;
     rankingContext.setHveMod(1).setOutlierCount(5);
 
     const dataLoader = new DataLoader( rankingContext );
-    dataLoader.loadData( versionTimestamp, filename );
+    dataLoader.loadData( versionTimestamp, filename, overrideTimeStamp );
 
     let teams = dataLoader.teams;
     let matches = dataLoader.matches;

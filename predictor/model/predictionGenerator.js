@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 
 function nearestPowerOfTwo(n) {
-    return Math.pow(2, Math.ceil(Math.log2(n)));
+    return Math.ceil(Math.log2(n));
 }
 
 // Generate a random team ID
@@ -63,7 +63,7 @@ function predictionGenerator(teams, inputData, matchTimes) {
             const totalTeams = allTeamIds.length;
             const bracketSize = nearestPowerOfTwo(totalTeams);
 
-            let warmupRounds = Math.max(0, 7 - Math.log2(bracketSize));
+            let warmupRounds = Math.max(0, e.wins - Math.log2(bracketSize));
 
             // Map teamIds to full teams
             const fullTeams = allTeamIds.map(teamId => {
@@ -137,12 +137,14 @@ function predictionGenerator(teams, inputData, matchTimes) {
                 clubShare: 0,
                 qualifiedEvents: []
             });
-
+            const prizeStr = String(e.prizePool);
+            const cleanedPrize = prizeStr.replace(/[^\d]/g, ""); 
+            
             // Create the event
             const eventObj = {
                 eventId,
                 eventName: eventId,
-                prizepool: `${e.prizePool}`,
+                prizePool: `$${cleanedPrize}`,
                 lan: e.lan,
                 valveRanked: true,
                 finished: true,
@@ -190,18 +192,22 @@ function simulateElimination(teams, targetId, winsLeft, matchTimes, eventId, isL
             byes = [];
         }
 
-        for (let i = 0; i < activeTeams.length; i += 2) {
-            if (i + 1 >= activeTeams.length) {
-                nextRound.push(activeTeams[i]);
-                continue;
-            }
+        // Create outward pairs to somewhat simulate a bracket
+        const pairs = [];
+        let left = 0;
+        let right = activeTeams.length - 1;
 
-            const t1 = activeTeams[i];
-            const t2 = activeTeams[i + 1];
+        while (left < right) {
+            pairs.push([activeTeams[left], activeTeams[right]]);
+            left++;
+            right--;
+        }
 
+        // Process each pair
+        for (const [t1, t2] of pairs) {
             let winner, loser, matchWinnerNum;
 
-            // Normal process
+            // Normal process: higher rank wins
             if (t1.startingRankValue >= t2.startingRankValue) {
                 winner = t1;
                 loser = t2;
@@ -212,7 +218,7 @@ function simulateElimination(teams, targetId, winsLeft, matchTimes, eventId, isL
                 matchWinnerNum = 2;
             }
 
-            // Force win if target is in the match
+            // Force target wins if needed
             if ((t1.teamId === targetId || t2.teamId === targetId) && winsLeft > 0) {
                 winner = (t1.teamId === targetId) ? t1 : t2;
                 loser = (winner === t1) ? t2 : t1;
@@ -221,7 +227,7 @@ function simulateElimination(teams, targetId, winsLeft, matchTimes, eventId, isL
             }
 
             matches.push({
-                matchStartTime: matchTimes + (round - 1) * 3600, // have all matches run at offset
+                matchStartTime: matchTimes + (round - 1) * 1,
                 team1Id: t1.teamId,
                 team2Id: t2.teamId,
                 team1Name: t1.name,

@@ -6,7 +6,7 @@ const P_Ranking = require('./model/p_ranking');
 const { predictionGenerator } = require('./model/predictionGenerator');
 
 
-const { targetTeamIds, baseEvent } = require('./input');
+const { targetTeamIds, baseEvent, overrideRankingsTime, overrideEventTime } = require('./input');
 
 const TEAM_OVERLAP_TO_SHARE_ROSTER = 3;
 
@@ -28,12 +28,28 @@ function extractRegionalRank(regionalRanks) {
 
 function run() {
     let filename = '../data/matchdata.json';
-    let [matches, teams] = Ranking.generateRanking(-1, filename);
+    let rankingsTime = -1;
+    if(overrideRankingsTime !== undefined && overrideRankingsTime !== -1 && overrideEventTime >1) {
+        rankingsTime = overrideEventTime;
+    }
+
+
+    let [matches, teams] = Ranking.generateRanking(-1, filename, rankingsTime);
 
     let maxTimestamp = Math.max(...matches.map(m => m.matchStartTime));
 
     // 86400s
-    let nextDayTimestamp = maxTimestamp + 86400;
+    let nextDayTimestamp;
+
+    if (overrideEventTime !== undefined && overrideEventTime !== -1 && overrideEventTime > 1) {
+        nextDayTimestamp = overrideEventTime;
+    } else {
+        if(overrideRankingsTime !== undefined && overrideRankingsTime !== -1 && overrideEventTime >1) {
+            nextDayTimestamp = rankingsTime - 86400;
+        } else {
+            nextDayTimestamp = maxTimestamp + 86400;
+        }
+    }
 
     let csvOutput = "team,beforeGlobal,afterGlobal,beforeRegional,afterRegional,beforeRankValue,afterRankValue\n";
     for (const teamId of targetTeamIds) {
@@ -64,7 +80,7 @@ function run() {
         };
 
         const { matches: newMatches, events: newEvents } = predictionGenerator(teams, predictionEvent, nextDayTimestamp);
-        const [updateMatches, updatedTeams] = P_Ranking.generateRanking(-1, filename, newMatches, newEvents);
+        const [updateMatches, updatedTeams] = P_Ranking.generateRanking(-1, filename, newMatches, newEvents, rankingsTime);
 
         // find updated teams that share roster
         const afterInstances = updatedTeams.filter(t => sharesRoster(before, t));

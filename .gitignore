@@ -2,6 +2,8 @@
 *.tmp
 *.json
 /data/*
+!/data/old_samples/
+!/data/old_samples/*
 !/data/matchdata_sample*
 /tools
 *.py

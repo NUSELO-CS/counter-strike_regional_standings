@@ -3,7 +3,7 @@
 const Ranking = require('../model/ranking');
 const P_Ranking = require('./model/p_ranking');
 const { predictionGenerator } = require('./model/predictionGenerator');
-const { primaryTeamId, targetTeamIds, baseEvent } = require('./input');
+const { primaryTeamId, targetTeamIds, baseEvent, overrideRankingsTime, overrideEventTime } = require('./input');
 const RegionList = ['Europe', 'Americas', 'Asia'];
 const P_Report = require('./model/p_report');
 
@@ -24,14 +24,28 @@ function run() {
     if (process.argv[2] !== undefined) regions = JSON.parse(process.argv[2]);
 
     let filename = '../data/matchdata.json';
+    let rankingsTime = -1;
+    if(overrideRankingsTime !== undefined && overrideRankingsTime !== -1 && overrideEventTime >1) {
+        rankingsTime = overrideEventTime;
+    }
     if (process.argv[3] !== undefined) filename = process.argv[3];
 
-    let [matches, teams] = Ranking.generateRanking(-1, filename);
+    let [matches, teams] = Ranking.generateRanking(-1, filename, rankingsTime);
 
     let maxTimestamp = Math.max(...matches.map(m => m.matchStartTime));
 
     // 86400s
-    let nextDayTimestamp = maxTimestamp + 86400;
+    let nextDayTimestamp;
+
+    if (overrideEventTime !== undefined && overrideEventTime !== -1 && overrideEventTime > 1) {
+        nextDayTimestamp = overrideEventTime;
+    } else {
+        if(overrideRankingsTime !== undefined && overrideRankingsTime !== -1 && overrideEventTime >1) {
+            nextDayTimestamp = rankingsTime - 86400;
+        } else {
+            nextDayTimestamp = maxTimestamp + 86400;
+        }
+    }
 
     // Build predictionEvent using supplied team id, excluding it from the other competitors in case it has been included
     const predictionEvent = {
@@ -47,8 +61,8 @@ function run() {
     };
 
     let { matches: newMatches, events: newEvents } = predictionGenerator(teams, predictionEvent, nextDayTimestamp);
-
-    let [updateMatches, updatedTeams] = P_Ranking.generateRanking(-1, filename, newMatches, newEvents);
+    
+    let [updateMatches, updatedTeams] = P_Ranking.generateRanking(-1, filename, newMatches, newEvents, rankingsTime);
 
     updatedTeams.forEach(newTeam => {
         // Find old team with shared roster
