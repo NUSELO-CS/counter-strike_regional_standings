@@ -1,0 +1,1530 @@
+[
+  {
+    "name": "Team Vitality",
+    "team_id": "team vitality 2023",
+    "globalRank": 1
+  },
+  {
+    "name": "Team Spirit",
+    "team_id": "team spirit 2022",
+    "globalRank": 2
+  },
+  {
+    "name": "MOUZ",
+    "team_id": "mouz 2021",
+    "globalRank": 3
+  },
+  {
+    "name": "The MongolZ",
+    "team_id": "the mongolz 2024 03",
+    "globalRank": 4
+  },
+  {
+    "name": "Natus Vincere",
+    "team_id": "natus vincere 2021",
+    "globalRank": 5
+  },
+  {
+    "name": "FURIA",
+    "team_id": "furia 2025",
+    "globalRank": 6
+  },
+  {
+    "name": "FaZe Clan",
+    "team_id": "faze clan 2025",
+    "globalRank": 7
+  },
+  {
+    "name": "Astralis",
+    "team_id": "astralis 2020",
+    "globalRank": 8
+  },
+  {
+    "name": "TYLOO",
+    "team_id": "tyloo 2016",
+    "globalRank": 9
+  },
+  {
+    "name": "Team Falcons",
+    "team_id": "team falcons 2022",
+    "globalRank": 10
+  },
+  {
+    "name": "3DMAX",
+    "team_id": "3dmax 2024",
+    "globalRank": 11
+  },
+  {
+    "name": "Aurora Gaming",
+    "team_id": "aurora gaming 2025",
+    "globalRank": 12
+  },
+  {
+    "name": "G2 Esports",
+    "team_id": "g2 esports 2019",
+    "globalRank": 13
+  },
+  {
+    "name": "GamerLegion",
+    "team_id": "gamerlegion 2023",
+    "globalRank": 14
+  },
+  {
+    "name": "Lynn Vision Gaming",
+    "team_id": "lynn vision gaming 2024",
+    "globalRank": 15
+  },
+  {
+    "name": "PaiN Gaming",
+    "team_id": "pain gaming 2023",
+    "globalRank": 16
+  },
+  {
+    "name": "Virtus.pro",
+    "team_id": "virtus.pro 2019",
+    "globalRank": 17
+  },
+  {
+    "name": "HEROIC",
+    "team_id": "heroic sep 2024",
+    "globalRank": 18
+  },
+  {
+    "name": "Ninjas in Pyjamas",
+    "team_id": "ninjas in pyjamas 2021",
+    "globalRank": 19
+  },
+  {
+    "name": "Legacy",
+    "team_id": "legacy 2023",
+    "globalRank": 20
+  },
+  {
+    "name": "MIBR",
+    "team_id": "mibr 2018",
+    "globalRank": 21
+  },
+  {
+    "name": "BetBoom Team",
+    "team_id": "betboom team 2024",
+    "globalRank": 22
+  },
+  {
+    "name": "Complexity",
+    "team_id": "complexity 2025",
+    "globalRank": 23
+  },
+  {
+    "name": "B8",
+    "team_id": "b8",
+    "globalRank": 24
+  },
+  {
+    "name": "FlyQuest",
+    "team_id": "flyquest 2021",
+    "globalRank": 25
+  },
+  {
+    "name": "SAW",
+    "team_id": "saw 2021",
+    "globalRank": 26
+  },
+  {
+    "name": "Team Liquid",
+    "team_id": "team liquid 2024",
+    "globalRank": 27
+  },
+  {
+    "name": "ECSTATIC",
+    "team_id": "ecstatic 2023",
+    "globalRank": 28
+  },
+  {
+    "name": "Iberian Soul",
+    "team_id": "iberian soul",
+    "globalRank": 29
+  },
+  {
+    "name": "Nemiga Gaming",
+    "team_id": "nemiga gaming 2021",
+    "globalRank": 30
+  },
+  {
+    "name": "TEAM NEXT LEVEL",
+    "team_id": "team next level 2024",
+    "globalRank": 31
+  },
+  {
+    "name": "M80",
+    "team_id": "m80 2024",
+    "globalRank": 32
+  },
+  {
+    "name": "Fnatic",
+    "team_id": "fnatic 2020",
+    "globalRank": 33
+  },
+  {
+    "name": "BIG",
+    "team_id": "big 2020",
+    "globalRank": 34
+  },
+  {
+    "name": "Rare Atom",
+    "team_id": "rare atom 2024",
+    "globalRank": 35
+  },
+  {
+    "name": "FUT Esports",
+    "team_id": "fut esports",
+    "globalRank": 36
+  },
+  {
+    "name": "Passion UA",
+    "team_id": "passion ua 2025",
+    "globalRank": 37
+  },
+  {
+    "name": "NRG",
+    "team_id": "nrg 2024",
+    "globalRank": 38
+  },
+  {
+    "name": "OG",
+    "team_id": "og",
+    "globalRank": 39
+  },
+  {
+    "name": "PARIVISION",
+    "team_id": "parivision",
+    "globalRank": 40
+  },
+  {
+    "name": "KOLESIE",
+    "team_id": "kolesie",
+    "globalRank": 41
+  },
+  {
+    "name": "ENCE",
+    "team_id": "ence 2020",
+    "globalRank": 42
+  },
+  {
+    "name": "Imperial Esports",
+    "team_id": "imperial esports 2022",
+    "globalRank": 43
+  },
+  {
+    "name": "Team Spirit Academy",
+    "team_id": "team spirit academy 2021",
+    "globalRank": 44
+  },
+  {
+    "name": "JiJieHao",
+    "team_id": "jijiehao 2025",
+    "globalRank": 45
+  },
+  {
+    "name": "Fluxo",
+    "team_id": "fluxo",
+    "globalRank": 46
+  },
+  {
+    "name": "Wildcard",
+    "team_id": "wildcard 2024",
+    "globalRank": 47
+  },
+  {
+    "name": "Alliance",
+    "team_id": "alliance 2024",
+    "globalRank": 48
+  },
+  {
+    "name": "Sashi Esport",
+    "team_id": "sashi esport 2023",
+    "globalRank": 49
+  },
+  {
+    "name": "Betclic Apogee Esports",
+    "team_id": "betclic apogee esports",
+    "globalRank": 50
+  },
+  {
+    "name": "Chinggis Warriors",
+    "team_id": "chinggis warriors",
+    "globalRank": 51
+  },
+  {
+    "name": "Nexus Gaming",
+    "team_id": "nexus gaming 2020",
+    "globalRank": 52
+  },
+  {
+    "name": "The Huns Esports",
+    "team_id": "the huns esports 2025",
+    "globalRank": 53
+  },
+  {
+    "name": "Partizan Esports",
+    "team_id": "partizan esports 2024",
+    "globalRank": 54
+  },
+  {
+    "name": "9INE",
+    "team_id": "9ine 2022",
+    "globalRank": 55
+  },
+  {
+    "name": "HOTU",
+    "team_id": "hotu 2022",
+    "globalRank": 56
+  },
+  {
+    "name": "BLUEJAYS",
+    "team_id": "bluejays 2015",
+    "globalRank": 57
+  },
+  {
+    "name": "CYBERSHOKE Esports",
+    "team_id": "cybershoke esports 2024",
+    "globalRank": 58
+  },
+  {
+    "name": "Sharks Esports",
+    "team_id": "sharks esports 2023",
+    "globalRank": 59
+  },
+  {
+    "name": "Zero Tenacity",
+    "team_id": "zero tenacity 2022",
+    "globalRank": 60
+  },
+  {
+    "name": "9z Team",
+    "team_id": "9z team 2024",
+    "globalRank": 61
+  },
+  {
+    "name": "Johnny Speeds",
+    "team_id": "johnny speeds 2025",
+    "globalRank": 62
+  },
+  {
+    "name": "GUN5 Esports",
+    "team_id": "gun5 esports",
+    "globalRank": 63
+  },
+  {
+    "name": "ESC Gaming",
+    "team_id": "esc gaming 2023",
+    "globalRank": 64
+  },
+  {
+    "name": "ODDIK",
+    "team_id": "oddik",
+    "globalRank": 65
+  },
+  {
+    "name": "Monte",
+    "team_id": "monte 2022",
+    "globalRank": 66
+  },
+  {
+    "name": "Marsborne",
+    "team_id": "marsborne",
+    "globalRank": 67
+  },
+  {
+    "name": "Sangal Esports",
+    "team_id": "sangal esports 2020",
+    "globalRank": 68
+  },
+  {
+    "name": "Tricked Esport",
+    "team_id": "tricked esport 2025",
+    "globalRank": 69
+  },
+  {
+    "name": "Metizport",
+    "team_id": "metizport 2023",
+    "globalRank": 70
+  },
+  {
+    "name": "9Pandas",
+    "team_id": "ex-9pandas",
+    "globalRank": 71
+  },
+  {
+    "name": "G2 Esports",
+    "team_id": "g2 esports 2019",
+    "globalRank": 72
+  },
+  {
+    "name": "BC.Game Esports",
+    "team_id": "bc.game esports 2025",
+    "globalRank": 73
+  },
+  {
+    "name": "RUBY",
+    "team_id": "ruby",
+    "globalRank": 74
+  },
+  {
+    "name": "FAVBET Team",
+    "team_id": "favbet team",
+    "globalRank": 75
+  },
+  {
+    "name": "BESTIA",
+    "team_id": "bestia",
+    "globalRank": 76
+  },
+  {
+    "name": "SENZA Esports",
+    "team_id": "senza esports",
+    "globalRank": 77
+  },
+  {
+    "name": "BLUEJAYS",
+    "team_id": "bluejays 2015",
+    "globalRank": 78
+  },
+  {
+    "name": "RED Canids",
+    "team_id": "red canids",
+    "globalRank": 79
+  },
+  {
+    "name": "Eruption",
+    "team_id": "eruption 2024",
+    "globalRank": 80
+  },
+  {
+    "name": "Getting Info",
+    "team_id": "getting info",
+    "globalRank": 81
+  },
+  {
+    "name": "Betera Esports",
+    "team_id": "betera esports 2024",
+    "globalRank": 82
+  },
+  {
+    "name": "SINNERS Esports",
+    "team_id": "sinners esports",
+    "globalRank": 83
+  },
+  {
+    "name": "Copenhagen Wolves (American organization)",
+    "team_id": "copenhagen wolves (american organization)",
+    "globalRank": 84
+  },
+  {
+    "name": "FURIA Female",
+    "team_id": "furia female 2025",
+    "globalRank": 85
+  },
+  {
+    "name": "Dynamo Eclot",
+    "team_id": "dynamo eclot 2021",
+    "globalRank": 86
+  },
+  {
+    "name": "AaB esport",
+    "team_id": "aab esport",
+    "globalRank": 87
+  },
+  {
+    "name": "TPuDCATb TPu",
+    "team_id": "tpudcatb tpu",
+    "globalRank": 88
+  },
+  {
+    "name": "EYEBALLERS",
+    "team_id": "eyeballers 2023",
+    "globalRank": 89
+  },
+  {
+    "name": "500",
+    "team_id": "500 2024",
+    "globalRank": 90
+  },
+  {
+    "name": "Desemprego",
+    "team_id": "desemprego",
+    "globalRank": 91
+  },
+  {
+    "name": "ARCRED",
+    "team_id": "arcred 2024",
+    "globalRank": 92
+  },
+  {
+    "name": "Eternal Fire",
+    "team_id": "eternal fire 2023",
+    "globalRank": 93
+  },
+  {
+    "name": "2Game Esports",
+    "team_id": "2game esports 2024",
+    "globalRank": 94
+  },
+  {
+    "name": "Wings Up Gaming",
+    "team_id": "wings up gaming orig",
+    "globalRank": 95
+  },
+  {
+    "name": "SemperFi Esports",
+    "team_id": "semperfi esports",
+    "globalRank": 96
+  },
+  {
+    "name": "Getting Info",
+    "team_id": "getting info",
+    "globalRank": 97
+  },
+  {
+    "name": "Flamengo Esports",
+    "team_id": "flamengo esports",
+    "globalRank": 98
+  },
+  {
+    "name": "FORZE Reload",
+    "team_id": "forze reload",
+    "globalRank": 99
+  },
+  {
+    "name": "Rhyno Esports",
+    "team_id": "rhyno esports 2020",
+    "globalRank": 100
+  },
+  {
+    "name": "AMKAL ESPORTS",
+    "team_id": "amkal esports 2024",
+    "globalRank": 101
+  },
+  {
+    "name": "NXT",
+    "team_id": "nxt",
+    "globalRank": 102
+  },
+  {
+    "name": "M1 Gaming",
+    "team_id": "m1 gaming",
+    "globalRank": 103
+  },
+  {
+    "name": "Supernova Comets",
+    "team_id": "supernova comets",
+    "globalRank": 104
+  },
+  {
+    "name": "1win Team",
+    "team_id": "1win team 2024",
+    "globalRank": 105
+  },
+  {
+    "name": "NIP Impact",
+    "team_id": "nip impact",
+    "globalRank": 106
+  },
+  {
+    "name": "M1X",
+    "team_id": "m1x 2024",
+    "globalRank": 107
+  },
+  {
+    "name": "Nomads (Mongolian team)",
+    "team_id": "nomads (mongolian team) 2025",
+    "globalRank": 108
+  },
+  {
+    "name": "Marius",
+    "team_id": "marius",
+    "globalRank": 109
+  },
+  {
+    "name": "Monte",
+    "team_id": "monte 2022",
+    "globalRank": 110
+  },
+  {
+    "name": "IHC Esports",
+    "team_id": "ihc esports",
+    "globalRank": 111
+  },
+  {
+    "name": "ENCE Academy",
+    "team_id": "ence academy dec 2023",
+    "globalRank": 112
+  },
+  {
+    "name": "Rooster",
+    "team_id": "rooster",
+    "globalRank": 113
+  },
+  {
+    "name": "LAG Gaming",
+    "team_id": "lag gaming",
+    "globalRank": 114
+  },
+  {
+    "name": "Zerance",
+    "team_id": "zerance",
+    "globalRank": 115
+  },
+  {
+    "name": "Bounty Hunters Esports",
+    "team_id": "bounty hunters esports",
+    "globalRank": 116
+  },
+  {
+    "name": "The Last Resort",
+    "team_id": "the last resort",
+    "globalRank": 117
+  },
+  {
+    "name": "Game Hunters",
+    "team_id": "game hunters",
+    "globalRank": 118
+  },
+  {
+    "name": "Keyd Stars",
+    "team_id": "keyd stars 2022",
+    "globalRank": 119
+  },
+  {
+    "name": "Imperial Female",
+    "team_id": "imperial female 2024",
+    "globalRank": 120
+  },
+  {
+    "name": "BOSS",
+    "team_id": "boss 2024",
+    "globalRank": 121
+  },
+  {
+    "name": "Fire Flux Esports",
+    "team_id": "fire flux esports",
+    "globalRank": 122
+  },
+  {
+    "name": "RED Canids",
+    "team_id": "red canids",
+    "globalRank": 123
+  },
+  {
+    "name": "Ex-Sabre Esports",
+    "team_id": "ex-sabre esports",
+    "globalRank": 124
+  },
+  {
+    "name": "ShindeN",
+    "team_id": "shinden",
+    "globalRank": 125
+  },
+  {
+    "name": "FlyQuest RED",
+    "team_id": "flyquest red",
+    "globalRank": 126
+  },
+  {
+    "name": "LargadosyPelados",
+    "team_id": "largadosypelados 2025",
+    "globalRank": 127
+  },
+  {
+    "name": "SELVA",
+    "team_id": "selva",
+    "globalRank": 128
+  },
+  {
+    "name": "M0n$t3rS",
+    "team_id": "m0n$t3rs"
+  },
+  {
+    "name": "FUT Esports",
+    "team_id": "fut esports",
+    "globalRank": 129
+  },
+  {
+    "name": "HEROIC Academy",
+    "team_id": "heroic academy",
+    "globalRank": 130
+  },
+  {
+    "name": "Arrival Seven",
+    "team_id": "arrival seven",
+    "globalRank": 131
+  },
+  {
+    "name": "KRÜ Esports",
+    "team_id": "krü esports",
+    "globalRank": 132
+  },
+  {
+    "name": "Fluxo",
+    "team_id": "fluxo",
+    "globalRank": 133
+  },
+  {
+    "name": "Modeame",
+    "team_id": "modeame",
+    "globalRank": 134
+  },
+  {
+    "name": "FengDa Gaming",
+    "team_id": "fengda gaming",
+    "globalRank": 135
+  },
+  {
+    "name": "Kaleido Gaming",
+    "team_id": "kaleido gaming",
+    "globalRank": 136
+  },
+  {
+    "name": "Copenhagen Wolves (American organization)",
+    "team_id": "copenhagen wolves (american organization)",
+    "globalRank": 137
+  },
+  {
+    "name": "QMISTRY",
+    "team_id": "qmistry",
+    "globalRank": 138
+  },
+  {
+    "name": "ScarX",
+    "team_id": "scarx",
+    "globalRank": 139
+  },
+  {
+    "name": "KZG",
+    "team_id": "kzg 2023",
+    "globalRank": 140
+  },
+  {
+    "name": "Just Swing (Chinese team)",
+    "team_id": "just swing (chinese team) just swing (chinese team) orig",
+    "globalRank": 141
+  },
+  {
+    "name": "Party Astronauts",
+    "team_id": "party astronauts 2021",
+    "globalRank": 142
+  },
+  {
+    "name": "100PingGods",
+    "team_id": "100pinggods sep 2020"
+  },
+  {
+    "name": "Leo Team",
+    "team_id": "leo team 2024",
+    "globalRank": 143
+  },
+  {
+    "name": "Yawara E-Sports",
+    "team_id": "yawara e-sports",
+    "globalRank": 144
+  },
+  {
+    "name": "Legion (Pakistani team)",
+    "team_id": "legion (pakistani team)",
+    "globalRank": 145
+  },
+  {
+    "name": "Marca Registrada",
+    "team_id": "marca registrada",
+    "globalRank": 146
+  },
+  {
+    "name": "Chicken Coop Esports",
+    "team_id": "chicken coop esports",
+    "globalRank": 147
+  },
+  {
+    "name": "Hypewrld",
+    "team_id": "hypewrld"
+  },
+  {
+    "name": "UNiTY esports",
+    "team_id": "unity esports"
+  },
+  {
+    "name": "Ground Zero Gaming",
+    "team_id": "ground zero gaming 2019",
+    "globalRank": 148
+  },
+  {
+    "name": "Ex-TALON",
+    "team_id": "ex-talon",
+    "globalRank": 149
+  },
+  {
+    "name": "Only One Word",
+    "team_id": "only one word 2025",
+    "globalRank": 150
+  },
+  {
+    "name": "SPARTA Esports",
+    "team_id": "sparta esports 2025",
+    "globalRank": 151
+  },
+  {
+    "name": "MIBR Female",
+    "team_id": "mibr female",
+    "globalRank": 152
+  },
+  {
+    "name": "Akimbo Esports",
+    "team_id": "akimbo esports",
+    "globalRank": 153
+  },
+  {
+    "name": "DESEMPREGUEIDOS",
+    "team_id": "w7m esports 2022",
+    "globalRank": 154
+  },
+  {
+    "name": "Dusty Roots",
+    "team_id": "dusty roots 2024 sep",
+    "globalRank": 155
+  },
+  {
+    "name": "8Sins",
+    "team_id": "8sins",
+    "globalRank": 156
+  },
+  {
+    "name": "Megoshort",
+    "team_id": "megoshort cs2"
+  },
+  {
+    "name": "DMS",
+    "team_id": "dms 2024",
+    "globalRank": 157
+  },
+  {
+    "name": "RAGE (Kazakh team)",
+    "team_id": "rage (kazakh team)"
+  },
+  {
+    "name": "Gods Reign",
+    "team_id": "gods reign",
+    "globalRank": 158
+  },
+  {
+    "name": "JANO Esports",
+    "team_id": "ex-jano esports",
+    "globalRank": 159
+  },
+  {
+    "name": "Lumen",
+    "team_id": "lumen",
+    "globalRank": 160
+  },
+  {
+    "name": "TEAM XDM",
+    "team_id": "team xdm"
+  },
+  {
+    "name": "DEPO",
+    "team_id": "depo 2024"
+  },
+  {
+    "name": "Shika",
+    "team_id": "shika",
+    "globalRank": 161
+  },
+  {
+    "name": "Players (Brazilian team)",
+    "team_id": "players (brazilian team)",
+    "globalRank": 162
+  },
+  {
+    "name": "O Plano",
+    "team_id": "o plano june 2021",
+    "globalRank": 163
+  },
+  {
+    "name": "Wildcard Academy",
+    "team_id": "wildcard academy",
+    "globalRank": 164
+  },
+  {
+    "name": "THE (Russian team)",
+    "team_id": "the (russian team)",
+    "globalRank": 165
+  },
+  {
+    "name": "NOVAQ",
+    "team_id": "novaq 2025",
+    "globalRank": 166
+  },
+  {
+    "name": "LA MASIA",
+    "team_id": "portuguese family 2025",
+    "globalRank": 167
+  },
+  {
+    "name": "HyperSpirit",
+    "team_id": "hyperspirit 2023"
+  },
+  {
+    "name": "Fisher College",
+    "team_id": "fisher college",
+    "globalRank": 168
+  },
+  {
+    "name": "DESEMPREGUEIDOS",
+    "team_id": "desempregueidos",
+    "globalRank": 169
+  },
+  {
+    "name": "Eco Warriors",
+    "team_id": "eco warriors",
+    "globalRank": 170
+  },
+  {
+    "name": "AdalYamigos",
+    "team_id": "adalyamigos 2025",
+    "globalRank": 171
+  },
+  {
+    "name": "VP.Prodigy",
+    "team_id": "vp.prodigy"
+  },
+  {
+    "name": "Flashback Gaming",
+    "team_id": "flashback gaming 2025"
+  },
+  {
+    "name": "BIG EQUIPA",
+    "team_id": "big equipa",
+    "globalRank": 172
+  },
+  {
+    "name": "GameAgents",
+    "team_id": "gameagents 2024"
+  },
+  {
+    "name": "Let Her Cook",
+    "team_id": "let her cook 2024",
+    "globalRank": 173
+  },
+  {
+    "name": "Mindfreak (Australian team)",
+    "team_id": "mindfreak (australian team)",
+    "globalRank": 174
+  },
+  {
+    "name": "HAVU",
+    "team_id": "havu 2025",
+    "globalRank": 175
+  },
+  {
+    "name": "ODDIK",
+    "team_id": "oddik",
+    "globalRank": 176
+  },
+  {
+    "name": "Anything else",
+    "team_id": "anything else",
+    "globalRank": 177
+  },
+  {
+    "name": "Quem sao elas",
+    "team_id": "quem sao elas 2025",
+    "globalRank": 178
+  },
+  {
+    "name": "CS2NEWS Ladies",
+    "team_id": "cs2news ladies",
+    "globalRank": 179
+  },
+  {
+    "name": "MIGHT",
+    "team_id": "might 2025",
+    "globalRank": 180
+  },
+  {
+    "name": "Lithuanian Wolves",
+    "team_id": "lithuanian wolves"
+  },
+  {
+    "name": "AKA HERO KAJO",
+    "team_id": "aka hero kajo",
+    "globalRank": 181
+  },
+  {
+    "name": "Mindfreak (Australian team)",
+    "team_id": "mindfreak (australian team)",
+    "globalRank": 182
+  },
+  {
+    "name": "Nitro.GG",
+    "team_id": "nitro.gg",
+    "globalRank": 183
+  },
+  {
+    "name": "Bounty Hunters Female",
+    "team_id": "bounty hunters female",
+    "globalRank": 184
+  },
+  {
+    "name": "Hesta",
+    "team_id": "hesta",
+    "globalRank": 185
+  },
+  {
+    "name": "MANA eSports",
+    "team_id": "mana esports",
+    "globalRank": 186
+  },
+  {
+    "name": "Tsunami Esports",
+    "team_id": "tsunami esports 2023",
+    "globalRank": 187
+  },
+  {
+    "name": "Victores Sumus",
+    "team_id": "victores sumus",
+    "globalRank": 188
+  },
+  {
+    "name": "Girl kissers",
+    "team_id": "girl kissers",
+    "globalRank": 189
+  },
+  {
+    "name": "Wanted Goons",
+    "team_id": "wanted goons",
+    "globalRank": 190
+  },
+  {
+    "name": "Thekillaz",
+    "team_id": "thekillaz",
+    "globalRank": 191
+  },
+  {
+    "name": "Black mold",
+    "team_id": "black mold",
+    "globalRank": 192
+  },
+  {
+    "name": "Eternal Fire Academy",
+    "team_id": "eternal fire academy 2024"
+  },
+  {
+    "name": "Roler Coaster",
+    "team_id": "roler coaster",
+    "globalRank": 193
+  },
+  {
+    "name": "ZZZZZZZZZZ",
+    "team_id": "zzzzzzzzzz"
+  },
+  {
+    "name": "AMKAL ESPORTS",
+    "team_id": "amkal esports 2024"
+  },
+  {
+    "name": "-72C",
+    "team_id": "-72c 2023",
+    "globalRank": 194
+  },
+  {
+    "name": "Crashers",
+    "team_id": "crashers 2025",
+    "globalRank": 195
+  },
+  {
+    "name": "ODDIK Academy",
+    "team_id": "oddik academy"
+  },
+  {
+    "name": "Team Aether",
+    "team_id": "team aether",
+    "globalRank": 196
+  },
+  {
+    "name": "FURY",
+    "team_id": "fury 2020",
+    "globalRank": 197
+  },
+  {
+    "name": "Come Mid",
+    "team_id": "come mid"
+  },
+  {
+    "name": "Preasy Esport",
+    "team_id": "preasy esport 2023",
+    "globalRank": 198
+  },
+  {
+    "name": "Nomads (Mongolian team)",
+    "team_id": "nomads (mongolian team) 2025",
+    "globalRank": 199
+  },
+  {
+    "name": "Elevate",
+    "team_id": "elevate 2020",
+    "globalRank": 200
+  },
+  {
+    "name": "MEGA JUNERS",
+    "team_id": "mega juners",
+    "globalRank": 201
+  },
+  {
+    "name": "MAGICOS",
+    "team_id": "magicos",
+    "globalRank": 202
+  },
+  {
+    "name": "4 EYEZ",
+    "team_id": "4 eyez"
+  },
+  {
+    "name": "LAG Gaming",
+    "team_id": "lag gaming",
+    "globalRank": 203
+  },
+  {
+    "name": "Akuma (Female team)",
+    "team_id": "akuma (female team)",
+    "globalRank": 204
+  },
+  {
+    "name": "Spray and Slay",
+    "team_id": "spray and slay",
+    "globalRank": 205
+  },
+  {
+    "name": "Unsettled Resentment",
+    "team_id": "unsettled resentment",
+    "globalRank": 206
+  },
+  {
+    "name": "Tropa do KinGui",
+    "team_id": "tropa do kingui",
+    "globalRank": 207
+  },
+  {
+    "name": "Ghost Gaming",
+    "team_id": "ghost gaming 2017",
+    "globalRank": 208
+  },
+  {
+    "name": "Ex-Heimo Esports",
+    "team_id": "ex-heimo esports",
+    "globalRank": 209
+  },
+  {
+    "name": "MIBR Academy",
+    "team_id": "mibr academy",
+    "globalRank": 210
+  },
+  {
+    "name": "Chicken Coop Esports",
+    "team_id": "chicken coop esports",
+    "globalRank": 211
+  },
+  {
+    "name": "K27",
+    "team_id": "k27"
+  },
+  {
+    "name": "Victores Sumus",
+    "team_id": "victores sumus",
+    "globalRank": 212
+  },
+  {
+    "name": "Ctrl Alt Defeat",
+    "team_id": "ctrl alt defeat"
+  },
+  {
+    "name": "Portuguese Family",
+    "team_id": "portuguese family 2025",
+    "globalRank": 213
+  },
+  {
+    "name": "KOMNATA",
+    "team_id": "komnata"
+  },
+  {
+    "name": "Change The Game",
+    "team_id": "change the game",
+    "globalRank": 214
+  },
+  {
+    "name": "Bad Luck",
+    "team_id": "bad luck",
+    "globalRank": 215
+  },
+  {
+    "name": "InControl",
+    "team_id": "incontrol sept 2024",
+    "globalRank": 216
+  },
+  {
+    "name": "UNiTY esports",
+    "team_id": "unity esports",
+    "globalRank": 217
+  },
+  {
+    "name": "Daglovesfatties",
+    "team_id": "daglovesfatties"
+  },
+  {
+    "name": "Zomblers",
+    "team_id": "zomblers"
+  },
+  {
+    "name": "Messitas",
+    "team_id": "messitas",
+    "globalRank": 218
+  },
+  {
+    "name": "ATOX Esports",
+    "team_id": "atox esports 2024",
+    "globalRank": 219
+  },
+  {
+    "name": "SkyFury",
+    "team_id": "skyfury orig"
+  },
+  {
+    "name": "Animus Victoria",
+    "team_id": "animus victoria 2025",
+    "globalRank": 220
+  },
+  {
+    "name": "Daaku",
+    "team_id": "daaku 2025",
+    "globalRank": 221
+  },
+  {
+    "name": "Hooligangsters",
+    "team_id": "hooligangsters"
+  },
+  {
+    "name": "Exusiai",
+    "team_id": "exusiai"
+  },
+  {
+    "name": "LL",
+    "team_id": "ll"
+  },
+  {
+    "name": "Illuminar Gaming",
+    "team_id": "illuminar gaming"
+  },
+  {
+    "name": "Nuclear TigeRES",
+    "team_id": "nuclear tigeres"
+  },
+  {
+    "name": "The QUBE Esports",
+    "team_id": "the qube esports",
+    "globalRank": 222
+  },
+  {
+    "name": "ESC Gaming",
+    "team_id": "esc gaming 2023",
+    "globalRank": 223
+  },
+  {
+    "name": "KONO.ECF",
+    "team_id": "kono.ecf 2024",
+    "globalRank": 224
+  },
+  {
+    "name": "Dynamo Eclot",
+    "team_id": "dynamo eclot 2021"
+  },
+  {
+    "name": "Reverse Sweep Gaming",
+    "team_id": "reverse sweep gaming"
+  },
+  {
+    "name": "Daaku",
+    "team_id": "daaku orig"
+  },
+  {
+    "name": "Monte",
+    "team_id": "monte 2022"
+  },
+  {
+    "name": "Maestro Esports (Belgian team)",
+    "team_id": "maestro esports (belgian team)"
+  },
+  {
+    "name": "Mythic",
+    "team_id": "mythic 2017",
+    "globalRank": 225
+  },
+  {
+    "name": "Nuclear TigeRES",
+    "team_id": "nuclear tigeres",
+    "globalRank": 226
+  },
+  {
+    "name": "LaChampionsLiga",
+    "team_id": "lachampionsliga",
+    "globalRank": 227
+  },
+  {
+    "name": "Regain",
+    "team_id": "regain 2023",
+    "globalRank": 228
+  },
+  {
+    "name": "RED Canids",
+    "team_id": "red canids"
+  },
+  {
+    "name": "Inputprayers",
+    "team_id": "inputprayers",
+    "globalRank": 229
+  },
+  {
+    "name": "Floripa Stars",
+    "team_id": "floripa stars",
+    "globalRank": 230
+  },
+  {
+    "name": "Martians",
+    "team_id": "martians"
+  },
+  {
+    "name": "PaiN Gaming Academy",
+    "team_id": "pain gaming academy",
+    "globalRank": 231
+  },
+  {
+    "name": "Nouns Esports",
+    "team_id": "nouns esports",
+    "globalRank": 232
+  },
+  {
+    "name": "Golden Horde",
+    "team_id": "golden horde",
+    "globalRank": 233
+  },
+  {
+    "name": "Vantage Esports",
+    "team_id": "vantage esports 2024",
+    "globalRank": 234
+  },
+  {
+    "name": "Fudidos e anonymous",
+    "team_id": "fudidos e anonymous"
+  },
+  {
+    "name": "Anonymo Esports",
+    "team_id": "anonymo esports 2021"
+  },
+  {
+    "name": "Justice For Tomorrow",
+    "team_id": "justice for tomorrow",
+    "globalRank": 235
+  },
+  {
+    "name": "Looking4Org (Russian team)",
+    "team_id": "looking4org (russian team)",
+    "globalRank": 236
+  },
+  {
+    "name": "JERSA ESPORTS",
+    "team_id": "jersa esports",
+    "globalRank": 237
+  },
+  {
+    "name": "Galorys",
+    "team_id": "galorys",
+    "globalRank": 238
+  },
+  {
+    "name": "Subtick",
+    "team_id": "subtick"
+  },
+  {
+    "name": "MCS Gaming",
+    "team_id": "mcs gaming",
+    "globalRank": 239
+  },
+  {
+    "name": "Immigrants Peek",
+    "team_id": "immigrants peek",
+    "globalRank": 240
+  },
+  {
+    "name": "LEON Esports",
+    "team_id": "leon esports 2024"
+  },
+  {
+    "name": "Harizma",
+    "team_id": "harizma",
+    "globalRank": 241
+  },
+  {
+    "name": "Ex-Daystar",
+    "team_id": "ex-daystar"
+  },
+  {
+    "name": "R2 Esports Club",
+    "team_id": "r2 esports club",
+    "globalRank": 242
+  },
+  {
+    "name": "PCIFIC Espor",
+    "team_id": "pcific espor"
+  },
+  {
+    "name": "Insilio",
+    "team_id": "insilio"
+  },
+  {
+    "name": "True Synergy Gaming",
+    "team_id": "true synergy gaming",
+    "globalRank": 243
+  },
+  {
+    "name": "KZG",
+    "team_id": "kzg 2023",
+    "globalRank": 244
+  },
+  {
+    "name": "NuTorious",
+    "team_id": "nutorious",
+    "globalRank": 245
+  },
+  {
+    "name": "Underground Esports Club",
+    "team_id": "underground esports club",
+    "globalRank": 246
+  },
+  {
+    "name": "Party Astronauts",
+    "team_id": "party astronauts 2021"
+  },
+  {
+    "name": "Team PGL",
+    "team_id": "team pgl"
+  },
+  {
+    "name": "WOPA Esport",
+    "team_id": "wopa esport",
+    "globalRank": 247
+  },
+  {
+    "name": "The QUBE Esports",
+    "team_id": "the qube esports"
+  },
+  {
+    "name": "Preasy Esport",
+    "team_id": "preasy esport 2023"
+  },
+  {
+    "name": "Ex-Permitta Esports",
+    "team_id": "ex-permitta esports",
+    "globalRank": 248
+  },
+  {
+    "name": "Outfit 49",
+    "team_id": "outfit 49"
+  },
+  {
+    "name": "Team GATERON",
+    "team_id": "team gateron",
+    "globalRank": 249
+  },
+  {
+    "name": "Viperio",
+    "team_id": "viperio 2020"
+  },
+  {
+    "name": "Alter Ego",
+    "team_id": "alter ego 2021"
+  },
+  {
+    "name": "WATERMEL0N",
+    "team_id": "watermel0n"
+  },
+  {
+    "name": "E9 Esports",
+    "team_id": "e9 esports 2023"
+  },
+  {
+    "name": "Take Flyte",
+    "team_id": "take flyte",
+    "globalRank": 250
+  },
+  {
+    "name": "POWERmix",
+    "team_id": "powermix",
+    "globalRank": 251
+  },
+  {
+    "name": "En av de lette",
+    "team_id": "en av de lette"
+  },
+  {
+    "name": "Benched",
+    "team_id": "benched 2025"
+  },
+  {
+    "name": "Nordix Esport",
+    "team_id": "nordix esport 2024",
+    "globalRank": 252
+  },
+  {
+    "name": "Steel Helmet",
+    "team_id": "steel helmet",
+    "globalRank": 253
+  },
+  {
+    "name": "DXA Esports",
+    "team_id": "dxa esports 2025"
+  },
+  {
+    "name": "Lazer Cats",
+    "team_id": "lazer cats"
+  },
+  {
+    "name": "Familia Maquininha",
+    "team_id": "familia maquininha"
+  },
+  {
+    "name": "Northern Lights",
+    "team_id": "northern lights"
+  },
+  {
+    "name": "BURN (Brazilian team)",
+    "team_id": "burn (brazilian team)"
+  },
+  {
+    "name": "Mindshock",
+    "team_id": "mindshock"
+  },
+  {
+    "name": "Team Aether",
+    "team_id": "team aether",
+    "globalRank": 254
+  },
+  {
+    "name": "20/70",
+    "team_id": "20/70",
+    "globalRank": 255
+  },
+  {
+    "name": "777 Esports",
+    "team_id": "777 esports 2023"
+  },
+  {
+    "name": "Worms",
+    "team_id": "worms",
+    "globalRank": 256
+  }
+]

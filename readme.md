@@ -1,15 +1,17 @@
-## How to run the model
+# README
 
-In a VS code (or IDE of your choice) create a folder and then run `git clone https://github.com/NUSELO-CS/counter-strike_regional_standings.git`
+This is an unofficial repository, for the Counter Strike Regional Standings generated via the LiquipediaDB data and aligned to match the main VRS data as closely as possible.
 
-Rename data/matchdata_sample_20250803.json to data/matchdata.json
+The purpose of this is fork to enable simulation and testing of the model with more recent matchdata.json's. Additionally enable further testing and evaluation of the model as well as potential model changes.
 
-Delete the `/liquipedia` folder so you can generate new data for that match date
+Most recent LiquipediaDB matchdata samples are available in [`/data/`](https://github.com/NUSELO-CS/counter-strike_regional_standings/tree/liquipedia-main/data)
 
-Then type `cd model` in terminal and run `node main.js` 
+## Predictions
 
-To modify matches / event weights you can make changes in `matchdata.json` , make any changes to the model formula in `/model`. Most aspects are contained in `team.js`
+Read the [predictions README here](https://github.com/NUSELO-CS/counter-strike_regional_standings/tree/liquipedia-main/predictor/readme.md)
 
-## Data source
+This is primarily a tool to help provide insight on how the model works and how matches can affect a teams ranking and influence others teams too.
 
-LiquipediaDB and then manual tweaks were used to create the matchdata.json. If there are any issues with the data please make a pull request to get it fixed
+This is not a catch all simulation and the model as a whole is very complex. I hopefully will include it in the future but this does not include the complexity of overflowing buckets in which it seems like there is limited benefit to a match / event. Its important to note that while an event may not provide immediate benefit, an overflowing bucket can provide future benefit compared to decay and future security.
+
+For any complex calculations, particularly regarding the major check out [Udknud on twitter](https://x.com/JesperLarsen222) who has shared some great insight into the leadup. This tool is primarily used (currently) to simulate an individual events instantaneous effects.

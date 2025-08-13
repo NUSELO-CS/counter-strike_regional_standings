@@ -1,9 +1,9 @@
 "use strict";
 
 const fs = require('fs');
-const Region = require('./util/region');
-const Team = require('./team');
-const remapValueClamped = require('./util/remap_value_clamped');
+const Region = require('../../model/util/region');
+const Team = require('../../model/team');
+const remapValueClamped = require('../../model/util/remap_value_clamped');
 
 const __highValueEvents = [6372,6711,6712,6713,6714,6586,6588]; //explicitly include RMR events, Majors
 
@@ -130,7 +130,8 @@ function initTeams( matches, events, rankingContext ) {
 
     matches.forEach( (match, idx) => {
         match.umid = idx;
-
+        // Additionally supply teamId so we can grab the roster for new match generation and prediction.
+        // This does mean that only the top ranked team of that same team id can be simulated, any cases this isnt the case should be incredibly rare.
         match.team1 = insertTeam( match.team1Name, match.team1Id, match.team1Players, match.forfeited );
         match.team2 = insertTeam( match.team2Name, match.team2Id, match.team2Players, match.forfeited );
 
@@ -212,13 +213,16 @@ class DataLoader
     // with the nth most prize winnings.
     setNthHighest( nth ) { this.rankingContext.setOutlierCount( nth ); }
 
-    loadData( versionTimestamp = -1, filename = '../data/matchdata.json' )
+    loadData( versionTimestamp = -1, filename = '../data/matchdata.json', newMatches, newEvents )
     {
         const data = fs.readFileSync( filename );
         const dataJson = JSON.parse( data );
 
         // initialize match list
-        let matches = dataJson.matches;
+        let matches = [
+            ...dataJson.matches,
+            ...newMatches
+        ];
 
         // Filter matches to only the data we are interested in.
         this.setTimeFilter( versionTimestamp );
@@ -232,10 +236,13 @@ class DataLoader
         let graceperiod = 30 * 24 * 3600; // 1 month
         this.rankingContext.setTimeWindow( startTime, endTime - graceperiod );
         matches = filterMatchesByTime( matches, startTime, endTime );
+
         
         // initialize event list
         let events = {};
-        dataJson.events.forEach( eventJson => events[eventJson.eventId] = new Event( eventJson ) );
+        [...dataJson.events, ...newEvents].forEach(eventJson => {
+            events[eventJson.eventId] = new Event(eventJson);
+        });
 
         // link the prize pool of events that are connected (e.g., winning in event A qualifies a roster to participate in event B)        
         let getLinkedPrizePool = function( id, counter = 0, prizePool = 0 ) {

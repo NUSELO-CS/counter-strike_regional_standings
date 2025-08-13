@@ -5,3 +5,6 @@
 !/data/matchdata_sample*
 /tools
 *.py
+!/predictor/teams*
+/predictor/predicted
+!package.json

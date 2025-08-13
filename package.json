@@ -1,0 +1,13 @@
+{
+  "name": "counter-strike_regional_standings-liquipedia-sim",
+  "version": "1.0.0",
+  "description": "Testing of the VRS model, this is not official rankings and does not provide absolutely accurate data",
+  "main": "index.js",
+  "scripts": {
+  "predict": "cd predictor && node predict.js",
+  "multi": "cd predictor && node multi.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
