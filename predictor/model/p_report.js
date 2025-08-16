@@ -22,7 +22,7 @@ function formatLine( line, newline = false ){
     return output;
 };
 
-function generateOutput( teams, regions = [0,1,2], strDate ){
+function generateOutput( teams, regions = [0,1,2], strDate, finishDate ){
 
     let fileDate = strDate
     //let year = fileDate.slice(0,4);
@@ -31,10 +31,10 @@ function generateOutput( teams, regions = [0,1,2], strDate ){
     if ( !fs.existsSync( liveFolder + `${ summaryFolder }${ fileDate }/` ) )
         fs.mkdirSync( (liveFolder + `${ summaryFolder }${ fileDate }/`), { recursive: true } );
 
-    fs.writeFileSync( `${ liveFolder }standings_global_${ fileDate }${ format }`, displayRankings( teams, [0,1,2], strDate ) );
-    fs.writeFileSync( `${ liveFolder }standings_europe_${ fileDate }${ format }`, displayRankings( teams, [0], strDate ) );
-    fs.writeFileSync( `${ liveFolder }standings_americas_${ fileDate }${ format }`, displayRankings( teams, [1], strDate ) );
-    fs.writeFileSync( `${ liveFolder }standings_asia_${ fileDate }${ format }`, displayRankings( teams, [2], strDate ) );
+    fs.writeFileSync( `${ liveFolder }standings_global_${ fileDate }${ format }`, displayRankings( teams, [0,1,2], strDate, finishDate ) );
+    fs.writeFileSync( `${ liveFolder }standings_europe_${ fileDate }${ format }`, displayRankings( teams, [0], strDate, finishDate ) );
+    fs.writeFileSync( `${ liveFolder }standings_americas_${ fileDate }${ format }`, displayRankings( teams, [1], strDate, finishDate ) );
+    fs.writeFileSync( `${ liveFolder }standings_asia_${ fileDate }${ format }`, displayRankings( teams, [2], strDate, finishDate ) );
 
     teams.forEach( t => {
         if (t.globalRank > 0 ){
@@ -64,7 +64,7 @@ function sanitizeRoster( roster, delimiter = '-' ){
     return sanitize( text );
 }
 
-function displayRankings( teams, regions = [0,1,2], strDate ) {
+function displayRankings( teams, regions = [0,1,2], strDate, finishDate ) {
     let output = '';
     let fileDate = strDate
 
@@ -74,7 +74,7 @@ function displayRankings( teams, regions = [0,1,2], strDate ) {
         standings = `Regional Standings for ${RegionList[regions[0]]}`;
 
     // Print markdown table for results
-    output += formatLine( `### ${standings} as of ${strDate}` );
+    output += formatLine( `### ${standings} as of ${finishDate}` );
     output += formatLine( '' );
 
     var table = new Table();
@@ -92,6 +92,10 @@ function displayRankings( teams, regions = [0,1,2], strDate ) {
 		if (t.globalRank > 0 && regions.some(r => t.region[r] === 1 ) ) {
             let displayRank = t.globalRank;
             let paddedRank = displayRank.toString().padStart(4,'0');
+            let rankChange = t.rankChange;
+
+            if ( regions.length === 1 )
+                rankChange = t.regionalRankChange;
             
             if ( regions.length === 1 )
                 displayRank = t.regionalRank[ regions[0] ];
@@ -100,7 +104,7 @@ function displayRankings( teams, regions = [0,1,2], strDate ) {
             table.addElem( t.glickoTeam.rank() );
             table.addElem( t.name );
             table.addElem( sortCaseInsensitive( t.players.map(p => p.nick) ).join(', ') );
-            table.addElem( t.rankChange );
+            table.addElem( rankChange );
             table.addElem( `[details](${ summaryFolder }${ fileDate }/${ paddedRank }--${ sanitize( t.name ) }--${ sanitizeRoster( t.players )}${ format })` );
             table.commitRow();
         }
@@ -145,7 +149,7 @@ function displayTeamRankingSummary( team, teams, strDate ){
     output += formatLine( `Final Rank Value:  ${ team.rankValue.toFixed(1) }` );
     output += formatLine( '' );
     output += formatLine( `Final Rank Value (${ team.rankValue.toFixed(1) }) = Starting Rank Value (${ team.rankValueSeed.toFixed(1) }) + Head To Head Adjustments (${ (team.rankValue - team.rankValueSeed).toFixed(1) })`);
-    output += formatLine( `${team.rankChange} position change after simultation`);
+    output += formatLine( `${team.rankChange} global change after simultation`);
     output += formatLine( '', true );
     output += formatLine( '#### Starting Rank Value' );
     output += formatLine( `To figure out a rosters's Starting Rank Value, first take the average of these four factors:`);

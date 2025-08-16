@@ -12,8 +12,8 @@ const TEAM_OVERLAP_TO_SHARE_ROSTER = 3;
 
 function sharesRoster(oldTeam, newTeam) {
     let overlap = 0;
-    newTeam.activeRoster.forEach(pNew => {
-        if (oldTeam.activeRoster.some(pOld => pOld.playerId === pNew.playerId)) {
+    newTeam.players.forEach(pNew => {
+        if (oldTeam.players.some(pOld => pOld.playerId === pNew.playerId)) {
             overlap += 1;
         }
     });

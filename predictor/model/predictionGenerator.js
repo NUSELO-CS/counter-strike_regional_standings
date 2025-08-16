@@ -63,7 +63,7 @@ function predictionGenerator(teams, inputData, matchTimes) {
             const totalTeams = allTeamIds.length;
             const bracketSize = nearestPowerOfTwo(totalTeams);
 
-            let warmupRounds = Math.max(0, e.wins - Math.log2(bracketSize));
+            let warmupRounds = Math.max(0, e.wins - bracketSize);
 
             // Map teamIds to full teams
             const fullTeams = allTeamIds.map(teamId => {
@@ -74,7 +74,7 @@ function predictionGenerator(teams, inputData, matchTimes) {
                         teamId: randomTeamId(),
                         name: generateRandomTeamName(),
                         startingRankValue: 400,
-                        activeRoster: generateFakeRoster()
+                        players: generateFakeRoster()
                     };
                 }
 
@@ -85,8 +85,7 @@ function predictionGenerator(teams, inputData, matchTimes) {
             const seededTeams = [...fullTeams].sort((a, b) => b.startingRankValue - a.startingRankValue);
 
             let matches = [];
-
-            if (bracketSize <= numberWins) {
+            if (bracketSize >= numberWins) {
                 matches = simulateElimination(seededTeams, mainTeamId, numberWins, matchTimes, eventId, e.lan);
             } else {
                 const { warmupMatches } = simulateWarmup(seededTeams, warmupRounds, matchTimes, eventId, e.lan, mainTeamId);
@@ -232,8 +231,8 @@ function simulateElimination(teams, targetId, winsLeft, matchTimes, eventId, isL
                 team2Id: t2.teamId,
                 team1Name: t1.name,
                 team2Name: t2.name,
-                team1Players: t1.activeRoster || [],
-                team2Players: t2.activeRoster || [],
+                team1Players: t1.players || [],
+                team2Players: t2.players || [],
                 winningTeam: matchWinnerNum,
                 eventId: eventId,
                 forfeited: false,
@@ -280,8 +279,8 @@ function simulateWarmup(teams, warmupRounds, matchTimes, eventId, isLan, targetI
                     team2Id: t2.teamId,
                     team1Name: t1.name,
                     team2Name: t2.name,
-                    team1Players: t1.activeRoster || [],
-                    team2Players: t2.activeRoster || [],
+                    team1Players: t1.players || [],
+                    team2Players: t2.players || [],
                     winningTeam: winnerNum,
                     eventId: eventId,
                     forfeited: false,

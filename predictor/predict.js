@@ -11,8 +11,8 @@ const TEAM_OVERLAP_TO_SHARE_ROSTER = 3;
 
 function sharesRoster(oldTeam, newTeam) {
     let overlap = 0;
-    newTeam.activeRoster.forEach(pNew => {
-        if (oldTeam.activeRoster.some(pOld => pOld.playerId === pNew.playerId)) {
+    newTeam.players.forEach(pNew => {
+        if (oldTeam.players.some(pOld => pOld.playerId === pNew.playerId)) {
             overlap += 1;
         }
     });
@@ -65,16 +65,35 @@ function run() {
     let [updateMatches, updatedTeams] = P_Ranking.generateRanking(-1, filename, newMatches, newEvents, rankingsTime);
 
     updatedTeams.forEach(newTeam => {
-        // Find old team with shared roster
-        const oldTeam = teams.find(t => sharesRoster(t, newTeam));
+    // Find old team with shared roster
+    const oldTeam = teams.find(t => sharesRoster(t, newTeam));
 
-        if (oldTeam) {
-            const oldRank = oldTeam.globalRank ?? 0;  
-            const newRank = newTeam.globalRank ?? 0;
-            newTeam.rankChange = oldRank - newRank; 
+    if (oldTeam) {
+        // Global 
+        const oldRank = oldTeam.globalRank ?? 0;
+        const newRank = newTeam.globalRank ?? 0;
+        newTeam.rankChange = oldRank - newRank;
+
+        // Regional 
+        const oldRegionIndex = oldTeam.regionalRank.findIndex(r => r !== -1);
+        const newRegionIndex = newTeam.regionalRank.findIndex(r => r !== -1);
+
+        if (oldRegionIndex !== -1 && newRegionIndex !== -1) {
+        if (oldRegionIndex === newRegionIndex) {
+            const oldRegionalRank = oldTeam.regionalRank[oldRegionIndex];
+            const newRegionalRank = newTeam.regionalRank[newRegionIndex];
+            newTeam.regionalRankChange = oldRegionalRank - newRegionalRank;
         } else {
-            newTeam.rankChange = null; 
+            newTeam.regionalRankChange = 0;
         }
+        } else {
+        newTeam.regionalRankChange = null;
+        }
+
+    } else {
+        newTeam.rankChange = null;
+        newTeam.regionalRankChange = null;
+    }
     });
 
 
@@ -84,11 +103,25 @@ function run() {
     if (regions.length === 1) standings = `Regional Standings for ${RegionList[regions[0]]}`;
 
     if (process.argv[4] !== undefined) strDate = process.argv[4];
+    let rankingEnd;
+    let prelimRankingEnd = Math.max(...updateMatches.map(m => m.matchStartTime));
+
+    if(overrideRankingsTime > prelimRankingEnd) {
+        rankingEnd = overrideRankingsTime;
+    } else {
+        rankingEnd = prelimRankingEnd;
+    }
+
+    let rankingD = new Date ( 0 );
+
+    rankingD.setUTCSeconds( rankingEnd );
+    let finishDate = rankingD.toLocaleString( 'fr-CA', { year: 'numeric', month: '2-digit', day: '2-digit', timeZone: 'Europe/London'  } );
+
 
     //console.log(teams[0])                    // I'd recommend uncommenting this and looking at the output. Its very interesting to see how a team is constructed. This will be a team pre simulation
     // You can also do this uncommenting in the main /model section for fully unaffected data.
 
-    P_Report.generateOutput( updatedTeams, regions, strDate );
+    P_Report.generateOutput( updatedTeams, regions, strDate, finishDate );
 
 }
 

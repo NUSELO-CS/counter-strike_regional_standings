@@ -13,6 +13,7 @@ module.exports = {
 
     // leave as -1 to simulate match as next day (recommended)
     // Note: If you only set an overrided event time, and do not override the rankings time. The rankings will be generated immediately after the last match in the system.
+    // To grab unixtimestmap dates, use https://www.unixtimestamp.com/
     overrideEventTime: 	-1, 
 
     // leave as -1 to simulate match as next day (recommended).
