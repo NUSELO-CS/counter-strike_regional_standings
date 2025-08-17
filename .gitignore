@@ -10,3 +10,4 @@
 !/predictor/teams*
 /predictor/predicted
 !package.json
+/graphs/
