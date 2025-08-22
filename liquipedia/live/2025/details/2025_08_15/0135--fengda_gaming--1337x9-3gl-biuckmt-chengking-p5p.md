@@ -6,9 +6,9 @@ Global Rank: [135](../../standings_global_2025_08_15.md)<br />
 Region: [Asia]( ../../standings_asia_2025_08_15.md)<br />
 Regional Rank: [14]( ../../standings_asia_2025_08_15.md)<br />
 <br />
-Final Rank Value:  699.9<br />
+Final Rank Value:  700.1<br />
 <br />
-Final Rank Value (699.9) = Starting Rank Value (712.1) + Head To Head Adjustments (-12.3)<br />
+Final Rank Value (700.1) = Starting Rank Value (712.1) + Head To Head Adjustments (-12.0)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -40,18 +40,18 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent                   | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                               |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           30 |      178 | 2025-07-31 | The Huns Esports           | L   | 1.000      | -            | -                | -                | -         |    -5.79 | 1337x9, 3gl, Biuckmt, chengking, p5p |
-|           29 |      517 | 2025-07-12 | IHC Esports                | L   | 0.964      | -            | -                | -                | -         |   -16.29 | 1337x9, 3gl, Biuckmt, p5p, сhengking |
-|           28 |      523 | 2025-07-12 | SemperFi Esports           | L   | 0.963      | -            | -                | -                | -         |   -11.86 | 1337x9, 3gl, Biuckmt, p5p, сhengking |
-|           27 |      559 | 2025-07-11 | Ground Zero Gaming         | W   | 0.956      | 0.143        | 0.004 (0.001)    | 0.164 (0.022)    | 0 (0.000) |    12.87 | 1337x9, 3gl, Biuckmt, p5p, сhengking |
-|           26 |      642 | 2025-07-05 | Wings Up Gaming            | L   | 0.917      | -            | -                | -                | -         |   -10.11 | 1337x9, 3gl, Biuckmt, Marek, p5p     |
+|           30 |      178 | 2025-07-31 | The Huns Esports           | L   | 1.000      | -            | -                | -                | -         |    -5.78 | 1337x9, 3gl, Biuckmt, chengking, p5p |
+|           29 |      517 | 2025-07-12 | IHC Esports                | L   | 0.964      | -            | -                | -                | -         |   -16.30 | 1337x9, 3gl, Biuckmt, p5p, сhengking |
+|           28 |      523 | 2025-07-12 | SemperFi Esports           | L   | 0.963      | -            | -                | -                | -         |   -11.83 | 1337x9, 3gl, Biuckmt, p5p, сhengking |
+|           27 |      559 | 2025-07-11 | Ground Zero Gaming         | W   | 0.956      | 0.143        | 0.004 (0.001)    | 0.164 (0.022)    | 0 (0.000) |    12.86 | 1337x9, 3gl, Biuckmt, p5p, сhengking |
+|           26 |      642 | 2025-07-05 | Wings Up Gaming            | L   | 0.917      | -            | -                | -                | -         |   -10.12 | 1337x9, 3gl, Biuckmt, Marek, p5p     |
 |           25 |     1746 | 2025-04-30 | Rare Atom                  | L   | 0.477      | -            | -                | -                | -         |    -1.40 | 1337x9, 3gl, bea2, chengking, p5p    |
-|           24 |     1772 | 2025-04-29 | Just Swing (Chinese team)  | W   | 0.470      | 0.416        | 0.001 (0.000)    | 0.079 (0.015)    | 0 (0.000) |     6.56 | 1337x9, 3gl, bea2, chengking, p5p    |
+|           24 |     1772 | 2025-04-29 | Just Swing (Chinese team)  | W   | 0.470      | 0.416        | 0.001 (0.000)    | 0.079 (0.015)    | 0 (0.000) |     6.55 | 1337x9, 3gl, bea2, chengking, p5p    |
 |           23 |     2165 | 2025-04-09 | -72C                       | W   | 0.338      | 0.369        | 0.003 (0.000)    | 0.067 (0.008)    | 0 (0.000) |     3.62 | 1337x9, 3gl, chengking, Jung1e, p5p  |
-|           22 |     2172 | 2025-04-09 | -72C                       | W   | 0.337      | 0.369        | 0.003 (0.000)    | 0.067 (0.008)    | 0 (0.000) |     3.72 | 1337x9, 3gl, chengking, Jung1e, p5p  |
-|           21 |     2215 | 2025-04-08 | Gods Reign                 | L   | 0.331      | -            | -                | -                | -         |    -6.37 | 1337x9, 3gl, chengking, Jung1e, p5p  |
-|           20 |     2223 | 2025-04-08 | Gods Reign                 | W   | 0.330      | 0.369        | 0.001 (0.000)    | 0.079 (0.010)    | 0 (0.000) |     4.11 | 1337x9, 3gl, chengking, Jung1e, p5p  |
-|           19 |     2427 | 2025-04-01 | Kaleido Gaming             | W   | 0.284      | 0.369        | 0.011 (0.001)    | 0.106 (0.011)    | 0 (0.000) |     4.77 | 1337x9, 3gl, chengking, Jung1e, p5p  |
+|           22 |     2172 | 2025-04-09 | -72C                       | W   | 0.337      | 0.369        | 0.003 (0.000)    | 0.067 (0.008)    | 0 (0.000) |     3.71 | 1337x9, 3gl, chengking, Jung1e, p5p  |
+|           21 |     2215 | 2025-04-08 | Gods Reign                 | L   | 0.331      | -            | -                | -                | -         |    -6.23 | 1337x9, 3gl, chengking, Jung1e, p5p  |
+|           20 |     2223 | 2025-04-08 | Gods Reign                 | W   | 0.330      | 0.369        | 0.001 (0.000)    | 0.079 (0.010)    | 0 (0.000) |     4.26 | 1337x9, 3gl, chengking, Jung1e, p5p  |
+|           19 |     2427 | 2025-04-01 | Kaleido Gaming             | W   | 0.284      | 0.369        | 0.011 (0.001)    | 0.106 (0.011)    | 0 (0.000) |     4.78 | 1337x9, 3gl, chengking, Jung1e, p5p  |
 |           18 |     2434 | 2025-04-01 | Kaleido Gaming             | W   | 0.284      | 0.369        | 0.011 (0.001)    | 0.106 (0.011)    | 0 (0.000) |     4.89 | 1337x9, 3gl, chengking, Jung1e, p5p  |
 |           17 |     2724 | 2025-03-26 | The Huns Esports           | L   | 0.244      | -            | -                | -                | -         |    -1.36 | 1337x9, 3gl, chengking, Jung1e, p5p  |
 |           16 |     2731 | 2025-03-26 | The Huns Esports           | L   | 0.244      | -            | -                | -                | -         |    -1.37 | 1337x9, 3gl, chengking, Jung1e, p5p  |

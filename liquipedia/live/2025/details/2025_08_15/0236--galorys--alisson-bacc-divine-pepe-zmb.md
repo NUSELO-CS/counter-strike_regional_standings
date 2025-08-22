@@ -6,9 +6,9 @@ Global Rank: [236](../../standings_global_2025_08_15.md)<br />
 Region: [Americas]( ../../standings_americas_2025_08_15.md)<br />
 Regional Rank: [78]( ../../standings_americas_2025_08_15.md)<br />
 <br />
-Final Rank Value:  487.2<br />
+Final Rank Value:  487.3<br />
 <br />
-Final Rank Value (487.2) = Starting Rank Value (482.3) + Head To Head Adjustments (4.9)<br />
+Final Rank Value (487.3) = Starting Rank Value (482.3) + Head To Head Adjustments (4.9)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -41,7 +41,7 @@ Note:<br />
 | Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                             |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |            8 |      168 | 2025-08-01 | Legacy          | L   | 1.000      | -            | -                | -                | -         |    -0.18 | Alisson, bacc, divine, pepe, zmb   |
-|            7 |      430 | 2025-07-16 | Keyd Stars      | L   | 0.991      | -            | -                | -                | -         |    -5.59 | Alisson, bacc, divine, Kadzz, pepe |
+|            7 |      430 | 2025-07-16 | Keyd Stars      | L   | 0.991      | -            | -                | -                | -         |    -5.58 | Alisson, bacc, divine, Kadzz, pepe |
 |            6 |      584 | 2025-07-09 | R2 Esports Club | W   | 0.946      | 0.147        | 0.000 (0.000)    | 0.026 (0.004)    | 0 (0.000) |    15.05 | Alisson, bacc, divine, Kadzz, pepe |
 |            5 |     2587 | 2025-03-28 | R2 Esports Club | L   | 0.259      | -            | -                | -                | -         |    -3.97 | Alisson, bacc, divine, Kadzz, pepe |
 |            4 |     2645 | 2025-03-27 | SELVA           | L   | 0.253      | -            | -                | -                | -         |    -1.28 | Alisson, bacc, divine, Kadzz, pepe |

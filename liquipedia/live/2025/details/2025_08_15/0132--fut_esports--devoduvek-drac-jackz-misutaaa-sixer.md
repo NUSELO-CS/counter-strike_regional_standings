@@ -40,7 +40,7 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent            | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                   |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            9 |      342 | 2025-07-19 | Alliance            | L   | 1.000      | -            | -                | -                | -         |    -3.80 | devoduvek, drac, JACKZ, misutaaa, SIXER  |
+|            9 |      342 | 2025-07-19 | Alliance            | L   | 1.000      | -            | -                | -                | -         |    -3.79 | devoduvek, drac, JACKZ, misutaaa, SIXER  |
 |            8 |      350 | 2025-07-19 | Daglovesfatties     | W   | 1.000      | 0.300        | 0.000 (0.000)    | 0.046 (0.014)    | 1 (1.000) |     9.50 | devoduvek, drac, JACKZ, misutaaa, SIXER  |
 |            7 |      360 | 2025-07-19 | Glitchtech Esports  | W   | 1.000      | 0.300        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (1.000) |     4.59 | devoduvek, drac, JACKZ, misutaaa, SIXER  |
 |            6 |     1195 | 2025-05-22 | ESC Gaming          | L   | 0.624      | -            | -                | -                | -         |    -6.55 | devoduvek, drac, JACKZ, misutaaa, Nivera |

@@ -6,9 +6,9 @@ Global Rank: [244](../../standings_global_2025_08_15.md)<br />
 Region: [Europe]( ../../standings_europe_2025_08_15.md)<br />
 Regional Rank: [122]( ../../standings_europe_2025_08_15.md)<br />
 <br />
-Final Rank Value:  463.2<br />
+Final Rank Value:  463.3<br />
 <br />
-Final Rank Value (463.2) = Starting Rank Value (479.7) + Head To Head Adjustments (-16.4)<br />
+Final Rank Value (463.3) = Starting Rank Value (479.7) + Head To Head Adjustments (-16.4)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -44,8 +44,8 @@ Note:<br />
 |           11 |     2150 | 2025-04-09 | Chicken Coop Esports | L   | 0.341      | -            | -                | -                | -         |    -3.93 | graphX, karv3r, Rulik, s1renaa, stanf1x |
 |           10 |     2189 | 2025-04-08 | Arrival Seven        | L   | 0.334      | -            | -                | -                | -         |    -1.91 | graphX, karv3r, Rulik, s1renaa, stanf1x |
 |            9 |     2194 | 2025-04-08 | Arrival Seven        | L   | 0.334      | -            | -                | -                | -         |    -1.94 | graphX, karv3r, Rulik, s1renaa, stanf1x |
-|            8 |     2349 | 2025-04-02 | NRG                  | L   | 0.294      | -            | -                | -                | -         |    -0.24 | graphX, karv3r, Rulik, s1renaa, stanf1x |
-|            7 |     2356 | 2025-04-02 | NRG                  | L   | 0.294      | -            | -                | -                | -         |    -0.24 | graphX, karv3r, Rulik, s1renaa, stanf1x |
+|            8 |     2349 | 2025-04-02 | NRG                  | L   | 0.294      | -            | -                | -                | -         |    -0.23 | graphX, karv3r, Rulik, s1renaa, stanf1x |
+|            7 |     2356 | 2025-04-02 | NRG                  | L   | 0.294      | -            | -                | -                | -         |    -0.23 | graphX, karv3r, Rulik, s1renaa, stanf1x |
 |            6 |     2402 | 2025-04-01 | Akimbo Esports       | L   | 0.288      | -            | -                | -                | -         |    -2.25 | graphX, karv3r, Rulik, s1renaa, stanf1x |
 |            5 |     2408 | 2025-04-01 | Akimbo Esports       | L   | 0.287      | -            | -                | -                | -         |    -2.29 | graphX, karv3r, Rulik, s1renaa, stanf1x |
 |            4 |     3216 | 2025-03-07 | Immigrants Peek      | L   | 0.121      | -            | -                | -                | -         |    -2.32 | graphX, karv3r, Rulik, s1renaa, xsany   |

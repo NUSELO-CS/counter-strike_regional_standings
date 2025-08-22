@@ -6,9 +6,9 @@ Global Rank: [154](../../standings_global_2025_08_15.md)<br />
 Region: [Asia]( ../../standings_asia_2025_08_15.md)<br />
 Regional Rank: [22]( ../../standings_asia_2025_08_15.md)<br />
 <br />
-Final Rank Value:  662.0<br />
+Final Rank Value:  662.2<br />
 <br />
-Final Rank Value (662.0) = Starting Rank Value (681.0) + Head To Head Adjustments (-19.0)<br />
+Final Rank Value (662.2) = Starting Rank Value (681.0) + Head To Head Adjustments (-18.8)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -40,12 +40,12 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent                    | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                 |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           31 |      172 | 2025-08-01 | Chinggis Warriors           | L   | 1.000      | -            | -                | -                | -         |    -3.93 | apocdud, damyo, Drox, pz, vision       |
-|           30 |      409 | 2025-07-17 | SemperFi Esports            | L   | 0.996      | -            | -                | -                | -         |   -10.37 | apocdud, damyo, Drox, pz, vision       |
-|           29 |      437 | 2025-07-16 | Animus Victoria             | W   | 0.990      | 0.314        | -                | 0.087 (0.027)    | 0 (0.000) |    10.23 | apocdud, damyo, Drox, pz, vision       |
-|           28 |      458 | 2025-07-15 | KZG                         | L   | 0.983      | -            | -                | -                | -         |   -14.37 | apocdud, damyo, Drox, pz, vision       |
+|           31 |      172 | 2025-08-01 | Chinggis Warriors           | L   | 1.000      | -            | -                | -                | -         |    -3.89 | apocdud, damyo, Drox, pz, vision       |
+|           30 |      409 | 2025-07-17 | SemperFi Esports            | L   | 0.996      | -            | -                | -                | -         |   -10.34 | apocdud, damyo, Drox, pz, vision       |
+|           29 |      437 | 2025-07-16 | Animus Victoria             | W   | 0.990      | 0.314        | -                | 0.087 (0.027)    | 0 (0.000) |    10.22 | apocdud, damyo, Drox, pz, vision       |
+|           28 |      458 | 2025-07-15 | KZG                         | L   | 0.983      | -            | -                | -                | -         |   -14.38 | apocdud, damyo, Drox, pz, vision       |
 |           27 |      526 | 2025-07-12 | FURY                        | W   | 0.962      | 0.314        | 0.001 (0.000)    | 0.107 (0.032)    | 0 (0.000) |    12.52 | apocdud, damyo, Drox, pz, vision       |
-|           26 |      559 | 2025-07-11 | FengDa Gaming               | L   | 0.956      | -            | -                | -                | -         |   -12.87 | apocdud, damyo, Drox, pz, vision       |
+|           26 |      559 | 2025-07-11 | FengDa Gaming               | L   | 0.956      | -            | -                | -                | -         |   -12.86 | apocdud, damyo, Drox, pz, vision       |
 |           25 |     1678 | 2025-05-03 | Mindfreak (Australian team) | L   | 0.496      | -            | -                | -                | -         |    -8.13 | apocdud, damyo, Drox, pz, vision       |
 |           24 |     1695 | 2025-05-02 | Rooster                     | L   | 0.490      | -            | -                | -                | -         |    -7.18 | apocdud, damyo, Drox, pz, vision       |
 |           23 |     1718 | 2025-05-01 | Mindfreak (Australian team) | W   | 0.483      | 0.326        | 0.003 (0.000)    | 0.140 (0.022)    | 0 (0.000) |     7.12 | apocdud, damyo, Drox, pz, vision       |
@@ -53,18 +53,18 @@ Note:<br />
 |           21 |     2186 | 2025-04-09 | FURY                        | L   | 0.336      | -            | -                | -                | -         |    -6.22 | apocdud, damyo, Drox, pz, yourwombat   |
 |           20 |     2391 | 2025-04-02 | Only One Word               | W   | 0.290      | 0.297        | 0.001 (0.000)    | 0.107 (0.009)    | 0 (0.000) |     4.55 | apocdud, damyo, Drox, pz, yourwombat   |
 |           19 |     2398 | 2025-04-02 | Only One Word               | W   | 0.290      | 0.297        | 0.001 (0.000)    | 0.107 (0.009)    | 0 (0.000) |     4.66 | apocdud, damyo, Drox, pz, yourwombat   |
-|           18 |     2551 | 2025-03-28 | Ex-TALON                    | L   | 0.262      | -            | -                | -                | -         |    -4.00 | alecc, apocdud, damyo, pz, yourwombat  |
+|           18 |     2551 | 2025-03-28 | Ex-TALON                    | L   | 0.262      | -            | -                | -                | -         |    -3.95 | alecc, apocdud, damyo, pz, yourwombat  |
 |           17 |     2611 | 2025-03-28 | Rooster                     | L   | 0.256      | -            | -                | -                | -         |    -3.66 | alecc, apocdud, damyo, pz, yourwombat  |
 |           16 |     2690 | 2025-03-26 | FURY                        | W   | 0.249      | 0.624        | 0.001 (0.000)    | 0.107 (0.017)    | 0 (0.000) |     3.28 | alecc, apocdud, damyo, pz, yourwombat  |
 |           15 |     2739 | 2025-03-26 | KZG                         | W   | 0.244      | 0.297        | -                | 0.022 (0.002)    | 0 (0.000) |     1.86 | apocdud, damyo, Drox, pz, yourwombat   |
 |           14 |     2744 | 2025-03-26 | KZG                         | W   | 0.243      | -            | -                | -                | -         |     1.88 | apocdud, damyo, Drox, pz, yourwombat   |
-|           13 |     2803 | 2025-03-22 | SemperFi Esports            | L   | 0.221      | -            | -                | -                | -         |    -2.63 | apocdud, BRACE, damyo, pz, yourwombat  |
+|           13 |     2803 | 2025-03-22 | SemperFi Esports            | L   | 0.221      | -            | -                | -                | -         |    -2.62 | apocdud, BRACE, damyo, pz, yourwombat  |
 |           12 |     2819 | 2025-03-21 | Rooster                     | L   | 0.214      | -            | -                | -                | -         |    -3.03 | apocdud, BRACE, damyo, pz, yourwombat  |
-|           11 |     2831 | 2025-03-20 | Ex-TALON                    | W   | 0.208      | 0.345        | 0.002 (0.000)    | 0.138 (0.010)    | 1 (0.208) |     3.45 | apocdud, BRACE, damyo, pz, yourwombat  |
+|           11 |     2831 | 2025-03-20 | Ex-TALON                    | W   | 0.208      | 0.345        | 0.002 (0.000)    | 0.138 (0.010)    | 1 (0.208) |     3.49 | apocdud, BRACE, damyo, pz, yourwombat  |
 |           10 |     2835 | 2025-03-20 | Mindfreak (Australian team) | W   | 0.207      | 0.345        | 0.001 (0.000)    | -                | 1 (0.207) |     2.50 | apocdud, BRACE, damyo, pz, yourwombat  |
 |            9 |     2936 | 2025-03-17 | Rooster                     | W   | 0.183      | 0.297        | 0.011 (0.001)    | 0.221 (0.012)    | -         |     3.26 | apocdud, damyo, Drox, pz, yourwombat   |
 |            8 |     2938 | 2025-03-17 | Rooster                     | L   | 0.183      | -            | -                | -                | -         |    -2.54 | apocdud, damyo, Drox, pz, yourwombat   |
-|            7 |     3403 | 2025-03-03 | Lynn Vision Gaming          | L   | 0.090      | -            | -                | -                | -         |    -0.02 | apocdud, BRACE, damyo, pz, yourwombat  |
+|            7 |     3403 | 2025-03-03 | Lynn Vision Gaming          | L   | 0.090      | -            | -                | -                | -         |    -0.01 | apocdud, BRACE, damyo, pz, yourwombat  |
 |            6 |     3420 | 2025-03-02 | HEROIC                      | L   | 0.084      | -            | -                | -                | -         |    -0.02 | apocdud, BRACE, damyo, pz, yourwombat  |
 |            5 |     3442 | 2025-03-01 | PaiN Gaming                 | L   | 0.079      | -            | -                | -                | -         |    -0.01 | apocdud, BRACE, damyo, pz, yourwombat  |
 |            4 |     3691 | 2025-02-19 | Justice For Tomorrow        | W   | 0.010      | -            | -                | -                | -         |     0.08 | apocdud, damyo, pz, vision, yourwombat |

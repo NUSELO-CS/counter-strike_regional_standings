@@ -6,9 +6,9 @@ Global Rank: [27](../../standings_global_2025_08_15.md)<br />
 Region: [Americas]( ../../standings_americas_2025_08_15.md)<br />
 Regional Rank: [5]( ../../standings_americas_2025_08_15.md)<br />
 <br />
-Final Rank Value:  1347.0<br />
+Final Rank Value:  1347.7<br />
 <br />
-Final Rank Value (1347.0) = Starting Rank Value (1340.3) + Head To Head Adjustments (6.7)<br />
+Final Rank Value (1347.7) = Starting Rank Value (1340.3) + Head To Head Adjustments (7.5)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -40,34 +40,34 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                         |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           33 |       71 | 2025-08-08 | HEROIC          | L   | 1.000      | -            | -                | -                | -         |    -8.89 | Cxzi, Grim, hallzerk, JT, nicx |
+|           33 |       71 | 2025-08-08 | HEROIC          | L   | 1.000      | -            | -                | -                | -         |    -8.85 | Cxzi, Grim, hallzerk, JT, nicx |
 |           32 |      302 | 2025-07-24 | TYLOO           | L   | 1.000      | -            | -                | -                | -         |    -2.88 | Cxzi, Grim, hallzerk, JT, nicx |
-|           31 |      314 | 2025-07-23 | GamerLegion     | L   | 1.000      | -            | -                | -                | -         |    -6.42 | Cxzi, Grim, hallzerk, JT, nicx |
-|           30 |      386 | 2025-07-18 | SAW             | L   | 1.000      | -            | -                | -                | -         |   -12.99 | Cxzi, Grim, hallzerk, JT, nicx |
-|           29 |      419 | 2025-07-16 | BIG             | W   | 0.993      | 1.000        | 0.189 (0.188)    | 0.352 (0.349)    | 1 (0.993) |     8.25 | Cxzi, Grim, hallzerk, JT, nicx |
-|           28 |      449 | 2025-07-15 | BetBoom Team    | W   | 0.984      | 1.000        | 0.364 (0.359)    | 0.549 (0.541)    | 1 (0.984) |    14.65 | Cxzi, Grim, hallzerk, JT, nicx |
+|           31 |      314 | 2025-07-23 | GamerLegion     | L   | 1.000      | -            | -                | -                | -         |    -6.43 | Cxzi, Grim, hallzerk, JT, nicx |
+|           30 |      386 | 2025-07-18 | SAW             | L   | 1.000      | -            | -                | -                | -         |   -12.82 | Cxzi, Grim, hallzerk, JT, nicx |
+|           29 |      419 | 2025-07-16 | BIG             | W   | 0.993      | 1.000        | 0.189 (0.188)    | 0.352 (0.349)    | 1 (0.993) |     8.26 | Cxzi, Grim, hallzerk, JT, nicx |
+|           28 |      449 | 2025-07-15 | BetBoom Team    | W   | 0.984      | 1.000        | 0.364 (0.359)    | 0.549 (0.541)    | 1 (0.984) |    14.71 | Cxzi, Grim, hallzerk, JT, nicx |
 |           27 |     1034 | 2025-06-05 | TYLOO           | L   | 0.718      | -            | -                | -                | -         |    -1.94 | Cxzi, Grim, JT, junior, nicx   |
-|           26 |     1048 | 2025-06-04 | NRG             | L   | 0.711      | -            | -                | -                | -         |   -16.36 | Cxzi, Grim, JT, junior, nicx   |
-|           25 |     1056 | 2025-06-03 | Fluxo           | W   | 0.707      | 0.624        | 0.044 (0.019)    | 0.350 (0.154)    | 1 (0.707) |     3.77 | Cxzi, Grim, JT, junior, nicx   |
-|           24 |     1067 | 2025-06-03 | OG              | L   | 0.705      | -            | -                | -                | -         |   -17.36 | Cxzi, Grim, JT, junior, nicx   |
+|           26 |     1048 | 2025-06-04 | NRG             | L   | 0.711      | -            | -                | -                | -         |   -16.33 | Cxzi, Grim, JT, junior, nicx   |
+|           25 |     1056 | 2025-06-03 | Fluxo           | W   | 0.707      | 0.624        | 0.044 (0.019)    | 0.350 (0.154)    | 1 (0.707) |     3.88 | Cxzi, Grim, JT, junior, nicx   |
+|           24 |     1067 | 2025-06-03 | OG              | L   | 0.705      | -            | -                | -                | -         |   -17.25 | Cxzi, Grim, JT, junior, nicx   |
 |           23 |     1895 | 2025-04-22 | GamerLegion     | L   | 0.428      | -            | -                | -                | -         |    -3.06 | Cxzi, Grim, hallzerk, JT, nicx |
-|           22 |     1911 | 2025-04-21 | PaiN Gaming     | W   | 0.421      | 1.000        | 0.318 (0.134)    | 0.349 (0.147)    | 1 (0.421) |    10.19 | Cxzi, Grim, hallzerk, JT, nicx |
+|           22 |     1911 | 2025-04-21 | PaiN Gaming     | W   | 0.421      | 1.000        | 0.318 (0.134)    | 0.349 (0.147)    | 1 (0.421) |    10.18 | Cxzi, Grim, hallzerk, JT, nicx |
 |           21 |     1925 | 2025-04-20 | The MongolZ     | L   | 0.414      | -            | -                | -                | -         |    -0.99 | Cxzi, Grim, hallzerk, JT, nicx |
-|           20 |     2017 | 2025-04-16 | BLUEJAYS        | W   | 0.386      | -            | -                | -                | 0 (0.000) |     0.54 | Cxzi, Grim, hallzerk, JT, nicx |
+|           20 |     2017 | 2025-04-16 | BLUEJAYS        | W   | 0.386      | -            | -                | -                | 0 (0.000) |     0.55 | Cxzi, Grim, hallzerk, JT, nicx |
 |           19 |     2044 | 2025-04-15 | Getting Info    | W   | 0.378      | -            | -                | -                | 0 (0.000) |     0.45 | Cxzi, Grim, hallzerk, JT, nicx |
 |           18 |     2094 | 2025-04-13 | FaZe Clan       | L   | 0.364      | -            | -                | -                | -         |    -1.18 | Cxzi, Grim, hallzerk, JT, nicx |
 |           17 |     2103 | 2025-04-12 | G2 Esports      | L   | 0.359      | -            | -                | -                | -         |    -2.78 | Cxzi, Grim, hallzerk, JT, nicx |
 |           16 |     2129 | 2025-04-11 | Aurora Gaming   | W   | 0.350      | 1.000        | 0.603 (0.211)    | 0.415 (0.146)    | 1 (0.350) |     9.14 | Cxzi, Grim, hallzerk, JT, nicx |
 |           15 |     2183 | 2025-04-09 | FaZe Clan       | W   | 0.336      | 1.000        | 0.510 (0.172)    | 0.538 (0.181)    | 1 (0.336) |     9.63 | Cxzi, Grim, hallzerk, JT, nicx |
-|           14 |     2227 | 2025-04-08 | G2 Esports      | L   | 0.330      | -            | -                | -                | -         |    -2.46 | Cxzi, Grim, hallzerk, JT, nicx |
+|           14 |     2227 | 2025-04-08 | G2 Esports      | L   | 0.330      | -            | -                | -                | -         |    -2.47 | Cxzi, Grim, hallzerk, JT, nicx |
 |           13 |     2246 | 2025-04-07 | FURIA           | W   | 0.324      | 1.000        | 0.532 (0.173)    | 0.578 (0.188)    | 1 (0.324) |     9.44 | Cxzi, Grim, hallzerk, JT, nicx |
 |           12 |     2265 | 2025-04-06 | Team Falcons    | W   | 0.317      | 1.000        | 0.994 (0.315)    | 0.327 (0.103)    | 1 (0.317) |     8.61 | Cxzi, Grim, hallzerk, JT, nicx |
-|           11 |     2323 | 2025-04-03 | Passion UA      | W   | 0.298      | 0.607        | 0.102 (0.018)    | 1.000 (0.181)    | -         |     3.18 | Cxzi, Grim, hallzerk, JT, nicx |
-|           10 |     2334 | 2025-04-03 | 9Pandas         | W   | 0.297      | -            | -                | -                | -         |     0.54 | Cxzi, Grim, hallzerk, JT, nicx |
-|            9 |     2369 | 2025-04-02 | Metizport       | W   | 0.292      | -            | -                | -                | -         |     0.85 | Cxzi, Grim, hallzerk, JT, nicx |
+|           11 |     2323 | 2025-04-03 | Passion UA      | W   | 0.298      | 0.607        | 0.102 (0.018)    | 1.000 (0.181)    | -         |     3.19 | Cxzi, Grim, hallzerk, JT, nicx |
+|           10 |     2334 | 2025-04-03 | 9Pandas         | W   | 0.297      | -            | -                | -                | -         |     0.57 | Cxzi, Grim, hallzerk, JT, nicx |
+|            9 |     2369 | 2025-04-02 | Metizport       | W   | 0.292      | -            | -                | -                | -         |     0.92 | Cxzi, Grim, hallzerk, JT, nicx |
 |            8 |     2381 | 2025-04-02 | Imperial Female | W   | 0.291      | -            | -                | -                | -         |     0.46 | Cxzi, Grim, hallzerk, JT, nicx |
-|            7 |     2401 | 2025-04-02 | Nemiga Gaming   | W   | 0.289      | 0.607        | 0.077 (0.014)    | 0.583 (0.102)    | -         |     3.25 | Cxzi, Grim, hallzerk, JT, nicx |
-|            6 |     3043 | 2025-03-10 | Wildcard        | W   | 0.140      | -            | -                | -                | -         |     0.59 | Cxzi, Grim, hallzerk, JT, nicx |
+|            7 |     2401 | 2025-04-02 | Nemiga Gaming   | W   | 0.289      | 0.607        | 0.077 (0.014)    | 0.583 (0.102)    | -         |     3.33 | Cxzi, Grim, hallzerk, JT, nicx |
+|            6 |     3043 | 2025-03-10 | Wildcard        | W   | 0.140      | -            | -                | -                | -         |     0.61 | Cxzi, Grim, hallzerk, JT, nicx |
 |            5 |     3078 | 2025-03-09 | BLUEJAYS        | W   | 0.134      | -            | -                | -                | -         |     0.23 | Cxzi, Grim, hallzerk, JT, nicx |
 |            4 |     3144 | 2025-03-08 | Arrival Seven   | W   | 0.127      | -            | -                | -                | -         |     0.12 | Cxzi, Grim, hallzerk, JT, nicx |
 |            3 |     3220 | 2025-03-07 | Arrival Seven   | W   | 0.120      | -            | -                | -                | -         |     0.12 | Cxzi, Grim, hallzerk, JT, nicx |

@@ -6,9 +6,9 @@ Global Rank: [123](../../standings_global_2025_08_15.md)<br />
 Region: [Americas]( ../../standings_americas_2025_08_15.md)<br />
 Regional Rank: [31]( ../../standings_americas_2025_08_15.md)<br />
 <br />
-Final Rank Value:  735.9<br />
+Final Rank Value:  736.3<br />
 <br />
-Final Rank Value (735.9) = Starting Rank Value (714.3) + Head To Head Adjustments (21.6)<br />
+Final Rank Value (736.3) = Starting Rank Value (714.3) + Head To Head Adjustments (22.0)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -42,21 +42,21 @@ Note:<br />
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |           32 |      109 | 2025-08-05 | 9z Team                  | L   | 1.000      | -            | -                | -                | -         |    -6.21 | abizz, BK1, ivz, nacho, naz |
 |           31 |      122 | 2025-08-04 | Flamengo Esports         | W   | 1.000      | 0.143        | 0.007 (0.001)    | 0.527 (0.075)    | 0 (0.000) |    20.09 | abizz, BK1, ivz, nacho, naz |
-|           30 |      145 | 2025-08-02 | Fluxo                    | W   | 1.000      | 0.143        | 0.044 (0.006)    | 0.350 (0.050)    | 0 (0.000) |    27.94 | abizz, BK1, ivz, nacho, naz |
-|           29 |      158 | 2025-08-01 | Imperial Esports         | L   | 1.000      | -            | -                | -                | -         |    -1.53 | abizz, BK1, ivz, nacho, naz |
-|           28 |      167 | 2025-08-01 | Players (Brazilian team) | W   | 1.000      | 0.143        | 0.001 (0.000)    | 0.266 (0.038)    | 0 (0.000) |    13.82 | abizz, BK1, ivz, nacho, naz |
+|           30 |      145 | 2025-08-02 | Fluxo                    | W   | 1.000      | 0.143        | 0.044 (0.006)    | 0.350 (0.050)    | 0 (0.000) |    28.03 | abizz, BK1, ivz, nacho, naz |
+|           29 |      158 | 2025-08-01 | Imperial Esports         | L   | 1.000      | -            | -                | -                | -         |    -1.52 | abizz, BK1, ivz, nacho, naz |
+|           28 |      167 | 2025-08-01 | Players (Brazilian team) | W   | 1.000      | 0.143        | 0.001 (0.000)    | 0.266 (0.038)    | 0 (0.000) |    13.81 | abizz, BK1, ivz, nacho, naz |
 |           27 |      184 | 2025-07-31 | 2Game Esports            | L   | 1.000      | -            | -                | -                | -         |    -9.57 | abizz, BK1, ivz, nacho, naz |
-|           26 |      212 | 2025-07-28 | MIBR Academy             | W   | 1.000      | 0.143        | 0.001 (0.000)    | -                | 0 (0.000) |    11.76 | abizz, BK1, ivz, nacho, naz |
-|           25 |      257 | 2025-07-26 | Game Hunters             | L   | 1.000      | -            | -                | -                | -         |   -11.51 | abizz, BK1, ivz, nacho, naz |
-|           24 |      278 | 2025-07-25 | Yawara E-Sports          | W   | 1.000      | 0.143        | 0.007 (0.001)    | 0.269 (0.038)    | 0 (0.000) |    13.36 | abizz, BK1, ivz, nacho, naz |
-|           23 |      431 | 2025-07-16 | Dusty Roots              | L   | 0.991      | -            | -                | -                | -         |   -19.51 | abizz, BK1, ivz, nacho, naz |
-|           22 |      701 | 2025-06-24 | BESTIA                   | L   | 0.846      | -            | -                | -                | -         |    -8.12 | abizz, BK1, ivz, nacho, naz |
+|           26 |      212 | 2025-07-28 | MIBR Academy             | W   | 1.000      | 0.143        | 0.001 (0.000)    | -                | 0 (0.000) |    11.75 | abizz, BK1, ivz, nacho, naz |
+|           25 |      257 | 2025-07-26 | Game Hunters             | L   | 1.000      | -            | -                | -                | -         |   -11.52 | abizz, BK1, ivz, nacho, naz |
+|           24 |      278 | 2025-07-25 | Yawara E-Sports          | W   | 1.000      | 0.143        | 0.007 (0.001)    | 0.269 (0.038)    | 0 (0.000) |    13.35 | abizz, BK1, ivz, nacho, naz |
+|           23 |      431 | 2025-07-16 | Dusty Roots              | L   | 0.991      | -            | -                | -                | -         |   -19.53 | abizz, BK1, ivz, nacho, naz |
+|           22 |      701 | 2025-06-24 | BESTIA                   | L   | 0.846      | -            | -                | -                | -         |    -7.74 | abizz, BK1, ivz, nacho, naz |
 |           21 |      715 | 2025-06-22 | Elevate                  | W   | 0.832      | 0.371        | -                | 0.222 (0.068)    | 0 (0.000) |     7.57 | abizz, BK1, ivz, nacho, naz |
-|           20 |      733 | 2025-06-21 | Bounty Hunters Esports   | L   | 0.825      | -            | -                | -                | -         |   -11.06 | abizz, BK1, ivz, nacho, naz |
+|           20 |      733 | 2025-06-21 | Bounty Hunters Esports   | L   | 0.825      | -            | -                | -                | -         |   -11.05 | abizz, BK1, ivz, nacho, naz |
 |           19 |      788 | 2025-06-17 | KRÜ Esports              | L   | 0.799      | -            | -                | -                | -         |   -12.69 | abizz, BK1, ivz, nacho, naz |
-|           18 |      845 | 2025-06-14 | Yawara E-Sports          | W   | 0.780      | 0.371        | 0.007 (0.002)    | 0.269 (0.078)    | 0 (0.000) |    11.16 | abizz, BK1, ivz, nacho, naz |
+|           18 |      845 | 2025-06-14 | Yawara E-Sports          | W   | 0.780      | 0.371        | 0.007 (0.002)    | 0.269 (0.078)    | 0 (0.000) |    11.17 | abizz, BK1, ivz, nacho, naz |
 |           17 |     2298 | 2025-04-04 | R2 Esports Club          | L   | 0.304      | -            | -                | -                | -         |    -7.46 | abizz, BK1, ivz, nacho, roy |
-|           16 |     2327 | 2025-04-03 | Bounty Hunters Esports   | L   | 0.297      | -            | -                | -                | -         |    -4.42 | abizz, BK1, ivz, nacho, roy |
+|           16 |     2327 | 2025-04-03 | Bounty Hunters Esports   | L   | 0.297      | -            | -                | -                | -         |    -4.41 | abizz, BK1, ivz, nacho, roy |
 |           15 |     2463 | 2025-03-30 | Sharks Esports           | L   | 0.272      | -            | -                | -                | -         |    -1.42 | abizz, BK1, ivz, nacho, roy |
 |           14 |     2511 | 2025-03-29 | RED Canids               | L   | 0.266      | -            | -                | -                | -         |    -4.23 | abizz, BK1, ivz, nacho, roy |
 |           13 |     2575 | 2025-03-28 | Sharks Esports           | W   | 0.259      | 0.769        | 0.070 (0.014)    | 0.538 (0.107)    | 0 (0.000) |     6.84 | abizz, BK1, ivz, nacho, roy |

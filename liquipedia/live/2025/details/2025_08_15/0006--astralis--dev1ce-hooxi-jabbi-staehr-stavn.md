@@ -6,9 +6,9 @@ Global Rank: [6](../../standings_global_2025_08_15.md)<br />
 Region: [Europe]( ../../standings_europe_2025_08_15.md)<br />
 Regional Rank: [5]( ../../standings_europe_2025_08_15.md)<br />
 <br />
-Final Rank Value:  1753.3<br />
+Final Rank Value:  1753.6<br />
 <br />
-Final Rank Value (1753.3) = Starting Rank Value (1820.9) + Head To Head Adjustments (-67.6)<br />
+Final Rank Value (1753.6) = Starting Rank Value (1820.9) + Head To Head Adjustments (-67.3)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -40,18 +40,18 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent               | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                               |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           38 |       66 | 2025-08-09 | Natus Vincere          | W   | 1.000      | -            | -                | -                | -         |    18.16 | dev1ce, HooXi, jabbi, Staehr, stavn  |
+|           38 |       66 | 2025-08-09 | Natus Vincere          | W   | 1.000      | -            | -                | -                | -         |    18.15 | dev1ce, HooXi, jabbi, Staehr, stavn  |
 |           37 |       95 | 2025-08-06 | Rare Atom              | W   | 1.000      | -            | -                | -                | -         |     1.05 | dev1ce, HooXi, jabbi, Staehr, stavn  |
-|           36 |      232 | 2025-07-27 | FURIA                  | L   | 1.000      | -            | -                | -                | -         |   -17.12 | dev1ce, HooXi, jabbi, Staehr, stavn  |
-|           35 |      268 | 2025-07-26 | Team Vitality          | L   | 1.000      | -            | -                | -                | -         |    -4.73 | dev1ce, HooXi, jabbi, Staehr, stavn  |
-|           34 |      280 | 2025-07-25 | PaiN Gaming            | W   | 1.000      | 0.769        | 0.318 (0.244)    | 0.349 (0.269)    | 1 (1.000) |     7.43 | dev1ce, HooXi, jabbi, Staehr, stavn  |
-|           33 |      285 | 2025-07-25 | FURIA                  | L   | 1.000      | -            | -                | -                | -         |   -17.63 | dev1ce, HooXi, jabbi, Staehr, stavn  |
-|           32 |      312 | 2025-07-23 | B8                     | W   | 1.000      | 0.769        | 0.146 (0.112)    | 0.538 (0.414)    | 1 (1.000) |     3.18 | dev1ce, HooXi, jabbi, Staehr, stavn  |
-|           31 |      327 | 2025-07-20 | TYLOO                  | L   | 1.000      | -            | -                | -                | -         |   -15.17 | dev1ce, HooXi, jabbi, Staehr, stavn  |
-|           30 |      343 | 2025-07-19 | BetBoom Team           | W   | 1.000      | 1.000        | 0.364 (0.364)    | 0.549 (0.549)    | 1 (1.000) |     3.25 | dev1ce, HooXi, jabbi, Staehr, stavn  |
-|           29 |      384 | 2025-07-18 | Lynn Vision Gaming     | W   | 1.000      | 1.000        | 0.304 (0.304)    | 0.514 (0.514)    | 1 (1.000) |     8.52 | dev1ce, HooXi, jabbi, Staehr, stavn  |
-|           28 |      399 | 2025-07-17 | MIBR                   | W   | 0.999      | 1.000        | 0.204 (0.204)    | 0.196 (0.195)    | 1 (0.999) |     3.15 | dev1ce, HooXi, jabbi, Staehr, stavn  |
-|           27 |      425 | 2025-07-16 | TYLOO                  | L   | 0.992      | -            | -                | -                | -         |   -16.48 | dev1ce, HooXi, jabbi, Staehr, stavn  |
+|           36 |      232 | 2025-07-27 | FURIA                  | L   | 1.000      | -            | -                | -                | -         |   -17.11 | dev1ce, HooXi, jabbi, Staehr, stavn  |
+|           35 |      268 | 2025-07-26 | Team Vitality          | L   | 1.000      | -            | -                | -                | -         |    -4.74 | dev1ce, HooXi, jabbi, Staehr, stavn  |
+|           34 |      280 | 2025-07-25 | PaiN Gaming            | W   | 1.000      | 0.769        | 0.318 (0.244)    | 0.349 (0.269)    | 1 (1.000) |     7.44 | dev1ce, HooXi, jabbi, Staehr, stavn  |
+|           33 |      285 | 2025-07-25 | FURIA                  | L   | 1.000      | -            | -                | -                | -         |   -17.62 | dev1ce, HooXi, jabbi, Staehr, stavn  |
+|           32 |      312 | 2025-07-23 | B8                     | W   | 1.000      | 0.769        | 0.146 (0.112)    | 0.538 (0.414)    | 1 (1.000) |     3.27 | dev1ce, HooXi, jabbi, Staehr, stavn  |
+|           31 |      327 | 2025-07-20 | TYLOO                  | L   | 1.000      | -            | -                | -                | -         |   -15.15 | dev1ce, HooXi, jabbi, Staehr, stavn  |
+|           30 |      343 | 2025-07-19 | BetBoom Team           | W   | 1.000      | 1.000        | 0.364 (0.364)    | 0.549 (0.549)    | 1 (1.000) |     3.28 | dev1ce, HooXi, jabbi, Staehr, stavn  |
+|           29 |      384 | 2025-07-18 | Lynn Vision Gaming     | W   | 1.000      | 1.000        | 0.304 (0.304)    | 0.514 (0.514)    | 1 (1.000) |     8.62 | dev1ce, HooXi, jabbi, Staehr, stavn  |
+|           28 |      399 | 2025-07-17 | MIBR                   | W   | 0.999      | 1.000        | 0.204 (0.204)    | -                | 1 (0.999) |     3.16 | dev1ce, HooXi, jabbi, Staehr, stavn  |
+|           27 |      425 | 2025-07-16 | TYLOO                  | L   | 0.992      | -            | -                | -                | -         |   -16.46 | dev1ce, HooXi, jabbi, Staehr, stavn  |
 |           26 |      441 | 2025-07-15 | MIBR                   | W   | 0.986      | 1.000        | 0.204 (0.201)    | -                | 1 (0.986) |     2.64 | dev1ce, HooXi, jabbi, Staehr, stavn  |
 |           25 |     1285 | 2025-05-18 | Team Spirit            | L   | 0.597      | -            | -                | -                | -         |    -4.59 | dev1ce, HooXi, jabbi, Staehr, stavn  |
 |           24 |     1305 | 2025-05-17 | Aurora Gaming          | W   | 0.590      | 1.000        | 0.603 (0.356)    | 0.415 (0.245)    | 1 (0.590) |     6.05 | dev1ce, HooXi, jabbi, Staehr, stavn  |
@@ -60,12 +60,12 @@ Note:<br />
 |           21 |     1425 | 2025-05-12 | Team Spirit            | L   | 0.558      | -            | -                | -                | -         |    -4.21 | dev1ce, HooXi, jabbi, Staehr, stavn  |
 |           20 |     1464 | 2025-05-10 | PaiN Gaming            | W   | 0.549      | 1.000        | 0.318 (0.175)    | -                | 1 (0.549) |     4.39 | dev1ce, HooXi, jabbi, Staehr, stavn  |
 |           19 |     1492 | 2025-05-09 | ODDIK                  | W   | 0.542      | 1.000        | -                | 0.556 (0.301)    | -         |     0.34 | dev1ce, HooXi, jabbi, Staehr, stavn  |
-|           18 |     1992 | 2025-04-17 | B8                     | L   | 0.391      | -            | -                | -                | -         |   -11.43 | cadiaN, dev1ce, jabbi, Staehr, stavn |
-|           17 |     2021 | 2025-04-16 | BIG                    | W   | 0.385      | -            | -                | -                | -         |     0.42 | cadiaN, dev1ce, jabbi, Staehr, stavn |
-|           16 |     2028 | 2025-04-16 | Metizport              | L   | 0.384      | -            | -                | -                | -         |   -11.97 | cadiaN, dev1ce, jabbi, Staehr, stavn |
-|           15 |     2049 | 2025-04-15 | ENCE                   | W   | 0.378      | -            | -                | -                | -         |     0.24 | cadiaN, dev1ce, jabbi, Staehr, stavn |
-|           14 |     2065 | 2025-04-14 | PARIVISION             | W   | 0.372      | -            | -                | -                | -         |     0.19 | cadiaN, dev1ce, jabbi, Staehr, stavn |
-|           13 |     2073 | 2025-04-14 | OG                     | L   | 0.371      | -            | -                | -                | -         |   -11.37 | cadiaN, dev1ce, jabbi, Staehr, stavn |
+|           18 |     1992 | 2025-04-17 | B8                     | L   | 0.391      | -            | -                | -                | -         |   -11.40 | cadiaN, dev1ce, jabbi, Staehr, stavn |
+|           17 |     2021 | 2025-04-16 | BIG                    | W   | 0.385      | -            | -                | -                | -         |     0.43 | cadiaN, dev1ce, jabbi, Staehr, stavn |
+|           16 |     2028 | 2025-04-16 | Metizport              | L   | 0.384      | -            | -                | -                | -         |   -11.96 | cadiaN, dev1ce, jabbi, Staehr, stavn |
+|           15 |     2049 | 2025-04-15 | ENCE                   | W   | 0.378      | -            | -                | -                | -         |     0.25 | cadiaN, dev1ce, jabbi, Staehr, stavn |
+|           14 |     2065 | 2025-04-14 | PARIVISION             | W   | 0.372      | 0.525        | -                | 1.000 (0.195)    | -         |     0.19 | cadiaN, dev1ce, jabbi, Staehr, stavn |
+|           13 |     2073 | 2025-04-14 | OG                     | L   | 0.371      | -            | -                | -                | -         |   -11.36 | cadiaN, dev1ce, jabbi, Staehr, stavn |
 |           12 |     2144 | 2025-04-10 | Virtus.pro             | L   | 0.342      | -            | -                | -                | -         |    -8.76 | cadiaN, dev1ce, jabbi, Staehr, stavn |
 |           11 |     2187 | 2025-04-09 | Legacy                 | W   | 0.336      | 1.000        | -                | 0.799 (0.268)    | -         |     0.89 | cadiaN, dev1ce, jabbi, Staehr, stavn |
 |           10 |     2235 | 2025-04-08 | Betclic Apogee Esports | L   | 0.329      | -            | -                | -                | -         |   -10.19 | cadiaN, dev1ce, jabbi, Staehr, stavn |

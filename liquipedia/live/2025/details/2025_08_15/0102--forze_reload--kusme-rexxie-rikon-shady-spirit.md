@@ -6,9 +6,9 @@ Global Rank: [102](../../standings_global_2025_08_15.md)<br />
 Region: [Europe]( ../../standings_europe_2025_08_15.md)<br />
 Regional Rank: [69]( ../../standings_europe_2025_08_15.md)<br />
 <br />
-Final Rank Value:  802.6<br />
+Final Rank Value:  802.7<br />
 <br />
-Final Rank Value (802.6) = Starting Rank Value (754.2) + Head To Head Adjustments (48.5)<br />
+Final Rank Value (802.7) = Starting Rank Value (754.2) + Head To Head Adjustments (48.5)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -41,18 +41,18 @@ Note:<br />
 | Match Played | Match ID | Date       | Opponent            | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                              |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |           13 |      356 | 2025-07-19 | EYEBALLERS          | L   | 1.000      | -            | -                | -                | -         |   -14.63 | KusMe, rexxie, rikon, shady, spirit |
-|           12 |      570 | 2025-07-10 | Passion UA          | L   | 0.952      | -            | -                | -                | -         |    -3.42 | KusMe, rexxie, rikon, shady, spirit |
+|           12 |      570 | 2025-07-10 | Passion UA          | L   | 0.952      | -            | -                | -                | -         |    -3.40 | KusMe, rexxie, rikon, shady, spirit |
 |           11 |      627 | 2025-07-07 | EYEBALLERS          | W   | 0.931      | 0.435        | 0.027 (0.011)    | 0.399 (0.161)    | 0 (0.000) |    15.55 | KusMe, rexxie, rikon, shady, spirit |
 |           10 |      631 | 2025-07-07 | AMKAL ESPORTS       | W   | 0.930      | 0.483        | 0.005 (0.002)    | 0.169 (0.076)    | 0 (0.000) |    10.87 | KusMe, rexxie, rikon, shady, spirit |
 |            9 |      637 | 2025-07-06 | SENZA Esports       | W   | 0.924      | 0.483        | 0.010 (0.005)    | 0.330 (0.147)    | 0 (0.000) |    14.63 | KusMe, rexxie, rikon, shady, spirit |
-|            8 |      646 | 2025-07-04 | Fisher College      | W   | 0.911      | 0.483        | 0.001 (0.001)    | 0.199 (0.088)    | 0 (0.000) |     9.13 | KusMe, rexxie, rikon, shady, spirit |
-|            7 |      657 | 2025-07-02 | Fire Flux Esports   | L   | 0.898      | -            | -                | -                | -         |   -12.54 | KusMe, rexxie, rikon, shady, spirit |
-|            6 |      672 | 2025-06-30 | TPuDCATb TPu        | W   | 0.884      | 0.435        | 0.022 (0.008)    | 0.805 (0.309)    | 0 (0.000) |    16.03 | KusMe, rexxie, rikon, shady, spirit |
+|            8 |      646 | 2025-07-04 | Fisher College      | W   | 0.911      | 0.483        | 0.001 (0.001)    | 0.199 (0.088)    | 0 (0.000) |     9.14 | KusMe, rexxie, rikon, shady, spirit |
+|            7 |      657 | 2025-07-02 | Fire Flux Esports   | L   | 0.898      | -            | -                | -                | -         |   -12.53 | KusMe, rexxie, rikon, shady, spirit |
+|            6 |      672 | 2025-06-30 | TPuDCATb TPu        | W   | 0.884      | 0.435        | 0.022 (0.008)    | 0.805 (0.309)    | 0 (0.000) |    16.04 | KusMe, rexxie, rikon, shady, spirit |
 |            5 |      696 | 2025-06-25 | Marius              | W   | 0.851      | 0.435        | 0.012 (0.004)    | 0.457 (0.169)    | 0 (0.000) |    14.09 | KusMe, rexxie, rikon, shady, spirit |
-|            4 |     1204 | 2025-05-21 | SINNERS Esports     | L   | 0.619      | -            | -                | -                | -         |    -5.95 | KusMe, rexxie, rikon, shady, spirit |
-|            3 |     1303 | 2025-05-17 | Dynamo Eclot        | L   | 0.590      | -            | -                | -                | -         |    -5.06 | KusMe, rexxie, rikon, shady, spirit |
+|            4 |     1204 | 2025-05-21 | SINNERS Esports     | L   | 0.619      | -            | -                | -                | -         |    -5.94 | KusMe, rexxie, rikon, shady, spirit |
+|            3 |     1303 | 2025-05-17 | Dynamo Eclot        | L   | 0.590      | -            | -                | -                | -         |    -5.05 | KusMe, rexxie, rikon, shady, spirit |
 |            2 |     1404 | 2025-05-13 | Team Spirit Academy | L   | 0.564      | -            | -                | -                | -         |    -3.33 | KusMe, rexxie, rikon, shady, spirit |
-|            1 |     1449 | 2025-05-11 | Partizan Esports    | W   | 0.551      | 0.435        | 0.086 (0.021)    | 0.813 (0.195)    | 0 (0.000) |    13.08 | KusMe, rexxie, rikon, shady, spirit |
+|            1 |     1449 | 2025-05-11 | Partizan Esports    | W   | 0.551      | 0.435        | 0.086 (0.021)    | 0.813 (0.195)    | 0 (0.000) |    13.10 | KusMe, rexxie, rikon, shady, spirit |
 
 <br />
 <span id="table2"></span><br />

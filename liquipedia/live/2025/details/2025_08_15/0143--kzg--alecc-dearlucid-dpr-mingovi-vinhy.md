@@ -6,9 +6,9 @@ Global Rank: [143](../../standings_global_2025_08_15.md)<br />
 Region: [Asia]( ../../standings_asia_2025_08_15.md)<br />
 Regional Rank: [17]( ../../standings_asia_2025_08_15.md)<br />
 <br />
-Final Rank Value:  682.6<br />
+Final Rank Value:  682.7<br />
 <br />
-Final Rank Value (682.6) = Starting Rank Value (659.5) + Head To Head Adjustments (23.2)<br />
+Final Rank Value (682.7) = Starting Rank Value (659.5) + Head To Head Adjustments (23.3)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -40,10 +40,10 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent                 | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            6 |      407 | 2025-07-17 | SemperFi Esports         | L   | 0.997      | -            | -                | -                | -         |   -10.62 | alecc, dearlucid, dpr, Mingovi, vinhy |
-|            5 |      410 | 2025-07-16 | Rooster                  | L   | 0.995      | -            | -                | -                | -         |   -13.16 | alecc, dearlucid, dpr, Mingovi, vinhy |
-|            4 |      458 | 2025-07-15 | Ground Zero Gaming       | W   | 0.983      | 0.314        | 0.004 (0.001)    | 0.164 (0.051)    | 0 (0.000) |    14.37 | alecc, dearlucid, dpr, Mingovi, vinhy |
-|            3 |      500 | 2025-07-13 | SemperFi Esports         | W   | 0.969      | 0.314        | 0.013 (0.004)    | 0.383 (0.116)    | 0 (0.000) |    19.92 | alecc, dearlucid, dpr, Mingovi, vinhy |
+|            6 |      407 | 2025-07-17 | SemperFi Esports         | L   | 0.997      | -            | -                | -                | -         |   -10.59 | alecc, dearlucid, dpr, Mingovi, vinhy |
+|            5 |      410 | 2025-07-16 | Rooster                  | L   | 0.995      | -            | -                | -                | -         |   -13.14 | alecc, dearlucid, dpr, Mingovi, vinhy |
+|            4 |      458 | 2025-07-15 | Ground Zero Gaming       | W   | 0.983      | 0.314        | 0.004 (0.001)    | 0.164 (0.051)    | 0 (0.000) |    14.38 | alecc, dearlucid, dpr, Mingovi, vinhy |
+|            3 |      500 | 2025-07-13 | SemperFi Esports         | W   | 0.969      | 0.314        | 0.013 (0.004)    | 0.383 (0.116)    | 0 (0.000) |    19.95 | alecc, dearlucid, dpr, Mingovi, vinhy |
 |            2 |      556 | 2025-07-11 | Underground Esports Club | W   | 0.957      | 0.314        | 0.000 (0.000)    | 0.057 (0.017)    | 0 (0.000) |     7.39 | alecc, Brh2203, dpr, Mingovi, vinhy   |
 |            1 |      577 | 2025-07-10 | DOG                      | W   | 0.950      | 0.314        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     5.28 | alecc, dearlucid, dpr, Mingovi, vinhy |
 

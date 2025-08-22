@@ -8,7 +8,7 @@ Regional Rank: [68]( ../../standings_americas_2025_08_15.md)<br />
 <br />
 Final Rank Value:  568.0<br />
 <br />
-Final Rank Value (568.0) = Starting Rank Value (548.6) + Head To Head Adjustments (19.3)<br />
+Final Rank Value (568.0) = Starting Rank Value (548.6) + Head To Head Adjustments (19.4)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -40,7 +40,7 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent       | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                  |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           26 |     1821 | 2025-04-26 | BLUEJAYS       | L   | 0.455      | -            | -                | -                | -         |    -2.58 | BAGEL, BiNoX, FRIZZY, LittleBEER, taggy |
+|           26 |     1821 | 2025-04-26 | BLUEJAYS       | L   | 0.455      | -            | -                | -                | -         |    -2.54 | BAGEL, BiNoX, FRIZZY, LittleBEER, taggy |
 |           25 |     1976 | 2025-04-17 | Arrival Seven  | L   | 0.394      | -            | -                | -                | -         |    -3.41 | BAGEL, BiNoX, FRIZZY, LittleBEER, taggy |
 |           24 |     2100 | 2025-04-12 | Super Shy      | W   | 0.360      | 0.333        | 0.000 (0.000)    | -                | 0 (0.000) |     3.12 | BAGEL, BiNoX, FRIZZY, LittleBEER, taggy |
 |           23 |     2136 | 2025-04-10 | Wanted Goons   | L   | 0.347      | -            | -                | -                | -         |    -4.81 | BAGEL, BiNoX, FRIZZY, LittleBEER, taggy |
@@ -51,10 +51,10 @@ Note:<br />
 |           18 |     2350 | 2025-04-02 | Arrival Seven  | L   | 0.294      | -            | -                | -                | -         |    -2.77 | BAGEL, BiNoX, FRIZZY, LittleBEER, taggy |
 |           17 |     2407 | 2025-04-01 | NRG            | L   | 0.288      | -            | -                | -                | -         |    -0.40 | BAGEL, BiNoX, FRIZZY, LittleBEER, taggy |
 |           16 |     2413 | 2025-04-01 | NRG            | W   | 0.287      | 0.413        | 0.074 (0.009)    | 0.586 (0.070)    | 0 (0.000) |     8.69 | BAGEL, BiNoX, FRIZZY, LittleBEER, taggy |
-|           15 |     2456 | 2025-03-30 | MIGHT          | L   | 0.274      | -            | -                | -                | -         |    -3.12 | BAGEL, BiNoX, FRIZZY, LittleBEER, taggy |
+|           15 |     2456 | 2025-03-30 | MIGHT          | L   | 0.274      | -            | -                | -                | -         |    -3.11 | BAGEL, BiNoX, FRIZZY, LittleBEER, taggy |
 |           14 |     2489 | 2025-03-29 | Hooligangsters | W   | 0.268      | 0.769        | 0.000 (0.000)    | 0.024 (0.005)    | 0 (0.000) |     3.87 | BAGEL, BiNoX, FRIZZY, LittleBEER, taggy |
 |           13 |     2502 | 2025-03-29 | LL             | W   | 0.267      | 0.769        | -                | 0.012 (0.002)    | 0 (0.000) |     3.86 | BAGEL, BiNoX, FRIZZY, LittleBEER, taggy |
-|           12 |     2556 | 2025-03-28 | Wildcard       | L   | 0.261      | -            | -                | -                | -         |    -0.63 | BAGEL, BiNoX, FRIZZY, LittleBEER, taggy |
+|           12 |     2556 | 2025-03-28 | Wildcard       | L   | 0.261      | -            | -                | -                | -         |    -0.61 | BAGEL, BiNoX, FRIZZY, LittleBEER, taggy |
 |           11 |     2638 | 2025-03-27 | FlyQuest RED   | W   | 0.254      | 0.769        | 0.030 (0.006)    | 0.089 (0.017)    | 0 (0.000) |     5.97 | BAGEL, BiNoX, FRIZZY, LittleBEER, taggy |
 |           10 |     2697 | 2025-03-26 | InControl      | L   | 0.248      | -            | -                | -                | -         |    -3.89 | BAGEL, BiNoX, FRIZZY, LittleBEER, taggy |
 |            9 |     2703 | 2025-03-26 | InControl      | L   | 0.248      | -            | -                | -                | -         |    -3.97 | BAGEL, BiNoX, FRIZZY, LittleBEER, taggy |

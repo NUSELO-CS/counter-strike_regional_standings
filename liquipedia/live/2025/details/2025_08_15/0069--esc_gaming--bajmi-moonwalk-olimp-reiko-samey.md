@@ -6,9 +6,9 @@ Global Rank: [69](../../standings_global_2025_08_15.md)<br />
 Region: [Europe]( ../../standings_europe_2025_08_15.md)<br />
 Regional Rank: [47]( ../../standings_europe_2025_08_15.md)<br />
 <br />
-Final Rank Value:  933.1<br />
+Final Rank Value:  933.2<br />
 <br />
-Final Rank Value (933.1) = Starting Rank Value (834.8) + Head To Head Adjustments (98.3)<br />
+Final Rank Value (933.2) = Starting Rank Value (834.8) + Head To Head Adjustments (98.4)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -40,15 +40,15 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                               |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           11 |      317 | 2025-07-22 | EYEBALLERS        | W   | 1.000      | 0.435        | 0.027 (0.012)    | 0.399 (0.173)    | 0 (0.000) |    12.51 | bajmi, moonwalk, olimp, reiko, SaMey |
-|           10 |      320 | 2025-07-21 | RUBY              | W   | 1.000      | 0.435        | 0.026 (0.011)    | 0.777 (0.338)    | 0 (0.000) |    16.82 | bajmi, moonwalk, olimp, reiko, SaMey |
+|           11 |      317 | 2025-07-22 | EYEBALLERS        | W   | 1.000      | 0.435        | 0.027 (0.012)    | 0.399 (0.173)    | 0 (0.000) |    12.50 | bajmi, moonwalk, olimp, reiko, SaMey |
+|           10 |      320 | 2025-07-21 | RUBY              | W   | 1.000      | 0.435        | 0.026 (0.011)    | 0.777 (0.338)    | 0 (0.000) |    16.84 | bajmi, moonwalk, olimp, reiko, SaMey |
 |            9 |      326 | 2025-07-20 | AMKAL ESPORTS     | W   | 1.000      | 0.435        | 0.005 (0.002)    | 0.169 (0.074)    | 0 (0.000) |     8.09 | bajmi, moonwalk, olimp, reiko, SaMey |
-|            8 |      468 | 2025-07-14 | Fnatic            | L   | 0.979      | -            | -                | -                | -         |    -2.98 | bajmi, moonwalk, olimp, reiko, SaMey |
+|            8 |      468 | 2025-07-14 | Fnatic            | L   | 0.979      | -            | -                | -                | -         |    -2.93 | bajmi, moonwalk, olimp, reiko, SaMey |
 |            7 |      578 | 2025-07-10 | NXT               | W   | 0.950      | 0.435        | 0.001 (0.000)    | 0.263 (0.108)    | 0 (0.000) |    11.93 | bajmi, moonwalk, olimp, reiko, SaMey |
 |            6 |      594 | 2025-07-09 | Betera Esports    | W   | 0.945      | 0.147        | 0.013 (0.002)    | 0.250 (0.035)    | 0 (0.000) |    11.14 | bajmi, moonwalk, olimp, reiko, SaMey |
-|            5 |      602 | 2025-07-09 | Partizan Esports  | W   | 0.945      | 0.147        | 0.086 (0.012)    | 0.813 (0.113)    | 0 (0.000) |    17.74 | bajmi, moonwalk, olimp, reiko, SaMey |
-|            4 |      651 | 2025-07-03 | Fire Flux Esports | W   | 0.904      | 0.435        | 0.003 (0.001)    | 0.390 (0.153)    | 0 (0.000) |    12.98 | bajmi, moonwalk, olimp, reiko, SaMey |
-|            3 |      698 | 2025-06-25 | GUN5 Esports      | W   | 0.850      | 0.435        | 0.056 (0.021)    | 0.694 (0.256)    | 0 (0.000) |    17.73 | bajmi, moonwalk, olimp, reiko, SaMey |
+|            5 |      602 | 2025-07-09 | Partizan Esports  | W   | 0.945      | 0.147        | 0.086 (0.012)    | 0.813 (0.113)    | 0 (0.000) |    17.77 | bajmi, moonwalk, olimp, reiko, SaMey |
+|            4 |      651 | 2025-07-03 | Fire Flux Esports | W   | 0.904      | 0.435        | 0.003 (0.001)    | 0.390 (0.153)    | 0 (0.000) |    12.99 | bajmi, moonwalk, olimp, reiko, SaMey |
+|            3 |      698 | 2025-06-25 | GUN5 Esports      | W   | 0.850      | 0.435        | 0.056 (0.021)    | 0.694 (0.256)    | 0 (0.000) |    17.75 | bajmi, moonwalk, olimp, reiko, SaMey |
 |            2 |     1081 | 2025-05-31 | M1X               | L   | 0.685      | -            | -                | -                | -         |   -14.21 | bajmi, moonwalk, olimp, reiko, SaMey |
 |            1 |     1195 | 2025-05-22 | FUT Esports       | W   | 0.624      | 0.384        | 0.000 (0.000)    | 0.131 (0.031)    | 0 (0.000) |     6.55 | bajmi, moonwalk, olimp, reiko, SaMey |
 

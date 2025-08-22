@@ -8,7 +8,7 @@ Regional Rank: [106]( ../../standings_europe_2025_08_15.md)<br />
 <br />
 Final Rank Value:  606.6<br />
 <br />
-Final Rank Value (606.6) = Starting Rank Value (546.5) + Head To Head Adjustments (60.1)<br />
+Final Rank Value (606.6) = Starting Rank Value (546.5) + Head To Head Adjustments (60.2)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -40,12 +40,12 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent           | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                     |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           14 |      406 | 2025-07-17 | RUBY               | L   | 0.997      | -            | -                | -                | -         |    -5.60 | abiraju, anttzz, eightz, Muk0s, slaxejezzz |
-|           13 |      457 | 2025-07-15 | Marius             | W   | 0.984      | 0.435        | 0.012 (0.005)    | 0.457 (0.196)    | 0 (0.000) |    22.41 | abiraju, anttzz, eightz, Muk0s, slaxejezzz |
+|           14 |      406 | 2025-07-17 | RUBY               | L   | 0.997      | -            | -                | -                | -         |    -5.59 | abiraju, anttzz, eightz, Muk0s, slaxejezzz |
+|           13 |      457 | 2025-07-15 | Marius             | W   | 0.984      | 0.435        | 0.012 (0.005)    | 0.457 (0.196)    | 0 (0.000) |    22.42 | abiraju, anttzz, eightz, Muk0s, slaxejezzz |
 |           12 |      475 | 2025-07-14 | Alliance           | L   | 0.977      | -            | -                | -                | -         |    -1.59 | abiraju, anttzz, eightz, Muk0s, slaxejezzz |
 |           11 |      593 | 2025-07-09 | AaB esport         | W   | 0.945      | 0.147        | 0.003 (0.000)    | 0.181 (0.025)    | 0 (0.000) |    24.37 | abiraju, anttzz, eightz, Muk0s, slaxejezzz |
-|           10 |      596 | 2025-07-09 | GUN5 Esports       | W   | 0.945      | 0.147        | 0.056 (0.008)    | 0.694 (0.096)    | 0 (0.000) |    26.70 | abiraju, anttzz, eightz, Muk0s, slaxejezzz |
-|            9 |      673 | 2025-06-30 | GUN5 Esports       | L   | 0.884      | -            | -                | -                | -         |    -2.63 | abiraju, anttzz, eightz, Muk0s, slaxejezzz |
+|           10 |      596 | 2025-07-09 | GUN5 Esports       | W   | 0.945      | 0.147        | 0.056 (0.008)    | 0.694 (0.096)    | 0 (0.000) |    26.71 | abiraju, anttzz, eightz, Muk0s, slaxejezzz |
+|            9 |      673 | 2025-06-30 | GUN5 Esports       | L   | 0.884      | -            | -                | -                | -         |    -2.62 | abiraju, anttzz, eightz, Muk0s, slaxejezzz |
 |            8 |      709 | 2025-06-23 | Fire Flux Esports  | L   | 0.838      | -            | -                | -                | -         |    -4.90 | abiraju, anttzz, eightz, Muk0s, slaxejezzz |
 |            7 |     1172 | 2025-05-23 | Modeame            | L   | 0.631      | -            | -                | -                | -         |    -5.91 | abiraju, anttzz, frontales, Muk0s, slax    |
 |            6 |     1213 | 2025-05-21 | Inputprayers       | W   | 0.618      | 0.384        | 0.000 (0.000)    | 0.041 (0.010)    | 0 (0.000) |     8.78 | abiraju, anttzz, frontales, Muk0s, slax    |
@@ -53,7 +53,7 @@ Note:<br />
 |            4 |     1268 | 2025-05-19 | Eternal Fire       | L   | 0.605      | -            | -                | -                | -         |    -3.39 | abiraju, anttzz, frontales, Muk0s, slax    |
 |            3 |     1365 | 2025-05-14 | Reason Gaming      | L   | 0.571      | -            | -                | -                | -         |    -3.60 | abiraju, anttzz, frontales, Muk0s, slax    |
 |            2 |     1556 | 2025-05-07 | 1win Team          | W   | 0.525      | 0.393        | 0.007 (0.001)    | 0.297 (0.061)    | 0 (0.000) |    12.89 | abiraju, anttzz, frontales, Muk0s, slax    |
-|            1 |     1784 | 2025-04-28 | CYBERSHOKE Esports | L   | 0.465      | -            | -                | -                | -         |    -1.79 | abiraju, anttzz, frontales, Muk0s, slax    |
+|            1 |     1784 | 2025-04-28 | CYBERSHOKE Esports | L   | 0.465      | -            | -                | -                | -         |    -1.78 | abiraju, anttzz, frontales, Muk0s, slax    |
 
 <br />
 <span id="table2"></span><br />

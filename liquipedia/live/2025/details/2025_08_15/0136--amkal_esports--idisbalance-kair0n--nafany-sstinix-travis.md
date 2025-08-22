@@ -8,7 +8,7 @@ Regional Rank: [86]( ../../standings_europe_2025_08_15.md)<br />
 <br />
 Final Rank Value:  699.5<br />
 <br />
-Final Rank Value (699.5) = Starting Rank Value (689.7) + Head To Head Adjustments (9.7)<br />
+Final Rank Value (699.5) = Starting Rank Value (689.7) + Head To Head Adjustments (9.8)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -40,14 +40,14 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                        |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           12 |       49 | 2025-08-10 | Sangal Esports    | L   | 1.000      | -            | -                | -                | -         |    -6.67 | iDISBALANCE, KaiR0N-, nafany, sstiNiX, TRAVIS |
+|           12 |       49 | 2025-08-10 | Sangal Esports    | L   | 1.000      | -            | -                | -                | -         |    -6.66 | iDISBALANCE, KaiR0N-, nafany, sstiNiX, TRAVIS |
 |           11 |      326 | 2025-07-20 | ESC Gaming        | L   | 1.000      | -            | -                | -                | -         |    -8.09 | iDISBALANCE, kAlash, sFade8, sstiNiX, TRAVIS  |
 |           10 |      403 | 2025-07-17 | MANA eSports      | W   | 0.998      | 0.435        | 0.000 (0.000)    | 0.166 (0.072)    | 0 (0.000) |    11.26 | iDISBALANCE, kAlash, sFade8, sstiNiX, TRAVIS  |
 |            9 |      450 | 2025-07-15 | Alliance          | L   | 0.984      | -            | -                | -                | -         |    -3.04 | iDISBALANCE, kAlash, sFade8, sstiNiX, TRAVIS  |
-|            8 |      575 | 2025-07-10 | Fire Flux Esports | W   | 0.951      | 0.435        | 0.003 (0.001)    | 0.390 (0.161)    | 0 (0.000) |    17.27 | iDISBALANCE, kAlash, sFade8, sstiNiX, TRAVIS  |
+|            8 |      575 | 2025-07-10 | Fire Flux Esports | W   | 0.951      | 0.435        | 0.003 (0.001)    | 0.390 (0.161)    | 0 (0.000) |    17.28 | iDISBALANCE, kAlash, sFade8, sstiNiX, TRAVIS  |
 |            7 |      606 | 2025-07-09 | SENZA Esports     | L   | 0.944      | -            | -                | -                | -         |   -10.60 | iDISBALANCE, kAlash, sFade8, sstiNiX, TRAVIS  |
 |            6 |      631 | 2025-07-07 | FORZE Reload      | L   | 0.930      | -            | -                | -                | -         |   -10.87 | iDISBALANCE, kAlash, sFade8, sstiNiX, TRAVIS  |
-|            5 |      636 | 2025-07-06 | Fire Flux Esports | W   | 0.924      | 0.483        | 0.003 (0.001)    | 0.390 (0.174)    | 0 (0.000) |    17.90 | iDISBALANCE, kAlash, sFade8, sstiNiX, TRAVIS  |
+|            5 |      636 | 2025-07-06 | Fire Flux Esports | W   | 0.924      | 0.483        | 0.003 (0.001)    | 0.390 (0.174)    | 0 (0.000) |    17.91 | iDISBALANCE, kAlash, sFade8, sstiNiX, TRAVIS  |
 |            4 |      645 | 2025-07-04 | Modeame           | W   | 0.912      | 0.483        | 0.004 (0.002)    | 0.271 (0.119)    | 0 (0.000) |    12.10 | iDISBALANCE, kAlash, sFade8, sstiNiX, TRAVIS  |
 |            3 |      655 | 2025-07-02 | EYEBALLERS        | L   | 0.899      | -            | -                | -                | -         |    -8.71 | iDISBALANCE, kAlash, sFade8, sstiNiX, TRAVIS  |
 |            2 |      665 | 2025-07-01 | NXT               | L   | 0.891      | -            | -                | -                | -         |    -9.29 | iDISBALANCE, kAlash, sFade8, sstiNiX, TRAVIS  |

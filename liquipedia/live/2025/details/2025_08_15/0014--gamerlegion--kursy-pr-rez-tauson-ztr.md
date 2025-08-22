@@ -6,9 +6,9 @@ Global Rank: [14](../../standings_global_2025_08_15.md)<br />
 Region: [Europe]( ../../standings_europe_2025_08_15.md)<br />
 Regional Rank: [11]( ../../standings_europe_2025_08_15.md)<br />
 <br />
-Final Rank Value:  1598.2<br />
+Final Rank Value:  1598.5<br />
 <br />
-Final Rank Value (1598.2) = Starting Rank Value (1625.9) + Head To Head Adjustments (-27.7)<br />
+Final Rank Value (1598.5) = Starting Rank Value (1625.9) + Head To Head Adjustments (-27.3)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -40,14 +40,14 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent      | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                      |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           38 |       28 | 2025-08-11 | BIG           | W   | 1.000      | -            | -                | -                | -         |     2.67 | Kursy, PR, REZ, Tauson, ztr |
-|           37 |      241 | 2025-07-27 | 3DMAX         | L   | 1.000      | -            | -                | -                | -         |   -13.07 | Kursy, PR, REZ, Tauson, ztr |
+|           38 |       28 | 2025-08-11 | BIG           | W   | 1.000      | -            | -                | -                | -         |     2.68 | Kursy, PR, REZ, Tauson, ztr |
+|           37 |      241 | 2025-07-27 | 3DMAX         | L   | 1.000      | -            | -                | -                | -         |   -13.08 | Kursy, PR, REZ, Tauson, ztr |
 |           36 |      270 | 2025-07-26 | Team Falcons  | L   | 1.000      | -            | -                | -                | -         |   -11.94 | Kursy, PR, REZ, Tauson, ztr |
 |           35 |      301 | 2025-07-24 | Virtus.pro    | W   | 1.000      | 0.769        | 0.199 (0.153)    | 0.415 (0.319)    | 1 (1.000) |    12.03 | Kursy, PR, REZ, Tauson, ztr |
-|           34 |      314 | 2025-07-23 | Complexity    | W   | 1.000      | 0.769        | 0.270 (0.207)    | 0.328 (0.252)    | 1 (1.000) |     6.42 | Kursy, PR, REZ, Tauson, ztr |
-|           33 |      376 | 2025-07-18 | BetBoom Team  | L   | 1.000      | -            | -                | -                | -         |   -24.86 | Kursy, PR, REZ, Tauson, ztr |
-|           32 |      435 | 2025-07-16 | SAW           | W   | 0.990      | 1.000        | 0.328 (0.324)    | 0.487 (0.482)    | 1 (0.990) |     7.11 | Kursy, PR, REZ, Tauson, ztr |
-|           31 |      459 | 2025-07-15 | Wildcard      | W   | 0.983      | 1.000        | -                | 0.426 (0.418)    | 1 (0.983) |     1.25 | Kursy, PR, REZ, Tauson, ztr |
+|           34 |      314 | 2025-07-23 | Complexity    | W   | 1.000      | 0.769        | 0.270 (0.207)    | 0.328 (0.252)    | 1 (1.000) |     6.43 | Kursy, PR, REZ, Tauson, ztr |
+|           33 |      376 | 2025-07-18 | BetBoom Team  | L   | 1.000      | -            | -                | -                | -         |   -24.82 | Kursy, PR, REZ, Tauson, ztr |
+|           32 |      435 | 2025-07-16 | SAW           | W   | 0.990      | 1.000        | 0.328 (0.324)    | 0.487 (0.482)    | 1 (0.990) |     7.25 | Kursy, PR, REZ, Tauson, ztr |
+|           31 |      459 | 2025-07-15 | Wildcard      | W   | 0.983      | 1.000        | -                | 0.426 (0.418)    | 1 (0.983) |     1.28 | Kursy, PR, REZ, Tauson, ztr |
 |           30 |     1164 | 2025-05-23 | Team Falcons  | L   | 0.633      | -            | -                | -                | -         |    -6.51 | acoR, PR, REZ, Tauson, ztr  |
 |           29 |     1200 | 2025-05-21 | G2 Esports    | W   | 0.621      | 1.000        | 0.465 (0.289)    | 0.334 (0.207)    | 1 (0.621) |     9.22 | acoR, PR, REZ, Tauson, ztr  |
 |           28 |     1207 | 2025-05-21 | FURIA         | W   | 0.619      | 1.000        | 0.532 (0.329)    | 0.578 (0.358)    | 1 (0.619) |    13.74 | acoR, PR, REZ, Tauson, ztr  |
@@ -61,17 +61,17 @@ Note:<br />
 |           20 |     1895 | 2025-04-22 | Complexity    | W   | 0.428      | -            | -                | -                | 1 (0.428) |     3.06 | PR, REZ, sl3nd, Tauson, ztr |
 |           19 |     1912 | 2025-04-21 | MOUZ          | L   | 0.421      | -            | -                | -                | -         |    -1.64 | PR, REZ, sl3nd, Tauson, ztr |
 |           18 |     1923 | 2025-04-20 | 3DMAX         | W   | 0.415      | 1.000        | 0.401 (0.167)    | 0.475 (0.197)    | 1 (0.415) |     8.99 | PR, REZ, sl3nd, Tauson, ztr |
-|           17 |     2034 | 2025-04-16 | SAW           | L   | 0.383      | -            | -                | -                | -         |    -8.40 | PR, REZ, sl3nd, Tauson, ztr |
+|           17 |     2034 | 2025-04-16 | SAW           | L   | 0.383      | -            | -                | -                | -         |    -8.32 | PR, REZ, sl3nd, Tauson, ztr |
 |           16 |     2059 | 2025-04-15 | 500           | W   | 0.376      | -            | -                | -                | -         |     0.08 | PR, REZ, sl3nd, Tauson, ztr |
-|           15 |     2063 | 2025-04-14 | Fnatic        | L   | 0.372      | -            | -                | -                | -         |   -10.26 | PR, REZ, sl3nd, Tauson, ztr |
-|           14 |     2072 | 2025-04-14 | Nemiga Gaming | L   | 0.371      | -            | -                | -                | -         |   -10.46 | PR, REZ, sl3nd, Tauson, ztr |
+|           15 |     2063 | 2025-04-14 | Fnatic        | L   | 0.372      | -            | -                | -                | -         |   -10.21 | PR, REZ, sl3nd, Tauson, ztr |
+|           14 |     2072 | 2025-04-14 | Nemiga Gaming | L   | 0.371      | -            | -                | -                | -         |   -10.42 | PR, REZ, sl3nd, Tauson, ztr |
 |           13 |     2133 | 2025-04-11 | Team Falcons  | L   | 0.349      | -            | -                | -                | -         |    -4.78 | PR, REZ, sl3nd, Tauson, ztr |
 |           12 |     2188 | 2025-04-09 | Virtus.pro    | W   | 0.336      | -            | -                | -                | -         |     4.03 | PR, REZ, sl3nd, Tauson, ztr |
 |           11 |     2234 | 2025-04-08 | Legacy        | W   | 0.329      | 1.000        | -                | 0.799 (0.263)    | -         |     2.23 | PR, REZ, sl3nd, Tauson, ztr |
 |           10 |     2252 | 2025-04-07 | Team Falcons  | W   | 0.322      | 1.000        | 0.994 (0.320)    | -                | -         |     5.77 | PR, REZ, sl3nd, Tauson, ztr |
 |            9 |     2268 | 2025-04-06 | G2 Esports    | L   | 0.316      | -            | -                | -                | -         |    -5.76 | PR, REZ, sl3nd, Tauson, ztr |
 |            8 |     3019 | 2025-03-11 | G2 Esports    | L   | 0.146      | -            | -                | -                | -         |    -2.72 | PR, REZ, sl3nd, Tauson, ztr |
-|            7 |     3075 | 2025-03-10 | SAW           | W   | 0.137      | -            | -                | -                | -         |     1.27 | PR, REZ, sl3nd, Tauson, ztr |
+|            7 |     3075 | 2025-03-10 | SAW           | W   | 0.137      | -            | -                | -                | -         |     1.30 | PR, REZ, sl3nd, Tauson, ztr |
 |            6 |     3132 | 2025-03-09 | TYLOO         | W   | 0.130      | 1.000        | 1.000 (0.130)    | -                | -         |     3.27 | PR, REZ, sl3nd, Tauson, ztr |
 |            5 |     3203 | 2025-03-08 | PaiN Gaming   | L   | 0.124      | -            | -                | -                | -         |    -2.02 | PR, REZ, sl3nd, Tauson, ztr |
 |            4 |     3269 | 2025-03-07 | The MongolZ   | L   | 0.117      | -            | -                | -                | -         |    -0.82 | PR, REZ, sl3nd, Tauson, ztr |

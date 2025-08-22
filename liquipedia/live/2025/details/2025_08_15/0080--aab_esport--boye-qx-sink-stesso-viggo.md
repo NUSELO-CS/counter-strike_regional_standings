@@ -40,13 +40,13 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent           | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                            |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            7 |      328 | 2025-07-20 | Iberian Soul       | L   | 1.000      | -            | -                | -                | -         |    -2.90 | Boye, qx, SinK, stesso, Viggo     |
-|            6 |      340 | 2025-07-19 | Iberian Soul       | W   | 1.000      | 0.300        | 0.205 (0.061)    | 1.000 (0.300)    | 1 (1.000) |    28.88 | Boye, qx, SinK, stesso, Viggo     |
+|            7 |      328 | 2025-07-20 | Iberian Soul       | L   | 1.000      | -            | -                | -                | -         |    -2.89 | Boye, qx, SinK, stesso, Viggo     |
+|            6 |      340 | 2025-07-19 | Iberian Soul       | W   | 1.000      | 0.300        | 0.205 (0.061)    | 1.000 (0.300)    | 1 (1.000) |    28.89 | Boye, qx, SinK, stesso, Viggo     |
 |            5 |      351 | 2025-07-19 | 8Sins              | W   | 1.000      | 0.300        | 0.000 (0.000)    | 0.104 (0.031)    | 1 (1.000) |     8.65 | Boye, qx, SinK, stesso, Viggo     |
 |            4 |      379 | 2025-07-18 | Glitchtech Esports | W   | 1.000      | 0.300        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (1.000) |     2.52 | Boye, qx, SinK, stesso, Viggo     |
 |            3 |      593 | 2025-07-09 | Hesta              | L   | 0.945      | -            | -                | -                | -         |   -24.37 | Boye, qx, SinK, stesso, Viggo     |
 |            2 |      595 | 2025-07-09 | BASEMENT BOYS      | W   | 0.945      | 0.147        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     2.12 | Boye, qx, SinK, stesso, Viggo     |
-|            1 |      605 | 2025-07-09 | NOVAQ              | L   | 0.944      | -            | -                | -                | -         |   -23.82 | Boye, Griller, Patti, SinK, Viggo |
+|            1 |      605 | 2025-07-09 | NOVAQ              | L   | 0.944      | -            | -                | -                | -         |   -23.81 | Boye, Griller, Patti, SinK, Viggo |
 
 <br />
 <span id="table2"></span><br />

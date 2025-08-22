@@ -6,9 +6,9 @@ Global Rank: [47](../../standings_global_2025_08_15.md)<br />
 Region: [Europe]( ../../standings_europe_2025_08_15.md)<br />
 Regional Rank: [32]( ../../standings_europe_2025_08_15.md)<br />
 <br />
-Final Rank Value:  1042.8<br />
+Final Rank Value:  1043.3<br />
 <br />
-Final Rank Value (1042.8) = Starting Rank Value (1004.8) + Head To Head Adjustments (38.0)<br />
+Final Rank Value (1043.3) = Starting Rank Value (1004.8) + Head To Head Adjustments (38.5)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -40,40 +40,40 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                   |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           40 |       84 | 2025-08-07 | 9INE            | L   | 1.000      | -            | -                | -                | -         |   -17.44 | mazay, Mokuj1n, robo, S0tF1k, SYPH0      |
-|           39 |     1125 | 2025-05-27 | Passion UA      | L   | 0.656      | -            | -                | -                | -         |    -7.01 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
+|           40 |       84 | 2025-08-07 | 9INE            | L   | 1.000      | -            | -                | -                | -         |   -17.43 | mazay, Mokuj1n, robo, S0tF1k, SYPH0      |
+|           39 |     1125 | 2025-05-27 | Passion UA      | L   | 0.656      | -            | -                | -                | -         |    -7.00 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
 |           38 |     1127 | 2025-05-26 | Monte           | W   | 0.652      | 0.384        | -                | 0.719 (0.180)    | 0 (0.000) |     5.07 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
-|           37 |     1130 | 2025-05-26 | Iberian Soul    | L   | 0.651      | -            | -                | -                | -         |    -3.81 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
+|           37 |     1130 | 2025-05-26 | Iberian Soul    | L   | 0.651      | -            | -                | -                | -         |    -3.82 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
 |           36 |     1224 | 2025-05-21 | 9INE            | W   | 0.616      | 0.344        | 0.026 (0.006)    | 0.732 (0.155)    | 0 (0.000) |    11.39 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
 |           35 |     1234 | 2025-05-20 | 500             | W   | 0.612      | -            | -                | -                | 0 (0.000) |     5.01 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
-|           34 |     1282 | 2025-05-18 | Passion UA      | W   | 0.598      | 0.435        | 0.102 (0.027)    | 1.000 (0.260)    | 0 (0.000) |    13.36 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
-|           33 |     1340 | 2025-05-15 | FAVBET Team     | W   | 0.579      | -            | -                | -                | 0 (0.000) |     5.96 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
+|           34 |     1282 | 2025-05-18 | Passion UA      | W   | 0.598      | 0.435        | 0.102 (0.027)    | 1.000 (0.260)    | 0 (0.000) |    13.37 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
+|           33 |     1340 | 2025-05-15 | FAVBET Team     | W   | 0.579      | -            | -                | -                | 0 (0.000) |     5.95 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
 |           32 |     1404 | 2025-05-13 | FORZE Reload    | W   | 0.564      | -            | -                | -                | 0 (0.000) |     3.33 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
-|           31 |     1421 | 2025-05-12 | Zero Tenacity   | W   | 0.558      | 0.435        | -                | 0.676 (0.164)    | -         |     6.33 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
-|           30 |     1431 | 2025-05-12 | Monte           | L   | 0.557      | -            | -                | -                | -         |   -12.53 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
-|           29 |     1482 | 2025-05-10 | ENCE            | L   | 0.544      | -            | -                | -                | -         |    -6.94 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
-|           28 |     1530 | 2025-05-08 | ARCRED          | W   | 0.530      | -            | -                | -                | 1 (0.530) |     5.05 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
+|           31 |     1421 | 2025-05-12 | Zero Tenacity   | W   | 0.558      | 0.435        | -                | 0.676 (0.164)    | -         |     6.32 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
+|           30 |     1431 | 2025-05-12 | Monte           | L   | 0.557      | -            | -                | -                | -         |   -12.54 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
+|           29 |     1482 | 2025-05-10 | ENCE            | L   | 0.544      | -            | -                | -                | -         |    -6.88 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
+|           28 |     1530 | 2025-05-08 | ARCRED          | W   | 0.530      | -            | -                | -                | 1 (0.530) |     5.04 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
 |           27 |     1548 | 2025-05-07 | Zero Tenacity   | L   | 0.525      | -            | -                | -                | -         |   -11.09 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
 |           26 |     1558 | 2025-05-07 | GUN5 Esports    | W   | 0.524      | 0.435        | 0.056 (0.013)    | 0.694 (0.158)    | 1 (0.524) |     6.49 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
-|           25 |     1583 | 2025-05-06 | FAVBET Team     | W   | 0.519      | 0.500        | -                | 0.545 (0.142)    | -         |     4.61 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
-|           24 |     1598 | 2025-05-06 | PARIVISION      | W   | 0.517      | 0.435        | 0.160 (0.036)    | 1.000 (0.225)    | 1 (0.517) |     8.75 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
-|           23 |     1615 | 2025-05-05 | ARCRED          | W   | 0.511      | -            | -                | -                | 1 (0.511) |     4.70 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
-|           22 |     1674 | 2025-05-03 | OG              | W   | 0.497      | 0.362        | 0.105 (0.019)    | -                | -         |    10.93 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
-|           21 |     1838 | 2025-04-26 | FUT Esports     | W   | 0.451      | 0.362        | 0.304 (0.050)    | 0.697 (0.114)    | -         |     8.97 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
-|           20 |     1955 | 2025-04-18 | LA MASIA        | W   | 0.399      | -            | -                | -                | -         |     1.65 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
-|           19 |     1968 | 2025-04-18 | Metizport       | W   | 0.397      | 0.657        | 0.027 (0.007)    | 0.426 (0.111)    | -         |     5.38 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
-|           18 |     1974 | 2025-04-18 | ENCE            | L   | 0.396      | -            | -                | -                | -         |    -4.44 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
-|           17 |     1985 | 2025-04-17 | BetBoom Team    | L   | 0.392      | -            | -                | -                | -         |    -1.11 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
-|           16 |     1994 | 2025-04-17 | Nexus Gaming    | L   | 0.391      | -            | -                | -                | -         |    -7.27 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
+|           25 |     1583 | 2025-05-06 | FAVBET Team     | W   | 0.519      | 0.500        | -                | 0.545 (0.142)    | -         |     4.60 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
+|           24 |     1598 | 2025-05-06 | PARIVISION      | W   | 0.517      | 0.435        | 0.160 (0.036)    | 1.000 (0.225)    | 1 (0.517) |     8.74 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
+|           23 |     1615 | 2025-05-05 | ARCRED          | W   | 0.511      | -            | -                | -                | 1 (0.511) |     4.69 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
+|           22 |     1674 | 2025-05-03 | OG              | W   | 0.497      | 0.362        | 0.105 (0.019)    | -                | -         |    11.03 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
+|           21 |     1838 | 2025-04-26 | FUT Esports     | W   | 0.451      | 0.362        | 0.304 (0.050)    | 0.697 (0.114)    | -         |     8.98 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
+|           20 |     1955 | 2025-04-18 | LA MASIA        | W   | 0.399      | -            | -                | -                | -         |     1.64 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
+|           19 |     1968 | 2025-04-18 | Metizport       | W   | 0.397      | 0.657        | 0.027 (0.007)    | 0.426 (0.111)    | -         |     5.64 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
+|           18 |     1974 | 2025-04-18 | ENCE            | L   | 0.396      | -            | -                | -                | -         |    -4.39 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
+|           17 |     1985 | 2025-04-17 | BetBoom Team    | L   | 0.392      | -            | -                | -                | -         |    -1.10 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
+|           16 |     1994 | 2025-04-17 | Nexus Gaming    | L   | 0.391      | -            | -                | -                | -         |    -7.26 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
 |           15 |     2164 | 2025-04-09 | Sangal Esports  | W   | 0.339      | 0.500        | 0.038 (0.006)    | 0.689 (0.117)    | -         |     4.10 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
 |           14 |     2209 | 2025-04-08 | TPuDCATb TPu    | L   | 0.332      | -            | -                | -                | -         |    -7.68 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
 |           13 |     2911 | 2025-03-18 | KOLESIE         | W   | 0.192      | -            | -                | -                | -         |     4.33 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
-|           12 |     3070 | 2025-03-10 | BetBoom Team    | L   | 0.138      | -            | -                | -                | -         |    -0.37 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
-|           11 |     3114 | 2025-03-09 | Nemiga Gaming   | L   | 0.131      | -            | -                | -                | -         |    -0.87 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
+|           12 |     3070 | 2025-03-10 | BetBoom Team    | L   | 0.138      | -            | -                | -                | -         |    -0.36 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
+|           11 |     3114 | 2025-03-09 | Nemiga Gaming   | L   | 0.131      | -            | -                | -                | -         |    -0.85 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
 |           10 |     3199 | 2025-03-08 | BetBoom Team    | W   | 0.124      | 0.769        | 0.364 (0.035)    | -                | -         |     3.59 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
 |            9 |     3242 | 2025-03-07 | Sashi Esport    | W   | 0.119      | -            | -                | -                | -         |     1.83 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
-|            8 |     3313 | 2025-03-06 | BC.Game Esports | L   | 0.112      | -            | -                | -                | -         |    -2.60 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
-|            7 |     3350 | 2025-03-05 | Fnatic          | L   | 0.106      | -            | -                | -                | -         |    -0.58 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
+|            8 |     3313 | 2025-03-06 | BC.Game Esports | L   | 0.112      | -            | -                | -                | -         |    -2.57 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
+|            7 |     3350 | 2025-03-05 | Fnatic          | L   | 0.106      | -            | -                | -                | -         |    -0.56 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
 |            6 |     3398 | 2025-03-03 | Monte           | W   | 0.091      | -            | -                | -                | -         |     0.48 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
 |            5 |     3439 | 2025-03-01 | FUT Esports     | L   | 0.079      | -            | -                | -                | -         |    -1.10 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |
 |            4 |     3488 | 2025-02-27 | Zero Tenacity   | W   | 0.064      | -            | -                | -                | -         |     0.70 | alkarenn, kyousuke, Mokuj1n, robo, SYPH0 |

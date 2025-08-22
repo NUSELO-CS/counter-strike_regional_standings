@@ -6,9 +6,9 @@ Global Rank: [191](../../standings_global_2025_08_15.md)<br />
 Region: [Asia]( ../../standings_asia_2025_08_15.md)<br />
 Regional Rank: [27]( ../../standings_asia_2025_08_15.md)<br />
 <br />
-Final Rank Value:  601.0<br />
+Final Rank Value:  601.4<br />
 <br />
-Final Rank Value (601.0) = Starting Rank Value (610.4) + Head To Head Adjustments (-9.4)<br />
+Final Rank Value (601.4) = Starting Rank Value (610.4) + Head To Head Adjustments (-9.0)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -40,15 +40,15 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent       | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                       |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            9 |     2618 | 2025-03-27 | IHC Esports    | L   | 0.255      | -            | -                | -                | -         |    -3.36 | arakyN, Benzene, ChAmP, RaYzeR, Recoilmaster |
-|            8 |     2689 | 2025-03-27 | Gods Reign     | L   | 0.249      | -            | -                | -                | -         |    -3.50 | arakyN, Benzene, ChAmP, RaYzeR, Recoilmaster |
+|            9 |     2618 | 2025-03-27 | IHC Esports    | L   | 0.255      | -            | -                | -                | -         |    -3.37 | arakyN, Benzene, ChAmP, RaYzeR, Recoilmaster |
+|            8 |     2689 | 2025-03-27 | Gods Reign     | L   | 0.249      | -            | -                | -                | -         |    -3.39 | arakyN, Benzene, ChAmP, RaYzeR, Recoilmaster |
 |            7 |     2737 | 2025-03-26 | Victores Sumus | L   | 0.244      | -            | -                | -                | -         |    -3.80 | Benzene, ChAmP, p7, RaYzeR, Recoilmaster     |
-|            6 |     2776 | 2025-03-25 | Gods Reign     | W   | 0.237      | 0.266        | 0.001 (0.000)    | 0.079 (0.005)    | 0 (0.000) |     4.28 | arakyN, Benzene, ChAmP, RaYzeR, Recoilmaster |
-|            5 |     2801 | 2025-03-22 | Gods Reign     | L   | 0.222      | -            | -                | -                | -         |    -3.05 | arakyN, Benzene, ChAmP, RaYzeR, Recoilmaster |
-|            4 |     3456 | 2025-03-01 | Gods Reign     | L   | 0.076      | -            | -                | -                | -         |    -1.07 | arakyN, Benzene, ChAmP, RaYzeR, Recoilmaster |
+|            6 |     2776 | 2025-03-25 | Gods Reign     | W   | 0.237      | 0.266        | 0.001 (0.000)    | 0.079 (0.005)    | 0 (0.000) |     4.39 | arakyN, Benzene, ChAmP, RaYzeR, Recoilmaster |
+|            5 |     2801 | 2025-03-22 | Gods Reign     | L   | 0.222      | -            | -                | -                | -         |    -2.95 | arakyN, Benzene, ChAmP, RaYzeR, Recoilmaster |
+|            4 |     3456 | 2025-03-01 | Gods Reign     | L   | 0.076      | -            | -                | -                | -         |    -1.03 | arakyN, Benzene, ChAmP, RaYzeR, Recoilmaster |
 |            3 |     3458 | 2025-02-28 | Victores Sumus | W   | 0.076      | 0.308        | 0.002 (0.000)    | 0.084 (0.002)    | 1 (0.076) |     1.21 | arakyN, Benzene, ChAmP, RaYzeR, Recoilmaster |
 |            2 |     3470 | 2025-02-28 | Big W          | W   | 0.070      | 0.308        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.070) |     0.77 | arakyN, Benzene, ChAmP, RaYzeR, Recoilmaster |
-|            1 |     3490 | 2025-02-27 | Gods Reign     | L   | 0.063      | -            | -                | -                | -         |    -0.89 | arakyN, Benzene, ChAmP, RaYzeR, Recoilmaster |
+|            1 |     3490 | 2025-02-27 | Gods Reign     | L   | 0.063      | -            | -                | -                | -         |    -0.86 | arakyN, Benzene, ChAmP, RaYzeR, Recoilmaster |
 
 <br />
 <span id="table2"></span><br />

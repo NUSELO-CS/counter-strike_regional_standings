@@ -43,7 +43,7 @@ Note:<br />
 |            5 |      860 | 2025-06-14 | Passion UA      | L   | 0.778      | -            | -                | -                | -         |    -1.06 | AcilioN, Griller, niko, qx, SinK   |
 |            4 |      879 | 2025-06-14 | Tricked Esport  | W   | 0.776      | 0.360        | 0.015 (0.004)    | 0.298 (0.083)    | 1 (0.776) |    21.97 | AcilioN, Griller, niko, qx, SinK   |
 |            3 |      889 | 2025-06-13 | TEAM NEXT LEVEL | L   | 0.772      | -            | -                | -                | -         |    -0.69 | AcilioN, Griller, niko, qx, SinK   |
-|            2 |      986 | 2025-06-08 | TPuDCATb TPu    | L   | 0.739      | -            | -                | -                | -         |    -3.73 | AcilioN, bekker, Griller, niko, qx |
+|            2 |      986 | 2025-06-08 | TPuDCATb TPu    | L   | 0.739      | -            | -                | -                | -         |    -3.72 | AcilioN, bekker, Griller, niko, qx |
 |            1 |     1017 | 2025-06-07 | UNiTY esports   | W   | 0.730      | 0.384        | 0.000 (0.000)    | 0.178 (0.050)    | 0 (0.000) |    10.98 | AcilioN, bekker, Griller, niko, qx |
 
 <br />

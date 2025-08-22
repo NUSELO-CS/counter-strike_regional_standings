@@ -41,9 +41,9 @@ Note:<br />
 | Match Played | Match ID | Date       | Opponent           | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                               |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |           23 |      558 | 2025-07-11 | IHC Esports        | L   | 0.956      | -            | -                | -                | -         |   -21.15 | B1NGO, flying, gas, lan, Roninbaby   |
-|           22 |      638 | 2025-07-06 | Rare Atom          | L   | 0.923      | -            | -                | -                | -         |    -4.69 | B1NGO, flying, gas, lan, Roninbaby   |
-|           21 |      642 | 2025-07-05 | FengDa Gaming      | W   | 0.917      | 0.333        | 0.004 (0.001)    | 0.134 (0.041)    | 1 (0.917) |    10.11 | B1NGO, flying, gas, lan, Roninbaby   |
-|           20 |     1311 | 2025-05-16 | Rare Atom          | L   | 0.588      | -            | -                | -                | -         |    -2.99 | 2X2X, B1NGO, heartZ, lan, Roninbaby  |
+|           22 |      638 | 2025-07-06 | Rare Atom          | L   | 0.923      | -            | -                | -                | -         |    -4.68 | B1NGO, flying, gas, lan, Roninbaby   |
+|           21 |      642 | 2025-07-05 | FengDa Gaming      | W   | 0.917      | 0.333        | 0.004 (0.001)    | 0.134 (0.041)    | 1 (0.917) |    10.12 | B1NGO, flying, gas, lan, Roninbaby   |
+|           20 |     1311 | 2025-05-16 | Rare Atom          | L   | 0.588      | -            | -                | -                | -         |    -2.98 | 2X2X, B1NGO, heartZ, lan, Roninbaby  |
 |           19 |     1403 | 2025-05-13 | Steel Helmet       | W   | 0.564      | 0.303        | 0.000 (0.000)    | 0.026 (0.004)    | 0 (0.000) |     1.47 | 2X2X, B1NGO, heartZ, lan, Roninbaby  |
 |           18 |     1478 | 2025-05-10 | TYLOO              | L   | 0.544      | -            | -                | -                | -         |    -0.07 | 2X2X, B1NGO, heartZ, lan, Roninbaby  |
 |           17 |     1528 | 2025-05-08 | Team GATERON       | W   | 0.531      | 0.303        | 0.000 (0.000)    | -                | 0 (0.000) |     1.56 | 2X2X, B1NGO, heartZ, lan, Roninbaby  |
@@ -57,7 +57,7 @@ Note:<br />
 |            9 |     2691 | 2025-03-26 | Kaleido Gaming     | L   | 0.249      | -            | -                | -                | -         |    -4.74 | B1NGO, BZA, lan, Roninbaby, TiGeR    |
 |            8 |     3215 | 2025-03-07 | JiJieHao           | L   | 0.121      | -            | -                | -                | -         |    -1.02 | B1NGO, heartZ, lan, Roninbaby, TiGeR |
 |            7 |     3324 | 2025-03-06 | Only One Word      | W   | 0.110      | 0.769        | 0.001 (0.000)    | 0.107 (0.009)    | 1 (0.110) |     1.15 | B1NGO, heartZ, lan, Roninbaby, TiGeR |
-|            6 |     3325 | 2025-03-05 | Chinggis Warriors  | L   | 0.109      | -            | -                | -                | -         |    -0.68 | B1NGO, heartZ, lan, Roninbaby, TiGeR |
+|            6 |     3325 | 2025-03-05 | Chinggis Warriors  | L   | 0.109      | -            | -                | -                | -         |    -0.67 | B1NGO, heartZ, lan, Roninbaby, TiGeR |
 |            5 |     3493 | 2025-02-27 | Shika              | W   | 0.063      | 0.624        | 0.002 (0.000)    | -                | 0 (0.000) |     0.50 | B1NGO, BZA, lan, Roninbaby, TiGeR    |
 |            4 |     3495 | 2025-02-26 | Change The Game    | W   | 0.062      | 0.624        | -                | 0.087 (0.003)    | 0 (0.000) |     0.35 | B1NGO, BZA, lan, Roninbaby, TiGeR    |
 |            3 |     3542 | 2025-02-25 | Kaleido Gaming     | W   | 0.056      | 0.624        | 0.011 (0.000)    | 0.106 (0.004)    | -         |     0.71 | B1NGO, BZA, lan, Roninbaby, TiGeR    |

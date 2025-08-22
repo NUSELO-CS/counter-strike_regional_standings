@@ -6,9 +6,9 @@ Global Rank: [59](../../standings_global_2025_08_15.md)<br />
 Region: [Europe]( ../../standings_europe_2025_08_15.md)<br />
 Regional Rank: [39]( ../../standings_europe_2025_08_15.md)<br />
 <br />
-Final Rank Value:  976.4<br />
+Final Rank Value:  976.6<br />
 <br />
-Final Rank Value (976.4) = Starting Rank Value (960.7) + Head To Head Adjustments (15.6)<br />
+Final Rank Value (976.6) = Starting Rank Value (960.7) + Head To Head Adjustments (15.9)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -40,10 +40,10 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent                                  | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                 |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           17 |       29 | 2025-08-11 | Partizan Esports                          | L   | 1.000      | -            | -                | -                | -         |   -14.39 | kroK, Leakz, Nodios, salazar, valde    |
-|           16 |       75 | 2025-08-08 | OG                                        | L   | 1.000      | -            | -                | -                | -         |    -8.56 | kroK, Leakz, Nodios, salazar, valde    |
-|           15 |      126 | 2025-08-03 | Betclic Apogee Esports                    | W   | 1.000      | 0.435        | 0.042 (0.018)    | 0.432 (0.188)    | 0 (0.000) |    18.20 | kroK, Leakz, Nodios, salazar, valde    |
-|           14 |      170 | 2025-08-01 | 9INE                                      | W   | 1.000      | 0.435        | 0.026 (0.011)    | 0.732 (0.318)    | 0 (0.000) |    16.19 | kroK, Leakz, Nodios, salazar, valde    |
+|           17 |       29 | 2025-08-11 | Partizan Esports                          | L   | 1.000      | -            | -                | -                | -         |   -14.36 | kroK, Leakz, Nodios, salazar, valde    |
+|           16 |       75 | 2025-08-08 | OG                                        | L   | 1.000      | -            | -                | -                | -         |    -8.41 | kroK, Leakz, Nodios, salazar, valde    |
+|           15 |      126 | 2025-08-03 | Betclic Apogee Esports                    | W   | 1.000      | 0.435        | 0.042 (0.018)    | 0.432 (0.188)    | 0 (0.000) |    18.21 | kroK, Leakz, Nodios, salazar, valde    |
+|           14 |      170 | 2025-08-01 | 9INE                                      | W   | 1.000      | 0.435        | 0.026 (0.011)    | 0.732 (0.318)    | 0 (0.000) |    16.22 | kroK, Leakz, Nodios, salazar, valde    |
 |           13 |      195 | 2025-07-30 | ARCRED                                    | W   | 1.000      | 0.435        | 0.016 (0.007)    | 0.211 (0.092)    | 0 (0.000) |    11.36 | kroK, Leakz, Nodios, salazar, valde    |
 |           12 |      879 | 2025-06-14 | Preasy Esport                             | L   | 0.776      | -            | -                | -                | -         |   -21.97 | kroK, Leakz, Nodios, salazar, valde    |
 |           11 |      888 | 2025-06-13 | Alliance                                  | L   | 0.772      | -            | -                | -                | -         |    -8.02 | kroK, Leakz, Nodios, salazar, valde    |

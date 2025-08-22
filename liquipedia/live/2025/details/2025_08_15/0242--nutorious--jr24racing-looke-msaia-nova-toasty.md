@@ -41,7 +41,7 @@ Note:<br />
 | Match Played | Match ID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                   |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |            6 |      363 | 2025-07-18 | InControl        | L   | 1.000      | -            | -                | -                | -         |   -11.86 | Jr24racing, looke, Msaia, nova, Toasty   |
-|            5 |      365 | 2025-07-18 | BLUEJAYS         | L   | 1.000      | -            | -                | -                | -         |    -1.81 | Jr24racing, looke, Msaia, nova, Toasty   |
+|            5 |      365 | 2025-07-18 | BLUEJAYS         | L   | 1.000      | -            | -                | -                | -         |    -1.80 | Jr24racing, looke, Msaia, nova, Toasty   |
 |            4 |     3222 | 2025-03-07 | Mythic           | L   | 0.120      | -            | -                | -                | -         |    -1.70 | icarus, Jr24racing, looke, Msaia, Toasty |
 |            3 |     3229 | 2025-03-07 | Regain           | W   | 0.120      | 0.769        | 0.000 (0.000)    | 0.029 (0.003)    | 0 (0.000) |     2.08 | icarus, Jr24racing, looke, Msaia, Toasty |
 |            2 |     3299 | 2025-03-06 | Seoul            | W   | 0.113      | 0.769        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     1.40 | icarus, Jr24racing, looke, Msaia, Toasty |

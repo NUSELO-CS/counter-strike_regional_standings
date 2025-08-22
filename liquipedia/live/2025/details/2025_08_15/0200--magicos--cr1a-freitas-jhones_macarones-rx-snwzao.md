@@ -8,7 +8,7 @@ Regional Rank: [62]( ../../standings_americas_2025_08_15.md)<br />
 <br />
 Final Rank Value:  592.3<br />
 <br />
-Final Rank Value (592.3) = Starting Rank Value (615.9) + Head To Head Adjustments (-23.6)<br />
+Final Rank Value (592.3) = Starting Rank Value (615.9) + Head To Head Adjustments (-23.5)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -41,11 +41,11 @@ Note:<br />
 | Match Played | Match ID | Date       | Opponent                 | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                         |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |            7 |      191 | 2025-07-30 | Yawara E-Sports          | L   | 1.000      | -            | -                | -                | -         |   -15.04 | Cr1a, freitas, Jhones Macarones, rx, snwzao    |
-|            6 |      214 | 2025-07-28 | 2Game Esports            | L   | 1.000      | -            | -                | -                | -         |    -7.26 | Cr1a, freitas, Jhones Macarones, rx, snwzao    |
-|            5 |      290 | 2025-07-24 | Bounty Hunters Esports   | L   | 1.000      | -            | -                | -                | -         |   -10.44 | Cr1a, freitas, Jhones Macarones, rx, snwzao    |
+|            6 |      214 | 2025-07-28 | 2Game Esports            | L   | 1.000      | -            | -                | -                | -         |    -7.25 | Cr1a, freitas, Jhones Macarones, rx, snwzao    |
+|            5 |      290 | 2025-07-24 | Bounty Hunters Esports   | L   | 1.000      | -            | -                | -                | -         |   -10.42 | Cr1a, freitas, Jhones Macarones, rx, snwzao    |
 |            4 |     1279 | 2025-05-18 | Flamengo Esports         | L   | 0.599      | -            | -                | -                | -         |    -5.66 | Criaruim, ghosT1, Jhones Macarones, rx, snwzao |
 |            3 |     1357 | 2025-05-14 | LargadosyPelados         | W   | 0.573      | 0.326        | 0.003 (0.001)    | 0.191 (0.036)    | 0 (0.000) |    11.05 | Criaruim, ghosT1, Jhones Macarones, rx, snwzao |
-|            2 |     1384 | 2025-05-13 | Keyd Stars               | L   | 0.567      | -            | -                | -                | -         |    -5.98 | Criaruim, ghosT1, Jhones Macarones, rx, snwzao |
+|            2 |     1384 | 2025-05-13 | Keyd Stars               | L   | 0.567      | -            | -                | -                | -         |    -5.97 | Criaruim, ghosT1, Jhones Macarones, rx, snwzao |
 |            1 |     1392 | 2025-05-13 | Players (Brazilian team) | W   | 0.566      | 0.326        | 0.001 (0.000)    | 0.266 (0.049)    | 0 (0.000) |     9.75 | Criaruim, ghosT1, Jhones Macarones, rx, snwzao |
 
 <br />

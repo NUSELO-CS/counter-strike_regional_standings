@@ -42,7 +42,7 @@ Note:<br />
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |            9 |     1163 | 2025-05-23 | Shimmer         | L   | 0.634      | -            | -                | -                | -         |    -7.66 | ASTRA, Emerald, Kaoday, Monkey D. Julie, RacheLL |
 |            8 |     1167 | 2025-05-23 | DMS             | W   | 0.632      | 0.624        | 0.014 (0.006)    | 0.028 (0.011)    | 1 (0.632) |     7.20 | ASTRA, Emerald, Kaoday, Monkey D. Julie, RacheLL |
-|            7 |     1184 | 2025-05-22 | Shimmer         | L   | 0.626      | -            | -                | -                | -         |    -7.61 | ASTRA, Emerald, Kaoday, Monkey D. Julie, RacheLL |
+|            7 |     1184 | 2025-05-22 | Shimmer         | L   | 0.626      | -            | -                | -                | -         |    -7.60 | ASTRA, Emerald, Kaoday, Monkey D. Julie, RacheLL |
 |            6 |     2104 | 2025-04-12 | Eco Warriors    | W   | 0.359      | 0.536        | 0.002 (0.000)    | 0.040 (0.008)    | 0 (0.000) |     4.13 | ASTRA, Emerald, Kaoday, Monkey D. Julie, RacheLL |
 |            5 |     2121 | 2025-04-11 | DMS             | W   | 0.352      | 0.536        | 0.014 (0.003)    | 0.028 (0.005)    | 0 (0.000) |     4.08 | ASTRA, Emerald, Kaoday, Monkey D. Julie, RacheLL |
 |            4 |     2317 | 2025-04-03 | Spray and Slay  | W   | 0.299      | 0.536        | 0.001 (0.000)    | 0.003 (0.000)    | 0 (0.000) |     2.75 | ASTRA, Emerald, Kaoday, Monkey D. Julie, RacheLL |

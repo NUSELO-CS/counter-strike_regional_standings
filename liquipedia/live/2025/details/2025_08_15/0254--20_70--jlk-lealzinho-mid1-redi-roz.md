@@ -40,8 +40,8 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                 |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            7 |     2598 | 2025-03-28 | Yawara E-Sports | L   | 0.258      | -            | -                | -                | -         |    -1.32 | JLK, lealziNho, mid1, redi, Roz        |
-|            6 |     2669 | 2025-03-27 | Fluxo           | L   | 0.251      | -            | -                | -                | -         |    -0.17 | JLK, lealziNho, mid1, redi, Roz        |
+|            7 |     2598 | 2025-03-28 | Yawara E-Sports | L   | 0.258      | -            | -                | -                | -         |    -1.33 | JLK, lealziNho, mid1, redi, Roz        |
+|            6 |     2669 | 2025-03-27 | Fluxo           | L   | 0.251      | -            | -                | -                | -         |    -0.16 | JLK, lealziNho, mid1, redi, Roz        |
 |            5 |     3185 | 2025-03-08 | Crashers        | L   | 0.125      | -            | -                | -                | -         |    -0.80 | aNgelo, lealziNho, redi, Roz, swarmyzz |
 |            4 |     3246 | 2025-03-07 | Dusty Roots     | L   | 0.119      | -            | -                | -                | -         |    -1.16 | aNgelo, lealziNho, redi, Roz, swarmyzz |
 |            3 |     3367 | 2025-03-04 | Game Hunters    | L   | 0.099      | -            | -                | -                | -         |    -0.30 | aNgelo, lealziNho, redi, Roz, swarmyzz |

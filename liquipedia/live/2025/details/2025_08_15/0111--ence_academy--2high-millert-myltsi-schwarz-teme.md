@@ -6,9 +6,9 @@ Global Rank: [111](../../standings_global_2025_08_15.md)<br />
 Region: [Europe]( ../../standings_europe_2025_08_15.md)<br />
 Regional Rank: [73]( ../../standings_europe_2025_08_15.md)<br />
 <br />
-Final Rank Value:  758.9<br />
+Final Rank Value:  759.0<br />
 <br />
-Final Rank Value (758.9) = Starting Rank Value (782.0) + Head To Head Adjustments (-23.1)<br />
+Final Rank Value (759.0) = Starting Rank Value (782.0) + Head To Head Adjustments (-23.1)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -42,14 +42,14 @@ Note:<br />
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |           16 |      760 | 2025-06-19 | Copenhagen Wolves (American organization) | L   | 0.812      | -            | -                | -                | -         |   -11.49 | 2high, millert, myltsi, Schwarz, teme |
 |           15 |      777 | 2025-06-18 | Marius                                    | W   | 0.804      | 0.435        | 0.012 (0.004)    | 0.457 (0.160)    | 0 (0.000) |    13.10 | 2high, millert, myltsi, Schwarz, teme |
-|           14 |      835 | 2025-06-15 | Leo Team                                  | L   | 0.783      | -            | -                | -                | -         |   -16.64 | 2high, millert, myltsi, Schwarz, teme |
-|           13 |      894 | 2025-06-13 | FAVBET Team                               | L   | 0.772      | -            | -                | -                | -         |    -7.19 | 2high, millert, myltsi, Schwarz, teme |
-|           12 |      934 | 2025-06-12 | -72C                                      | W   | 0.764      | 0.435        | 0.003 (0.001)    | 0.067 (0.022)    | 0 (0.000) |     6.84 | 2high, millert, myltsi, Schwarz, teme |
+|           14 |      835 | 2025-06-15 | Leo Team                                  | L   | 0.783      | -            | -                | -                | -         |   -16.63 | 2high, millert, myltsi, Schwarz, teme |
+|           13 |      894 | 2025-06-13 | FAVBET Team                               | L   | 0.772      | -            | -                | -                | -         |    -7.18 | 2high, millert, myltsi, Schwarz, teme |
+|           12 |      934 | 2025-06-12 | -72C                                      | W   | 0.764      | 0.435        | 0.003 (0.001)    | 0.067 (0.022)    | 0 (0.000) |     6.85 | 2high, millert, myltsi, Schwarz, teme |
 |           11 |     1038 | 2025-06-05 | EYEBALLERS                                | L   | 0.716      | -            | -                | -                | -         |   -10.21 | 2high, millert, myltsi, Schwarz, teme |
-|           10 |     1051 | 2025-06-04 | FAVBET Team                               | L   | 0.710      | -            | -                | -                | -         |    -8.07 | 2high, millert, myltsi, Schwarz, teme |
+|           10 |     1051 | 2025-06-04 | FAVBET Team                               | L   | 0.710      | -            | -                | -                | -         |    -8.06 | 2high, millert, myltsi, Schwarz, teme |
 |            9 |     1170 | 2025-05-23 | Johnny Speeds                             | L   | 0.632      | -            | -                | -                | -         |    -5.39 | 2high, millert, myltsi, Schwarz, teme |
 |            8 |     1192 | 2025-05-22 | JANO Esports                              | W   | 0.624      | 0.500        | 0.000 (0.000)    | 0.066 (0.021)    | 1 (0.624) |     6.22 | 2high, millert, myltsi, Schwarz, teme |
-|            7 |     1222 | 2025-05-21 | Alliance                                  | L   | 0.617      | -            | -                | -                | -         |    -2.88 | 2high, millert, myltsi, Schwarz, teme |
+|            7 |     1222 | 2025-05-21 | Alliance                                  | L   | 0.617      | -            | -                | -                | -         |    -2.87 | 2high, millert, myltsi, Schwarz, teme |
 |            6 |     1245 | 2025-05-20 | WOPA Esport                               | W   | 0.610      | 0.500        | 0.000 (0.000)    | 0.034 (0.010)    | 1 (0.610) |     2.26 | 2high, millert, myltsi, Schwarz, teme |
 |            5 |     1798 | 2025-04-27 | HAVU                                      | W   | 0.458      | 0.444        | 0.001 (0.000)    | 0.021 (0.004)    | 0 (0.000) |     4.10 | 2high, millert, myltsi, Schwarz, teme |
 |            4 |     1843 | 2025-04-26 | HAVU                                      | W   | 0.450      | 0.444        | 0.001 (0.000)    | 0.021 (0.004)    | 0 (0.000) |     4.05 | 2high, millert, myltsi, Schwarz, teme |

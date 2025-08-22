@@ -6,9 +6,9 @@ Global Rank: [153](../../standings_global_2025_08_15.md)<br />
 Region: [Americas]( ../../standings_americas_2025_08_15.md)<br />
 Regional Rank: [43]( ../../standings_americas_2025_08_15.md)<br />
 <br />
-Final Rank Value:  663.0<br />
+Final Rank Value:  663.1<br />
 <br />
-Final Rank Value (663.0) = Starting Rank Value (652.9) + Head To Head Adjustments (10.1)<br />
+Final Rank Value (663.1) = Starting Rank Value (652.9) + Head To Head Adjustments (10.3)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -40,9 +40,9 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                          |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            7 |     1096 | 2025-05-29 | Flamengo Esports | W   | 0.672      | 0.326        | 0.007 (0.002)    | 0.527 (0.115)    | 0 (0.000) |    14.43 | JOTA, levi, shz, t9rnay, urban0 |
+|            7 |     1096 | 2025-05-29 | Flamengo Esports | W   | 0.672      | 0.326        | 0.007 (0.002)    | 0.527 (0.115)    | 0 (0.000) |    14.42 | JOTA, levi, shz, t9rnay, urban0 |
 |            6 |     2596 | 2025-03-28 | 2Game Esports    | L   | 0.258      | -            | -                | -                | -         |    -2.63 | horvy, JOTA, levi, shz, t9rnay  |
-|            5 |     2667 | 2025-03-27 | BESTIA           | L   | 0.251      | -            | -                | -                | -         |    -2.31 | horvy, JOTA, levi, shz, t9rnay  |
+|            5 |     2667 | 2025-03-27 | BESTIA           | L   | 0.251      | -            | -                | -                | -         |    -2.19 | horvy, JOTA, levi, shz, t9rnay  |
 |            4 |     3081 | 2025-03-09 | Keyd Stars       | L   | 0.134      | -            | -                | -                | -         |    -1.64 | fokiu, JOTA, levi, shz, t9rnay  |
 |            3 |     3093 | 2025-03-09 | Nitro.GG         | W   | 0.132      | 0.769        | 0.002 (0.000)    | 0.018 (0.002)    | 0 (0.000) |     1.85 | fokiu, JOTA, levi, shz, t9rnay  |
 |            2 |     3186 | 2025-03-08 | R2 Esports Club  | W   | 0.125      | 0.769        | 0.000 (0.000)    | 0.026 (0.002)    | 0 (0.000) |     1.15 | fokiu, JOTA, levi, shz, t9rnay  |

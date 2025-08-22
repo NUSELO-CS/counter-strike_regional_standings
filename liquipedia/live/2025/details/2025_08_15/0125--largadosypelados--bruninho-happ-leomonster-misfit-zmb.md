@@ -6,9 +6,9 @@ Global Rank: [125](../../standings_global_2025_08_15.md)<br />
 Region: [Americas]( ../../standings_americas_2025_08_15.md)<br />
 Regional Rank: [33]( ../../standings_americas_2025_08_15.md)<br />
 <br />
-Final Rank Value:  734.8<br />
+Final Rank Value:  734.9<br />
 <br />
-Final Rank Value (734.8) = Starting Rank Value (708.3) + Head To Head Adjustments (26.6)<br />
+Final Rank Value (734.9) = Starting Rank Value (708.3) + Head To Head Adjustments (26.6)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -41,18 +41,18 @@ Note:<br />
 | Match Played | Match ID | Date       | Opponent                 | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                  |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |           16 |      420 | 2025-07-16 | Elevate                  | L   | 0.992      | -            | -                | -                | -         |   -22.64 | Bruninho, happ, Leomonster, Misfit, zmb |
-|           15 |      533 | 2025-07-11 | ODDIK                    | L   | 0.960      | -            | -                | -                | -         |    -4.42 | bsd, happ, Leomonster, realz1n, zmb     |
+|           15 |      533 | 2025-07-11 | ODDIK                    | L   | 0.960      | -            | -                | -                | -         |    -4.41 | bsd, happ, Leomonster, realz1n, zmb     |
 |           14 |      540 | 2025-07-11 | Players (Brazilian team) | W   | 0.959      | 0.143        | 0.001 (0.000)    | 0.266 (0.036)    | 0 (0.000) |    10.53 | bsd, happ, Leomonster, realz1n, zmb     |
 |           13 |      589 | 2025-07-09 | FURIA Female             | W   | 0.945      | 0.143        | 0.131 (0.018)    | 0.148 (0.020)    | 0 (0.000) |    21.64 | bsd, happ, Leomonster, realz1n, zmb     |
-|           12 |      604 | 2025-07-09 | ODDIK                    | L   | 0.944      | -            | -                | -                | -         |    -3.93 | bsd, happ, Leomonster, realz1n, zmb     |
+|           12 |      604 | 2025-07-09 | ODDIK                    | L   | 0.944      | -            | -                | -                | -         |    -3.91 | bsd, happ, Leomonster, realz1n, zmb     |
 |           11 |      695 | 2025-06-25 | 2Game Esports            | L   | 0.852      | -            | -                | -                | -         |    -9.82 | bsd, happ, Leomonster, realz1n, zmb     |
-|           10 |      700 | 2025-06-24 | Sharks Esports           | W   | 0.847      | 0.371        | 0.070 (0.022)    | 0.538 (0.169)    | 0 (0.000) |    21.57 | bsd, happ, Leomonster, realz1n, zmb     |
+|           10 |      700 | 2025-06-24 | Sharks Esports           | W   | 0.847      | 0.371        | 0.070 (0.022)    | 0.538 (0.169)    | 0 (0.000) |    21.59 | bsd, happ, Leomonster, realz1n, zmb     |
 |            9 |      713 | 2025-06-22 | Players (Brazilian team) | W   | 0.833      | 0.371        | 0.001 (0.000)    | 0.266 (0.082)    | 0 (0.000) |    10.13 | bsd, happ, Leomonster, realz1n, zmb     |
 |            8 |     1277 | 2025-05-18 | MIBR Academy             | W   | 0.600      | 0.326        | 0.001 (0.000)    | 0.108 (0.021)    | 0 (0.000) |     7.00 | bsd, happ, Leomonster, realz1n, zmb     |
 |            7 |     1293 | 2025-05-17 | Players (Brazilian team) | W   | 0.593      | 0.326        | 0.001 (0.000)    | 0.266 (0.051)    | 0 (0.000) |     7.95 | bsd, happ, Leomonster, realz1n, zmb     |
 |            6 |     1357 | 2025-05-14 | MAGICOS                  | L   | 0.573      | -            | -                | -                | -         |   -11.05 | bsd, happ, Leomonster, realz1n, zmb     |
 |            5 |     1382 | 2025-05-13 | Flamengo Esports         | W   | 0.567      | 0.326        | 0.007 (0.001)    | 0.527 (0.097)    | 0 (0.000) |    10.84 | bsd, happ, Leomonster, realz1n, zmb     |
-|            4 |     1391 | 2025-05-13 | Sharks Esports           | L   | 0.566      | -            | -                | -                | -         |    -3.01 | bsd, happ, Leomonster, realz1n, zmb     |
+|            4 |     1391 | 2025-05-13 | Sharks Esports           | L   | 0.566      | -            | -                | -                | -         |    -3.00 | bsd, happ, Leomonster, realz1n, zmb     |
 |            3 |     2529 | 2025-03-29 | Bounty Hunters Esports   | L   | 0.264      | -            | -                | -                | -         |    -3.59 | bsd, happ, Leomonster, realz1n, zmb     |
 |            2 |     2585 | 2025-03-28 | X7 Team                  | W   | 0.259      | 0.769        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     1.26 | bsd, happ, Leomonster, realz1n, zmb     |
 |            1 |     2633 | 2025-03-27 | Elevate                  | L   | 0.254      | -            | -                | -                | -         |    -5.87 | bsd, happ, Leomonster, realz1n, zmb     |

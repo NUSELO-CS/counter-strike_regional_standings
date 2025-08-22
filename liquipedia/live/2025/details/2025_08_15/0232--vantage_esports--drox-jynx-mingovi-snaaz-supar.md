@@ -8,7 +8,7 @@ Regional Rank: [37]( ../../standings_asia_2025_08_15.md)<br />
 <br />
 Final Rank Value:  491.2<br />
 <br />
-Final Rank Value (491.2) = Starting Rank Value (493.3) + Head To Head Adjustments (-2.1)<br />
+Final Rank Value (491.2) = Starting Rank Value (493.3) + Head To Head Adjustments (-2.0)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -41,10 +41,10 @@ Note:<br />
 | Match Played | Match ID | Date       | Opponent                    | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                               |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |           12 |     2550 | 2025-03-28 | FURY                        | L   | 0.262      | -            | -                | -                | -         |    -2.72 | Drox, Jynx, Mingovi, supar, swerzieN |
-|           11 |     2612 | 2025-03-28 | SemperFi Esports            | L   | 0.256      | -            | -                | -                | -         |    -1.33 | Drox, Jynx, Mingovi, Snaaz, supar    |
+|           11 |     2612 | 2025-03-28 | SemperFi Esports            | L   | 0.256      | -            | -                | -                | -         |    -1.32 | Drox, Jynx, Mingovi, Snaaz, supar    |
 |           10 |     2693 | 2025-03-26 | Only One Word               | W   | 0.249      | 0.624        | 0.001 (0.000)    | 0.107 (0.017)    | 0 (0.000) |     5.99 | Drox, Jynx, Mingovi, supar, swerzieN |
 |            9 |     2830 | 2025-03-20 | Mindfreak (Australian team) | L   | 0.208      | -            | -                | -                | -         |    -2.35 | Drox, Jynx, Mingovi, supar, swerzieN |
-|            8 |     2834 | 2025-03-20 | Ex-TALON                    | L   | 0.207      | -            | -                | -                | -         |    -1.54 | Drox, Jynx, Mingovi, supar, swerzieN |
+|            8 |     2834 | 2025-03-20 | Ex-TALON                    | L   | 0.207      | -            | -                | -                | -         |    -1.51 | Drox, Jynx, Mingovi, supar, swerzieN |
 |            7 |     3548 | 2025-02-25 | Only One Word               | L   | 0.055      | -            | -                | -                | -         |    -0.42 | Drox, Jynx, Mingovi, supar, swerzieN |
 |            6 |     3569 | 2025-02-25 | Only One Word               | L   | 0.050      | -            | -                | -                | -         |    -0.39 | Drox, Jynx, Mingovi, supar, swerzieN |
 |            5 |     3572 | 2025-02-25 | Only One Word               | L   | 0.050      | -            | -                | -                | -         |    -0.39 | Drox, Jynx, Mingovi, supar, swerzieN |

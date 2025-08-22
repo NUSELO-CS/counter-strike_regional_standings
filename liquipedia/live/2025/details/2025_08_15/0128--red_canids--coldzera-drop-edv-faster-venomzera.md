@@ -6,9 +6,9 @@ Global Rank: [128](../../standings_global_2025_08_15.md)<br />
 Region: [Americas]( ../../standings_americas_2025_08_15.md)<br />
 Regional Rank: [35]( ../../standings_americas_2025_08_15.md)<br />
 <br />
-Final Rank Value:  726.0<br />
+Final Rank Value:  726.2<br />
 <br />
-Final Rank Value (726.0) = Starting Rank Value (710.6) + Head To Head Adjustments (15.4)<br />
+Final Rank Value (726.2) = Starting Rank Value (710.6) + Head To Head Adjustments (15.6)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -42,7 +42,7 @@ Note:<br />
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |           17 |     1544 | 2025-05-07 | Game Hunters     | L   | 0.527      | -            | -                | -                | -         |    -6.66 | coldzera, drop, edv, FasteR, venomzera |
 |           16 |     1577 | 2025-05-06 | Keyd Stars       | L   | 0.520      | -            | -                | -                | -         |    -7.99 | coldzera, drop, edv, FasteR, venomzera |
-|           15 |     2016 | 2025-04-16 | BESTIA           | L   | 0.386      | -            | -                | -                | -         |    -4.68 | coldzera, drop, felps, HEN1, venomzera |
+|           15 |     2016 | 2025-04-16 | BESTIA           | L   | 0.386      | -            | -                | -                | -         |    -4.47 | coldzera, drop, felps, HEN1, venomzera |
 |           14 |     2039 | 2025-04-15 | Legacy           | L   | 0.380      | -            | -                | -                | -         |    -0.38 | coldzera, drop, felps, HEN1, venomzera |
 |           13 |     2254 | 2025-04-06 | Sharks Esports   | L   | 0.320      | -            | -                | -                | -         |    -1.92 | coldzera, drop, felps, HEN1, venomzera |
 |           12 |     2289 | 2025-04-04 | SELVA            | W   | 0.307      | 0.435        | 0.018 (0.002)    | 0.292 (0.039)    | 0 (0.000) |     5.40 | coldzera, drop, felps, HEN1, venomzera |

@@ -6,9 +6,9 @@ Global Rank: [129](../../standings_global_2025_08_15.md)<br />
 Region: [Europe]( ../../standings_europe_2025_08_15.md)<br />
 Regional Rank: [81]( ../../standings_europe_2025_08_15.md)<br />
 <br />
-Final Rank Value:  725.0<br />
+Final Rank Value:  725.2<br />
 <br />
-Final Rank Value (725.0) = Starting Rank Value (709.2) + Head To Head Adjustments (15.9)<br />
+Final Rank Value (725.2) = Starting Rank Value (709.2) + Head To Head Adjustments (16.0)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -42,19 +42,19 @@ Note:<br />
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |           18 |     2059 | 2025-04-15 | GamerLegion            | L   | 0.376      | -            | -                | -                | -         |    -0.08 | CeRq, Oxygen, Rainwaker, SHiPZ, SPELLAN |
 |           17 |     2070 | 2025-04-14 | BIG                    | L   | 0.371      | -            | -                | -                | -         |    -0.83 | CeRq, Oxygen, Rainwaker, SHiPZ, SPELLAN |
-|           16 |     2080 | 2025-04-14 | ENCE                   | L   | 0.369      | -            | -                | -                | -         |    -1.32 | CeRq, Oxygen, Rainwaker, SHiPZ, SPELLAN |
-|           15 |     2940 | 2025-03-16 | OG                     | L   | 0.179      | -            | -                | -                | -         |    -0.47 | CeRq, Oxygen, Rainwaker, SHiPZ, SPELLAN |
-|           14 |     2948 | 2025-03-16 | ENCE                   | W   | 0.177      | 0.435        | 0.202 (0.016)    | 0.801 (0.062)    | 0 (0.000) |     4.94 | CeRq, Oxygen, Rainwaker, SHiPZ, SPELLAN |
+|           16 |     2080 | 2025-04-14 | ENCE                   | L   | 0.369      | -            | -                | -                | -         |    -1.30 | CeRq, Oxygen, Rainwaker, SHiPZ, SPELLAN |
+|           15 |     2940 | 2025-03-16 | OG                     | L   | 0.179      | -            | -                | -                | -         |    -0.45 | CeRq, Oxygen, Rainwaker, SHiPZ, SPELLAN |
+|           14 |     2948 | 2025-03-16 | ENCE                   | W   | 0.177      | 0.435        | 0.202 (0.016)    | 0.801 (0.062)    | 0 (0.000) |     4.95 | CeRq, Oxygen, Rainwaker, SHiPZ, SPELLAN |
 |           13 |     2992 | 2025-03-13 | Dynamo Eclot           | W   | 0.158      | 0.435        | 0.083 (0.006)    | 0.597 (0.041)    | 0 (0.000) |     3.93 | CeRq, Oxygen, Rainwaker, SHiPZ, SPELLAN |
 |           12 |     3068 | 2025-03-10 | Monte                  | W   | 0.138      | 0.435        | 0.004 (0.000)    | 0.110 (0.007)    | 0 (0.000) |     2.25 | CeRq, Oxygen, Rainwaker, SHiPZ, SPELLAN |
 |           11 |     3105 | 2025-03-09 | Passion UA             | L   | 0.132      | -            | -                | -                | -         |    -0.18 | CeRq, Oxygen, Rainwaker, SHiPZ, SPELLAN |
 |           10 |     3136 | 2025-03-09 | Leo Team               | L   | 0.130      | -            | -                | -                | -         |    -2.79 | CeRq, Oxygen, Rainwaker, SHiPZ, SPELLAN |
 |            9 |     3168 | 2025-03-08 | Zero Tenacity          | L   | 0.125      | -            | -                | -                | -         |    -1.08 | CeRq, Oxygen, Rainwaker, SHiPZ, SPELLAN |
 |            8 |     3201 | 2025-03-08 | Nexus Gaming           | W   | 0.124      | 0.769        | 0.154 (0.015)    | 0.767 (0.073)    | 0 (0.000) |     3.16 | CeRq, Oxygen, Rainwaker, SHiPZ, SPELLAN |
-|            7 |     3250 | 2025-03-07 | Fnatic                 | L   | 0.118      | -            | -                | -                | -         |    -0.15 | CeRq, Oxygen, Rainwaker, SHiPZ, SPELLAN |
+|            7 |     3250 | 2025-03-07 | Fnatic                 | L   | 0.118      | -            | -                | -                | -         |    -0.14 | CeRq, Oxygen, Rainwaker, SHiPZ, SPELLAN |
 |            6 |     3304 | 2025-03-06 | Betclic Apogee Esports | W   | 0.112      | 0.435        | 0.042 (0.002)    | 0.432 (0.021)    | 0 (0.000) |     3.12 | CeRq, Oxygen, Rainwaker, SHiPZ, SPELLAN |
-|            5 |     3381 | 2025-03-04 | 9Pandas                | W   | 0.097      | 0.435        | 0.027 (0.001)    | 0.178 (0.008)    | 0 (0.000) |     1.97 | CeRq, Oxygen, Rainwaker, SHiPZ, SPELLAN |
-|            4 |     3393 | 2025-03-03 | 9Pandas                | W   | 0.092      | 0.435        | 0.027 (0.001)    | 0.178 (0.007)    | 0 (0.000) |     1.87 | CeRq, Oxygen, Rainwaker, SHiPZ, SPELLAN |
+|            5 |     3381 | 2025-03-04 | 9Pandas                | W   | 0.097      | 0.435        | 0.027 (0.001)    | 0.178 (0.008)    | 0 (0.000) |     2.02 | CeRq, Oxygen, Rainwaker, SHiPZ, SPELLAN |
+|            4 |     3393 | 2025-03-03 | 9Pandas                | W   | 0.092      | 0.435        | 0.027 (0.001)    | 0.178 (0.007)    | 0 (0.000) |     1.92 | CeRq, Oxygen, Rainwaker, SHiPZ, SPELLAN |
 |            3 |     3449 | 2025-03-01 | Portuguese Family      | W   | 0.077      | 0.435        | 0.000 (0.000)    | 0.040 (0.001)    | 0 (0.000) |     0.68 | CeRq, Oxygen, Rainwaker, SHiPZ, SPELLAN |
 |            2 |     3538 | 2025-02-26 | Partizan Esports       | W   | 0.057      | 0.435        | 0.086 (0.002)    | 0.813 (0.020)    | 0 (0.000) |     1.46 | CeRq, Oxygen, Rainwaker, SHiPZ, SPELLAN |
 |            1 |     3556 | 2025-02-25 | Fire Flux Esports      | L   | 0.052      | -            | -                | -                | -         |    -0.62 | CeRq, Oxygen, Rainwaker, SHiPZ, SPELLAN |

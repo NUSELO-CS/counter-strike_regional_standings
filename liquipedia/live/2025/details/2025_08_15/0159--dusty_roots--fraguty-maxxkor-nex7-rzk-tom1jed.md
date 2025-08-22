@@ -6,9 +6,9 @@ Global Rank: [159](../../standings_global_2025_08_15.md)<br />
 Region: [Americas]( ../../standings_americas_2025_08_15.md)<br />
 Regional Rank: [44]( ../../standings_americas_2025_08_15.md)<br />
 <br />
-Final Rank Value:  652.2<br />
+Final Rank Value:  652.3<br />
 <br />
-Final Rank Value (652.2) = Starting Rank Value (540.1) + Head To Head Adjustments (112.1)<br />
+Final Rank Value (652.3) = Starting Rank Value (540.1) + Head To Head Adjustments (112.1)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -40,15 +40,15 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent                 | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                  |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           30 |      150 | 2025-08-02 | Sharks Esports           | L   | 1.000      | -            | -                | -                | -         |    -3.51 | FraGuTy, maxxkor, nex7, rzk, tom1jed    |
+|           30 |      150 | 2025-08-02 | Sharks Esports           | L   | 1.000      | -            | -                | -                | -         |    -3.50 | FraGuTy, maxxkor, nex7, rzk, tom1jed    |
 |           29 |      181 | 2025-07-31 | Game Hunters             | W   | 1.000      | 0.143        | 0.004 (0.001)    | 0.361 (0.052)    | 0 (0.000) |    20.98 | FraGuTy, maxxkor, nex7, rzk, tom1jed    |
 |           28 |      206 | 2025-07-29 | Crashers                 | W   | 1.000      | 0.143        | 0.002 (0.000)    | 0.149 (0.021)    | 0 (0.000) |    15.74 | FraGuTy, maxxkor, nex7, rzk, tom1jed    |
-|           27 |      242 | 2025-07-27 | Flamengo Esports         | L   | 1.000      | -            | -                | -                | -         |    -8.03 | FraGuTy, maxxkor, nex7, rzk, tom1jed    |
-|           26 |      275 | 2025-07-25 | KRÜ Esports              | W   | 1.000      | 0.143        | 0.006 (0.001)    | 0.294 (0.042)    | 0 (0.000) |    20.86 | FraGuTy, maxxkor, nex7, rzk, tom1jed    |
+|           27 |      242 | 2025-07-27 | Flamengo Esports         | L   | 1.000      | -            | -                | -                | -         |    -8.02 | FraGuTy, maxxkor, nex7, rzk, tom1jed    |
+|           26 |      275 | 2025-07-25 | KRÜ Esports              | W   | 1.000      | 0.143        | 0.006 (0.001)    | 0.294 (0.042)    | 0 (0.000) |    20.88 | FraGuTy, maxxkor, nex7, rzk, tom1jed    |
 |           25 |      418 | 2025-07-16 | Legacy                   | L   | 0.993      | -            | -                | -                | -         |    -0.33 | FraGuTy, maxxkor, nex7, rzk, tom1jed    |
-|           24 |      431 | 2025-07-16 | ShindeN                  | W   | 0.991      | 0.143        | 0.006 (0.001)    | 0.322 (0.046)    | 0 (0.000) |    19.51 | FraGuTy, maxxkor, nex7, rzk, tom1jed    |
+|           24 |      431 | 2025-07-16 | ShindeN                  | W   | 0.991      | 0.143        | 0.006 (0.001)    | 0.322 (0.046)    | 0 (0.000) |    19.53 | FraGuTy, maxxkor, nex7, rzk, tom1jed    |
 |           23 |      583 | 2025-07-09 | BURN (Brazilian team)    | W   | 0.946      | -            | -                | -                | 0 (0.000) |     7.94 | FraGuTy, maxxkor, nex7, rzk, tom1jed    |
-|           22 |      706 | 2025-06-23 | 9z Team                  | L   | 0.839      | -            | -                | -                | -         |    -3.45 | FraGuTy, maxxkor, nex7, rzk, tom1jed    |
+|           22 |      706 | 2025-06-23 | 9z Team                  | L   | 0.839      | -            | -                | -                | -         |    -3.44 | FraGuTy, maxxkor, nex7, rzk, tom1jed    |
 |           21 |      718 | 2025-06-22 | Yawara E-Sports          | W   | 0.831      | 0.371        | 0.007 (0.002)    | 0.269 (0.083)    | 0 (0.000) |    16.46 | FraGuTy, maxxkor, nex7, rzk, tom1jed    |
 |           20 |      745 | 2025-06-20 | Messitas                 | W   | 0.819      | 0.371        | 0.001 (0.000)    | -                | 0 (0.000) |    13.10 | FraGuTy, maxxkor, nex7, rzk, tom1jed    |
 |           19 |      775 | 2025-06-18 | LaChampionsLiga          | W   | 0.805      | 0.371        | -                | 0.073 (0.022)    | 0 (0.000) |    11.27 | FraGuTy, maxxkor, nex7, rzk, tom1jed    |
@@ -57,7 +57,7 @@ Note:<br />
 |           16 |     2290 | 2025-04-04 | 9z Team                  | L   | 0.307      | -            | -                | -                | -         |    -1.18 | 1962, FraGuTy, maxxkor, tom1jed, toto-m |
 |           15 |     2312 | 2025-04-03 | KRÜ Esports              | W   | 0.299      | 0.435        | 0.006 (0.001)    | 0.294 (0.038)    | 0 (0.000) |     6.78 | 1962, FraGuTy, maxxkor, tom1jed, toto-m |
 |           14 |     2466 | 2025-03-30 | SELVA                    | L   | 0.272      | -            | -                | -                | -         |    -1.89 | 1962, FraGuTy, maxxkor, tom1jed, toto-m |
-|           13 |     2514 | 2025-03-29 | Fluxo                    | L   | 0.266      | -            | -                | -                | -         |    -0.42 | 1962, FraGuTy, maxxkor, tom1jed, toto-m |
+|           13 |     2514 | 2025-03-29 | Fluxo                    | L   | 0.266      | -            | -                | -                | -         |    -0.40 | 1962, FraGuTy, maxxkor, tom1jed, toto-m |
 |           12 |     2565 | 2025-03-28 | SELVA                    | W   | 0.260      | 0.769        | 0.018 (0.004)    | 0.292 (0.058)    | 0 (0.000) |     6.43 | 1962, FraGuTy, maxxkor, tom1jed, toto-m |
 |           11 |     2635 | 2025-03-27 | R2 Esports Club          | W   | 0.254      | -            | -                | -                | -         |     3.42 | 1962, FraGuTy, maxxkor, tom1jed, toto-m |
 |           10 |     3056 | 2025-03-10 | RED Canids               | L   | 0.139      | -            | -                | -                | -         |    -1.23 | 1962, FraGuTy, maxxkor, tom1jed, toto-m |

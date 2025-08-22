@@ -6,9 +6,9 @@ Global Rank: [139](../../standings_global_2025_08_15.md)<br />
 Region: [Asia]( ../../standings_asia_2025_08_15.md)<br />
 Regional Rank: [16]( ../../standings_asia_2025_08_15.md)<br />
 <br />
-Final Rank Value:  686.8<br />
+Final Rank Value:  686.9<br />
 <br />
-Final Rank Value (686.8) = Starting Rank Value (651.3) + Head To Head Adjustments (35.5)<br />
+Final Rank Value (686.9) = Starting Rank Value (651.3) + Head To Head Adjustments (35.6)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -43,7 +43,7 @@ Note:<br />
 |            8 |      250 | 2025-07-27 | Legion (Pakistani team) | W   | 1.000      | 0.262        | 0.005 (0.001)    | 0.156 (0.041)    | 0 (0.000) |    15.93 | Dant1k, Dili, k1araSh, KryPt0NN, x1ron |
 |            7 |      252 | 2025-07-26 | Victores Sumus          | W   | 1.000      | 0.262        | 0.002 (0.001)    | 0.084 (0.022)    | 0 (0.000) |    11.89 | Dant1k, Dili, k1araSh, KryPt0NN, x1ron |
 |            6 |     2139 | 2025-04-10 | JiJieHao                | L   | 0.344      | -            | -                | -                | -         |    -1.42 | Dant1k, Dili, k1araSh, KryPt0NN, x1ron |
-|            5 |     2143 | 2025-04-10 | Eruption                | W   | 0.343      | 0.525        | 0.009 (0.002)    | 0.131 (0.024)    | 0 (0.000) |     7.99 | Dant1k, Dili, k1araSh, KryPt0NN, x1ron |
+|            5 |     2143 | 2025-04-10 | Eruption                | W   | 0.343      | 0.525        | 0.009 (0.002)    | 0.131 (0.024)    | 0 (0.000) |     8.05 | Dant1k, Dili, k1araSh, KryPt0NN, x1ron |
 |            4 |     2594 | 2025-03-28 | JiJieHao                | L   | 0.258      | -            | -                | -                | -         |    -1.01 | Dant1k, Dili, k1araSh, KryPt0NN, x1ron |
 |            3 |     2606 | 2025-03-28 | POWERmix                | W   | 0.257      | 0.624        | 0.000 (0.000)    | 0.014 (0.002)    | 0 (0.000) |     1.62 | Dant1k, Dili, k1araSh, KryPt0NN, x1ron |
 |            2 |     2665 | 2025-03-27 | St4rboys                | W   | 0.251      | 0.624        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     1.53 | Dant1k, Dili, k1araSh, KryPt0NN, x1ron |

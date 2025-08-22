@@ -6,9 +6,9 @@ Global Rank: [194](../../standings_global_2025_08_15.md)<br />
 Region: [Europe]( ../../standings_europe_2025_08_15.md)<br />
 Regional Rank: [107]( ../../standings_europe_2025_08_15.md)<br />
 <br />
-Final Rank Value:  599.0<br />
+Final Rank Value:  599.1<br />
 <br />
-Final Rank Value (599.0) = Starting Rank Value (627.6) + Head To Head Adjustments (-28.6)<br />
+Final Rank Value (599.1) = Starting Rank Value (627.6) + Head To Head Adjustments (-28.6)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -41,18 +41,18 @@ Note:<br />
 | Match Played | Match ID | Date       | Opponent                  | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                    |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |           24 |      808 | 2025-06-16 | RUBY                      | L   | 0.791      | -            | -                | -                | -         |    -3.92 | 1nhuman, bogemt, byek, forzetsky, spira   |
-|           23 |      865 | 2025-06-14 | TPuDCATb TPu              | L   | 0.778      | -            | -                | -                | -         |    -4.93 | 1nhuman, byek, emot1on, forzetsky, spira  |
-|           22 |      934 | 2025-06-12 | ENCE Academy              | L   | 0.764      | -            | -                | -                | -         |    -6.84 | 1nhuman, bogemt, byek, forzetsky, spira   |
+|           23 |      865 | 2025-06-14 | TPuDCATb TPu              | L   | 0.778      | -            | -                | -                | -         |    -4.92 | 1nhuman, byek, emot1on, forzetsky, spira  |
+|           22 |      934 | 2025-06-12 | ENCE Academy              | L   | 0.764      | -            | -                | -                | -         |    -6.85 | 1nhuman, bogemt, byek, forzetsky, spira   |
 |           21 |     1019 | 2025-06-07 | JANO Esports              | W   | 0.729      | 0.384        | 0.000 (0.000)    | 0.066 (0.019)    | 0 (0.000) |    12.58 | 1nhuman, byek, melanta, spira, timeagento |
 |           20 |     1027 | 2025-06-06 | HEROIC Academy            | L   | 0.723      | -            | -                | -                | -         |    -7.79 | 1nhuman, byek, melanta, spira, timeagento |
-|           19 |     1771 | 2025-04-29 | THE (Russian team)        | W   | 0.470      | 0.416        | 0.001 (0.000)    | 0.034 (0.007)    | 0 (0.000) |     7.95 | 1nhuman, borosto, byek, forzetsky, spira  |
+|           19 |     1771 | 2025-04-29 | THE (Russian team)        | W   | 0.470      | 0.416        | 0.001 (0.000)    | 0.034 (0.007)    | 0 (0.000) |     7.96 | 1nhuman, borosto, byek, forzetsky, spira  |
 |           18 |     2165 | 2025-04-09 | FengDa Gaming             | L   | 0.338      | -            | -                | -                | -         |    -3.62 | 1nhuman, borosto, byek, forzetsky, spira  |
-|           17 |     2172 | 2025-04-09 | FengDa Gaming             | L   | 0.337      | -            | -                | -                | -         |    -3.72 | 1nhuman, borosto, byek, forzetsky, spira  |
+|           17 |     2172 | 2025-04-09 | FengDa Gaming             | L   | 0.337      | -            | -                | -                | -         |    -3.71 | 1nhuman, borosto, byek, forzetsky, spira  |
 |           16 |     2378 | 2025-04-02 | TYLOO                     | L   | 0.291      | -            | -                | -                | -         |    -0.01 | 1nhuman, borosto, byek, forzetsky, spira  |
 |           15 |     2387 | 2025-04-02 | TYLOO                     | L   | 0.290      | -            | -                | -                | -         |    -0.01 | 1nhuman, borosto, byek, forzetsky, spira  |
 |           14 |     2431 | 2025-04-01 | Nomads (Mongolian team)   | L   | 0.284      | -            | -                | -                | -         |    -5.22 | 1nhuman, borosto, byek, forzetsky, spira  |
-|           13 |     2437 | 2025-04-01 | Nomads (Mongolian team)   | L   | 0.284      | -            | -                | -                | -         |    -5.35 | 1nhuman, borosto, byek, forzetsky, spira  |
-|           12 |     2722 | 2025-03-26 | Chinggis Warriors         | L   | 0.244      | -            | -                | -                | -         |    -0.58 | 1nhuman, borosto, byek, forzetsky, spira  |
+|           13 |     2437 | 2025-04-01 | Nomads (Mongolian team)   | L   | 0.284      | -            | -                | -                | -         |    -5.34 | 1nhuman, borosto, byek, forzetsky, spira  |
+|           12 |     2722 | 2025-03-26 | Chinggis Warriors         | L   | 0.244      | -            | -                | -                | -         |    -0.57 | 1nhuman, borosto, byek, forzetsky, spira  |
 |           11 |     2729 | 2025-03-26 | Chinggis Warriors         | L   | 0.244      | -            | -                | -                | -         |    -0.58 | 1nhuman, borosto, byek, forzetsky, spira  |
 |           10 |     2765 | 2025-03-25 | Lynn Vision Gaming        | L   | 0.238      | -            | -                | -                | -         |    -0.03 | 1nhuman, borosto, byek, forzetsky, spira  |
 |            9 |     2773 | 2025-03-25 | Lynn Vision Gaming        | L   | 0.237      | -            | -                | -                | -         |    -0.03 | 1nhuman, borosto, byek, forzetsky, spira  |

@@ -8,7 +8,7 @@ Regional Rank: [36]( ../../standings_asia_2025_08_15.md)<br />
 <br />
 Final Rank Value:  514.4<br />
 <br />
-Final Rank Value (514.4) = Starting Rank Value (508.4) + Head To Head Adjustments (5.9)<br />
+Final Rank Value (514.4) = Starting Rank Value (508.4) + Head To Head Adjustments (6.0)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -41,9 +41,9 @@ Note:<br />
 | Match Played | Match ID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                              |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |            5 |     3491 | 2025-02-27 | HOTU             | W   | 0.063      | 0.624        | 0.030 (0.001)    | 0.256 (0.010)    | 0 (0.000) |     1.76 | AccuracyTG, dobu, kabal, MiQ, Zesta |
-|            4 |     3497 | 2025-02-26 | Eruption         | W   | 0.062      | 0.624        | 0.009 (0.000)    | 0.131 (0.005)    | 0 (0.000) |     1.69 | AccuracyTG, dobu, kabal, MiQ, Zesta |
+|            4 |     3497 | 2025-02-26 | Eruption         | W   | 0.062      | 0.624        | 0.009 (0.000)    | 0.131 (0.005)    | 0 (0.000) |     1.70 | AccuracyTG, dobu, kabal, MiQ, Zesta |
 |            3 |     3549 | 2025-02-25 | The Huns Esports | W   | 0.054      | 0.624        | 0.035 (0.001)    | 0.243 (0.008)    | 0 (0.000) |     1.61 | AccuracyTG, dobu, kabal, MiQ, Zesta |
-|            2 |     3581 | 2025-02-24 | Gods Reign       | W   | 0.048      | 0.624        | 0.001 (0.000)    | 0.079 (0.002)    | 0 (0.000) |     1.04 | AccuracyTG, dobu, kabal, MiQ, Zesta |
+|            2 |     3581 | 2025-02-24 | Gods Reign       | W   | 0.048      | 0.624        | 0.001 (0.000)    | 0.079 (0.002)    | 0 (0.000) |     1.06 | AccuracyTG, dobu, kabal, MiQ, Zesta |
 |            1 |     3607 | 2025-02-23 | HOTU             | L   | 0.041      | -            | -                | -                | -         |    -0.15 | AccuracyTG, dobu, kabal, MiQ, Zesta |
 
 <br />

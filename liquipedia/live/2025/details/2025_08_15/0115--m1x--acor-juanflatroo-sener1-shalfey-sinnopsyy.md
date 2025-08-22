@@ -6,9 +6,9 @@ Global Rank: [115](../../standings_global_2025_08_15.md)<br />
 Region: [Europe]( ../../standings_europe_2025_08_15.md)<br />
 Regional Rank: [76]( ../../standings_europe_2025_08_15.md)<br />
 <br />
-Final Rank Value:  751.5<br />
+Final Rank Value:  751.6<br />
 <br />
-Final Rank Value (751.5) = Starting Rank Value (714.4) + Head To Head Adjustments (37.1)<br />
+Final Rank Value (751.6) = Starting Rank Value (714.4) + Head To Head Adjustments (37.2)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -41,9 +41,9 @@ Note:<br />
 | Match Played | Match ID | Date       | Opponent                                  | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                        |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |            8 |       91 | 2025-08-07 | Copenhagen Wolves (American organization) | L   | 1.000      | -            | -                | -                | -         |   -11.51 | acoR, juanflatroo, SENER1, shalfey, sinnopsyy |
-|            7 |      103 | 2025-08-06 | Partizan Esports                          | L   | 1.000      | -            | -                | -                | -         |    -7.30 | acoR, juanflatroo, SENER1, shalfey, sinnopsyy |
-|            6 |      469 | 2025-07-14 | Nemiga Gaming                             | L   | 0.978      | -            | -                | -                | -         |    -1.68 | acoR, juanflatroo, rigoN, sinnopsyy, volt     |
-|            5 |      479 | 2025-07-14 | Sangal Esports                            | W   | 0.976      | 0.143        | 0.038 (0.005)    | 0.689 (0.096)    | 0 (0.000) |    23.20 | acoR, juanflatroo, rigoN, sinnopsyy, volt     |
+|            7 |      103 | 2025-08-06 | Partizan Esports                          | L   | 1.000      | -            | -                | -                | -         |    -7.27 | acoR, juanflatroo, SENER1, shalfey, sinnopsyy |
+|            6 |      469 | 2025-07-14 | Nemiga Gaming                             | L   | 0.978      | -            | -                | -                | -         |    -1.64 | acoR, juanflatroo, rigoN, sinnopsyy, volt     |
+|            5 |      479 | 2025-07-14 | Sangal Esports                            | W   | 0.976      | 0.143        | 0.038 (0.005)    | 0.689 (0.096)    | 0 (0.000) |    23.21 | acoR, juanflatroo, rigoN, sinnopsyy, volt     |
 |            4 |      587 | 2025-07-09 | WATERMEL0N                                | W   | 0.945      | 0.147        | 0.000 (0.000)    | 0.043 (0.006)    | 0 (0.000) |     3.97 | acoR, juanflatroo, rigoN, sinnopsyy, volt     |
 |            3 |      600 | 2025-07-09 | ARCRED                                    | W   | 0.945      | 0.147        | 0.016 (0.002)    | 0.211 (0.029)    | 0 (0.000) |    20.43 | acoR, juanflatroo, rigoN, sinnopsyy, volt     |
 |            2 |     1073 | 2025-06-01 | Tricked Esport                            | L   | 0.691      | -            | -                | -                | -         |    -4.24 | gxx-, juanflatroo, rigoN, SENER1, sinnopsyy   |

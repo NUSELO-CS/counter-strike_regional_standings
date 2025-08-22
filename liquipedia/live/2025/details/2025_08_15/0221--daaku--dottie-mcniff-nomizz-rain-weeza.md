@@ -6,9 +6,9 @@ Global Rank: [221](../../standings_global_2025_08_15.md)<br />
 Region: [Europe]( ../../standings_europe_2025_08_15.md)<br />
 Regional Rank: [116]( ../../standings_europe_2025_08_15.md)<br />
 <br />
-Final Rank Value:  534.1<br />
+Final Rank Value:  534.2<br />
 <br />
-Final Rank Value (534.1) = Starting Rank Value (512.5) + Head To Head Adjustments (21.6)<br />
+Final Rank Value (534.2) = Starting Rank Value (512.5) + Head To Head Adjustments (21.7)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -40,11 +40,11 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent       | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                              |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            5 |     1871 | 2025-04-24 | Marsborne      | L   | 0.441      | -            | -                | -                | -         |    -1.69 | dottie, mcniff, nomizz, rain, Weeza |
+|            5 |     1871 | 2025-04-24 | Marsborne      | L   | 0.441      | -            | -                | -                | -         |    -1.65 | dottie, mcniff, nomizz, rain, Weeza |
 |            4 |     1977 | 2025-04-17 | Wanted Goons   | W   | 0.394      | 0.333        | 0.001 (0.000)    | 0.127 (0.017)    | 0 (0.000) |     7.85 | dottie, mcniff, nomizz, rain, Weeza |
 |            3 |     2083 | 2025-04-13 | Fisher College | L   | 0.367      | -            | -                | -                | -         |    -3.11 | dottie, mcniff, nomizz, rain, Weeza |
-|            2 |     2135 | 2025-04-10 | Marsborne      | W   | 0.347      | 0.333        | 0.011 (0.001)    | 0.546 (0.063)    | 0 (0.000) |     9.74 | dottie, mcniff, nomizz, rain, Weeza |
-|            1 |     2242 | 2025-04-07 | BLUEJAYS       | W   | 0.327      | 0.333        | 0.013 (0.001)    | 0.274 (0.030)    | 0 (0.000) |     8.83 | dottie, mcniff, nomizz, rain, Weeza |
+|            2 |     2135 | 2025-04-10 | Marsborne      | W   | 0.347      | 0.333        | 0.011 (0.001)    | 0.546 (0.063)    | 0 (0.000) |     9.77 | dottie, mcniff, nomizz, rain, Weeza |
+|            1 |     2242 | 2025-04-07 | BLUEJAYS       | W   | 0.327      | 0.333        | 0.013 (0.001)    | 0.274 (0.030)    | 0 (0.000) |     8.86 | dottie, mcniff, nomizz, rain, Weeza |
 
 <br />
 <span id="table2"></span><br />

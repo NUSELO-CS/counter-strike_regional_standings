@@ -6,9 +6,9 @@ Global Rank: [168](../../standings_global_2025_08_15.md)<br />
 Region: [Americas]( ../../standings_americas_2025_08_15.md)<br />
 Regional Rank: [48]( ../../standings_americas_2025_08_15.md)<br />
 <br />
-Final Rank Value:  630.4<br />
+Final Rank Value:  630.9<br />
 <br />
-Final Rank Value (630.4) = Starting Rank Value (561.5) + Head To Head Adjustments (68.9)<br />
+Final Rank Value (630.9) = Starting Rank Value (561.5) + Head To Head Adjustments (69.5)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -41,17 +41,17 @@ Note:<br />
 | Match Played | Match ID | Date       | Opponent               | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                          |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |           12 |      155 | 2025-08-01 | ODDIK                  | L   | 1.000      | -            | -                | -                | -         |    -2.94 | b4rtiN, bsd, JOTA, NEKIZ, shz   |
-|           11 |      411 | 2025-07-16 | ODDIK                  | L   | 0.994      | -            | -                | -                | -         |    -2.42 | b4rtiN, bsd, JOTA, NEKIZ, shz   |
-|           10 |      423 | 2025-07-16 | LaChampionsLiga        | W   | 0.992      | 0.143        | 0.000 (0.000)    | 0.073 (0.010)    | 0 (0.000) |    10.73 | b4rtiN, bsd, JOTA, NEKIZ, shz   |
-|            9 |      545 | 2025-07-11 | Imperial Esports       | L   | 0.958      | -            | -                | -                | -         |    -1.18 | b4rtiN, JOTA, levi, shz, urban0 |
-|            8 |      582 | 2025-07-09 | BESTIA                 | L   | 0.946      | -            | -                | -                | -         |    -6.70 | b4rtiN, JOTA, levi, shz, urban0 |
+|           11 |      411 | 2025-07-16 | ODDIK                  | L   | 0.994      | -            | -                | -                | -         |    -2.41 | b4rtiN, bsd, JOTA, NEKIZ, shz   |
+|           10 |      423 | 2025-07-16 | LaChampionsLiga        | W   | 0.992      | 0.143        | 0.000 (0.000)    | 0.073 (0.010)    | 0 (0.000) |    10.71 | b4rtiN, bsd, JOTA, NEKIZ, shz   |
+|            9 |      545 | 2025-07-11 | Imperial Esports       | L   | 0.958      | -            | -                | -                | -         |    -1.17 | b4rtiN, JOTA, levi, shz, urban0 |
+|            8 |      582 | 2025-07-09 | BESTIA                 | L   | 0.946      | -            | -                | -                | -         |    -6.42 | b4rtiN, JOTA, levi, shz, urban0 |
 |            7 |      586 | 2025-07-09 | SELVA                  | W   | 0.945      | 0.384        | 0.018 (0.006)    | 0.292 (0.106)    | 0 (0.000) |    19.11 | b4rtiN, JOTA, levi, shz, urban0 |
-|            6 |      615 | 2025-07-08 | BESTIA                 | L   | 0.939      | -            | -                | -                | -         |    -6.03 | b4rtiN, JOTA, levi, shz, urban0 |
-|            5 |      625 | 2025-07-07 | Bounty Hunters Esports | W   | 0.932      | 0.143        | 0.009 (0.001)    | 0.500 (0.067)    | 0 (0.000) |    21.43 | b4rtiN, JOTA, levi, shz, urban0 |
-|            4 |      630 | 2025-07-07 | Imperial Esports       | W   | 0.931      | 0.143        | 0.202 (0.027)    | 0.588 (0.078)    | 0 (0.000) |    28.48 | b4rtiN, JOTA, levi, shz, urban0 |
-|            3 |      670 | 2025-06-30 | Bounty Hunters Esports | L   | 0.886      | -            | -                | -                | -         |    -6.74 | b4rtiN, JOTA, levi, shz, urban0 |
+|            6 |      615 | 2025-07-08 | BESTIA                 | L   | 0.939      | -            | -                | -                | -         |    -5.75 | b4rtiN, JOTA, levi, shz, urban0 |
+|            5 |      625 | 2025-07-07 | Bounty Hunters Esports | W   | 0.932      | 0.143        | 0.009 (0.001)    | 0.500 (0.067)    | 0 (0.000) |    21.44 | b4rtiN, JOTA, levi, shz, urban0 |
+|            4 |      630 | 2025-07-07 | Imperial Esports       | W   | 0.931      | 0.143        | 0.202 (0.027)    | 0.588 (0.078)    | 0 (0.000) |    28.49 | b4rtiN, JOTA, levi, shz, urban0 |
+|            3 |      670 | 2025-06-30 | Bounty Hunters Esports | L   | 0.886      | -            | -                | -                | -         |    -6.72 | b4rtiN, JOTA, levi, shz, urban0 |
 |            2 |      675 | 2025-06-29 | RED Canids             | L   | 0.880      | -            | -                | -                | -         |    -5.79 | b4rtiN, JOTA, levi, shz, urban0 |
-|            1 |      677 | 2025-06-29 | SELVA                  | W   | 0.878      | 0.384        | 0.018 (0.006)    | 0.292 (0.099)    | 0 (0.000) |    20.91 | b4rtiN, JOTA, levi, shz, urban0 |
+|            1 |      677 | 2025-06-29 | SELVA                  | W   | 0.878      | 0.384        | 0.018 (0.006)    | 0.292 (0.099)    | 0 (0.000) |    20.92 | b4rtiN, JOTA, levi, shz, urban0 |
 
 <br />
 <span id="table2"></span><br />

@@ -6,9 +6,9 @@ Global Rank: [210](../../standings_global_2025_08_15.md)<br />
 Region: [Asia]( ../../standings_asia_2025_08_15.md)<br />
 Regional Rank: [31]( ../../standings_asia_2025_08_15.md)<br />
 <br />
-Final Rank Value:  575.7<br />
+Final Rank Value:  575.9<br />
 <br />
-Final Rank Value (575.7) = Starting Rank Value (529.2) + Head To Head Adjustments (46.5)<br />
+Final Rank Value (575.9) = Starting Rank Value (529.2) + Head To Head Adjustments (46.7)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -40,16 +40,16 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent           | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                  |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           18 |     2166 | 2025-04-09 | Chinggis Warriors  | W   | 0.337      | 0.369        | 0.028 (0.003)    | 0.475 (0.059)    | 0 (0.000) |     9.90 | CRYTICAL, HenX, hoolig4n, KRST, shinobi |
+|           18 |     2166 | 2025-04-09 | Chinggis Warriors  | W   | 0.337      | 0.369        | 0.028 (0.003)    | 0.475 (0.059)    | 0 (0.000) |     9.91 | CRYTICAL, HenX, hoolig4n, KRST, shinobi |
 |           17 |     2173 | 2025-04-09 | Chinggis Warriors  | W   | 0.337      | 0.369        | 0.028 (0.003)    | 0.475 (0.059)    | 0 (0.000) |     9.97 | CRYTICAL, HenX, hoolig4n, KRST, shinobi |
 |           16 |     2219 | 2025-04-08 | Lynn Vision Gaming | L   | 0.331      | -            | -                | -                | -         |    -0.03 | CRYTICAL, HenX, hoolig4n, KRST, shinobi |
 |           15 |     2225 | 2025-04-08 | Lynn Vision Gaming | L   | 0.330      | -            | -                | -                | -         |    -0.03 | CRYTICAL, HenX, hoolig4n, KRST, shinobi |
 |           14 |     2376 | 2025-04-02 | Harizma            | L   | 0.291      | -            | -                | -                | -         |    -5.64 | CRYTICAL, HenX, hoolig4n, KRST, shinobi |
-|           13 |     2385 | 2025-04-02 | Harizma            | W   | 0.290      | 0.369        | 0.000 (0.000)    | 0.023 (0.002)    | 0 (0.000) |     3.57 | CRYTICAL, HenX, hoolig4n, KRST, shinobi |
+|           13 |     2385 | 2025-04-02 | Harizma            | W   | 0.290      | 0.369        | 0.000 (0.000)    | 0.023 (0.002)    | 0 (0.000) |     3.56 | CRYTICAL, HenX, hoolig4n, KRST, shinobi |
 |           12 |     2431 | 2025-04-01 | -72C               | W   | 0.284      | 0.369        | 0.003 (0.000)    | 0.067 (0.007)    | 0 (0.000) |     5.22 | CRYTICAL, HenX, hoolig4n, KRST, shinobi |
-|           11 |     2437 | 2025-04-01 | -72C               | W   | 0.284      | 0.369        | 0.003 (0.000)    | 0.067 (0.007)    | 0 (0.000) |     5.35 | CRYTICAL, HenX, hoolig4n, KRST, shinobi |
-|           10 |     2723 | 2025-03-26 | Gods Reign         | W   | 0.244      | 0.369        | 0.001 (0.000)    | 0.079 (0.007)    | 0 (0.000) |     4.97 | CRYTICAL, HenX, hoolig4n, KRST, shinobi |
-|            9 |     2730 | 2025-03-26 | Gods Reign         | W   | 0.244      | 0.369        | 0.001 (0.000)    | 0.079 (0.007)    | 0 (0.000) |     5.06 | CRYTICAL, HenX, hoolig4n, KRST, shinobi |
+|           11 |     2437 | 2025-04-01 | -72C               | W   | 0.284      | 0.369        | 0.003 (0.000)    | 0.067 (0.007)    | 0 (0.000) |     5.34 | CRYTICAL, HenX, hoolig4n, KRST, shinobi |
+|           10 |     2723 | 2025-03-26 | Gods Reign         | W   | 0.244      | 0.369        | 0.001 (0.000)    | 0.079 (0.007)    | 0 (0.000) |     5.07 | CRYTICAL, HenX, hoolig4n, KRST, shinobi |
+|            9 |     2730 | 2025-03-26 | Gods Reign         | W   | 0.244      | 0.369        | 0.001 (0.000)    | 0.079 (0.007)    | 0 (0.000) |     5.17 | CRYTICAL, HenX, hoolig4n, KRST, shinobi |
 |            8 |     2763 | 2025-03-25 | The QUBE Esports   | L   | 0.238      | -            | -                | -                | -         |    -4.12 | CRYTICAL, HenX, hoolig4n, KRST, shinobi |
 |            7 |     2771 | 2025-03-25 | The QUBE Esports   | W   | 0.237      | 0.369        | -                | 0.029 (0.003)    | 0 (0.000) |     3.41 | CRYTICAL, HenX, hoolig4n, KRST, shinobi |
 |            6 |     2884 | 2025-03-19 | Rare Atom          | L   | 0.198      | -            | -                | -                | -         |    -0.23 | CRYTICAL, HenX, hoolig4n, KRST, shinobi |

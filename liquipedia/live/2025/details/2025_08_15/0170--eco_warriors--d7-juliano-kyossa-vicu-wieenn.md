@@ -42,8 +42,8 @@ Note:<br />
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |           11 |     1110 | 2025-05-28 | Copenhagen Wolves (American organization) | L   | 0.664      | -            | -                | -                | -         |    -5.82 | D7, juliano, kyossa, vicu, wieenN |
 |           10 |     1118 | 2025-05-27 | 8Sins                                     | L   | 0.658      | -            | -                | -                | -         |    -9.45 | D7, juliano, kyossa, vicu, wieenN |
-|            9 |     1302 | 2025-05-17 | FAVBET Team                               | L   | 0.590      | -            | -                | -                | -         |    -3.93 | D7, juliano, kyossa, vicu, wieenN |
-|            8 |     1320 | 2025-05-16 | TPuDCATb TPu                              | L   | 0.585      | -            | -                | -                | -         |    -4.24 | D7, juliano, kyossa, vicu, wieenN |
+|            9 |     1302 | 2025-05-17 | FAVBET Team                               | L   | 0.590      | -            | -                | -                | -         |    -3.92 | D7, juliano, kyossa, vicu, wieenN |
+|            8 |     1320 | 2025-05-16 | TPuDCATb TPu                              | L   | 0.585      | -            | -                | -                | -         |    -4.23 | D7, juliano, kyossa, vicu, wieenN |
 |            7 |     2087 | 2025-04-13 | BIG EQUIPA                                | L   | 0.365      | -            | -                | -                | -         |    -6.08 | D7, juliano, kyossa, vicu, wieenN |
 |            6 |     2104 | 2025-04-12 | Zerance                                   | L   | 0.359      | -            | -                | -                | -         |    -4.13 | D7, juliano, kyossa, vicu, wieenN |
 |            5 |     2126 | 2025-04-11 | NIP Impact                                | W   | 0.352      | 0.536        | 0.046 (0.009)    | 0.092 (0.017)    | 0 (0.000) |     7.94 | D7, juliano, kyossa, vicu, wieenN |

@@ -41,9 +41,9 @@ Note:<br />
 | Match Played | Match ID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                         |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |           11 |      803 | 2025-06-16 | Legacy Kingdom   | L   | 0.794      | -            | -                | -                | -         |   -10.75 | gadfly, lunari, n0xxy, raynee, violet          |
-|           10 |      844 | 2025-06-14 | Anything else    | W   | 0.780      | 0.333        | 0.003 (0.001)    | 0.097 (0.025)    | 0 (0.000) |    12.51 | gadfly, lunari, n0xxy, raynee, violet          |
+|           10 |      844 | 2025-06-14 | Anything else    | W   | 0.780      | 0.333        | 0.003 (0.001)    | 0.097 (0.025)    | 0 (0.000) |    12.52 | gadfly, lunari, n0xxy, raynee, violet          |
 |            9 |      912 | 2025-06-12 | Wanted Goons     | L   | 0.767      | -            | -                | -                | -         |   -12.40 | gadfly, lunari, n0xxy, raynee, violet          |
-|            8 |      956 | 2025-06-10 | Party Astronauts | L   | 0.754      | -            | -                | -                | -         |    -8.28 | gadfly, Lambchoppington, n0xxy, raynee, violet |
+|            8 |      956 | 2025-06-10 | Party Astronauts | L   | 0.754      | -            | -                | -                | -         |    -8.27 | gadfly, Lambchoppington, n0xxy, raynee, violet |
 |            7 |     2114 | 2025-04-11 | MEGA JUNERS      | W   | 0.354      | 0.533        | 0.001 (0.000)    | 0.013 (0.003)    | 0 (0.000) |     5.18 | ashe, gadfly, lunari, raynee, violet           |
 |            6 |     2306 | 2025-04-03 | Shimmer          | L   | 0.300      | -            | -                | -                | -         |    -1.79 | ashe, gadfly, lunari, raynee, violet           |
 |            5 |     2630 | 2025-03-27 | Nyx Empyre       | W   | 0.254      | 0.533        | 0.001 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     2.83 | ashe, katalyyst, lunari, raynee, violet        |

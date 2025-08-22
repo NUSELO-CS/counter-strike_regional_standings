@@ -64989,9 +64989,9 @@
           "steamIds": []
         }
       ],
-      "eventId": "345111",
+      "eventId": "345111SM",
       "pagename": "BLAST/Major/2025/Austin",
-      "matchId": "345111_o6X67jE2be_R01-M001",
+      "matchId": "345111SM_o6X67jE2be_R01-M001",
       "parentEventPage": "BLAST/Major/2025/Austin/Showmatch",
       "maps": [
         {
@@ -533619,8 +533619,8 @@
       ]
     },
     {
-      "eventId": "345111",
-      "eventPage": "BLAST/Major/2025/Austin",
+      "eventId": "345111SM",
+      "eventPage": "BLAST/Major/2025/Austin/Showmatch",
       "parent": "BLAST/Major/2025/Austin/Showmatch",
       "eventName": "BLAST Major 2025 Austin",
       "prizePool": "$1",
@@ -541448,7 +541448,7 @@
           "shared": true,
           "progress": false,
           "qualifiedEvents": [
-            "345111"
+            "365955"
           ]
         },
         {
@@ -541459,7 +541459,7 @@
           "shared": true,
           "progress": false,
           "qualifiedEvents": [
-            "345111"
+            "365955"
           ]
         },
         {
@@ -541470,7 +541470,7 @@
           "shared": false,
           "progress": false,
           "qualifiedEvents": [
-            "345111"
+            "365955"
           ]
         },
         {
@@ -541542,7 +541542,7 @@
           "shared": true,
           "progress": false,
           "qualifiedEvents": [
-            "345111"
+            "365955"
           ]
         },
         {
@@ -541553,7 +541553,7 @@
           "shared": true,
           "progress": false,
           "qualifiedEvents": [
-            "345111"
+            "365955"
           ]
         },
         {
@@ -541573,7 +541573,7 @@
           "shared": false,
           "progress": false,
           "qualifiedEvents": [
-            "345111"
+            "365955"
           ]
         },
         {
@@ -541636,7 +541636,7 @@
           "shared": true,
           "progress": false,
           "qualifiedEvents": [
-            "345111"
+            "365955"
           ]
         },
         {
@@ -541647,7 +541647,7 @@
           "shared": true,
           "progress": false,
           "qualifiedEvents": [
-            "345111"
+            "365955"
           ]
         },
         {
@@ -541658,7 +541658,7 @@
           "shared": true,
           "progress": false,
           "qualifiedEvents": [
-            "345111"
+            "365955"
           ]
         },
         {
@@ -541669,7 +541669,7 @@
           "shared": true,
           "progress": false,
           "qualifiedEvents": [
-            "345111"
+            "365955"
           ]
         },
         {
@@ -541680,7 +541680,7 @@
           "shared": true,
           "progress": false,
           "qualifiedEvents": [
-            "345111"
+            "365955"
           ]
         },
         {
@@ -541691,7 +541691,7 @@
           "shared": false,
           "progress": false,
           "qualifiedEvents": [
-            "345111"
+            "365955"
           ]
         },
         {
@@ -541808,7 +541808,7 @@
           "shared": false,
           "progress": false,
           "qualifiedEvents": [
-            "345111"
+            "365955"
           ]
         },
         {
@@ -541862,7 +541862,7 @@
           "shared": false,
           "progress": false,
           "qualifiedEvents": [
-            "345111"
+            "365955"
           ]
         },
         {
@@ -541873,7 +541873,7 @@
           "shared": false,
           "progress": false,
           "qualifiedEvents": [
-            "345111"
+            "365955"
           ]
         },
         {
@@ -541918,7 +541918,7 @@
           "shared": false,
           "progress": false,
           "qualifiedEvents": [
-            "345111"
+            "365955"
           ]
         },
         {

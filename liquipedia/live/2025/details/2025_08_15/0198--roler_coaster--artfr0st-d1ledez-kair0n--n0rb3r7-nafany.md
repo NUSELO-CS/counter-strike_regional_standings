@@ -8,7 +8,7 @@ Regional Rank: [109]( ../../standings_europe_2025_08_15.md)<br />
 <br />
 Final Rank Value:  596.0<br />
 <br />
-Final Rank Value (596.0) = Starting Rank Value (540.8) + Head To Head Adjustments (55.1)<br />
+Final Rank Value (596.0) = Starting Rank Value (540.8) + Head To Head Adjustments (55.2)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -44,9 +44,9 @@ Note:<br />
 |            6 |      790 | 2025-06-17 | FAVBET Team      | W   | 0.799      | 0.435        | 0.007 (0.003)    | 0.545 (0.189)    | 0 (0.000) |    21.87 | ArtFr0st, d1Ledez, KaiR0N-, n0rb3r7, nafany |
 |            5 |      805 | 2025-06-16 | Ex-Sabre Esports | W   | 0.792      | 0.435        | 0.003 (0.001)    | 0.336 (0.115)    | 0 (0.000) |    18.72 | ArtFr0st, d1Ledez, KaiR0N-, n0rb3r7, nafany |
 |            4 |      872 | 2025-06-14 | Marius           | W   | 0.776      | 0.435        | 0.012 (0.004)    | 0.457 (0.154)    | 0 (0.000) |    18.56 | ArtFr0st, d1Ledez, KaiR0N-, n0rb3r7, nafany |
-|            3 |      953 | 2025-06-11 | Sangal Esports   | L   | 0.756      | -            | -                | -                | -         |    -1.54 | ArtFr0st, d1Ledez, KaiR0N-, n0rb3r7, nafany |
+|            3 |      953 | 2025-06-11 | Sangal Esports   | L   | 0.756      | -            | -                | -                | -         |    -1.53 | ArtFr0st, d1Ledez, KaiR0N-, n0rb3r7, nafany |
 |            2 |     2607 | 2025-03-28 | Sashi Esport     | L   | 0.256      | -            | -                | -                | -         |    -0.59 | alpha, ArtFr0st, buster, n0rb3r7, nafany    |
-|            1 |     2685 | 2025-03-27 | B8               | L   | 0.250      | -            | -                | -                | -         |    -0.10 | alpha, ArtFr0st, buster, n0rb3r7, nafany    |
+|            1 |     2685 | 2025-03-27 | B8               | L   | 0.250      | -            | -                | -                | -         |    -0.09 | alpha, ArtFr0st, buster, n0rb3r7, nafany    |
 
 <br />
 <span id="table2"></span><br />

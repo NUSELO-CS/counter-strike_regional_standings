@@ -6,9 +6,9 @@ Global Rank: [91](../../standings_global_2025_08_15.md)<br />
 Region: [Europe]( ../../standings_europe_2025_08_15.md)<br />
 Regional Rank: [63]( ../../standings_europe_2025_08_15.md)<br />
 <br />
-Final Rank Value:  839.3<br />
+Final Rank Value:  839.4<br />
 <br />
-Final Rank Value (839.3) = Starting Rank Value (826.2) + Head To Head Adjustments (13.1)<br />
+Final Rank Value (839.4) = Starting Rank Value (826.2) + Head To Head Adjustments (13.1)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -40,7 +40,7 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                            |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            7 |      237 | 2025-07-27 | SAW             | L   | 1.000      | -            | -                | -                | -         |    -1.07 | h0t, M1KA, NOPEEj, snapy, snowiee |
+|            7 |      237 | 2025-07-27 | SAW             | L   | 1.000      | -            | -                | -                | -         |    -1.04 | h0t, M1KA, NOPEEj, snapy, snowiee |
 |            6 |      249 | 2025-07-27 | Leça FC Esports | W   | 1.000      | 0.309        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (1.000) |     2.46 | h0t, M1KA, NOPEEj, snapy, snowiee |
 |            5 |     1454 | 2025-05-11 | Rhyno Esports   | L   | 0.551      | -            | -                | -                | -         |    -9.49 | h0t, M1KA, opdust, snowiee, SYDOX |
 |            4 |     1486 | 2025-05-10 | Iberian Soul    | W   | 0.543      | 0.315        | 0.205 (0.035)    | 1.000 (0.171)    | 1 (0.543) |    16.35 | h0t, M1KA, opdust, snowiee, SYDOX |

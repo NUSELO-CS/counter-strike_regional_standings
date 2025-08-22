@@ -53,10 +53,10 @@ Note:<br />
 |           11 |     2929 | 2025-03-17 | Chicken Coop Esports | L   | 0.188      | -            | -                | -                | -         |    -1.83 | Experative, SnacKZ1, spud, TR0JN, Weeza |
 |           10 |     2930 | 2025-03-17 | Chicken Coop Esports | L   | 0.188      | -            | -                | -                | -         |    -1.86 | Experative, SnacKZ1, spud, TR0JN, Weeza |
 |            9 |     3151 | 2025-03-08 | BLUEJAYS             | L   | 0.126      | -            | -                | -                | -         |    -0.43 | Experative, SnacKZ1, spud, TR0JN, Weeza |
-|            8 |     3221 | 2025-03-07 | Getting Info         | L   | 0.120      | -            | -                | -                | -         |    -1.29 | Experative, SnacKZ1, spud, TR0JN, Weeza |
+|            8 |     3221 | 2025-03-07 | Getting Info         | L   | 0.120      | -            | -                | -                | -         |    -1.28 | Experative, SnacKZ1, spud, TR0JN, Weeza |
 |            7 |     3292 | 2025-03-06 | Marca Registrada     | W   | 0.114      | 0.769        | 0.002 (0.000)    | 0.191 (0.017)    | 0 (0.000) |     2.06 | Experative, SnacKZ1, spud, TR0JN, Weeza |
 |            6 |     3336 | 2025-03-05 | True Synergy Gaming  | W   | 0.107      | 0.769        | 0.000 (0.000)    | 0.012 (0.001)    | 0 (0.000) |     1.03 | Experative, SnacKZ1, spud, TR0JN, Weeza |
-|            5 |     3413 | 2025-03-02 | BLUEJAYS             | L   | 0.085      | -            | -                | -                | -         |    -0.67 | Experative, niise, spud, TR0JN, Weeza   |
+|            5 |     3413 | 2025-03-02 | BLUEJAYS             | L   | 0.085      | -            | -                | -                | -         |    -0.66 | Experative, niise, spud, TR0JN, Weeza   |
 |            4 |     3429 | 2025-03-01 | Shimmer              | W   | 0.080      | 0.333        | 0.079 (0.002)    | 0.144 (0.004)    | 1 (0.080) |     2.09 | Experative, niise, spud, TR0JN, Weeza   |
 |            3 |     3435 | 2025-03-01 | Revel                | W   | 0.080      | 0.333        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.080) |     0.56 | Experative, niise, spud, TR0JN, Weeza   |
 |            2 |     3501 | 2025-02-26 | Legacy               | L   | 0.061      | -            | -                | -                | -         |    -0.02 | Experative, SnacKZ1, spud, TR0JN, Weeza |

@@ -6,9 +6,9 @@ Global Rank: [10](../../standings_global_2025_08_15.md)<br />
 Region: [Europe]( ../../standings_europe_2025_08_15.md)<br />
 Regional Rank: [7]( ../../standings_europe_2025_08_15.md)<br />
 <br />
-Final Rank Value:  1684.3<br />
+Final Rank Value:  1684.6<br />
 <br />
-Final Rank Value (1684.3) = Starting Rank Value (1688.1) + Head To Head Adjustments (-3.8)<br />
+Final Rank Value (1684.6) = Starting Rank Value (1688.1) + Head To Head Adjustments (-3.4)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -40,28 +40,28 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent           | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           41 |      217 | 2025-07-28 | FURIA              | L   | 1.000      | -            | -                | -                | -         |   -14.18 | kyousuke, kyxsan, m0NESY, NiKo, TeSeS |
-|           40 |      240 | 2025-07-27 | The MongolZ        | L   | 1.000      | -            | -                | -                | -         |   -10.04 | kyousuke, kyxsan, m0NESY, NiKo, TeSeS |
+|           41 |      217 | 2025-07-28 | FURIA              | L   | 1.000      | -            | -                | -                | -         |   -14.17 | kyousuke, kyxsan, m0NESY, NiKo, TeSeS |
+|           40 |      240 | 2025-07-27 | The MongolZ        | L   | 1.000      | -            | -                | -                | -         |   -10.05 | kyousuke, kyxsan, m0NESY, NiKo, TeSeS |
 |           39 |      270 | 2025-07-26 | GamerLegion        | W   | 1.000      | 1.000        | 0.480 (0.480)    | 0.393 (0.393)    | 1 (1.000) |    11.94 | kyousuke, kyxsan, m0NESY, NiKo, TeSeS |
 |           38 |      973 | 2025-06-09 | MIBR               | L   | 0.746      | -            | -                | -                | -         |   -20.80 | kyxsan, m0NESY, Magisk, NiKo, TeSeS   |
-|           37 |      985 | 2025-06-08 | OG                 | W   | 0.739      | 0.769        | -                | 0.605 (0.343)    | 1 (0.739) |     1.09 | kyxsan, m0NESY, Magisk, NiKo, TeSeS   |
-|           36 |     1000 | 2025-06-07 | Lynn Vision Gaming | L   | 0.733      | -            | -                | -                | -         |   -16.54 | kyxsan, m0NESY, Magisk, NiKo, TeSeS   |
-|           35 |     1014 | 2025-06-07 | B8                 | L   | 0.731      | -            | -                | -                | -         |   -20.66 | kyxsan, m0NESY, Magisk, NiKo, TeSeS   |
+|           37 |      985 | 2025-06-08 | OG                 | W   | 0.739      | 0.769        | -                | 0.605 (0.343)    | 1 (0.739) |     1.11 | kyxsan, m0NESY, Magisk, NiKo, TeSeS   |
+|           36 |     1000 | 2025-06-07 | Lynn Vision Gaming | L   | 0.733      | -            | -                | -                | -         |   -16.45 | kyxsan, m0NESY, Magisk, NiKo, TeSeS   |
+|           35 |     1014 | 2025-06-07 | B8                 | L   | 0.731      | -            | -                | -                | -         |   -20.58 | kyxsan, m0NESY, Magisk, NiKo, TeSeS   |
 |           34 |     1151 | 2025-05-24 | Team Vitality      | L   | 0.640      | -            | -                | -                | -         |    -3.24 | kyxsan, m0NESY, Magisk, NiKo, TeSeS   |
 |           33 |     1164 | 2025-05-23 | GamerLegion        | W   | 0.633      | 1.000        | 0.480 (0.304)    | 0.393 (0.249)    | 1 (0.633) |     6.51 | kyxsan, m0NESY, Magisk, NiKo, TeSeS   |
 |           32 |     1202 | 2025-05-21 | MOUZ               | L   | 0.620      | -            | -                | -                | -         |    -5.04 | kyxsan, m0NESY, Magisk, NiKo, TeSeS   |
-|           31 |     1228 | 2025-05-20 | HEROIC             | W   | 0.613      | 1.000        | 0.429 (0.263)    | 0.611 (0.375)    | 1 (0.613) |     5.69 | kyxsan, m0NESY, Magisk, NiKo, TeSeS   |
-|           30 |     1257 | 2025-05-19 | NRG                | W   | 0.606      | 1.000        | -                | 0.586 (0.356)    | 1 (0.606) |     0.70 | kyxsan, m0NESY, Magisk, NiKo, TeSeS   |
+|           31 |     1228 | 2025-05-20 | HEROIC             | W   | 0.613      | 1.000        | 0.429 (0.263)    | 0.611 (0.375)    | 1 (0.613) |     5.74 | kyxsan, m0NESY, Magisk, NiKo, TeSeS   |
+|           30 |     1257 | 2025-05-19 | NRG                | W   | 0.606      | 1.000        | -                | 0.586 (0.356)    | 1 (0.606) |     0.71 | kyxsan, m0NESY, Magisk, NiKo, TeSeS   |
 |           29 |     1639 | 2025-05-04 | Team Vitality      | L   | 0.504      | -            | -                | -                | -         |    -2.61 | kyxsan, m0NESY, Magisk, NiKo, TeSeS   |
 |           28 |     1671 | 2025-05-03 | MOUZ               | W   | 0.498      | 0.687        | 1.000 (0.342)    | 0.565 (0.193)    | 1 (0.498) |    11.93 | kyxsan, m0NESY, Magisk, NiKo, TeSeS   |
 |           27 |     1701 | 2025-05-01 | Team Spirit        | W   | 0.486      | 0.687        | 1.000 (0.334)    | 0.543 (0.181)    | 1 (0.486) |    12.31 | kyxsan, m0NESY, Magisk, NiKo, TeSeS   |
 |           26 |     1728 | 2025-04-30 | FaZe Clan          | W   | 0.479      | -            | -                | -                | 1 (0.479) |     8.38 | kyxsan, m0NESY, Magisk, NiKo, TeSeS   |
-|           25 |     1817 | 2025-04-26 | Team Vitality      | L   | 0.456      | -            | -                | -                | -         |    -2.19 | kyxsan, m0NESY, Magisk, NiKo, TeSeS   |
+|           25 |     1817 | 2025-04-26 | Team Vitality      | L   | 0.456      | -            | -                | -                | -         |    -2.20 | kyxsan, m0NESY, Magisk, NiKo, TeSeS   |
 |           24 |     1852 | 2025-04-26 | MOUZ               | W   | 0.449      | 1.000        | 1.000 (0.449)    | 0.565 (0.254)    | 1 (0.449) |    11.34 | kyxsan, m0NESY, Magisk, NiKo, TeSeS   |
 |           23 |     1870 | 2025-04-25 | GamerLegion        | W   | 0.442      | 1.000        | 0.480 (0.212)    | -                | 1 (0.442) |     5.31 | kyxsan, m0NESY, Magisk, NiKo, TeSeS   |
 |           22 |     1890 | 2025-04-23 | Team Vitality      | L   | 0.430      | -            | -                | -                | -         |    -1.98 | kyxsan, m0NESY, Magisk, NiKo, TeSeS   |
-|           21 |     1906 | 2025-04-22 | Natus Vincere      | W   | 0.423      | 1.000        | 0.603 (0.255)    | -                | -         |     8.44 | kyxsan, m0NESY, Magisk, NiKo, TeSeS   |
-|           20 |     1917 | 2025-04-21 | SAW                | W   | 0.417      | 1.000        | -                | 0.487 (0.203)    | -         |     2.69 | kyxsan, m0NESY, Magisk, NiKo, TeSeS   |
+|           21 |     1906 | 2025-04-22 | Natus Vincere      | W   | 0.423      | 1.000        | 0.603 (0.255)    | -                | -         |     8.43 | kyxsan, m0NESY, Magisk, NiKo, TeSeS   |
+|           20 |     1917 | 2025-04-21 | SAW                | W   | 0.417      | 1.000        | -                | 0.487 (0.203)    | -         |     2.76 | kyxsan, m0NESY, Magisk, NiKo, TeSeS   |
 |           19 |     2090 | 2025-04-13 | G2 Esports         | W   | 0.365      | -            | -                | -                | -         |     4.08 | degster, kyxsan, Magisk, NiKo, TeSeS  |
 |           18 |     2108 | 2025-04-12 | FaZe Clan          | W   | 0.358      | 1.000        | 0.510 (0.183)    | 0.538 (0.193)    | -         |     6.99 | degster, kyxsan, Magisk, NiKo, TeSeS  |
 |           17 |     2133 | 2025-04-11 | GamerLegion        | W   | 0.349      | -            | -                | -                | -         |     4.78 | degster, kyxsan, Magisk, NiKo, TeSeS  |

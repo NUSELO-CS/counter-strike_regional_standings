@@ -42,23 +42,23 @@ Note:<br />
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |           20 |      785 | 2025-06-17 | Party Astronauts     | L   | 0.801      | -            | -                | -                | -         |    -8.60 | febreeze, Johan, killerPandas, Magic, Stx |
 |           19 |      801 | 2025-06-16 | Ghost Gaming         | W   | 0.794      | 0.333        | 0.001 (0.000)    | 0.019 (0.005)    | 0 (0.000) |    11.80 | febreeze, Johan, killerPandas, Magic, Stx |
-|           18 |      882 | 2025-06-13 | MIGHT                | L   | 0.774      | -            | -                | -                | -         |   -10.92 | febreeze, Johan, killerPandas, Magic, Stx |
+|           18 |      882 | 2025-06-13 | MIGHT                | L   | 0.774      | -            | -                | -                | -         |   -10.91 | febreeze, Johan, killerPandas, Magic, Stx |
 |           17 |      912 | 2025-06-12 | Girl kissers         | W   | 0.767      | 0.333        | 0.001 (0.000)    | 0.073 (0.019)    | 0 (0.000) |    12.40 | febreeze, Johan, killerPandas, Magic, Stx |
 |           16 |      969 | 2025-06-09 | LAG Gaming           | L   | 0.747      | -            | -                | -                | -         |    -7.57 | febreeze, Johan, killerPandas, Magic, Stx |
 |           15 |     1441 | 2025-05-11 | Legacy Kingdom       | L   | 0.554      | -            | -                | -                | -         |    -7.31 | febreeze, Johan, killerPandas, KmZ, Magic |
-|           14 |     1927 | 2025-04-20 | Marsborne            | L   | 0.414      | -            | -                | -                | -         |    -2.40 | febreeze, Johan, killerPandas, KmZ, Magic |
+|           14 |     1927 | 2025-04-20 | Marsborne            | L   | 0.414      | -            | -                | -                | -         |    -2.35 | febreeze, Johan, killerPandas, KmZ, Magic |
 |           13 |     1977 | 2025-04-17 | Daaku                | L   | 0.394      | -            | -                | -                | -         |    -7.85 | febreeze, Johan, killerPandas, KmZ, Magic |
 |           12 |     2086 | 2025-04-13 | MIGHT                | W   | 0.367      | 0.333        | 0.001 (0.000)    | 0.215 (0.026)    | 0 (0.000) |     6.59 | febreeze, Johan, killerPandas, KmZ, Magic |
 |           11 |     2136 | 2025-04-10 | Chicken Coop Esports | W   | 0.347      | 0.333        | 0.000 (0.000)    | 0.108 (0.013)    | 0 (0.000) |     4.81 | febreeze, Johan, killerPandas, KmZ, Magic |
 |           10 |     2199 | 2025-04-08 | Team Aether          | L   | 0.334      | -            | -                | -                | -         |    -6.18 | febreeze, Johan, killerPandas, KmZ, Magic |
-|            9 |     2508 | 2025-03-29 | Party Astronauts     | L   | 0.266      | -            | -                | -                | -         |    -2.97 | febreeze, Johan, killerPandas, KmZ, Magic |
+|            9 |     2508 | 2025-03-29 | Party Astronauts     | L   | 0.266      | -            | -                | -                | -         |    -2.96 | febreeze, Johan, killerPandas, KmZ, Magic |
 |            8 |     2559 | 2025-03-28 | BLUEJAYS             | L   | 0.261      | -            | -                | -                | -         |    -0.88 | febreeze, Johan, killerPandas, KmZ, Magic |
 |            7 |     2627 | 2025-03-27 | Marca Registrada     | W   | 0.254      | 0.769        | 0.002 (0.000)    | 0.191 (0.037)    | 0 (0.000) |     4.52 | febreeze, Johan, killerPandas, KmZ, Magic |
 |            6 |     2931 | 2025-03-17 | Anything else        | L   | 0.188      | -            | -                | -                | -         |    -2.87 | febreeze, Johan, killerPandas, KmZ, Magic |
 |            5 |     2965 | 2025-03-14 | Blahaj               | W   | 0.168      | 0.349        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     1.84 | febreeze, Johan, killerPandas, KmZ, Magic |
 |            4 |     3312 | 2025-03-06 | Golden Horde         | L   | 0.112      | -            | -                | -                | -         |    -2.43 | febreeze, Johan, killerPandas, KmZ, Magic |
 |            3 |     3354 | 2025-03-05 | Getting Info         | L   | 0.105      | -            | -                | -                | -         |    -1.14 | febreeze, Johan, killerPandas, KmZ, Magic |
-|            2 |     3427 | 2025-03-01 | Marsborne            | L   | 0.081      | -            | -                | -                | -         |    -0.44 | febreeze, Johan, killerPandas, KmZ, Magic |
+|            2 |     3427 | 2025-03-01 | Marsborne            | L   | 0.081      | -            | -                | -                | -         |    -0.43 | febreeze, Johan, killerPandas, KmZ, Magic |
 |            1 |     3438 | 2025-03-01 | Amped Esports        | W   | 0.080      | 0.333        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.080) |     0.55 | febreeze, Johan, killerPandas, KmZ, Magic |
 
 <br />

@@ -6,9 +6,9 @@ Global Rank: [233](../../standings_global_2025_08_15.md)<br />
 Region: [Asia]( ../../standings_asia_2025_08_15.md)<br />
 Regional Rank: [38]( ../../standings_asia_2025_08_15.md)<br />
 <br />
-Final Rank Value:  491.0<br />
+Final Rank Value:  491.1<br />
 <br />
-Final Rank Value (491.0) = Starting Rank Value (489.7) + Head To Head Adjustments (1.3)<br />
+Final Rank Value (491.1) = Starting Rank Value (489.7) + Head To Head Adjustments (1.4)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -44,8 +44,8 @@ Note:<br />
 |           15 |     2185 | 2025-04-09 | Mindfreak (Australian team) | L   | 0.336      | -            | -                | -                | -         |    -2.98 | COOOOOOFFEE, ELFMELK, kasze, LakroTaco, xc |
 |           14 |     2392 | 2025-04-02 | FURY                        | L   | 0.290      | -            | -                | -                | -         |    -3.05 | COOOOOOFFEE, ELFMELK, kasze, LakroTaco, xc |
 |           13 |     2397 | 2025-04-02 | FURY                        | L   | 0.290      | -            | -                | -                | -         |    -3.12 | COOOOOOFFEE, ELFMELK, kasze, LakroTaco, xc |
-|           12 |     2476 | 2025-03-30 | Ex-TALON                    | W   | 0.270      | 0.297        | 0.002 (0.000)    | 0.138 (0.011)    | 0 (0.000) |     6.36 | COOOOOOFFEE, ELFMELK, kasze, LakroTaco, xc |
-|           11 |     2481 | 2025-03-30 | Ex-TALON                    | W   | 0.270      | 0.297        | 0.002 (0.000)    | 0.138 (0.011)    | 0 (0.000) |     6.47 | COOOOOOFFEE, ELFMELK, kasze, LakroTaco, xc |
+|           12 |     2476 | 2025-03-30 | Ex-TALON                    | W   | 0.270      | 0.297        | 0.002 (0.000)    | 0.138 (0.011)    | 0 (0.000) |     6.40 | COOOOOOFFEE, ELFMELK, kasze, LakroTaco, xc |
+|           11 |     2481 | 2025-03-30 | Ex-TALON                    | W   | 0.270      | 0.297        | 0.002 (0.000)    | 0.138 (0.011)    | 0 (0.000) |     6.51 | COOOOOOFFEE, ELFMELK, kasze, LakroTaco, xc |
 |           10 |     2741 | 2025-03-26 | Only One Word               | L   | 0.243      | -            | -                | -                | -         |    -1.83 | COOOOOOFFEE, ELFMELK, kasze, LakroTaco, xc |
 |            9 |     2742 | 2025-03-26 | Only One Word               | L   | 0.243      | -            | -                | -                | -         |    -1.86 | COOOOOOFFEE, ELFMELK, kasze, LakroTaco, xc |
 |            8 |     2893 | 2025-03-19 | KZG                         | W   | 0.197      | 0.297        | 0.000 (0.000)    | 0.022 (0.001)    | 0 (0.000) |     3.05 | COOOOOOFFEE, ELFMELK, kasze, LakroTaco, xc |

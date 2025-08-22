@@ -6,9 +6,9 @@ Global Rank: [92](../../standings_global_2025_08_15.md)<br />
 Region: [Europe]( ../../standings_europe_2025_08_15.md)<br />
 Regional Rank: [64]( ../../standings_europe_2025_08_15.md)<br />
 <br />
-Final Rank Value:  836.6<br />
+Final Rank Value:  836.8<br />
 <br />
-Final Rank Value (836.6) = Starting Rank Value (781.1) + Head To Head Adjustments (55.5)<br />
+Final Rank Value (836.8) = Starting Rank Value (781.1) + Head To Head Adjustments (55.7)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -41,20 +41,20 @@ Note:<br />
 | Match Played | Match ID | Date       | Opponent               | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                           |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |           15 |      153 | 2025-08-02 | Monte                  | L   | 1.000      | -            | -                | -                | -         |   -12.58 | h1te, MaSvAl, synyx, tENZY, Vert |
-|           14 |      185 | 2025-07-31 | Nexus Gaming           | L   | 1.000      | -            | -                | -                | -         |    -9.54 | h1te, MaSvAl, synyx, tENZY, Vert |
-|           13 |      209 | 2025-07-29 | Betclic Apogee Esports | L   | 1.000      | -            | -                | -                | -         |    -8.60 | h1te, MaSvAl, synyx, tENZY, Vert |
-|           12 |      225 | 2025-07-28 | RUBY                   | W   | 1.000      | 0.143        | 0.026 (0.004)    | 0.777 (0.111)    | 0 (0.000) |    18.17 | h1te, MaSvAl, synyx, tENZY, Vert |
+|           14 |      185 | 2025-07-31 | Nexus Gaming           | L   | 1.000      | -            | -                | -                | -         |    -9.53 | h1te, MaSvAl, synyx, tENZY, Vert |
+|           13 |      209 | 2025-07-29 | Betclic Apogee Esports | L   | 1.000      | -            | -                | -                | -         |    -8.59 | h1te, MaSvAl, synyx, tENZY, Vert |
+|           12 |      225 | 2025-07-28 | RUBY                   | W   | 1.000      | 0.143        | 0.026 (0.004)    | 0.777 (0.111)    | 0 (0.000) |    18.19 | h1te, MaSvAl, synyx, tENZY, Vert |
 |           11 |      294 | 2025-07-24 | TPuDCATb TPu           | W   | 1.000      | 0.143        | 0.022 (0.003)    | 0.805 (0.115)    | 0 (0.000) |    16.23 | h1te, MaSvAl, synyx, tENZY, Vert |
-|           10 |      304 | 2025-07-23 | NIP Impact             | W   | 1.000      | 0.143        | 0.046 (0.007)    | 0.092 (0.013)    | 0 (0.000) |    14.28 | h1te, MaSvAl, synyx, tENZY, Vert |
-|            9 |      348 | 2025-07-19 | TEAM NEXT LEVEL        | L   | 1.000      | -            | -                | -                | -         |    -2.48 | H1te, MaSvAl, synyx, tENZY, Vert |
-|            8 |      448 | 2025-07-15 | 9INE                   | W   | 0.985      | 0.371        | 0.026 (0.010)    | 0.732 (0.267)    | 0 (0.000) |    23.20 | H1te, MaSvAl, synyx, tENZY, Vert |
-|            7 |      473 | 2025-07-14 | GUN5 Esports           | L   | 0.978      | -            | -                | -                | -         |    -9.33 | H1te, MaSvAl, synyx, tENZY, Vert |
-|            6 |      493 | 2025-07-13 | 9INE                   | W   | 0.970      | 0.371        | 0.026 (0.009)    | 0.732 (0.263)    | 0 (0.000) |    24.03 | H1te, MaSvAl, synyx, tENZY, Vert |
+|           10 |      304 | 2025-07-23 | NIP Impact             | W   | 1.000      | 0.143        | 0.046 (0.007)    | 0.092 (0.013)    | 0 (0.000) |    14.30 | h1te, MaSvAl, synyx, tENZY, Vert |
+|            9 |      348 | 2025-07-19 | TEAM NEXT LEVEL        | L   | 1.000      | -            | -                | -                | -         |    -2.47 | H1te, MaSvAl, synyx, tENZY, Vert |
+|            8 |      448 | 2025-07-15 | 9INE                   | W   | 0.985      | 0.371        | 0.026 (0.010)    | 0.732 (0.267)    | 0 (0.000) |    23.22 | H1te, MaSvAl, synyx, tENZY, Vert |
+|            7 |      473 | 2025-07-14 | GUN5 Esports           | L   | 0.978      | -            | -                | -                | -         |    -9.32 | H1te, MaSvAl, synyx, tENZY, Vert |
+|            6 |      493 | 2025-07-13 | 9INE                   | W   | 0.970      | 0.371        | 0.026 (0.009)    | 0.732 (0.263)    | 0 (0.000) |    24.05 | H1te, MaSvAl, synyx, tENZY, Vert |
 |            5 |      594 | 2025-07-09 | ESC Gaming             | L   | 0.945      | -            | -                | -                | -         |   -11.14 | H1te, MaSvAl, synyx, tENZY, Vert |
 |            4 |      601 | 2025-07-09 | MAJOR WINNERS          | W   | 0.945      | 0.147        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     2.95 | H1te, MaSvAl, synyx, tENZY, Vert |
-|            3 |     1498 | 2025-05-09 | PARIVISION             | L   | 0.539      | -            | -                | -                | -         |    -3.39 | h1te, MaSvAl, synyx, tENZY, Vert |
-|            2 |     1522 | 2025-05-08 | FUT Esports            | W   | 0.532      | 0.500        | 0.304 (0.081)    | 0.697 (0.186)    | 0 (0.000) |    14.48 | h1te, MaSvAl, synyx, tENZY, Vert |
-|            1 |     1546 | 2025-05-07 | B8                     | L   | 0.525      | -            | -                | -                | -         |    -0.73 | h1te, MaSvAl, synyx, tENZY, Vert |
+|            3 |     1498 | 2025-05-09 | PARIVISION             | L   | 0.539      | -            | -                | -                | -         |    -3.38 | h1te, MaSvAl, synyx, tENZY, Vert |
+|            2 |     1522 | 2025-05-08 | FUT Esports            | W   | 0.532      | 0.500        | 0.304 (0.081)    | 0.697 (0.186)    | 0 (0.000) |    14.49 | h1te, MaSvAl, synyx, tENZY, Vert |
+|            1 |     1546 | 2025-05-07 | B8                     | L   | 0.525      | -            | -                | -                | -         |    -0.70 | h1te, MaSvAl, synyx, tENZY, Vert |
 
 <br />
 <span id="table2"></span><br />

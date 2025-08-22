@@ -40,7 +40,7 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent                | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                         |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           18 |     2170 | 2025-04-09 | Kaleido Gaming          | W   | 0.337      | 0.369        | 0.011 (0.001)    | 0.106 (0.013)    | 0 (0.000) |     8.06 | aNSeLMO, bkzcurs3d, Kamui, Paranormal, soloooS |
+|           18 |     2170 | 2025-04-09 | Kaleido Gaming          | W   | 0.337      | 0.369        | 0.011 (0.001)    | 0.106 (0.013)    | 0 (0.000) |     8.07 | aNSeLMO, bkzcurs3d, Kamui, Paranormal, soloooS |
 |           17 |     2177 | 2025-04-09 | Kaleido Gaming          | W   | 0.337      | 0.369        | 0.011 (0.001)    | 0.106 (0.013)    | 0 (0.000) |     8.23 | aNSeLMO, bkzcurs3d, Kamui, Paranormal, soloooS |
 |           16 |     2218 | 2025-04-08 | The Huns Esports        | L   | 0.331      | -            | -                | -                | -         |    -0.62 | aNSeLMO, bkzcurs3d, Kamui, Paranormal, soloooS |
 |           15 |     2221 | 2025-04-08 | The Huns Esports        | L   | 0.330      | -            | -                | -                | -         |    -0.62 | aNSeLMO, bkzcurs3d, Kamui, Paranormal, soloooS |
@@ -48,8 +48,8 @@ Note:<br />
 |           13 |     2733 | 2025-03-26 | TYLOO                   | L   | 0.244      | -            | -                | -                | -         |    -0.00 | aNSeLMO, bkzcurs3d, Kamui, Paranormal, soloooS |
 |           12 |     2763 | 2025-03-25 | Nomads (Mongolian team) | W   | 0.238      | 0.369        | 0.000 (0.000)    | 0.073 (0.006)    | 0 (0.000) |     4.12 | aNSeLMO, bkzcurs3d, Kamui, Paranormal, soloooS |
 |           11 |     2771 | 2025-03-25 | Nomads (Mongolian team) | L   | 0.237      | -            | -                | -                | -         |    -3.41 | aNSeLMO, bkzcurs3d, Kamui, Paranormal, soloooS |
-|           10 |     2783 | 2025-03-24 | Chinggis Warriors       | L   | 0.231      | -            | -                | -                | -         |    -0.31 | aNSeLMO, bkzcurs3d, Kamui, Paranormal, soloooS |
-|            9 |     2784 | 2025-03-24 | Chinggis Warriors       | L   | 0.231      | -            | -                | -                | -         |    -0.31 | aNSeLMO, bkzcurs3d, Kamui, Paranormal, soloooS |
+|           10 |     2783 | 2025-03-24 | Chinggis Warriors       | L   | 0.231      | -            | -                | -                | -         |    -0.30 | aNSeLMO, bkzcurs3d, Kamui, Paranormal, soloooS |
+|            9 |     2784 | 2025-03-24 | Chinggis Warriors       | L   | 0.231      | -            | -                | -                | -         |    -0.30 | aNSeLMO, bkzcurs3d, Kamui, Paranormal, soloooS |
 |            8 |     2917 | 2025-03-18 | Lynn Vision Gaming      | L   | 0.191      | -            | -                | -                | -         |    -0.01 | aNSeLMO, bkzcurs3d, Kamui, Paranormal, soloooS |
 |            7 |     2924 | 2025-03-18 | Lynn Vision Gaming      | L   | 0.191      | -            | -                | -                | -         |    -0.01 | aNSeLMO, bkzcurs3d, Kamui, Paranormal, soloooS |
 |            6 |     3486 | 2025-02-27 | FengDa Gaming           | L   | 0.064      | -            | -                | -                | -         |    -0.49 | aNSeLMO, bkzcurs3d, Kamui, Paranormal, soloooS |

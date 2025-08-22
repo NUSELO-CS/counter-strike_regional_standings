@@ -43,7 +43,7 @@ Note:<br />
 |           18 |     1947 | 2025-04-19 | Team GATERON             | L   | 0.404      | -            | -                | -                | -         |    -7.21 | Estate, foggers, Hassie, Kras, Samuukxs |
 |           17 |     1973 | 2025-04-18 | Nomads (Mongolian team)  | L   | 0.396      | -            | -                | -                | -         |    -2.09 | Estate, foggers, Hassie, Kras, Samuukxs |
 |           16 |     2228 | 2025-04-08 | Only One Word            | W   | 0.330      | 0.297        | 0.001 (0.000)    | 0.107 (0.010)    | 0 (0.000) |     7.83 | Estate, foggers, Hassie, Kras, Samuukxs |
-|           15 |     2230 | 2025-04-08 | Only One Word            | L   | 0.330      | -            | -                | -                | -         |    -2.59 | Estate, foggers, Hassie, Kras, Samuukxs |
+|           15 |     2230 | 2025-04-08 | Only One Word            | L   | 0.330      | -            | -                | -                | -         |    -2.58 | Estate, foggers, Hassie, Kras, Samuukxs |
 |           14 |     2393 | 2025-04-02 | Rooster                  | L   | 0.290      | -            | -                | -                | -         |    -1.79 | Estate, foggers, Hassie, Kras, Samuukxs |
 |           13 |     2399 | 2025-04-02 | Rooster                  | L   | 0.290      | -            | -                | -                | -         |    -1.82 | Estate, foggers, Hassie, Kras, Samuukxs |
 |           12 |     2616 | 2025-03-27 | FURY                     | L   | 0.255      | -            | -                | -                | -         |    -2.51 | Estate, Hassie, Kras, Samuukxs, TRIPLUS |

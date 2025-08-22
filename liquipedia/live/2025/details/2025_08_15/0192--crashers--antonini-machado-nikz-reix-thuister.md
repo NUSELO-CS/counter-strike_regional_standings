@@ -8,7 +8,7 @@ Regional Rank: [59]( ../../standings_americas_2025_08_15.md)<br />
 <br />
 Final Rank Value:  600.8<br />
 <br />
-Final Rank Value (600.8) = Starting Rank Value (644.5) + Head To Head Adjustments (-43.7)<br />
+Final Rank Value (600.8) = Starting Rank Value (644.5) + Head To Head Adjustments (-43.6)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -40,18 +40,18 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                   |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           21 |      193 | 2025-07-30 | Bad Luck         | L   | 1.000      | -            | -                | -                | -         |   -17.87 | antonini, Machado, nikz, Reix, Thuister  |
+|           21 |      193 | 2025-07-30 | Bad Luck         | L   | 1.000      | -            | -                | -                | -         |   -17.88 | antonini, Machado, nikz, Reix, Thuister  |
 |           20 |      206 | 2025-07-29 | Dusty Roots      | L   | 1.000      | -            | -                | -                | -         |   -15.74 | antonini, Machado, nikz, Reix, Thuister  |
-|           19 |      227 | 2025-07-27 | RED Canids       | L   | 1.000      | -            | -                | -                | -         |    -6.23 | antonini, Machado, nikz, Reix, Thuister  |
+|           19 |      227 | 2025-07-27 | RED Canids       | L   | 1.000      | -            | -                | -                | -         |    -6.21 | antonini, Machado, nikz, Reix, Thuister  |
 |           18 |      276 | 2025-07-25 | JERSA ESPORTS    | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.097 (0.014)    | 0 (0.000) |    10.76 | antonini, Machado, nikz, Reix, Thuister  |
-|           17 |      581 | 2025-07-09 | Elevate          | L   | 0.946      | -            | -                | -                | -         |   -18.80 | antonini, nikz, proSHOW, Reix, Thuister  |
-|           16 |      590 | 2025-07-09 | 2Game Esports    | L   | 0.945      | -            | -                | -                | -         |    -7.30 | antonini, nikz, proSHOW, Reix, Thuister  |
-|           15 |      618 | 2025-07-08 | Sharks Esports   | L   | 0.938      | -            | -                | -                | -         |    -4.24 | antonini, nikz, proSHOW, Reix, Thuister  |
-|           14 |     1152 | 2025-05-24 | Sharks Esports   | L   | 0.639      | -            | -                | -                | -         |    -2.78 | antonini, nikz, proSHOW, Reix, SHOOWTiME |
+|           17 |      581 | 2025-07-09 | Elevate          | L   | 0.946      | -            | -                | -                | -         |   -18.81 | antonini, nikz, proSHOW, Reix, Thuister  |
+|           16 |      590 | 2025-07-09 | 2Game Esports    | L   | 0.945      | -            | -                | -                | -         |    -7.29 | antonini, nikz, proSHOW, Reix, Thuister  |
+|           15 |      618 | 2025-07-08 | Sharks Esports   | L   | 0.938      | -            | -                | -                | -         |    -4.23 | antonini, nikz, proSHOW, Reix, Thuister  |
+|           14 |     1152 | 2025-05-24 | Sharks Esports   | L   | 0.639      | -            | -                | -                | -         |    -2.77 | antonini, nikz, proSHOW, Reix, SHOOWTiME |
 |           13 |     1278 | 2025-05-18 | Tropa do KinGui  | W   | 0.599      | 0.326        | 0.001 (0.000)    | 0.033 (0.006)    | 0 (0.000) |     7.79 | antonini, nikz, proSHOW, Reix, SHOOWTiME |
 |           12 |     1356 | 2025-05-14 | ZZZZZZZZZZ       | W   | 0.573      | 0.326        | 0.000 (0.000)    | 0.026 (0.005)    | 0 (0.000) |     8.37 | antonini, nikz, proSHOW, Reix, SHOOWTiME |
-|           11 |     1380 | 2025-05-13 | SELVA            | W   | 0.567      | 0.326        | 0.018 (0.003)    | 0.292 (0.054)    | 0 (0.000) |    13.04 | antonini, nikz, proSHOW, Reix, SHOOWTiME |
-|           10 |     1390 | 2025-05-13 | Keyd Stars       | L   | 0.566      | -            | -                | -                | -         |    -6.45 | antonini, nikz, proSHOW, Reix, SHOOWTiME |
+|           11 |     1380 | 2025-05-13 | SELVA            | W   | 0.567      | 0.326        | 0.018 (0.003)    | 0.292 (0.054)    | 0 (0.000) |    13.05 | antonini, nikz, proSHOW, Reix, SHOOWTiME |
+|           10 |     1390 | 2025-05-13 | Keyd Stars       | L   | 0.566      | -            | -                | -                | -         |    -6.44 | antonini, nikz, proSHOW, Reix, SHOOWTiME |
 |            9 |     2299 | 2025-04-04 | ODDIK            | L   | 0.304      | -            | -                | -                | -         |    -0.79 | antonini, nikz, proSHOW, Reix, Thuister  |
 |            8 |     2321 | 2025-04-03 | Imperial Esports | L   | 0.298      | -            | -                | -                | -         |    -0.34 | antonini, nikz, proSHOW, Reix, Thuister  |
 |            7 |     2528 | 2025-03-29 | Sharks Esports   | L   | 0.264      | -            | -                | -                | -         |    -0.95 | antonini, nikz, proSHOW, Reix, Thuister  |

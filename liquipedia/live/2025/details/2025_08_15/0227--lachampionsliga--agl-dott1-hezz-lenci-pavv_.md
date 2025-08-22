@@ -8,7 +8,7 @@ Regional Rank: [74]( ../../standings_americas_2025_08_15.md)<br />
 <br />
 Final Rank Value:  509.2<br />
 <br />
-Final Rank Value (509.2) = Starting Rank Value (512.5) + Head To Head Adjustments (-3.4)<br />
+Final Rank Value (509.2) = Starting Rank Value (512.5) + Head To Head Adjustments (-3.3)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -40,14 +40,14 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent                 | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                         |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           18 |      423 | 2025-07-16 | DESEMPREGUEIDOS          | L   | 0.992      | -            | -                | -                | -         |   -10.73 | AGL, dott1, Hezz, lenci, pavv+ |
+|           18 |      423 | 2025-07-16 | DESEMPREGUEIDOS          | L   | 0.992      | -            | -                | -                | -         |   -10.71 | AGL, dott1, Hezz, lenci, pavv+ |
 |           17 |      585 | 2025-07-09 | Yawara E-Sports          | W   | 0.946      | 0.147        | 0.007 (0.001)    | 0.269 (0.037)    | 0 (0.000) |    20.40 | AGL, dott1, Hezz, lenci, pavv+ |
 |           16 |      775 | 2025-06-18 | Dusty Roots              | L   | 0.805      | -            | -                | -                | -         |   -11.27 | AGL, dott1, Hezz, lenci, pavv+ |
 |           15 |      811 | 2025-06-16 | Players (Brazilian team) | L   | 0.791      | -            | -                | -                | -         |    -8.59 | AGL, dott1, Hezz, lenci, pavv+ |
 |           14 |      867 | 2025-06-14 | Flamengo Esports         | L   | 0.778      | -            | -                | -                | -         |    -4.66 | AGL, dott1, Hezz, lenci, pavv+ |
 |           13 |     2498 | 2025-03-29 | SELVA                    | L   | 0.267      | -            | -                | -                | -         |    -1.65 | dott1, Hezz, lenci, pavv+, rzk |
 |           12 |     2532 | 2025-03-29 | R2 Esports Club          | W   | 0.264      | 0.769        | 0.000 (0.000)    | 0.026 (0.005)    | 0 (0.000) |     3.83 | dott1, Hezz, lenci, pavv+, rzk |
-|           11 |     2578 | 2025-03-28 | Fluxo                    | L   | 0.259      | -            | -                | -                | -         |    -0.34 | dott1, Hezz, lenci, pavv+, rzk |
+|           11 |     2578 | 2025-03-28 | Fluxo                    | L   | 0.259      | -            | -                | -                | -         |    -0.33 | dott1, Hezz, lenci, pavv+, rzk |
 |           10 |     2659 | 2025-03-27 | Yawara E-Sports          | W   | 0.252      | 0.769        | 0.007 (0.001)    | 0.269 (0.052)    | 0 (0.000) |     5.79 | dott1, Hezz, lenci, pavv+, rzk |
 |            9 |     3113 | 2025-03-09 | 2Game Esports            | L   | 0.131      | -            | -                | -                | -         |    -0.76 | dott1, Hezz, lenci, pavv+, rzk |
 |            8 |     3162 | 2025-03-08 | Flamengo Esports         | L   | 0.126      | -            | -                | -                | -         |    -0.74 | dott1, Hezz, lenci, pavv+, rzk |

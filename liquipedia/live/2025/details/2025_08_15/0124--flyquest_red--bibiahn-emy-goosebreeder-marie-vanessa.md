@@ -40,10 +40,10 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent             | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                           |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           13 |     1165 | 2025-05-23 | Imperial Female      | L   | 0.633      | -            | -                | -                | -         |    -8.82 | BiBiAhn, emy, GooseBreeder, marie, vanessa       |
+|           13 |     1165 | 2025-05-23 | Imperial Female      | L   | 0.633      | -            | -                | -                | -         |    -8.81 | BiBiAhn, emy, GooseBreeder, marie, vanessa       |
 |           12 |     1171 | 2025-05-23 | MIBR Female          | W   | 0.631      | 0.624        | 0.014 (0.006)    | 0.049 (0.019)    | 1 (0.631) |     8.05 | BiBiAhn, emy, GooseBreeder, marie, vanessa       |
-|           11 |     1182 | 2025-05-22 | Imperial Female      | L   | 0.626      | -            | -                | -                | -         |    -8.74 | BiBiAhn, emy, GooseBreeder, marie, vanessa       |
-|           10 |     1824 | 2025-04-26 | NRG                  | L   | 0.455      | -            | -                | -                | -         |    -1.40 | BiBiAhn, emy, GooseBreeder, Shakezullah, vanessa |
+|           11 |     1182 | 2025-05-22 | Imperial Female      | L   | 0.626      | -            | -                | -                | -         |    -8.73 | BiBiAhn, emy, GooseBreeder, marie, vanessa       |
+|           10 |     1824 | 2025-04-26 | NRG                  | L   | 0.455      | -            | -                | -                | -         |    -1.39 | BiBiAhn, emy, GooseBreeder, Shakezullah, vanessa |
 |            9 |     2115 | 2025-04-11 | Ghost Gaming         | W   | 0.354      | 0.533        | 0.001 (0.000)    | 0.019 (0.004)    | 0 (0.000) |     3.56 | BiBiAhn, emy, GooseBreeder, marie, vanessa       |
 |            8 |     2358 | 2025-04-02 | Black mold           | W   | 0.294      | 0.533        | 0.001 (0.000)    | 0.015 (0.002)    | 0 (0.000) |     3.00 | BiBiAhn, emy, GooseBreeder, marie, vanessa       |
 |            7 |     2574 | 2025-03-28 | Daaku                | L   | 0.260      | -            | -                | -                | -         |    -6.41 | BiBiAhn, emy, GooseBreeder, marie, vanessa       |

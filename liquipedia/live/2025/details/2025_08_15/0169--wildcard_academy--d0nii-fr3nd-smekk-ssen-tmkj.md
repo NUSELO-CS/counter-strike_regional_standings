@@ -43,7 +43,7 @@ Note:<br />
 |            9 |      592 | 2025-07-09 | Modeame           | L   | 0.945      | -            | -                | -                | -         |   -13.72 | D0nii, fr3nd, smekk, sSen, TMKj   |
 |            8 |      628 | 2025-07-07 | QMISTRY           | L   | 0.931      | -            | -                | -                | -         |   -13.66 | D0nii, fr3nd, smekk, sSen, TMKj   |
 |            7 |      644 | 2025-07-05 | TPuDCATb TPu      | L   | 0.916      | -            | -                | -                | -         |    -7.71 | D0nii, fr3nd, smekk, sSen, TMKj   |
-|            6 |      649 | 2025-07-03 | Fire Flux Esports | W   | 0.905      | 0.483        | 0.003 (0.001)    | 0.390 (0.170)    | 0 (0.000) |    19.88 | D0nii, fr3nd, smekk, sSen, TMKj   |
+|            6 |      649 | 2025-07-03 | Fire Flux Esports | W   | 0.905      | 0.483        | 0.003 (0.001)    | 0.390 (0.170)    | 0 (0.000) |    19.89 | D0nii, fr3nd, smekk, sSen, TMKj   |
 |            5 |      662 | 2025-07-01 | Fisher College    | W   | 0.892      | 0.483        | 0.001 (0.001)    | 0.199 (0.086)    | 0 (0.000) |    14.59 | D0nii, fr3nd, smekk, sSen, TMKj   |
 |            4 |     2975 | 2025-03-14 | Ex-Sabre Esports  | L   | 0.165      | -            | -                | -                | -         |    -1.71 | fr3nd, sSen, T4gg3D, TMKj, Wonder |
 |            3 |     2991 | 2025-03-13 | Benched           | W   | 0.158      | 0.372        | 0.000 (0.000)    | 0.010 (0.001)    | 0 (0.000) |     1.09 | fr3nd, sSen, T4gg3D, TMKj, Wonder |

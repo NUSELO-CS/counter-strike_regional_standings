@@ -6,9 +6,9 @@ Global Rank: [114](../../standings_global_2025_08_15.md)<br />
 Region: [Europe]( ../../standings_europe_2025_08_15.md)<br />
 Regional Rank: [75]( ../../standings_europe_2025_08_15.md)<br />
 <br />
-Final Rank Value:  752.8<br />
+Final Rank Value:  753.1<br />
 <br />
-Final Rank Value (752.8) = Starting Rank Value (822.4) + Head To Head Adjustments (-69.7)<br />
+Final Rank Value (753.1) = Starting Rank Value (822.4) + Head To Head Adjustments (-69.3)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -40,25 +40,25 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent       | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                          |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           23 |      273 | 2025-07-26 | Fisher College | L   | 1.000      | -            | -                | -                | -         |   -21.78 | ANa, Kat, tory, twenty3, wieenn |
-|           22 |      288 | 2025-07-25 | RUBY           | L   | 1.000      | -            | -                | -                | -         |    -9.52 | ANa, Kat, tory, twenty3, wieenn |
-|           21 |     1153 | 2025-05-24 | FURIA Female   | L   | 0.639      | -            | -                | -                | -         |    -5.14 | ANa, Kat, tory, twenty3, zAAz   |
-|           20 |     1165 | 2025-05-23 | FlyQuest RED   | W   | 0.633      | 0.624        | 0.030 (0.012)    | 0.089 (0.035)    | 1 (0.633) |     8.82 | ANa, Kat, tory, twenty3, zAAz   |
-|           19 |     1180 | 2025-05-22 | NIP Impact     | L   | 0.627      | -            | -                | -                | -         |    -8.82 | ANa, Kat, tory, twenty3, zAAz   |
-|           18 |     1182 | 2025-05-22 | FlyQuest RED   | W   | 0.626      | 0.624        | 0.030 (0.012)    | 0.089 (0.035)    | 1 (0.626) |     8.74 | ANa, Kat, tory, twenty3, zAAz   |
-|           17 |     1370 | 2025-05-14 | 1win Team      | L   | 0.571      | -            | -                | -                | -         |    -9.63 | ANa, bubble, Kat, tory, twenty3 |
-|           16 |     1555 | 2025-05-07 | KONO.ECF       | L   | 0.525      | -            | -                | -                | -         |   -13.60 | ANa, Kat, tory, twenty3, zAAz   |
-|           15 |     1734 | 2025-04-30 | 9INE           | L   | 0.478      | -            | -                | -                | -         |    -2.32 | ANa, Kat, tory, twenty3, zAAz   |
+|           23 |      273 | 2025-07-26 | Fisher College | L   | 1.000      | -            | -                | -                | -         |   -21.79 | ANa, Kat, tory, twenty3, wieenn |
+|           22 |      288 | 2025-07-25 | RUBY           | L   | 1.000      | -            | -                | -                | -         |    -9.51 | ANa, Kat, tory, twenty3, wieenn |
+|           21 |     1153 | 2025-05-24 | FURIA Female   | L   | 0.639      | -            | -                | -                | -         |    -5.15 | ANa, Kat, tory, twenty3, zAAz   |
+|           20 |     1165 | 2025-05-23 | FlyQuest RED   | W   | 0.633      | 0.624        | 0.030 (0.012)    | 0.089 (0.035)    | 1 (0.633) |     8.81 | ANa, Kat, tory, twenty3, zAAz   |
+|           19 |     1180 | 2025-05-22 | NIP Impact     | L   | 0.627      | -            | -                | -                | -         |    -8.83 | ANa, Kat, tory, twenty3, zAAz   |
+|           18 |     1182 | 2025-05-22 | FlyQuest RED   | W   | 0.626      | 0.624        | 0.030 (0.012)    | 0.089 (0.035)    | 1 (0.626) |     8.73 | ANa, Kat, tory, twenty3, zAAz   |
+|           17 |     1370 | 2025-05-14 | 1win Team      | L   | 0.571      | -            | -                | -                | -         |    -9.64 | ANa, bubble, Kat, tory, twenty3 |
+|           16 |     1555 | 2025-05-07 | KONO.ECF       | L   | 0.525      | -            | -                | -                | -         |   -13.61 | ANa, Kat, tory, twenty3, zAAz   |
+|           15 |     1734 | 2025-04-30 | 9INE           | L   | 0.478      | -            | -                | -                | -         |    -2.33 | ANa, Kat, tory, twenty3, zAAz   |
 |           14 |     1763 | 2025-04-29 | Sashi Esport   | L   | 0.471      | -            | -                | -                | -         |    -4.26 | ANa, Kat, tory, twenty3, zAAz   |
 |           13 |     1874 | 2025-04-24 | Dynamo Eclot   | L   | 0.439      | -            | -                | -                | -         |    -4.48 | ANa, Kat, tory, twenty3, zAAz   |
-|           12 |     1887 | 2025-04-23 | 500            | L   | 0.431      | -            | -                | -                | -         |    -6.41 | ANa, Kat, tory, twenty3, zAAz   |
+|           12 |     1887 | 2025-04-23 | 500            | L   | 0.431      | -            | -                | -                | -         |    -6.42 | ANa, Kat, tory, twenty3, zAAz   |
 |           11 |     2123 | 2025-04-11 | CS2NEWS Ladies | W   | 0.352      | 0.536        | 0.001 (0.000)    | 0.009 (0.002)    | 0 (0.000) |     2.74 | ANa, Kat, tory, twenty3, zAAz   |
-|           10 |     2315 | 2025-04-03 | Nemiga Gaming  | L   | 0.299      | -            | -                | -                | -         |    -0.81 | ANa, Kat, tory, twenty3, zAAz   |
-|            9 |     2326 | 2025-04-03 | Metizport      | L   | 0.298      | -            | -                | -                | -         |    -3.23 | ANa, Kat, tory, twenty3, zAAz   |
+|           10 |     2315 | 2025-04-03 | Nemiga Gaming  | L   | 0.299      | -            | -                | -                | -         |    -0.79 | ANa, Kat, tory, twenty3, zAAz   |
+|            9 |     2326 | 2025-04-03 | Metizport      | L   | 0.298      | -            | -                | -                | -         |    -3.05 | ANa, Kat, tory, twenty3, zAAz   |
 |            8 |     2340 | 2025-04-03 | Passion UA     | L   | 0.296      | -            | -                | -                | -         |    -0.86 | ANa, Kat, tory, twenty3, zAAz   |
 |            7 |     2366 | 2025-04-02 | DMS            | W   | 0.292      | 0.536        | 0.014 (0.002)    | 0.028 (0.004)    | 0 (0.000) |     2.70 | ANa, Kat, tory, twenty3, zAAz   |
 |            6 |     2381 | 2025-04-02 | Complexity     | L   | 0.291      | -            | -                | -                | -         |    -0.46 | ANa, Kat, tory, twenty3, zAAz   |
-|            5 |     2390 | 2025-04-02 | 9Pandas        | L   | 0.290      | -            | -                | -                | -         |    -4.44 | ANa, Kat, tory, twenty3, zAAz   |
+|            5 |     2390 | 2025-04-02 | 9Pandas        | L   | 0.290      | -            | -                | -                | -         |    -4.27 | ANa, Kat, tory, twenty3, zAAz   |
 |            4 |     2719 | 2025-03-26 | Spray and Slay | W   | 0.246      | 0.536        | 0.001 (0.000)    | 0.003 (0.000)    | 0 (0.000) |     1.70 | ANa, Kat, tory, twenty3, zAAz   |
 |            3 |     2760 | 2025-03-25 | ECSTATIC       | L   | 0.238      | -            | -                | -                | -         |    -0.61 | ANa, Kat, tory, twenty3, zAAz   |
 |            2 |     2987 | 2025-03-13 | Let Her Cook   | W   | 0.159      | 0.536        | 0.001 (0.000)    | 0.028 (0.002)    | 0 (0.000) |     1.19 | ANa, Kat, tory, twenty3, zAAz   |

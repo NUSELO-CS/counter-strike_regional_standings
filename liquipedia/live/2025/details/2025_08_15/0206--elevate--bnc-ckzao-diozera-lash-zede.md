@@ -40,12 +40,12 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent                 | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                           |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           21 |      412 | 2025-07-16 | Imperial Esports         | L   | 0.994      | -            | -                | -                | -         |    -0.98 | bnc, ckzao, diozera, lash, zede  |
+|           21 |      412 | 2025-07-16 | Imperial Esports         | L   | 0.994      | -            | -                | -                | -         |    -0.97 | bnc, ckzao, diozera, lash, zede  |
 |           20 |      420 | 2025-07-16 | LargadosyPelados         | W   | 0.992      | 0.143        | 0.003 (0.000)    | 0.191 (0.027)    | 0 (0.000) |    22.64 | bnc, ckzao, diozera, lash, zede  |
-|           19 |      538 | 2025-07-11 | RED Canids               | L   | 0.959      | -            | -                | -                | -         |    -5.42 | bnc, ckzao, diozera, lash, zede  |
+|           19 |      538 | 2025-07-11 | RED Canids               | L   | 0.959      | -            | -                | -                | -         |    -5.41 | bnc, ckzao, diozera, lash, zede  |
 |           18 |      569 | 2025-07-10 | Game Hunters             | W   | 0.952      | 0.143        | 0.004 (0.001)    | 0.361 (0.049)    | 0 (0.000) |    22.68 | bnc, ckzao, diozera, lash, zede  |
-|           17 |      571 | 2025-07-10 | SELVA                    | L   | 0.951      | -            | -                | -                | -         |    -8.34 | bnc, ckzao, diozera, lash, zede  |
-|           16 |      581 | 2025-07-09 | Crashers                 | W   | 0.946      | 0.147        | 0.002 (0.000)    | 0.149 (0.021)    | 0 (0.000) |    18.80 | bnc, ckzao, diozera, lash, zede  |
+|           17 |      571 | 2025-07-10 | SELVA                    | L   | 0.951      | -            | -                | -                | -         |    -8.33 | bnc, ckzao, diozera, lash, zede  |
+|           16 |      581 | 2025-07-09 | Crashers                 | W   | 0.946      | 0.147        | 0.002 (0.000)    | 0.149 (0.021)    | 0 (0.000) |    18.81 | bnc, ckzao, diozera, lash, zede  |
 |           15 |      715 | 2025-06-22 | ShindeN                  | L   | 0.832      | -            | -                | -                | -         |    -7.57 | bnc, ckzao, diozera, lash, zede  |
 |           14 |      743 | 2025-06-20 | MIBR Academy             | W   | 0.820      | 0.371        | 0.001 (0.000)    | 0.108 (0.033)    | 0 (0.000) |    15.31 | bnc, ckzao, diozera, lash, zede  |
 |           13 |      772 | 2025-06-18 | Players (Brazilian team) | L   | 0.806      | -            | -                | -                | -         |    -9.02 | bnc, ckzao, diozera, lash, zede  |

@@ -6,9 +6,9 @@ Global Rank: [12](../../standings_global_2025_08_15.md)<br />
 Region: [Europe]( ../../standings_europe_2025_08_15.md)<br />
 Regional Rank: [9]( ../../standings_europe_2025_08_15.md)<br />
 <br />
-Final Rank Value:  1647.2<br />
+Final Rank Value:  1647.6<br />
 <br />
-Final Rank Value (1647.2) = Starting Rank Value (1649.6) + Head To Head Adjustments (-2.4)<br />
+Final Rank Value (1647.6) = Starting Rank Value (1649.6) + Head To Head Adjustments (-2.1)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -40,28 +40,28 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent                    | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                   |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           42 |       45 | 2025-08-10 | HEROIC                      | W   | 1.000      | -            | -                | -                | -         |    10.46 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |
-|           41 |       76 | 2025-08-08 | FlyQuest                    | W   | 1.000      | -            | -                | -                | -         |     5.38 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |
+|           42 |       45 | 2025-08-10 | HEROIC                      | W   | 1.000      | -            | -                | -                | -         |    10.52 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |
+|           41 |       76 | 2025-08-08 | FlyQuest                    | W   | 1.000      | -            | -                | -                | -         |     5.49 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |
 |           40 |      208 | 2025-07-29 | FaZe Clan                   | L   | 1.000      | -            | -                | -                | -         |   -11.87 | jottAAA, MAJ3R, Wicadia, woxic, xfl0ud   |
 |           39 |      220 | 2025-07-28 | Team Spirit                 | L   | 1.000      | -            | -                | -                | -         |    -4.10 | jottAAA, MAJ3R, Wicadia, woxic, xfl0ud   |
-|           38 |      263 | 2025-07-26 | Ninjas in Pyjamas           | W   | 1.000      | 1.000        | 0.211 (0.211)    | 0.692 (0.692)    | 1 (1.000) |     8.59 | jottAAA, MAJ3R, Wicadia, woxic, xfl0ud   |
+|           38 |      263 | 2025-07-26 | Ninjas in Pyjamas           | W   | 1.000      | 1.000        | 0.211 (0.211)    | 0.692 (0.692)    | 1 (1.000) |     8.60 | jottAAA, MAJ3R, Wicadia, woxic, xfl0ud   |
 |           37 |      853 | 2025-06-14 | MOUZ                        | L   | 0.779      | -            | -                | -                | -         |    -4.50 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |
 |           36 |      900 | 2025-06-13 | G2 Esports                  | L   | 0.772      | -            | -                | -                | -         |   -13.90 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |
 |           35 |      923 | 2025-06-12 | FURIA                       | L   | 0.766      | -            | -                | -                | -         |    -8.77 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |
 |           34 |      929 | 2025-06-12 | FaZe Clan                   | W   | 0.765      | 1.000        | 0.510 (0.390)    | 0.538 (0.412)    | 1 (0.765) |    13.71 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |
-|           33 |     1168 | 2025-05-23 | The MongolZ                 | L   | 0.632      | -            | -                | -                | -         |    -5.31 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |
-|           32 |     1203 | 2025-05-21 | HEROIC                      | W   | 0.620      | 1.000        | 0.429 (0.266)    | 0.611 (0.379)    | 1 (0.620) |     8.41 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |
+|           33 |     1168 | 2025-05-23 | The MongolZ                 | L   | 0.632      | -            | -                | -                | -         |    -5.32 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |
+|           32 |     1203 | 2025-05-21 | HEROIC                      | W   | 0.620      | 1.000        | 0.429 (0.266)    | 0.611 (0.379)    | 1 (0.620) |     8.47 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |
 |           31 |     1210 | 2025-05-21 | Team Liquid                 | W   | 0.618      | 1.000        | 0.251 (0.155)    | 0.292 (0.180)    | 1 (0.618) |     3.20 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |
-|           30 |     1227 | 2025-05-20 | NRG                         | W   | 0.613      | 1.000        | -                | 0.586 (0.360)    | 1 (0.613) |     1.23 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |
-|           29 |     1254 | 2025-05-19 | HEROIC                      | L   | 0.607      | -            | -                | -                | -         |   -11.23 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |
+|           30 |     1227 | 2025-05-20 | NRG                         | W   | 0.613      | 1.000        | -                | 0.586 (0.360)    | 1 (0.613) |     1.24 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |
+|           29 |     1254 | 2025-05-19 | HEROIC                      | L   | 0.607      | -            | -                | -                | -         |   -11.18 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |
 |           28 |     1290 | 2025-05-18 | FURIA                       | W   | 0.596      | 1.000        | 0.532 (0.317)    | 0.578 (0.345)    | 1 (0.596) |    12.67 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |
 |           27 |     1305 | 2025-05-17 | Astralis                    | L   | 0.590      | -            | -                | -                | -         |    -6.05 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |
 |           26 |     1331 | 2025-05-15 | The MongolZ                 | W   | 0.582      | 1.000        | 1.000 (0.582)    | 0.492 (0.286)    | 1 (0.582) |    13.78 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |
 |           25 |     1377 | 2025-05-14 | ODDIK                       | W   | 0.569      | 1.000        | -                | 0.556 (0.316)    | 1 (0.569) |     0.80 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |
 |           24 |     1407 | 2025-05-13 | Natus Vincere               | L   | 0.563      | -            | -                | -                | -         |    -5.65 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |
-|           23 |     1434 | 2025-05-12 | Ninjas in Pyjamas           | W   | 0.556      | 1.000        | 0.211 (0.117)    | 0.692 (0.385)    | 1 (0.556) |     6.08 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |
+|           23 |     1434 | 2025-05-12 | Ninjas in Pyjamas           | W   | 0.556      | 1.000        | 0.211 (0.117)    | 0.692 (0.385)    | 1 (0.556) |     6.09 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |
 |           22 |     1456 | 2025-05-11 | HOTU                        | W   | 0.550      | -            | -                | -                | 1 (0.550) |     0.30 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |
-|           21 |     1493 | 2025-05-09 | BIG                         | L   | 0.542      | -            | -                | -                | -         |   -15.73 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |
+|           21 |     1493 | 2025-05-09 | BIG                         | L   | 0.542      | -            | -                | -                | -         |   -15.72 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |
 |           20 |     2129 | 2025-04-11 | Complexity                  | L   | 0.350      | -            | -                | -                | -         |    -9.14 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |
 |           19 |     2178 | 2025-04-09 | Betclic Apogee Esports      | W   | 0.337      | -            | -                | -                | -         |     0.45 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |
 |           18 |     2212 | 2025-04-08 | 3DMAX                       | L   | 0.331      | -            | -                | -                | -         |    -4.00 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |
@@ -77,7 +77,7 @@ Note:<br />
 |            8 |     3103 | 2025-03-09 | Team Liquid                 | L   | 0.132      | -            | -                | -                | -         |    -3.61 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |
 |            7 |     3207 | 2025-03-08 | MIBR                        | W   | 0.123      | -            | -                | -                | -         |     0.55 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |
 |            6 |     3265 | 2025-03-07 | 3DMAX                       | L   | 0.117      | -            | -                | -                | -         |    -1.40 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |
-|            5 |     3377 | 2025-03-04 | FlyQuest                    | W   | 0.098      | -            | -                | -                | -         |     0.48 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |
+|            5 |     3377 | 2025-03-04 | FlyQuest                    | W   | 0.098      | -            | -                | -                | -         |     0.49 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |
 |            4 |     3392 | 2025-03-03 | NRG                         | W   | 0.092      | -            | -                | -                | -         |     0.16 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |
 |            3 |     3421 | 2025-03-02 | TYLOO                       | L   | 0.084      | -            | -                | -                | -         |    -0.56 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |
 |            2 |     3455 | 2025-03-01 | Mindfreak (Australian team) | W   | 0.076      | -            | -                | -                | -         |     0.01 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |

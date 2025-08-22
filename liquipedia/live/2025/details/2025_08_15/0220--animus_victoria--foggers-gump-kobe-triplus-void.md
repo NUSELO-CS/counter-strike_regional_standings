@@ -8,7 +8,7 @@ Regional Rank: [34]( ../../standings_asia_2025_08_15.md)<br />
 <br />
 Final Rank Value:  538.0<br />
 <br />
-Final Rank Value (538.0) = Starting Rank Value (506.2) + Head To Head Adjustments (31.8)<br />
+Final Rank Value (538.0) = Starting Rank Value (506.2) + Head To Head Adjustments (31.9)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -40,8 +40,8 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent                    | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                             |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            5 |      437 | 2025-07-16 | Ground Zero Gaming          | L   | 0.990      | -            | -                | -                | -         |   -10.23 | foggers, gump, Kobe, TRIPLUS, void |
-|            4 |      482 | 2025-07-14 | Mindfreak (Australian team) | W   | 0.976      | 0.314        | 0.003 (0.001)    | 0.140 (0.043)    | 0 (0.000) |    19.05 | foggers, gump, Kobe, TRIPLUS, void |
+|            5 |      437 | 2025-07-16 | Ground Zero Gaming          | L   | 0.990      | -            | -                | -                | -         |   -10.22 | foggers, gump, Kobe, TRIPLUS, void |
+|            4 |      482 | 2025-07-14 | Mindfreak (Australian team) | W   | 0.976      | 0.314        | 0.003 (0.001)    | 0.140 (0.043)    | 0 (0.000) |    19.06 | foggers, gump, Kobe, TRIPLUS, void |
 |            3 |      520 | 2025-07-12 | Rooster                     | L   | 0.963      | -            | -                | -                | -         |    -7.41 | foggers, gump, Kobe, TRIPLUS, void |
 |            2 |      612 | 2025-07-09 | Mindfreak (Australian team) | W   | 0.942      | 0.314        | 0.003 (0.001)    | 0.140 (0.041)    | 0 (0.000) |    20.45 | foggers, gump, Kobe, TRIPLUS, void |
 |            1 |      633 | 2025-07-07 | LE-LUX Esports              | W   | 0.930      | 0.314        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |    10.00 | foggers, gump, Kobe, TRIPLUS, void |

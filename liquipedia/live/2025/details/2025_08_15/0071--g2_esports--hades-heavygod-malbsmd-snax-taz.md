@@ -40,10 +40,10 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                              |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            5 |     1378 | 2025-05-13 | Ninjas in Pyjamas | L   | 0.569      | -            | -                | -                | -         |    -0.57 | hades, HeavyGod, malbsMd, Snax, TaZ |
+|            5 |     1378 | 2025-05-13 | Ninjas in Pyjamas | L   | 0.569      | -            | -                | -                | -         |    -0.56 | hades, HeavyGod, malbsMd, Snax, TaZ |
 |            4 |     1410 | 2025-05-13 | BIG               | W   | 0.562      | 1.000        | 0.189 (0.107)    | 0.352 (0.198)    | 1 (0.562) |    15.10 | hades, HeavyGod, malbsMd, Snax, TaZ |
 |            3 |     1429 | 2025-05-12 | M80               | W   | 0.557      | 1.000        | 0.140 (0.078)    | 0.680 (0.379)    | 1 (0.557) |    15.40 | hades, HeavyGod, malbsMd, Snax, TaZ |
-|            2 |     1451 | 2025-05-11 | ODDIK             | L   | 0.551      | -            | -                | -                | -         |    -4.52 | hades, HeavyGod, malbsMd, Snax, TaZ |
+|            2 |     1451 | 2025-05-11 | ODDIK             | L   | 0.551      | -            | -                | -                | -         |    -4.50 | hades, HeavyGod, malbsMd, Snax, TaZ |
 |            1 |     1490 | 2025-05-10 | MIBR              | L   | 0.543      | -            | -                | -                | -         |    -1.32 | hades, HeavyGod, malbsMd, Snax, TaZ |
 
 <br />

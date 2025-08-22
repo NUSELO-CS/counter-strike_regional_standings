@@ -6,9 +6,9 @@ Global Rank: [184](../../standings_global_2025_08_15.md)<br />
 Region: [Americas]( ../../standings_americas_2025_08_15.md)<br />
 Regional Rank: [53]( ../../standings_americas_2025_08_15.md)<br />
 <br />
-Final Rank Value:  615.0<br />
+Final Rank Value:  615.1<br />
 <br />
-Final Rank Value (615.0) = Starting Rank Value (636.5) + Head To Head Adjustments (-21.5)<br />
+Final Rank Value (615.1) = Starting Rank Value (636.5) + Head To Head Adjustments (-21.5)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -42,11 +42,11 @@ Note:<br />
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |           14 |      528 | 2025-07-11 | Getting Info        | L   | 0.960      | -            | -                | -                | -         |    -7.52 | cypress, FAME, mcniff, Slash, Weeza |
 |           13 |      541 | 2025-07-11 | True Synergy Gaming | W   | 0.959      | 0.143        | 0.000 (0.000)    | 0.012 (0.002)    | 0 (0.000) |     9.24 | cypress, FAME, mcniff, Slash, Weeza |
-|           12 |      844 | 2025-06-14 | Girl kissers        | L   | 0.780      | -            | -                | -                | -         |   -12.51 | cypress, FAME, K4mr0, mcniff, Slash |
+|           12 |      844 | 2025-06-14 | Girl kissers        | L   | 0.780      | -            | -                | -                | -         |   -12.52 | cypress, FAME, K4mr0, mcniff, Slash |
 |           11 |      915 | 2025-06-12 | Subtick             | L   | 0.767      | -            | -                | -                | -         |   -16.58 | cypress, FAME, K4mr0, mcniff, Slash |
 |           10 |      957 | 2025-06-10 | Akimbo Esports      | L   | 0.754      | -            | -                | -                | -         |   -12.05 | cypress, FAME, K4mr0, mcniff, Slash |
-|            9 |     1354 | 2025-05-14 | Wildcard            | L   | 0.574      | -            | -                | -                | -         |    -1.91 | cypress, FAME, K4mr0, mcniff, Slash |
-|            8 |     1415 | 2025-05-12 | MIGHT               | W   | 0.560      | 0.384        | 0.001 (0.000)    | 0.215 (0.046)    | 0 (0.000) |     8.59 | cypress, FAME, K4mr0, mcniff, Slash |
+|            9 |     1354 | 2025-05-14 | Wildcard            | L   | 0.574      | -            | -                | -                | -         |    -1.86 | cypress, FAME, K4mr0, mcniff, Slash |
+|            8 |     1415 | 2025-05-12 | MIGHT               | W   | 0.560      | 0.384        | 0.001 (0.000)    | 0.215 (0.046)    | 0 (0.000) |     8.60 | cypress, FAME, K4mr0, mcniff, Slash |
 |            7 |     1471 | 2025-05-10 | Legacy              | L   | 0.546      | -            | -                | -                | -         |    -0.35 | cypress, FAME, K4mr0, mcniff, Slash |
 |            6 |     1515 | 2025-05-08 | MIGHT               | W   | 0.534      | 0.384        | 0.001 (0.000)    | 0.215 (0.044)    | 0 (0.000) |     8.27 | cypress, FAME, K4mr0, mcniff, Slash |
 |            5 |     2789 | 2025-03-23 | JERSA ESPORTS       | L   | 0.228      | -            | -                | -                | -         |    -4.79 | cypress, FAME, K4mr0, mcniff, Slash |

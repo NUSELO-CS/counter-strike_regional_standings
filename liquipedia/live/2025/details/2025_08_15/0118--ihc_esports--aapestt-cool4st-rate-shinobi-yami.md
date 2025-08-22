@@ -6,9 +6,9 @@ Global Rank: [118](../../standings_global_2025_08_15.md)<br />
 Region: [Asia]( ../../standings_asia_2025_08_15.md)<br />
 Regional Rank: [13]( ../../standings_asia_2025_08_15.md)<br />
 <br />
-Final Rank Value:  750.6<br />
+Final Rank Value:  750.7<br />
 <br />
-Final Rank Value (750.6) = Starting Rank Value (660.3) + Head To Head Adjustments (90.3)<br />
+Final Rank Value (750.7) = Starting Rank Value (660.3) + Head To Head Adjustments (90.4)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -40,15 +40,15 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent                | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           12 |      476 | 2025-07-14 | HOTU                    | L   | 0.977      | -            | -                | -                | -         |    -7.12 | Aapestt, cool4st, rate, shinobi, yAmi |
-|           11 |      481 | 2025-07-14 | Chinggis Warriors       | W   | 0.976      | 0.143        | 0.028 (0.004)    | 0.475 (0.066)    | 0 (0.000) |    25.42 | Aapestt, cool4st, rate, shinobi, yAmi |
-|           10 |      495 | 2025-07-13 | SemperFi Esports        | W   | 0.970      | 0.143        | 0.013 (0.002)    | 0.383 (0.053)    | 0 (0.000) |    17.80 | Aapestt, cool4st, rate, shinobi, yAmi |
-|            9 |      498 | 2025-07-13 | Nomads (Mongolian team) | W   | 0.969      | 0.143        | 0.014 (0.002)    | 0.127 (0.018)    | 0 (0.000) |    18.15 | Aapestt, cool4st, rate, shinobi, yAmi |
-|            8 |      517 | 2025-07-12 | FengDa Gaming           | W   | 0.964      | 0.143        | 0.004 (0.001)    | 0.134 (0.018)    | 0 (0.000) |    16.29 | Aapestt, cool4st, rate, shinobi, yAmi |
+|           12 |      476 | 2025-07-14 | HOTU                    | L   | 0.977      | -            | -                | -                | -         |    -7.11 | Aapestt, cool4st, rate, shinobi, yAmi |
+|           11 |      481 | 2025-07-14 | Chinggis Warriors       | W   | 0.976      | 0.143        | 0.028 (0.004)    | 0.475 (0.066)    | 0 (0.000) |    25.47 | Aapestt, cool4st, rate, shinobi, yAmi |
+|           10 |      495 | 2025-07-13 | SemperFi Esports        | W   | 0.970      | 0.143        | 0.013 (0.002)    | 0.383 (0.053)    | 0 (0.000) |    17.84 | Aapestt, cool4st, rate, shinobi, yAmi |
+|            9 |      498 | 2025-07-13 | Nomads (Mongolian team) | W   | 0.969      | 0.143        | 0.014 (0.002)    | 0.127 (0.018)    | 0 (0.000) |    18.16 | Aapestt, cool4st, rate, shinobi, yAmi |
+|            8 |      517 | 2025-07-12 | FengDa Gaming           | W   | 0.964      | 0.143        | 0.004 (0.001)    | 0.134 (0.018)    | 0 (0.000) |    16.30 | Aapestt, cool4st, rate, shinobi, yAmi |
 |            7 |      522 | 2025-07-12 | HOTU                    | L   | 0.963      | -            | -                | -                | -         |    -5.99 | Aapestt, cool4st, rate, shinobi, yAmi |
 |            6 |      558 | 2025-07-11 | Wings Up Gaming         | W   | 0.956      | 0.143        | 0.010 (0.001)    | 0.139 (0.019)    | 0 (0.000) |    21.15 | Aapestt, cool4st, rate, shinobi, yAmi |
-|            5 |     2554 | 2025-03-28 | Chinggis Warriors       | L   | 0.261      | -            | -                | -                | -         |    -0.80 | Aapestt, cool4st, me1o, rate, shinobi |
-|            4 |     2618 | 2025-03-27 | Victores Sumus          | W   | 0.255      | 0.624        | 0.001 (0.000)    | 0.018 (0.003)    | 0 (0.000) |     3.36 | Aapestt, cool4st, me1o, rate, shinobi |
+|            5 |     2554 | 2025-03-28 | Chinggis Warriors       | L   | 0.261      | -            | -                | -                | -         |    -0.79 | Aapestt, cool4st, me1o, rate, shinobi |
+|            4 |     2618 | 2025-03-27 | Victores Sumus          | W   | 0.255      | 0.624        | 0.001 (0.000)    | 0.018 (0.003)    | 0 (0.000) |     3.37 | Aapestt, cool4st, me1o, rate, shinobi |
 |            3 |     2676 | 2025-03-27 | The Huns Esports        | L   | 0.250      | -            | -                | -                | -         |    -1.10 | Aapestt, cool4st, me1o, rate, shinobi |
 |            2 |     2951 | 2025-03-15 | Nomads (Mongolian team) | W   | 0.175      | 0.535        | 0.014 (0.001)    | 0.127 (0.012)    | 1 (0.175) |     3.60 | Aapestt, cool4st, me1o, rate, shinobi |
 |            1 |     2964 | 2025-03-15 | Chinggis Warriors       | L   | 0.169      | -            | -                | -                | -         |    -0.49 | Aapestt, cool4st, me1o, rate, shinobi |

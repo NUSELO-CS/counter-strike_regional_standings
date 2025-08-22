@@ -6,9 +6,9 @@ Global Rank: [72](../../standings_global_2025_08_15.md)<br />
 Region: [Europe]( ../../standings_europe_2025_08_15.md)<br />
 Regional Rank: [50]( ../../standings_europe_2025_08_15.md)<br />
 <br />
-Final Rank Value:  904.1<br />
+Final Rank Value:  904.4<br />
 <br />
-Final Rank Value (904.1) = Starting Rank Value (838.5) + Head To Head Adjustments (65.6)<br />
+Final Rank Value (904.4) = Starting Rank Value (838.5) + Head To Head Adjustments (65.8)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -40,32 +40,32 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent                       | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                    |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           26 |        8 | 2025-08-14 | SINNERS Esports                | L   | 1.000      | -            | -                | -                | -         |   -14.52 | CeRq, hampus, Rainwaker, REDSTAR, volt    |
-|           25 |       15 | 2025-08-13 | Passion UA                     | W   | 1.000      | 0.384        | 0.102 (0.039)    | 1.000 (0.384)    | 0 (0.000) |    24.45 | CeRq, hampus, Rainwaker, REDSTAR, volt    |
-|           24 |       24 | 2025-08-11 | CYBERSHOKE Esports             | W   | 1.000      | 0.384        | 0.009 (0.004)    | 0.696 (0.268)    | 0 (0.000) |    21.02 | CeRq, hampus, Rainwaker, REDSTAR, volt    |
-|           23 |      111 | 2025-08-05 | ARCRED                         | W   | 1.000      | 0.384        | 0.016 (0.006)    | 0.211 (0.081)    | 0 (0.000) |    15.13 | CeRq, hampus, Rainwaker, REDSTAR, volt    |
+|           26 |        8 | 2025-08-14 | SINNERS Esports                | L   | 1.000      | -            | -                | -                | -         |   -14.50 | CeRq, hampus, Rainwaker, REDSTAR, volt    |
+|           25 |       15 | 2025-08-13 | Passion UA                     | W   | 1.000      | 0.384        | 0.102 (0.039)    | 1.000 (0.384)    | 0 (0.000) |    24.48 | CeRq, hampus, Rainwaker, REDSTAR, volt    |
+|           24 |       24 | 2025-08-11 | CYBERSHOKE Esports             | W   | 1.000      | 0.384        | 0.009 (0.004)    | 0.696 (0.268)    | 0 (0.000) |    21.04 | CeRq, hampus, Rainwaker, REDSTAR, volt    |
+|           23 |      111 | 2025-08-05 | ARCRED                         | W   | 1.000      | 0.384        | 0.016 (0.006)    | 0.211 (0.081)    | 0 (0.000) |    15.12 | CeRq, hampus, Rainwaker, REDSTAR, volt    |
 |           22 |      116 | 2025-08-05 | TPuDCATb TPu                   | W   | 1.000      | 0.384        | 0.022 (0.008)    | 0.805 (0.309)    | 0 (0.000) |    15.23 | CeRq, hampus, Rainwaker, REDSTAR, volt    |
 |           21 |      579 | 2025-07-10 | Modeame                        | L   | 0.949      | -            | -                | -                | -         |   -21.64 | CeRq, Oxygen, Rainwaker, REDSTAR, SPELLAN |
-|           20 |      721 | 2025-06-22 | FUT Esports                    | L   | 0.831      | -            | -                | -                | -         |    -4.11 | CeRq, Oxygen, Rainwaker, REDSTAR, SPELLAN |
-|           19 |      740 | 2025-06-21 | Dynamo Eclot                   | W   | 0.823      | 0.435        | 0.083 (0.030)    | 0.597 (0.213)    | 0 (0.000) |    14.54 | CeRq, Oxygen, Rainwaker, REDSTAR, SPELLAN |
+|           20 |      721 | 2025-06-22 | FUT Esports                    | L   | 0.831      | -            | -                | -                | -         |    -4.10 | CeRq, Oxygen, Rainwaker, REDSTAR, SPELLAN |
+|           19 |      740 | 2025-06-21 | Dynamo Eclot                   | W   | 0.823      | 0.435        | 0.083 (0.030)    | 0.597 (0.213)    | 0 (0.000) |    14.55 | CeRq, Oxygen, Rainwaker, REDSTAR, SPELLAN |
 |           18 |      748 | 2025-06-20 | AMKAL ESPORTS                  | W   | 0.818      | 0.435        | -                | 0.357 (0.127)    | 0 (0.000) |    11.69 | CeRq, Oxygen, Rainwaker, REDSTAR, SPELLAN |
 |           17 |      762 | 2025-06-19 | Iberian Soul                   | L   | 0.812      | -            | -                | -                | -         |    -1.78 | CeRq, Oxygen, Rainwaker, REDSTAR, SPELLAN |
-|           16 |     1083 | 2025-05-31 | 9INE                           | L   | 0.685      | -            | -                | -                | -         |    -4.53 | CeRq, Oxygen, Rainwaker, REDSTAR, SPELLAN |
-|           15 |     1091 | 2025-05-30 | ENCE                           | L   | 0.678      | -            | -                | -                | -         |    -3.44 | CeRq, Oxygen, Rainwaker, REDSTAR, SPELLAN |
+|           16 |     1083 | 2025-05-31 | 9INE                           | L   | 0.685      | -            | -                | -                | -         |    -4.52 | CeRq, Oxygen, Rainwaker, REDSTAR, SPELLAN |
+|           15 |     1091 | 2025-05-30 | ENCE                           | L   | 0.678      | -            | -                | -                | -         |    -3.40 | CeRq, Oxygen, Rainwaker, REDSTAR, SPELLAN |
 |           14 |     1191 | 2025-05-22 | TPuDCATb TPu                   | L   | 0.624      | -            | -                | -                | -         |    -8.90 | CeRq, Oxygen, Rainwaker, REDSTAR, SPELLAN |
 |           13 |     1234 | 2025-05-20 | Team Spirit Academy            | L   | 0.612      | -            | -                | -                | -         |    -5.01 | CeRq, Oxygen, Rainwaker, REDSTAR, SPELLAN |
 |           12 |     1328 | 2025-05-16 | RUBY                           | L   | 0.583      | -            | -                | -                | -         |    -7.64 | CeRq, Oxygen, Rainwaker, REDSTAR, SPELLAN |
 |           11 |     1369 | 2025-05-14 | PARIVISION                     | L   | 0.571      | -            | -                | -                | -         |    -4.92 | CeRq, Oxygen, Rainwaker, REDSTAR, SPELLAN |
 |           10 |     1419 | 2025-05-12 | Eternal Fire                   | W   | 0.559      | 0.344        | 0.002 (0.000)    | 0.416 (0.080)    | 0 (0.000) |     7.50 | CeRq, Oxygen, Rainwaker, REDSTAR, SPELLAN |
-|            9 |     1554 | 2025-05-07 | Passion UA                     | W   | 0.525      | 0.361        | 0.102 (0.019)    | 1.000 (0.189)    | 0 (0.000) |    14.61 | CeRq, Oxygen, Rainwaker, REDSTAR, SPELLAN |
+|            9 |     1554 | 2025-05-07 | Passion UA                     | W   | 0.525      | 0.361        | 0.102 (0.019)    | 1.000 (0.189)    | 0 (0.000) |    14.62 | CeRq, Oxygen, Rainwaker, REDSTAR, SPELLAN |
 |            8 |     1592 | 2025-05-06 | ECSTATIC                       | L   | 0.518      | -            | -                | -                | -         |    -1.65 | CeRq, Oxygen, Rainwaker, REDSTAR, SPELLAN |
 |            7 |     1638 | 2025-05-04 | TPuDCATb TPu                   | W   | 0.504      | 0.384        | 0.022 (0.004)    | 0.805 (0.156)    | 0 (0.000) |     8.28 | CeRq, Oxygen, Rainwaker, REDSTAR, SPELLAN |
-|            6 |     1689 | 2025-05-02 | Partizan Esports               | W   | 0.491      | 0.361        | 0.086 (0.015)    | 0.813 (0.144)    | 0 (0.000) |    10.48 | CeRq, Oxygen, Rainwaker, REDSTAR, SPELLAN |
+|            6 |     1689 | 2025-05-02 | Partizan Esports               | W   | 0.491      | 0.361        | 0.086 (0.015)    | 0.813 (0.144)    | 0 (0.000) |    10.49 | CeRq, Oxygen, Rainwaker, REDSTAR, SPELLAN |
 |            5 |     1778 | 2025-04-28 | Maestro Esports (Belgian team) | W   | 0.465      | -            | -                | -                | -         |     2.10 | CeRq, Oxygen, Rainwaker, REDSTAR, SPELLAN |
-|            4 |     1860 | 2025-04-25 | ENCE                           | L   | 0.445      | -            | -                | -                | -         |    -2.58 | CeRq, Oxygen, Rainwaker, REDSTAR, SPELLAN |
-|            3 |     1864 | 2025-04-25 | Wildcard                       | L   | 0.444      | -            | -                | -                | -         |    -3.78 | CeRq, Oxygen, Rainwaker, REDSTAR, SPELLAN |
+|            4 |     1860 | 2025-04-25 | ENCE                           | L   | 0.445      | -            | -                | -                | -         |    -2.54 | CeRq, Oxygen, Rainwaker, REDSTAR, SPELLAN |
+|            3 |     1864 | 2025-04-25 | Wildcard                       | L   | 0.444      | -            | -                | -                | -         |    -3.70 | CeRq, Oxygen, Rainwaker, REDSTAR, SPELLAN |
 |            2 |     1875 | 2025-04-24 | Imperial Esports               | L   | 0.439      | -            | -                | -                | -         |    -1.37 | CeRq, Oxygen, Rainwaker, REDSTAR, SPELLAN |
-|            1 |     1887 | 2025-04-23 | Imperial Female                | W   | 0.431      | 0.361        | 0.046 (0.007)    | -                | -         |     6.41 | CeRq, Oxygen, Rainwaker, REDSTAR, SPELLAN |
+|            1 |     1887 | 2025-04-23 | Imperial Female                | W   | 0.431      | 0.361        | 0.046 (0.007)    | -                | -         |     6.42 | CeRq, Oxygen, Rainwaker, REDSTAR, SPELLAN |
 
 <br />
 <span id="table2"></span><br />

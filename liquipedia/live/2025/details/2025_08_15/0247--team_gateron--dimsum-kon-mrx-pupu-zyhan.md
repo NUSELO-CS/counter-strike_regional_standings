@@ -42,7 +42,7 @@ Note:<br />
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |            5 |     1426 | 2025-05-12 | Steel Helmet      | L   | 0.557      | -            | -                | -                | -         |    -9.39 | DimSuM, Kon, Mrx, Pupu, zyHan  |
 |            4 |     1528 | 2025-05-08 | Wings Up Gaming   | L   | 0.531      | -            | -                | -                | -         |    -1.56 | DimSuM, Kon, Mrx, Pupu, zyHan  |
-|            3 |     1863 | 2025-04-25 | Only One Word     | L   | 0.444      | -            | -                | -                | -         |    -2.90 | DimSuM, Kon, Owbb, Pupu, zyHan |
+|            3 |     1863 | 2025-04-25 | Only One Word     | L   | 0.444      | -            | -                | -                | -         |    -2.89 | DimSuM, Kon, Owbb, Pupu, zyHan |
 |            2 |     1947 | 2025-04-19 | KZG               | W   | 0.404      | 0.534        | 0.000 (0.000)    | 0.022 (0.005)    | 1 (0.404) |     7.21 | DimSuM, Kon, Owbb, Pupu, zyHan |
 |            1 |     1970 | 2025-04-18 | Chinggis Warriors | L   | 0.397      | -            | -                | -                | -         |    -0.41 | DimSuM, Kon, Owbb, Pupu, zyHan |
 

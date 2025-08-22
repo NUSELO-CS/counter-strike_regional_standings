@@ -6,9 +6,9 @@ Global Rank: [121](../../standings_global_2025_08_15.md)<br />
 Region: [Europe]( ../../standings_europe_2025_08_15.md)<br />
 Regional Rank: [78]( ../../standings_europe_2025_08_15.md)<br />
 <br />
-Final Rank Value:  747.8<br />
+Final Rank Value:  748.2<br />
 <br />
-Final Rank Value (747.8) = Starting Rank Value (818.9) + Head To Head Adjustments (-71.1)<br />
+Final Rank Value (748.2) = Starting Rank Value (818.9) + Head To Head Adjustments (-70.7)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -40,14 +40,14 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent              | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                               |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           14 |       94 | 2025-08-07 | TPuDCATb TPu          | L   | 1.000      | -            | -                | -                | -         |   -12.14 | aiM, Nayomy, Qiyarah, vilga, Zana    |
-|           13 |      114 | 2025-08-05 | ARCRED                | L   | 1.000      | -            | -                | -                | -         |   -11.98 | aiM, Nayomy, Qiyarah, vilga, Zana    |
+|           14 |       94 | 2025-08-07 | TPuDCATb TPu          | L   | 1.000      | -            | -                | -                | -         |   -12.15 | aiM, Nayomy, Qiyarah, vilga, Zana    |
+|           13 |      114 | 2025-08-05 | ARCRED                | L   | 1.000      | -            | -                | -                | -         |   -11.99 | aiM, Nayomy, Qiyarah, vilga, Zana    |
 |           12 |      300 | 2025-07-24 | Eternal Fire          | L   | 1.000      | -            | -                | -                | -         |   -13.39 | aiM, Nayomy, Qiyarah, vilga, Zana    |
-|           11 |      304 | 2025-07-23 | Betera Esports        | L   | 1.000      | -            | -                | -                | -         |   -14.28 | aiM, Nayomy, Qiyarah, vilga, Zana    |
-|           10 |      398 | 2025-07-17 | Partizan Esports      | L   | 0.999      | -            | -                | -                | -         |   -11.08 | aiM, Nayomy, Qiyarah, vilga, Zana    |
-|            9 |      427 | 2025-07-16 | Metizport             | L   | 0.991      | -            | -                | -                | -         |   -10.80 | aiM, Nayomy, Qiyarah, vilga, Zana    |
+|           11 |      304 | 2025-07-23 | Betera Esports        | L   | 1.000      | -            | -                | -                | -         |   -14.30 | aiM, Nayomy, Qiyarah, vilga, Zana    |
+|           10 |      398 | 2025-07-17 | Partizan Esports      | L   | 0.999      | -            | -                | -                | -         |   -11.07 | aiM, Nayomy, Qiyarah, vilga, Zana    |
+|            9 |      427 | 2025-07-16 | Metizport             | L   | 0.991      | -            | -                | -                | -         |   -10.37 | aiM, Nayomy, Qiyarah, vilga, Zana    |
 |            8 |     1157 | 2025-05-24 | Shimmer               | L   | 0.638      | -            | -                | -                | -         |    -9.30 | aiM, Nayomy, Qiyarah, ramziiN, vilga |
-|            7 |     1180 | 2025-05-22 | Imperial Female       | W   | 0.627      | 0.624        | 0.046 (0.018)    | 0.080 (0.031)    | 1 (0.627) |     8.82 | aiM, Nayomy, Qiyarah, ramziiN, vilga |
+|            7 |     1180 | 2025-05-22 | Imperial Female       | W   | 0.627      | 0.624        | 0.046 (0.018)    | 0.080 (0.031)    | 1 (0.627) |     8.83 | aiM, Nayomy, Qiyarah, ramziiN, vilga |
 |            6 |     1183 | 2025-05-22 | MIBR Female           | W   | 0.626      | 0.624        | 0.014 (0.005)    | 0.049 (0.019)    | 1 (0.626) |     6.16 | aiM, Nayomy, Qiyarah, ramziiN, vilga |
 |            5 |     2126 | 2025-04-11 | Eco Warriors          | L   | 0.352      | -            | -                | -                | -         |    -7.94 | aiM, Nayomy, Qiyarah, ramziiN, vilga |
 |            4 |     2367 | 2025-04-02 | Nomercy (Female team) | W   | 0.292      | 0.536        | 0.001 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     1.40 | aiM, Nayomy, Qiyarah, ramziiN, vilga |

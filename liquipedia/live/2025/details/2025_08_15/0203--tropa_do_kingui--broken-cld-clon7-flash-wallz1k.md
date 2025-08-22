@@ -47,7 +47,7 @@ Note:<br />
 |            4 |     2634 | 2025-03-27 | Players (Brazilian team) | L   | 0.254      | -            | -                | -                | -         |    -3.39 | brokeN, cLd, CloN7, flash, wallz1k |
 |            3 |     3111 | 2025-03-09 | Keyd Stars               | L   | 0.131      | -            | -                | -                | -         |    -1.34 | brokeN, cLd, CloN7, flash, wallz1k |
 |            2 |     3174 | 2025-03-08 | MIBR Academy             | W   | 0.125      | 0.769        | 0.001 (0.000)    | 0.108 (0.010)    | 0 (0.000) |     2.03 | brokeN, cLd, CloN7, flash, wallz1k |
-|            1 |     3237 | 2025-03-07 | BESTIA                   | L   | 0.119      | -            | -                | -                | -         |    -0.89 | brokeN, cLd, CloN7, flash, wallz1k |
+|            1 |     3237 | 2025-03-07 | BESTIA                   | L   | 0.119      | -            | -                | -                | -         |    -0.83 | brokeN, cLd, CloN7, flash, wallz1k |
 
 <br />
 <span id="table2"></span><br />

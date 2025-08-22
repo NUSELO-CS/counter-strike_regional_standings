@@ -8,7 +8,7 @@ Regional Rank: [104]( ../../standings_europe_2025_08_15.md)<br />
 <br />
 Final Rank Value:  617.8<br />
 <br />
-Final Rank Value (617.8) = Starting Rank Value (623.2) + Head To Head Adjustments (-5.5)<br />
+Final Rank Value (617.8) = Starting Rank Value (623.2) + Head To Head Adjustments (-5.4)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />

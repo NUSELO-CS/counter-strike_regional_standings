@@ -6,9 +6,9 @@ Global Rank: [95](../../standings_global_2025_08_15.md)<br />
 Region: [Americas]( ../../standings_americas_2025_08_15.md)<br />
 Regional Rank: [22]( ../../standings_americas_2025_08_15.md)<br />
 <br />
-Final Rank Value:  822.7<br />
+Final Rank Value:  823.2<br />
 <br />
-Final Rank Value (822.7) = Starting Rank Value (773.7) + Head To Head Adjustments (49.0)<br />
+Final Rank Value (823.2) = Starting Rank Value (773.7) + Head To Head Adjustments (49.4)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -41,27 +41,27 @@ Note:<br />
 | Match Played | Match ID | Date       | Opponent                 | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                    |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |           41 |      122 | 2025-08-04 | ShindeN                  | L   | 1.000      | -            | -                | -                | -         |   -20.09 | CutzMeretz, danoco, delboNi, proSHOW, v$m |
-|           40 |      127 | 2025-08-03 | SELVA                    | W   | 1.000      | 0.143        | 0.018 (0.003)    | -                | 0 (0.000) |    11.37 | CutzMeretz, danoco, delboNi, proSHOW, v$m |
+|           40 |      127 | 2025-08-03 | SELVA                    | W   | 1.000      | 0.143        | 0.018 (0.003)    | -                | 0 (0.000) |    11.38 | CutzMeretz, danoco, delboNi, proSHOW, v$m |
 |           39 |      197 | 2025-07-29 | Bounty Hunters Esports   | W   | 1.000      | 0.143        | -                | 0.500 (0.071)    | 0 (0.000) |    13.03 | CutzMeretz, danoco, delboNi, proSHOW, v$m |
-|           38 |      242 | 2025-07-27 | Dusty Roots              | W   | 1.000      | -            | -                | -                | 0 (0.000) |     8.03 | CutzMeretz, danoco, delboNi, proSHOW, v$m |
-|           37 |      296 | 2025-07-24 | Bad Luck                 | W   | 1.000      | -            | -                | -                | 0 (0.000) |     6.03 | danoco, delboNi, KAOS, proSHOW, v$m       |
+|           38 |      242 | 2025-07-27 | Dusty Roots              | W   | 1.000      | -            | -                | -                | 0 (0.000) |     8.02 | CutzMeretz, danoco, delboNi, proSHOW, v$m |
+|           37 |      296 | 2025-07-24 | Bad Luck                 | W   | 1.000      | -            | -                | -                | 0 (0.000) |     6.02 | danoco, delboNi, KAOS, proSHOW, v$m       |
 |           36 |      415 | 2025-07-16 | RED Canids               | L   | 0.993      | -            | -                | -                | -         |   -13.28 | CutzMeretz, danoco, delboNi, history, v$m |
-|           35 |      510 | 2025-07-12 | ODDIK                    | L   | 0.966      | -            | -                | -                | -         |    -5.77 | CutzMeretz, danoco, delboNi, history, v$m |
+|           35 |      510 | 2025-07-12 | ODDIK                    | L   | 0.966      | -            | -                | -                | -         |    -5.76 | CutzMeretz, danoco, delboNi, history, v$m |
 |           34 |      566 | 2025-07-10 | 9z Team                  | W   | 0.953      | 0.384        | 0.105 (0.039)    | 0.481 (0.176)    | 0 (0.000) |    19.06 | CutzMeretz, danoco, delboNi, history, v$m |
 |           33 |      573 | 2025-07-10 | Keyd Stars               | W   | 0.951      | 0.384        | 0.007 (0.002)    | 0.343 (0.125)    | 0 (0.000) |    12.91 | CutzMeretz, danoco, delboNi, history, v$m |
-|           32 |      626 | 2025-07-07 | Imperial Esports         | L   | 0.932      | -            | -                | -                | -         |    -2.82 | CutzMeretz, danoco, delboNi, Misfit, v$m  |
-|           31 |      629 | 2025-07-07 | Bounty Hunters Esports   | L   | 0.931      | -            | -                | -                | -         |   -15.31 | CutzMeretz, danoco, delboNi, Misfit, v$m  |
+|           32 |      626 | 2025-07-07 | Imperial Esports         | L   | 0.932      | -            | -                | -                | -         |    -2.80 | CutzMeretz, danoco, delboNi, Misfit, v$m  |
+|           31 |      629 | 2025-07-07 | Bounty Hunters Esports   | L   | 0.931      | -            | -                | -                | -         |   -15.32 | CutzMeretz, danoco, delboNi, Misfit, v$m  |
 |           30 |      654 | 2025-07-02 | ODDIK                    | L   | 0.899      | -            | -                | -                | -         |    -5.36 | CutzMeretz, danoco, delboNi, Misfit, v$m  |
-|           29 |      661 | 2025-07-01 | FURIA Female             | W   | 0.893      | 0.384        | 0.131 (0.045)    | -                | 0 (0.000) |    19.88 | CutzMeretz, danoco, delboNi, Misfit, v$m  |
-|           28 |      682 | 2025-06-28 | Keyd Stars               | W   | 0.873      | 0.384        | 0.007 (0.002)    | 0.343 (0.115)    | 0 (0.000) |    12.23 | CutzMeretz, danoco, delboNi, Misfit, v$m  |
+|           29 |      661 | 2025-07-01 | FURIA Female             | W   | 0.893      | 0.384        | 0.131 (0.045)    | -                | 0 (0.000) |    19.87 | CutzMeretz, danoco, delboNi, Misfit, v$m  |
+|           28 |      682 | 2025-06-28 | Keyd Stars               | W   | 0.873      | 0.384        | 0.007 (0.002)    | 0.343 (0.115)    | 0 (0.000) |    12.22 | CutzMeretz, danoco, delboNi, Misfit, v$m  |
 |           27 |      685 | 2025-06-27 | 9z Team                  | L   | 0.867      | -            | -                | -                | -         |    -9.27 | CutzMeretz, danoco, delboNi, Misfit, v$m  |
-|           26 |      697 | 2025-06-25 | BESTIA                   | L   | 0.851      | -            | -                | -                | -         |   -11.17 | CutzMeretz, danoco, delboNi, Misfit, v$m  |
+|           26 |      697 | 2025-06-25 | BESTIA                   | L   | 0.851      | -            | -                | -                | -         |   -10.74 | CutzMeretz, danoco, delboNi, Misfit, v$m  |
 |           25 |      705 | 2025-06-23 | FURIA Female             | W   | 0.840      | 0.371        | 0.131 (0.041)    | -                | 0 (0.000) |    19.65 | CutzMeretz, danoco, delboNi, Misfit, v$m  |
 |           24 |      728 | 2025-06-21 | Yawara E-Sports          | W   | 0.826      | 0.371        | 0.007 (0.002)    | 0.269 (0.082)    | 0 (0.000) |     9.49 | CutzMeretz, danoco, delboNi, Misfit, v$m  |
 |           23 |      758 | 2025-06-19 | KRÜ Esports              | L   | 0.812      | -            | -                | -                | -         |   -14.78 | CutzMeretz, danoco, delboNi, Misfit, v$m  |
 |           22 |      787 | 2025-06-17 | Elevate                  | W   | 0.800      | 0.371        | -                | 0.222 (0.066)    | -         |     5.07 | CutzMeretz, danoco, delboNi, Misfit, v$m  |
 |           21 |      867 | 2025-06-14 | LaChampionsLiga          | W   | 0.778      | -            | -                | -                | -         |     4.66 | CutzMeretz, danoco, delboNi, Misfit, v$m  |
-|           20 |     1096 | 2025-05-29 | DESEMPREGUEIDOS          | L   | 0.672      | -            | -                | -                | -         |   -14.43 | CutzMeretz, danoco, delboNi, Misfit, v$m  |
+|           20 |     1096 | 2025-05-29 | DESEMPREGUEIDOS          | L   | 0.672      | -            | -                | -                | -         |   -14.42 | CutzMeretz, danoco, delboNi, Misfit, v$m  |
 |           19 |     1166 | 2025-05-23 | Keyd Stars               | W   | 0.633      | 0.326        | -                | 0.343 (0.071)    | -         |     9.15 | CutzMeretz, danoco, delboNi, Misfit, v$m  |
 |           18 |     1279 | 2025-05-18 | MAGICOS                  | W   | 0.599      | -            | -                | -                | -         |     5.66 | CutzMeretz, danoco, delboNi, Misfit, v$m  |
 |           17 |     1294 | 2025-05-17 | ODDIK Academy            | W   | 0.593      | -            | -                | -                | -         |     5.14 | CutzMeretz, danoco, delboNi, Misfit, v$m  |

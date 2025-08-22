@@ -6,9 +6,9 @@ Global Rank: [120](../../standings_global_2025_08_15.md)<br />
 Region: [Americas]( ../../standings_americas_2025_08_15.md)<br />
 Regional Rank: [30]( ../../standings_americas_2025_08_15.md)<br />
 <br />
-Final Rank Value:  748.3<br />
+Final Rank Value:  748.6<br />
 <br />
-Final Rank Value (748.3) = Starting Rank Value (730.6) + Head To Head Adjustments (17.8)<br />
+Final Rank Value (748.6) = Starting Rank Value (730.6) + Head To Head Adjustments (18.1)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -41,31 +41,31 @@ Note:<br />
 | Match Played | Match ID | Date       | Opponent                 | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                    |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |           51 |      134 | 2025-08-03 | RED Canids               | L   | 1.000      | -            | -                | -                | -         |    -9.37 | desh, flash, leo_drk, ninjaZ, vinaabEAST  |
-|           50 |      416 | 2025-07-16 | Sharks Esports           | L   | 0.993      | -            | -                | -                | -         |    -7.23 | desh, flash, leo_drk, ninjaZ, vinaabEAST  |
-|           49 |      430 | 2025-07-16 | Galorys                  | W   | 0.991      | -            | -                | -                | 0 (0.000) |     5.59 | desh, flash, leo_drk, ninjaZ, vinaabEAST  |
-|           48 |      532 | 2025-07-11 | 9z Team                  | L   | 0.960      | -            | -                | -                | -         |    -9.39 | desh, flash, leo_drk, ninjaZ, vinaabEAST  |
+|           50 |      416 | 2025-07-16 | Sharks Esports           | L   | 0.993      | -            | -                | -                | -         |    -7.21 | desh, flash, leo_drk, ninjaZ, vinaabEAST  |
+|           49 |      430 | 2025-07-16 | Galorys                  | W   | 0.991      | -            | -                | -                | 0 (0.000) |     5.58 | desh, flash, leo_drk, ninjaZ, vinaabEAST  |
+|           48 |      532 | 2025-07-11 | 9z Team                  | L   | 0.960      | -            | -                | -                | -         |    -9.38 | desh, flash, leo_drk, ninjaZ, vinaabEAST  |
 |           47 |      539 | 2025-07-11 | Bounty Hunters Esports   | W   | 0.959      | 0.384        | 0.009 (0.003)    | 0.500 (0.184)    | 0 (0.000) |    14.85 | desh, flash, leo_drk, ninjaZ, vinaabEAST  |
-|           46 |      544 | 2025-07-11 | Sharks Esports           | L   | 0.958      | -            | -                | -                | -         |    -6.47 | desh, flash, leo_drk, ninjaZ, vinaabEAST  |
-|           45 |      549 | 2025-07-11 | 2Game Esports            | W   | 0.958      | 0.143        | 0.025 (0.003)    | 0.547 (0.075)    | 0 (0.000) |    19.11 | desh, flash, leo_drk, ninjaZ, vinaabEAST  |
+|           46 |      544 | 2025-07-11 | Sharks Esports           | L   | 0.958      | -            | -                | -                | -         |    -6.46 | desh, flash, leo_drk, ninjaZ, vinaabEAST  |
+|           45 |      549 | 2025-07-11 | 2Game Esports            | W   | 0.958      | 0.143        | 0.025 (0.003)    | 0.547 (0.075)    | 0 (0.000) |    19.12 | desh, flash, leo_drk, ninjaZ, vinaabEAST  |
 |           44 |      573 | 2025-07-10 | Flamengo Esports         | L   | 0.951      | -            | -                | -                | -         |   -12.91 | desh, flash, leo_drk, ninjaZ, vinaabEAST  |
-|           43 |      614 | 2025-07-08 | Sharks Esports           | L   | 0.940      | -            | -                | -                | -         |    -6.54 | desh, flash, leo_drk, ninjaZ, vinaabEAST  |
-|           42 |      617 | 2025-07-08 | 2Game Esports            | W   | 0.938      | 0.143        | 0.025 (0.003)    | 0.547 (0.073)    | 0 (0.000) |    19.18 | desh, flash, leo_drk, ninjaZ, vinaabEAST  |
-|           41 |      682 | 2025-06-28 | Flamengo Esports         | L   | 0.873      | -            | -                | -                | -         |   -12.23 | desh, flash, leo_drk, ninjaZ, vinaabEAST  |
-|           40 |      683 | 2025-06-28 | Game Hunters             | W   | 0.872      | 0.384        | 0.004 (0.002)    | 0.361 (0.121)    | 0 (0.000) |    15.45 | desh, flash, leo_drk, ninjaZ, vinaabEAST  |
-|           39 |      708 | 2025-06-23 | KRÜ Esports              | L   | 0.838      | -            | -                | -                | -         |   -13.37 | desh, flash, leo_drk, ninjaZ, vinaabEAST  |
+|           43 |      614 | 2025-07-08 | Sharks Esports           | L   | 0.940      | -            | -                | -                | -         |    -6.53 | desh, flash, leo_drk, ninjaZ, vinaabEAST  |
+|           42 |      617 | 2025-07-08 | 2Game Esports            | W   | 0.938      | 0.143        | 0.025 (0.003)    | 0.547 (0.073)    | 0 (0.000) |    19.19 | desh, flash, leo_drk, ninjaZ, vinaabEAST  |
+|           41 |      682 | 2025-06-28 | Flamengo Esports         | L   | 0.873      | -            | -                | -                | -         |   -12.22 | desh, flash, leo_drk, ninjaZ, vinaabEAST  |
+|           40 |      683 | 2025-06-28 | Game Hunters             | W   | 0.872      | 0.384        | 0.004 (0.002)    | 0.361 (0.121)    | 0 (0.000) |    15.44 | desh, flash, leo_drk, ninjaZ, vinaabEAST  |
+|           39 |      708 | 2025-06-23 | KRÜ Esports              | L   | 0.838      | -            | -                | -                | -         |   -13.38 | desh, flash, leo_drk, ninjaZ, vinaabEAST  |
 |           38 |     1166 | 2025-05-23 | Flamengo Esports         | L   | 0.633      | -            | -                | -                | -         |    -9.15 | desh, leo_drk, ninjaZ, Skr, vinaabEAST    |
-|           37 |     1336 | 2025-05-15 | 2Game Esports            | W   | 0.579      | 0.326        | 0.025 (0.005)    | 0.547 (0.103)    | 0 (0.000) |    10.15 | desh, leo_drk, ninjaZ, Skr, vinaabEAST    |
-|           36 |     1384 | 2025-05-13 | MAGICOS                  | W   | 0.567      | -            | -                | -                | 0 (0.000) |     5.98 | desh, leo_drk, ninjaZ, Skr, vinaabEAST    |
-|           35 |     1390 | 2025-05-13 | Crashers                 | W   | 0.566      | 0.326        | -                | 0.149 (0.028)    | 0 (0.000) |     6.45 | desh, leo_drk, ninjaZ, Skr, vinaabEAST    |
+|           37 |     1336 | 2025-05-15 | 2Game Esports            | W   | 0.579      | 0.326        | 0.025 (0.005)    | 0.547 (0.103)    | 0 (0.000) |    10.14 | desh, leo_drk, ninjaZ, Skr, vinaabEAST    |
+|           36 |     1384 | 2025-05-13 | MAGICOS                  | W   | 0.567      | -            | -                | -                | 0 (0.000) |     5.97 | desh, leo_drk, ninjaZ, Skr, vinaabEAST    |
+|           35 |     1390 | 2025-05-13 | Crashers                 | W   | 0.566      | 0.326        | -                | 0.149 (0.028)    | 0 (0.000) |     6.44 | desh, leo_drk, ninjaZ, Skr, vinaabEAST    |
 |           34 |     1516 | 2025-05-08 | Bounty Hunters Esports   | L   | 0.533      | -            | -                | -                | -         |    -8.12 | desh, MaLLby, ninjaZ, ponter, vinaabEAST  |
 |           33 |     1542 | 2025-05-07 | SELVA                    | L   | 0.527      | -            | -                | -                | -         |    -7.00 | desh, MaLLby, ninjaZ, ponter, vinaabEAST  |
 |           32 |     1577 | 2025-05-06 | RED Canids               | W   | 0.520      | -            | -                | -                | 0 (0.000) |     7.99 | desh, MaLLby, ninjaZ, ponter, vinaabEAST  |
 |           31 |     2156 | 2025-04-09 | Bounty Hunters Esports   | L   | 0.340      | -            | -                | -                | -         |    -5.55 | desh, MaLLby, ninjaZ, ponter, vinaabEAST  |
 |           30 |     2160 | 2025-04-09 | Bounty Hunters Esports   | W   | 0.340      | 0.393        | 0.009 (0.001)    | 0.500 (0.067)    | 0 (0.000) |     5.26 | desh, MaLLby, ninjaZ, ponter, vinaabEAST  |
-|           29 |     2202 | 2025-04-08 | Sharks Esports           | L   | 0.334      | -            | -                | -                | -         |    -2.11 | desh, MaLLby, ninjaZ, ponter, vinaabEAST  |
+|           29 |     2202 | 2025-04-08 | Sharks Esports           | L   | 0.334      | -            | -                | -                | -         |    -2.12 | desh, MaLLby, ninjaZ, ponter, vinaabEAST  |
 |           28 |     2206 | 2025-04-08 | Sharks Esports           | L   | 0.333      | -            | -                | -                | -         |    -2.15 | desh, MaLLby, ninjaZ, ponter, vinaabEAST  |
-|           27 |     2309 | 2025-04-03 | Fluxo                    | L   | 0.300      | -            | -                | -                | -         |    -1.26 | desh, MaLLby, ninjaZ, ponter, vinaabEAST  |
-|           26 |     2313 | 2025-04-03 | Fluxo                    | W   | 0.299      | 0.393        | 0.044 (0.005)    | 0.350 (0.041)    | -         |     8.26 | desh, MaLLby, ninjaZ, ponter, vinaabEAST  |
+|           27 |     2309 | 2025-04-03 | Fluxo                    | L   | 0.300      | -            | -                | -                | -         |    -1.21 | desh, MaLLby, ninjaZ, ponter, vinaabEAST  |
+|           26 |     2313 | 2025-04-03 | Fluxo                    | W   | 0.299      | 0.393        | 0.044 (0.005)    | 0.350 (0.041)    | -         |     8.30 | desh, MaLLby, ninjaZ, ponter, vinaabEAST  |
 |           25 |     2465 | 2025-03-30 | Flamengo Esports         | L   | 0.272      | -            | -                | -                | -         |    -3.74 | desh, MaLLby, ninjaZ, ponter, vinaabEAST  |
 |           24 |     2506 | 2025-03-29 | Players (Brazilian team) | W   | 0.267      | 0.769        | -                | 0.266 (0.055)    | -         |     3.21 | desh, MaLLby, ninjaZ, ponter, vinaabEAST  |
 |           23 |     2530 | 2025-03-29 | KRÜ Esports              | W   | 0.264      | 0.769        | 0.006 (0.001)    | 0.294 (0.060)    | -         |     4.01 | desh, MaLLby, ninjaZ, ponter, vinaabEAST  |
@@ -76,8 +76,8 @@ Note:<br />
 |           18 |     2755 | 2025-03-25 | ODDIK                    | L   | 0.240      | -            | -                | -                | -         |    -0.90 | desh, MaLLby, ninjaZ, ponter, vinaabEAST  |
 |           17 |     2756 | 2025-03-25 | ODDIK                    | L   | 0.240      | -            | -                | -                | -         |    -0.90 | desh, MaLLby, ninjaZ, ponter, vinaabEAST  |
 |           16 |     3020 | 2025-03-11 | Fluxo                    | L   | 0.146      | -            | -                | -                | -         |    -2.65 | desh, MaLLby, ninjaZ, ponter, vinaabEAST  |
-|           15 |     3040 | 2025-03-10 | BESTIA                   | W   | 0.141      | 0.371        | 0.050 (0.003)    | -                | -         |     2.70 | desh, MaLLby, ninjaZ, ponter, vinaabEAST  |
-|           14 |     3057 | 2025-03-10 | BESTIA                   | L   | 0.139      | -            | -                | -                | -         |    -1.72 | desh, MaLLby, ninjaZ, ponter, vinaabEAST  |
+|           15 |     3040 | 2025-03-10 | BESTIA                   | W   | 0.141      | 0.371        | 0.050 (0.003)    | -                | -         |     2.78 | desh, MaLLby, ninjaZ, ponter, vinaabEAST  |
+|           14 |     3057 | 2025-03-10 | BESTIA                   | L   | 0.139      | -            | -                | -                | -         |    -1.64 | desh, MaLLby, ninjaZ, ponter, vinaabEAST  |
 |           13 |     3081 | 2025-03-09 | DESEMPREGUEIDOS          | W   | 0.134      | -            | -                | -                | -         |     1.64 | desh, MaLLby, ninjaZ, ponter, vinaabEAST  |
 |           12 |     3111 | 2025-03-09 | Tropa do KinGui          | W   | 0.131      | -            | -                | -                | -         |     1.34 | desh, MaLLby, ninjaZ, ponter, vinaabEAST  |
 |           11 |     3147 | 2025-03-08 | 9z Team                  | L   | 0.127      | -            | -                | -                | -         |    -1.06 | desh, MaLLby, ninjaZ, ponter, vinaabEAST  |
@@ -88,7 +88,7 @@ Note:<br />
 |            6 |     3434 | 2025-03-01 | ShindeN                  | W   | 0.080      | -            | -                | -                | -         |     1.20 | desh, MaLLby, ninjaZ, ponter, vinaabEAST  |
 |            5 |     3484 | 2025-02-27 | Game Hunters             | W   | 0.065      | -            | -                | -                | -         |     1.22 | desh, MaLLby, ninjaZ, ponter, vinaabEAST  |
 |            4 |     3641 | 2025-02-21 | Sharks Esports           | L   | 0.026      | -            | -                | -                | -         |    -0.13 | desh, leo_drk, ninjaZ, ponter, vinaabEAST |
-|            3 |     3659 | 2025-02-20 | BESTIA                   | W   | 0.018      | -            | -                | -                | -         |     0.35 | desh, leo_drk, ninjaZ, ponter, vinaabEAST |
+|            3 |     3659 | 2025-02-20 | BESTIA                   | W   | 0.018      | -            | -                | -                | -         |     0.36 | desh, leo_drk, ninjaZ, ponter, vinaabEAST |
 |            2 |     3672 | 2025-02-19 | Bad Luck                 | W   | 0.014      | -            | -                | -                | -         |     0.11 | desh, MaLLby, ninjaZ, rainny, vinaabEAST  |
 |            1 |     3674 | 2025-02-19 | Bad Luck                 | W   | 0.014      | -            | -                | -                | -         |     0.11 | desh, MaLLby, ninjaZ, rainny, vinaabEAST  |
 

@@ -6,9 +6,9 @@ Global Rank: [138](../../standings_global_2025_08_15.md)<br />
 Region: [Europe]( ../../standings_europe_2025_08_15.md)<br />
 Regional Rank: [87]( ../../standings_europe_2025_08_15.md)<br />
 <br />
-Final Rank Value:  693.2<br />
+Final Rank Value:  693.3<br />
 <br />
-Final Rank Value (693.2) = Starting Rank Value (718.8) + Head To Head Adjustments (-25.5)<br />
+Final Rank Value (693.3) = Starting Rank Value (718.8) + Head To Head Adjustments (-25.5)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -44,7 +44,7 @@ Note:<br />
 |           29 |      579 | 2025-07-10 | 500                                       | W   | 0.949      | 0.483        | 0.015 (0.007)    | 0.348 (0.159)    | 0 (0.000) |    21.64 | ElayDzha, for2na, OxygeN, R3LiFwOw, rinn            |
 |           28 |      592 | 2025-07-09 | Wildcard Academy                          | W   | 0.945      | 0.483        | 0.000 (0.000)    | 0.102 (0.047)    | 0 (0.000) |    13.72 | ElayDzha, for2na, OxygeN, R3LiFwOw, rinn            |
 |           27 |      616 | 2025-07-08 | HEROIC Academy                            | W   | 0.939      | 0.483        | 0.002 (0.001)    | 0.184 (0.083)    | 0 (0.000) |    17.70 | Blessed, for2na, OxygeN, R3LiFwOw, rinn             |
-|           26 |      640 | 2025-07-05 | Ex-Sabre Esports                          | W   | 0.919      | 0.483        | 0.003 (0.001)    | 0.336 (0.149)    | 0 (0.000) |    18.61 | ElayDzha, for2na, OxygeN, R3LiFwOw, rinn            |
+|           26 |      640 | 2025-07-05 | Ex-Sabre Esports                          | W   | 0.919      | 0.483        | 0.003 (0.001)    | 0.336 (0.149)    | 0 (0.000) |    18.62 | ElayDzha, for2na, OxygeN, R3LiFwOw, rinn            |
 |           25 |      645 | 2025-07-04 | AMKAL ESPORTS                             | L   | 0.912      | -            | -                | -                | -         |   -12.10 | Blessed, ElayDzha, for2na, OxygeN, R3LiFwOw         |
 |           24 |      667 | 2025-07-01 | NOVAQ                                     | L   | 0.890      | -            | -                | -                | -         |   -14.79 | ElayDzha, for2na, OxygeN, R3LiFwOw, rinn            |
 |           23 |      825 | 2025-06-15 | Marius                                    | L   | 0.785      | -            | -                | -                | -         |    -8.77 | ElayDzha, fatestyoshi, for2na, OxygeN, R3LiFwOw     |
@@ -60,7 +60,7 @@ Note:<br />
 |           13 |     1529 | 2025-05-08 | RUBY                                      | L   | 0.531      | -            | -                | -                | -         |    -4.02 | dan1q, ElayDzha, for2na, OxygeN, R3LiFwOw           |
 |           12 |     1633 | 2025-05-04 | TPuDCATb TPu                              | L   | 0.505      | -            | -                | -                | -         |    -5.13 | dan1q, ElayDzha, for2na, OxygeN, R3LiFwOw           |
 |           11 |     1647 | 2025-05-04 | RUBY                                      | L   | 0.503      | -            | -                | -                | -         |    -4.29 | ElayDzha, fatestyoshi, for2na, OxygeN, R3LiFwOw     |
-|           10 |     1703 | 2025-05-01 | Sashi Esport                              | L   | 0.485      | -            | -                | -                | -         |    -3.34 | ElayDzha, fatestyoshi, for2na, OxygeN, R3LiFwOw     |
+|           10 |     1703 | 2025-05-01 | Sashi Esport                              | L   | 0.485      | -            | -                | -                | -         |    -3.33 | ElayDzha, fatestyoshi, for2na, OxygeN, R3LiFwOw     |
 |            9 |     1704 | 2025-05-01 | Ex-Sabre Esports                          | L   | 0.485      | -            | -                | -                | -         |    -6.63 | dan1q, ElayDzha, for2na, OxygeN, R3LiFwOw           |
 |            8 |     1730 | 2025-04-30 | MYSKILL                                   | W   | 0.479      | 0.281        | 0.001 (0.000)    | -                | 0 (0.000) |     3.61 | ElayDzha, fatestyoshi, for2na, milfhunt3r, R3LiFwOw |
 |            7 |     1731 | 2025-04-30 | RUBY                                      | W   | 0.479      | 0.384        | 0.026 (0.005)    | 0.777 (0.143)    | 0 (0.000) |    10.77 | ElayDzha, fatestyoshi, for2na, OxygeN, R3LiFwOw     |

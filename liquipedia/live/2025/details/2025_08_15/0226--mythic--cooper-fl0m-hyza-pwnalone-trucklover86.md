@@ -41,12 +41,12 @@ Note:<br />
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                     |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |           11 |      547 | 2025-07-11 | Outfit 49         | L   | 0.958      | -            | -                | -                | -         |   -19.61 | Cooper, fl0m, hyza, PwnAlone, Trucklover86 |
-|           10 |     2455 | 2025-03-30 | Marsborne         | L   | 0.274      | -            | -                | -                | -         |    -0.96 | Austin, Cooper, fl0m, hyza, Trucklover86   |
+|           10 |     2455 | 2025-03-30 | Marsborne         | L   | 0.274      | -            | -                | -                | -         |    -0.94 | Austin, Cooper, fl0m, hyza, Trucklover86   |
 |            9 |     2494 | 2025-03-29 | LAG Gaming        | W   | 0.268      | 0.769        | 0.014 (0.003)    | 0.350 (0.072)    | 0 (0.000) |     6.58 | Austin, Cooper, fl0m, hyza, Trucklover86   |
 |            8 |     2501 | 2025-03-29 | Team Aether       | W   | 0.267      | 0.769        | 0.000 (0.000)    | 0.262 (0.054)    | 0 (0.000) |     4.64 | Austin, Cooper, fl0m, hyza, Trucklover86   |
 |            7 |     2567 | 2025-03-28 | Northern Cossacks | W   | 0.260      | 0.769        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     2.80 | Austin, Cooper, fl0m, hyza, Trucklover86   |
 |            6 |     2636 | 2025-03-27 | LAG Gaming        | L   | 0.254      | -            | -                | -                | -         |    -1.71 | Austin, Cooper, fl0m, hyza, Trucklover86   |
-|            5 |     3152 | 2025-03-08 | BLUEJAYS          | L   | 0.126      | -            | -                | -                | -         |    -0.60 | Austin, Cooper, fl0m, hyza, Trucklover86   |
+|            5 |     3152 | 2025-03-08 | BLUEJAYS          | L   | 0.126      | -            | -                | -                | -         |    -0.58 | Austin, Cooper, fl0m, hyza, Trucklover86   |
 |            4 |     3222 | 2025-03-07 | NuTorious         | W   | 0.120      | 0.769        | 0.000 (0.000)    | 0.011 (0.001)    | 0 (0.000) |     1.70 | Austin, Cooper, fl0m, hyza, Trucklover86   |
 |            3 |     3231 | 2025-03-07 | Team Aether       | W   | 0.120      | 0.769        | 0.000 (0.000)    | 0.262 (0.024)    | 0 (0.000) |     2.10 | Austin, Cooper, fl0m, hyza, Trucklover86   |
 |            2 |     3310 | 2025-03-06 | MakersMeetYou     | W   | 0.112      | 0.769        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     1.22 | Austin, Cooper, fl0m, hyza, Trucklover86   |

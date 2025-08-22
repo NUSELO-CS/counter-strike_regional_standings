@@ -40,10 +40,10 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent           | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                            |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            8 |     2829 | 2025-03-21 | Ex-TALON           | L   | 0.210      | -            | -                | -                | -         |    -2.37 | Crunchy, gump, pain, Texta, tucks |
+|            8 |     2829 | 2025-03-21 | Ex-TALON           | L   | 0.210      | -            | -                | -                | -         |    -2.33 | Crunchy, gump, pain, Texta, tucks |
 |            7 |     2830 | 2025-03-20 | Vantage Esports    | W   | 0.208      | 0.345        | 0.000 (0.000)    | 0.014 (0.001)    | 1 (0.208) |     2.35 | Crunchy, gump, pain, Texta, tucks |
 |            6 |     2835 | 2025-03-20 | Ground Zero Gaming | L   | 0.207      | -            | -                | -                | -         |    -2.50 | Crunchy, gump, pain, Texta, tucks |
-|            5 |     3401 | 2025-03-03 | Nemiga Gaming      | L   | 0.090      | -            | -                | -                | -         |    -0.08 | Crunchy, gump, pain, Texta, tucks |
+|            5 |     3401 | 2025-03-03 | Nemiga Gaming      | L   | 0.090      | -            | -                | -                | -         |    -0.07 | Crunchy, gump, pain, Texta, tucks |
 |            4 |     3423 | 2025-03-02 | 3DMAX              | L   | 0.083      | -            | -                | -                | -         |    -0.00 | Crunchy, gump, pain, Texta, tucks |
 |            3 |     3455 | 2025-03-01 | Aurora Gaming      | L   | 0.076      | -            | -                | -                | -         |    -0.01 | Crunchy, gump, pain, Texta, tucks |
 |            2 |     3716 | 2025-02-18 | Ground Zero Gaming | L   | 0.003      | -            | -                | -                | -         |    -0.04 | Crunchy, gump, pain, Texta, tucks |

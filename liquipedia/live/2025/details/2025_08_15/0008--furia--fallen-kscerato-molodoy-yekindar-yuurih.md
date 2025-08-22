@@ -6,9 +6,9 @@ Global Rank: [8](../../standings_global_2025_08_15.md)<br />
 Region: [Americas]( ../../standings_americas_2025_08_15.md)<br />
 Regional Rank: [1]( ../../standings_americas_2025_08_15.md)<br />
 <br />
-Final Rank Value:  1710.0<br />
+Final Rank Value:  1710.4<br />
 <br />
-Final Rank Value (1710.0) = Starting Rank Value (1829.6) + Head To Head Adjustments (-119.7)<br />
+Final Rank Value (1710.4) = Starting Rank Value (1829.6) + Head To Head Adjustments (-119.2)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -42,26 +42,26 @@ Note:<br />
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |           45 |       58 | 2025-08-09 | Team Liquid            | L   | 1.000      | -            | -                | -                | -         |   -28.09 | FalleN, KSCERATO, molodoy, YEKINDAR, yuurih |
 |           44 |       92 | 2025-08-07 | BIG                    | W   | 1.000      | -            | -                | -                | -         |     1.28 | FalleN, KSCERATO, molodoy, YEKINDAR, yuurih |
-|           43 |      164 | 2025-08-01 | MOUZ                   | L   | 1.000      | -            | -                | -                | -         |    -8.39 | FalleN, KSCERATO, molodoy, YEKINDAR, yuurih |
-|           42 |      200 | 2025-07-29 | G2 Esports             | W   | 1.000      | 1.000        | 0.465 (0.465)    | 0.334 (0.334)    | 1 (1.000) |    10.90 | FalleN, KSCERATO, molodoy, YEKINDAR, yuurih |
-|           41 |      217 | 2025-07-28 | Team Falcons           | W   | 1.000      | 1.000        | 0.994 (0.994)    | 0.327 (0.327)    | 1 (1.000) |    14.18 | FalleN, KSCERATO, molodoy, YEKINDAR, yuurih |
-|           40 |      232 | 2025-07-27 | Astralis               | W   | 1.000      | 1.000        | 0.977 (0.977)    | 0.481 (0.481)    | 1 (1.000) |    17.12 | FalleN, KSCERATO, molodoy, YEKINDAR, yuurih |
-|           39 |      271 | 2025-07-26 | G2 Esports             | L   | 1.000      | -            | -                | -                | -         |   -20.34 | FalleN, KSCERATO, molodoy, YEKINDAR, yuurih |
-|           38 |      285 | 2025-07-25 | Astralis               | W   | 1.000      | 0.769        | 0.977 (0.751)    | 0.481 (0.370)    | 1 (1.000) |    17.63 | FalleN, KSCERATO, molodoy, YEKINDAR, yuurih |
-|           37 |      311 | 2025-07-23 | FlyQuest               | W   | 1.000      | -            | -                | -                | 1 (1.000) |     3.84 | FalleN, KSCERATO, molodoy, YEKINDAR, yuurih |
-|           36 |      404 | 2025-07-17 | SAW                    | L   | 0.997      | -            | -                | -                | -         |   -26.51 | FalleN, KSCERATO, molodoy, YEKINDAR, yuurih |
-|           35 |      438 | 2025-07-16 | Wildcard               | W   | 0.990      | 1.000        | -                | 0.426 (0.421)    | 1 (0.990) |     0.69 | FalleN, KSCERATO, molodoy, YEKINDAR, yuurih |
-|           34 |      455 | 2025-07-15 | SAW                    | L   | 0.984      | -            | -                | -                | -         |   -27.13 | FalleN, KSCERATO, molodoy, YEKINDAR, yuurih |
+|           43 |      164 | 2025-08-01 | MOUZ                   | L   | 1.000      | -            | -                | -                | -         |    -8.41 | FalleN, KSCERATO, molodoy, YEKINDAR, yuurih |
+|           42 |      200 | 2025-07-29 | G2 Esports             | W   | 1.000      | 1.000        | 0.465 (0.465)    | 0.334 (0.334)    | 1 (1.000) |    10.88 | FalleN, KSCERATO, molodoy, YEKINDAR, yuurih |
+|           41 |      217 | 2025-07-28 | Team Falcons           | W   | 1.000      | 1.000        | 0.994 (0.994)    | 0.327 (0.327)    | 1 (1.000) |    14.17 | FalleN, KSCERATO, molodoy, YEKINDAR, yuurih |
+|           40 |      232 | 2025-07-27 | Astralis               | W   | 1.000      | 1.000        | 0.977 (0.977)    | 0.481 (0.481)    | 1 (1.000) |    17.11 | FalleN, KSCERATO, molodoy, YEKINDAR, yuurih |
+|           39 |      271 | 2025-07-26 | G2 Esports             | L   | 1.000      | -            | -                | -                | -         |   -20.36 | FalleN, KSCERATO, molodoy, YEKINDAR, yuurih |
+|           38 |      285 | 2025-07-25 | Astralis               | W   | 1.000      | 0.769        | 0.977 (0.751)    | 0.481 (0.370)    | 1 (1.000) |    17.62 | FalleN, KSCERATO, molodoy, YEKINDAR, yuurih |
+|           37 |      311 | 2025-07-23 | FlyQuest               | W   | 1.000      | -            | -                | -                | 1 (1.000) |     3.92 | FalleN, KSCERATO, molodoy, YEKINDAR, yuurih |
+|           36 |      404 | 2025-07-17 | SAW                    | L   | 0.997      | -            | -                | -                | -         |   -26.41 | FalleN, KSCERATO, molodoy, YEKINDAR, yuurih |
+|           35 |      438 | 2025-07-16 | Wildcard               | W   | 0.990      | 1.000        | -                | 0.426 (0.421)    | 1 (0.990) |     0.71 | FalleN, KSCERATO, molodoy, YEKINDAR, yuurih |
+|           34 |      455 | 2025-07-15 | SAW                    | L   | 0.984      | -            | -                | -                | -         |   -27.04 | FalleN, KSCERATO, molodoy, YEKINDAR, yuurih |
 |           33 |      755 | 2025-06-19 | PaiN Gaming            | L   | 0.814      | -            | -                | -                | -         |   -18.78 | FalleN, KSCERATO, molodoy, YEKINDAR, yuurih |
 |           32 |      896 | 2025-06-13 | Virtus.pro             | W   | 0.772      | 1.000        | 0.199 (0.153)    | 0.415 (0.320)    | 1 (0.772) |     5.61 | FalleN, KSCERATO, molodoy, YEKINDAR, yuurih |
 |           31 |      923 | 2025-06-12 | Aurora Gaming          | W   | 0.766      | 1.000        | 0.603 (0.462)    | 0.415 (0.318)    | 1 (0.766) |     8.77 | FalleN, KSCERATO, molodoy, YEKINDAR, yuurih |
-|           30 |      928 | 2025-06-12 | The MongolZ            | W   | 0.765      | 1.000        | 1.000 (0.765)    | 0.492 (0.376)    | 1 (0.765) |    14.62 | FalleN, KSCERATO, molodoy, YEKINDAR, yuurih |
-|           29 |      972 | 2025-06-09 | B8                     | W   | 0.746      | -            | -                | -                | 1 (0.746) |     2.77 | FalleN, KSCERATO, molodoy, YEKINDAR, yuurih |
+|           30 |      928 | 2025-06-12 | The MongolZ            | W   | 0.765      | 1.000        | 1.000 (0.765)    | 0.492 (0.376)    | 1 (0.765) |    14.61 | FalleN, KSCERATO, molodoy, YEKINDAR, yuurih |
+|           29 |      972 | 2025-06-09 | B8                     | W   | 0.746      | -            | -                | -                | 1 (0.746) |     2.85 | FalleN, KSCERATO, molodoy, YEKINDAR, yuurih |
 |           28 |      990 | 2025-06-08 | M80                    | W   | 0.738      | 0.769        | -                | 0.680 (0.386)    | -         |     1.27 | FalleN, KSCERATO, molodoy, YEKINDAR, yuurih |
 |           27 |     1004 | 2025-06-07 | PaiN Gaming            | L   | 0.733      | -            | -                | -                | -         |   -17.50 | FalleN, KSCERATO, molodoy, YEKINDAR, yuurih |
-|           26 |     1010 | 2025-06-07 | Lynn Vision Gaming     | W   | 0.732      | 0.769        | 0.304 (0.171)    | -                | -         |     5.79 | FalleN, KSCERATO, molodoy, YEKINDAR, yuurih |
+|           26 |     1010 | 2025-06-07 | Lynn Vision Gaming     | W   | 0.732      | 0.769        | 0.304 (0.171)    | -                | -         |     5.88 | FalleN, KSCERATO, molodoy, YEKINDAR, yuurih |
 |           25 |     1207 | 2025-05-21 | GamerLegion            | L   | 0.619      | -            | -                | -                | -         |   -13.74 | FalleN, KSCERATO, molodoy, YEKINDAR, yuurih |
-|           24 |     1226 | 2025-05-20 | Lynn Vision Gaming     | W   | 0.614      | 1.000        | 0.304 (0.187)    | 0.514 (0.315)    | -         |     5.52 | FalleN, KSCERATO, molodoy, YEKINDAR, yuurih |
+|           24 |     1226 | 2025-05-20 | Lynn Vision Gaming     | W   | 0.614      | 1.000        | 0.304 (0.187)    | 0.514 (0.315)    | -         |     5.60 | FalleN, KSCERATO, molodoy, YEKINDAR, yuurih |
 |           23 |     1255 | 2025-05-19 | The MongolZ            | L   | 0.607      | -            | -                | -                | -         |    -7.87 | FalleN, KSCERATO, molodoy, YEKINDAR, yuurih |
 |           22 |     1290 | 2025-05-18 | Aurora Gaming          | L   | 0.596      | -            | -                | -                | -         |   -12.67 | FalleN, KSCERATO, molodoy, YEKINDAR, yuurih |
 |           21 |     1301 | 2025-05-17 | Team Spirit            | L   | 0.591      | -            | -                | -                | -         |    -4.72 | FalleN, KSCERATO, molodoy, YEKINDAR, yuurih |
@@ -83,8 +83,8 @@ Note:<br />
 |            5 |     3345 | 2025-03-05 | M80                    | W   | 0.106      | -            | -                | -                | -         |     0.12 | chelo, FalleN, KSCERATO, skullz, yuurih     |
 |            4 |     3365 | 2025-03-04 | NRG                    | W   | 0.099      | -            | -                | -                | -         |     0.07 | chelo, FalleN, KSCERATO, skullz, yuurih     |
 |            3 |     3395 | 2025-03-03 | MIBR                   | L   | 0.091      | -            | -                | -                | -         |    -2.72 | chelo, FalleN, KSCERATO, skullz, yuurih     |
-|            2 |     3418 | 2025-03-02 | SAW                    | L   | 0.085      | -            | -                | -                | -         |    -2.35 | chelo, FalleN, KSCERATO, skullz, yuurih     |
-|            1 |     3446 | 2025-03-01 | Lynn Vision Gaming     | W   | 0.078      | -            | -                | -                | -         |     0.56 | chelo, FalleN, KSCERATO, skullz, yuurih     |
+|            2 |     3418 | 2025-03-02 | SAW                    | L   | 0.085      | -            | -                | -                | -         |    -2.34 | chelo, FalleN, KSCERATO, skullz, yuurih     |
+|            1 |     3446 | 2025-03-01 | Lynn Vision Gaming     | W   | 0.078      | -            | -                | -                | -         |     0.57 | chelo, FalleN, KSCERATO, skullz, yuurih     |
 
 <br />
 <span id="table2"></span><br />

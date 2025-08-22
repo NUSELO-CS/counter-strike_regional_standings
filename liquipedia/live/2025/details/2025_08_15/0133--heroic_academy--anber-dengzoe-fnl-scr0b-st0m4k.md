@@ -6,9 +6,9 @@ Global Rank: [133](../../standings_global_2025_08_15.md)<br />
 Region: [Europe]( ../../standings_europe_2025_08_15.md)<br />
 Regional Rank: [85]( ../../standings_europe_2025_08_15.md)<br />
 <br />
-Final Rank Value:  711.4<br />
+Final Rank Value:  711.5<br />
 <br />
-Final Rank Value (711.4) = Starting Rank Value (724.2) + Head To Head Adjustments (-12.8)<br />
+Final Rank Value (711.5) = Starting Rank Value (724.2) + Head To Head Adjustments (-12.7)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -42,10 +42,10 @@ Note:<br />
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |           15 |      616 | 2025-07-08 | Modeame                                   | L   | 0.939      | -            | -                | -                | -         |   -17.70 | anber, Dengzoe, fnl, Scr0b, St0m4k |
 |           14 |      639 | 2025-07-06 | Marius                                    | L   | 0.923      | -            | -                | -                | -         |   -14.04 | anber, Dengzoe, fnl, Scr0b, St0m4k |
-|           13 |      648 | 2025-07-04 | Ex-Sabre Esports                          | W   | 0.909      | 0.483        | 0.003 (0.001)    | 0.336 (0.147)    | 0 (0.000) |    15.04 | anber, Dengzoe, doto, fnl, Scr0b   |
+|           13 |      648 | 2025-07-04 | Ex-Sabre Esports                          | W   | 0.909      | 0.483        | 0.003 (0.001)    | 0.336 (0.147)    | 0 (0.000) |    15.05 | anber, Dengzoe, doto, fnl, Scr0b   |
 |           12 |      668 | 2025-07-01 | SENZA Esports                             | L   | 0.889      | -            | -                | -                | -         |   -11.91 | anber, Dengzoe, doto, fnl, Scr0b   |
-|           11 |      873 | 2025-06-14 | Nexus Gaming                              | L   | 0.776      | -            | -                | -                | -         |    -5.33 | anber, Dengzoe, fnl, Scr0b, St0m4k |
-|           10 |      927 | 2025-06-12 | Partizan Esports                          | L   | 0.765      | -            | -                | -                | -         |    -5.22 | anber, Dengzoe, fnl, Scr0b, St0m4k |
+|           11 |      873 | 2025-06-14 | Nexus Gaming                              | L   | 0.776      | -            | -                | -                | -         |    -5.32 | anber, Dengzoe, fnl, Scr0b, St0m4k |
+|           10 |      927 | 2025-06-12 | Partizan Esports                          | L   | 0.765      | -            | -                | -                | -         |    -5.21 | anber, Dengzoe, fnl, Scr0b, St0m4k |
 |            9 |      948 | 2025-06-11 | Iberian Soul                              | L   | 0.758      | -            | -                | -                | -         |    -1.12 | anber, Dengzoe, fnl, Scr0b, St0m4k |
 |            8 |      974 | 2025-06-09 | QMISTRY                                   | W   | 0.745      | 0.384        | 0.001 (0.000)    | 0.179 (0.051)    | 0 (0.000) |     9.04 | anber, Dengzoe, fnl, Scr0b, St0m4k |
 |            7 |     1015 | 2025-06-07 | Copenhagen Wolves (American organization) | W   | 0.731      | 0.384        | 0.030 (0.009)    | 0.497 (0.140)    | 0 (0.000) |    13.96 | anber, Dengzoe, fnl, Scr0b, St0m4k |

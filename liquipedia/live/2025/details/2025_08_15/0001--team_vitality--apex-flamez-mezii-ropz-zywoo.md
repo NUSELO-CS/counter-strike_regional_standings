@@ -6,9 +6,9 @@ Global Rank: [1](../../standings_global_2025_08_15.md)<br />
 Region: [Europe]( ../../standings_europe_2025_08_15.md)<br />
 Regional Rank: [1]( ../../standings_europe_2025_08_15.md)<br />
 <br />
-Final Rank Value:  2054.5<br />
+Final Rank Value:  2054.6<br />
 <br />
-Final Rank Value (2054.5) = Starting Rank Value (2000.0) + Head To Head Adjustments (54.5)<br />
+Final Rank Value (2054.6) = Starting Rank Value (2000.0) + Head To Head Adjustments (54.6)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -45,13 +45,13 @@ Note:<br />
 |           36 |      143 | 2025-08-02 | MOUZ          | L   | 1.000      | -            | -                | -                | -         |   -21.16 | apEX, flameZ, mezii, ropz, ZywOo |
 |           35 |      203 | 2025-07-29 | The MongolZ   | W   | 1.000      | 1.000        | 1.000 (1.000)    | 0.492 (0.492)    | 1 (1.000) |     6.79 | apEX, flameZ, mezii, ropz, ZywOo |
 |           34 |      235 | 2025-07-27 | G2 Esports    | W   | 1.000      | 1.000        | 0.465 (0.465)    | 0.334 (0.334)    | 1 (1.000) |     2.33 | apEX, flameZ, mezii, ropz, ZywOo |
-|           33 |      268 | 2025-07-26 | Astralis      | W   | 1.000      | 1.000        | 0.977 (0.977)    | 0.481 (0.481)    | 1 (1.000) |     4.73 | apEX, flameZ, mezii, ropz, ZywOo |
+|           33 |      268 | 2025-07-26 | Astralis      | W   | 1.000      | 1.000        | 0.977 (0.977)    | 0.481 (0.481)    | 1 (1.000) |     4.74 | apEX, flameZ, mezii, ropz, ZywOo |
 |           32 |      714 | 2025-06-22 | The MongolZ   | W   | 0.833      | 1.000        | 1.000 (0.833)    | 0.492 (0.409)    | 1 (0.833) |     5.70 | apEX, flameZ, mezii, ropz, ZywOo |
 |           31 |      730 | 2025-06-21 | MOUZ          | W   | 0.825      | 1.000        | 1.000 (0.825)    | 0.565 (0.467)    | 1 (0.825) |     8.60 | apEX, flameZ, mezii, ropz, ZywOo |
 |           30 |      744 | 2025-06-20 | Natus Vincere | W   | 0.819      | 1.000        | 0.603 (0.494)    | 0.425 (0.348)    | 1 (0.819) |     4.80 | apEX, flameZ, mezii, ropz, ZywOo |
 |           29 |      846 | 2025-06-14 | Virtus.pro    | W   | 0.780      | -            | -                | -                | 1 (0.780) |     1.49 | apEX, flameZ, mezii, ropz, ZywOo |
 |           28 |      901 | 2025-06-13 | 3DMAX         | W   | 0.771      | 1.000        | -                | 0.475 (0.367)    | 1 (0.771) |     3.19 | apEX, flameZ, mezii, ropz, ZywOo |
-|           27 |      918 | 2025-06-12 | Nemiga Gaming | W   | 0.767      | 1.000        | -                | 0.583 (0.447)    | 1 (0.767) |     0.35 | apEX, flameZ, mezii, ropz, ZywOo |
+|           27 |      918 | 2025-06-12 | Nemiga Gaming | W   | 0.767      | 1.000        | -                | 0.583 (0.447)    | 1 (0.767) |     0.36 | apEX, flameZ, mezii, ropz, ZywOo |
 |           26 |      933 | 2025-06-12 | Legacy        | L   | 0.765      | -            | -                | -                | -         |   -23.49 | apEX, flameZ, mezii, ropz, ZywOo |
 |           25 |     1141 | 2025-05-25 | MOUZ          | W   | 0.646      | 1.000        | 1.000 (0.646)    | 0.565 (0.365)    | 1 (0.646) |     7.28 | apEX, flameZ, mezii, ropz, ZywOo |
 |           24 |     1151 | 2025-05-24 | Team Falcons  | W   | 0.640      | 1.000        | 0.994 (0.636)    | -                | -         |     3.24 | apEX, flameZ, mezii, ropz, ZywOo |
@@ -61,12 +61,12 @@ Note:<br />
 |           20 |     1639 | 2025-05-04 | Team Falcons  | W   | 0.504      | -            | -                | -                | -         |     2.61 | apEX, flameZ, mezii, ropz, ZywOo |
 |           19 |     1664 | 2025-05-03 | Team Spirit   | W   | 0.499      | -            | -                | -                | -         |     6.47 | apEX, flameZ, mezii, ropz, ZywOo |
 |           18 |     1711 | 2025-05-01 | MOUZ          | W   | 0.484      | -            | -                | -                | -         |     6.01 | apEX, flameZ, mezii, ropz, ZywOo |
-|           17 |     1736 | 2025-04-30 | Wildcard      | W   | 0.478      | -            | -                | -                | -         |     0.05 | apEX, flameZ, mezii, ropz, ZywOo |
-|           16 |     1817 | 2025-04-26 | Team Falcons  | W   | 0.456      | 1.000        | 0.994 (0.453)    | -                | -         |     2.19 | apEX, flameZ, mezii, ropz, ZywOo |
+|           17 |     1736 | 2025-04-30 | Wildcard      | W   | 0.478      | -            | -                | -                | -         |     0.06 | apEX, flameZ, mezii, ropz, ZywOo |
+|           16 |     1817 | 2025-04-26 | Team Falcons  | W   | 0.456      | 1.000        | 0.994 (0.453)    | -                | -         |     2.20 | apEX, flameZ, mezii, ropz, ZywOo |
 |           15 |     1847 | 2025-04-26 | The MongolZ   | W   | 0.450      | -            | -                | -                | -         |     3.57 | apEX, flameZ, mezii, ropz, ZywOo |
 |           14 |     1890 | 2025-04-23 | Team Falcons  | W   | 0.430      | -            | -                | -                | -         |     1.98 | apEX, flameZ, mezii, ropz, ZywOo |
 |           13 |     1908 | 2025-04-21 | Team Liquid   | W   | 0.422      | -            | -                | -                | -         |     0.26 | apEX, flameZ, mezii, ropz, ZywOo |
-|           12 |     1919 | 2025-04-21 | FlyQuest      | W   | 0.416      | -            | -                | -                | -         |     0.30 | apEX, flameZ, mezii, ropz, ZywOo |
+|           12 |     1919 | 2025-04-21 | FlyQuest      | W   | 0.416      | -            | -                | -                | -         |     0.31 | apEX, flameZ, mezii, ropz, ZywOo |
 |           11 |     2467 | 2025-03-30 | MOUZ          | W   | 0.271      | -            | -                | -                | -         |     3.61 | apEX, flameZ, mezii, ropz, ZywOo |
 |           10 |     2509 | 2025-03-29 | Team Spirit   | W   | 0.266      | -            | -                | -                | -         |     3.91 | apEX, flameZ, mezii, ropz, ZywOo |
 |            9 |     2788 | 2025-03-24 | MOUZ          | W   | 0.230      | -            | -                | -                | -         |     3.14 | apEX, flameZ, mezii, ropz, ZywOo |

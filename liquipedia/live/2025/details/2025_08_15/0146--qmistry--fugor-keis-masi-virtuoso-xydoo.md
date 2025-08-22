@@ -40,15 +40,15 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                             |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           15 |      550 | 2025-07-11 | PARIVISION       | L   | 0.958      | -            | -                | -                | -         |    -3.22 | Fugor, keis, Masi, virtuoso, Xydoo |
+|           15 |      550 | 2025-07-11 | PARIVISION       | L   | 0.958      | -            | -                | -                | -         |    -3.21 | Fugor, keis, Masi, virtuoso, Xydoo |
 |           14 |      628 | 2025-07-07 | Wildcard Academy | W   | 0.931      | 0.483        | 0.000 (0.000)    | 0.102 (0.046)    | 0 (0.000) |    13.66 | Fugor, keis, Masi, virtuoso, Xydoo |
 |           13 |      635 | 2025-07-06 | NOVAQ            | W   | 0.925      | 0.483        | 0.000 (0.000)    | 0.309 (0.138)    | 0 (0.000) |    12.52 | Fugor, keis, Masi, virtuoso, Xydoo |
 |           12 |      647 | 2025-07-04 | Anonymo Esports  | W   | 0.910      | 0.483        | 0.000 (0.000)    | 0.042 (0.018)    | 0 (0.000) |     8.19 | Fugor, keis, Masi, virtuoso, Xydoo |
-|           11 |      660 | 2025-07-02 | TPuDCATb TPu     | L   | 0.896      | -            | -                | -                | -         |    -7.87 | Fugor, keis, Masi, virtuoso, Xydoo |
+|           11 |      660 | 2025-07-02 | TPuDCATb TPu     | L   | 0.896      | -            | -                | -                | -         |    -7.86 | Fugor, keis, Masi, virtuoso, Xydoo |
 |           10 |      974 | 2025-06-09 | HEROIC Academy   | L   | 0.745      | -            | -                | -                | -         |    -9.04 | Fugor, keis, Masi, showk, Xydoo    |
 |            9 |      995 | 2025-06-08 | NOVAQ            | W   | 0.737      | 0.384        | 0.000 (0.000)    | 0.309 (0.087)    | 0 (0.000) |    10.31 | Fugor, keis, Masi, showk, Xydoo    |
 |            8 |     1037 | 2025-06-05 | Modeame          | W   | 0.717      | 0.384        | 0.004 (0.001)    | 0.271 (0.075)    | 0 (0.000) |    12.68 | Fugor, keis, Masi, showk, Xydoo    |
-|            7 |     1047 | 2025-06-04 | AMKAL ESPORTS    | L   | 0.711      | -            | -                | -                | -         |    -7.81 | Fugor, keis, Masi, showk, Xydoo    |
+|            7 |     1047 | 2025-06-04 | AMKAL ESPORTS    | L   | 0.711      | -            | -                | -                | -         |    -7.80 | Fugor, keis, Masi, showk, Xydoo    |
 |            6 |     2843 | 2025-03-20 | Ex-Sabre Esports | L   | 0.205      | -            | -                | -                | -         |    -2.26 | Fugor, keis, Masi, showk, Xydoo    |
 |            5 |     2914 | 2025-03-18 | Modeame          | W   | 0.192      | 0.372        | 0.004 (0.000)    | 0.271 (0.019)    | 0 (0.000) |     3.65 | Fugor, keis, Masi, showk, Xydoo    |
 |            4 |     2972 | 2025-03-14 | Nuclear TigeRES  | W   | 0.165      | 0.372        | 0.000 (0.000)    | 0.012 (0.001)    | 0 (0.000) |     1.68 | Fugor, keis, Masi, showk, Xydoo    |

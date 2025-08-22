@@ -46,7 +46,7 @@ Note:<br />
 |           10 |     1502 | 2025-05-09 | Steel Helmet              | W   | 0.538      | 0.303        | 0.000 (0.000)    | 0.026 (0.004)    | 0 (0.000) |     3.67 | Biuckmt, ImpressioN, jiejie, splashske, Zy88 |
 |            9 |     2214 | 2025-04-08 | TYLOO                     | L   | 0.331      | -            | -                | -                | -         |    -0.01 | Biuckmt, ImpressioN, jiejie, splashske, Zy88 |
 |            8 |     2233 | 2025-04-08 | Unsettled Resentment      | W   | 0.330      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     2.29 | Biuckmt, ImpressioN, jiejie, splashske, Zy88 |
-|            7 |     2553 | 2025-03-28 | Kaleido Gaming            | L   | 0.261      | -            | -                | -                | -         |    -2.79 | Biuckmt, ImpressioN, jiejie, splashske, Zy88 |
+|            7 |     2553 | 2025-03-28 | Kaleido Gaming            | L   | 0.261      | -            | -                | -                | -         |    -2.78 | Biuckmt, ImpressioN, jiejie, splashske, Zy88 |
 |            6 |     2615 | 2025-03-27 | Just Swing (Chinese team) | W   | 0.255      | 0.624        | 0.001 (0.000)    | 0.079 (0.013)    | 0 (0.000) |     4.67 | Biuckmt, ImpressioN, jiejie, splashske, Zy88 |
 |            5 |     2670 | 2025-03-27 | Lynn Vision Gaming        | L   | 0.250      | -            | -                | -                | -         |    -0.03 | Biuckmt, ImpressioN, jiejie, splashske, Zy88 |
 |            4 |     3493 | 2025-02-27 | Wings Up Gaming           | L   | 0.063      | -            | -                | -                | -         |    -0.50 | Biuckmt, jiejie, Siyi, splashske, Zy88       |

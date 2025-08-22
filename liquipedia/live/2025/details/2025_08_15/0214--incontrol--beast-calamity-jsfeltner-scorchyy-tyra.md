@@ -6,9 +6,9 @@ Global Rank: [214](../../standings_global_2025_08_15.md)<br />
 Region: [Americas]( ../../standings_americas_2025_08_15.md)<br />
 Regional Rank: [69]( ../../standings_americas_2025_08_15.md)<br />
 <br />
-Final Rank Value:  563.0<br />
+Final Rank Value:  563.1<br />
 <br />
-Final Rank Value (563.0) = Starting Rank Value (554.4) + Head To Head Adjustments (8.6)<br />
+Final Rank Value (563.1) = Starting Rank Value (554.4) + Head To Head Adjustments (8.7)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -40,11 +40,11 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent             | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                     |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           28 |      346 | 2025-07-19 | BLUEJAYS             | L   | 1.000      | -            | -                | -                | -         |    -2.99 | Beast, calamity, jsfeltner, Scorchyy, TyRa |
+|           28 |      346 | 2025-07-19 | BLUEJAYS             | L   | 1.000      | -            | -                | -                | -         |    -2.97 | Beast, calamity, jsfeltner, Scorchyy, TyRa |
 |           27 |      363 | 2025-07-18 | NuTorious            | W   | 1.000      | 0.407        | 0.000 (0.000)    | 0.011 (0.004)    | 1 (1.000) |    11.86 | Beast, calamity, jsfeltner, Scorchyy, TyRa |
-|           26 |      368 | 2025-07-18 | Fluxo                | L   | 1.000      | -            | -                | -                | -         |    -1.71 | Beast, calamity, jsfeltner, Scorchyy, TyRa |
-|           25 |     2190 | 2025-04-08 | Marsborne            | L   | 0.334      | -            | -                | -                | -         |    -1.36 | Beast, jsfeltner, Oczarka, Scorchyy, TyRa  |
-|           24 |     2195 | 2025-04-08 | Marsborne            | L   | 0.334      | -            | -                | -                | -         |    -1.38 | Beast, jsfeltner, Oczarka, Scorchyy, TyRa  |
+|           26 |      368 | 2025-07-18 | Fluxo                | L   | 1.000      | -            | -                | -                | -         |    -1.65 | Beast, calamity, jsfeltner, Scorchyy, TyRa |
+|           25 |     2190 | 2025-04-08 | Marsborne            | L   | 0.334      | -            | -                | -                | -         |    -1.33 | Beast, jsfeltner, Oczarka, Scorchyy, TyRa  |
+|           24 |     2195 | 2025-04-08 | Marsborne            | L   | 0.334      | -            | -                | -                | -         |    -1.34 | Beast, jsfeltner, Oczarka, Scorchyy, TyRa  |
 |           23 |     2344 | 2025-04-02 | LAG Gaming           | L   | 0.294      | -            | -                | -                | -         |    -2.44 | Beast, jsfeltner, Oczarka, Scorchyy, TyRa  |
 |           22 |     2351 | 2025-04-02 | LAG Gaming           | L   | 0.294      | -            | -                | -                | -         |    -2.49 | Beast, jsfeltner, Oczarka, Scorchyy, TyRa  |
 |           21 |     2403 | 2025-04-01 | Party Astronauts     | L   | 0.288      | -            | -                | -                | -         |    -2.56 | Beast, jsfeltner, Oczarka, Scorchyy, TyRa  |

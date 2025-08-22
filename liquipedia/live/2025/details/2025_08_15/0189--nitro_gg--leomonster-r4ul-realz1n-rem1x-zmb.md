@@ -6,9 +6,9 @@ Global Rank: [189](../../standings_global_2025_08_15.md)<br />
 Region: [Americas]( ../../standings_americas_2025_08_15.md)<br />
 Regional Rank: [57]( ../../standings_americas_2025_08_15.md)<br />
 <br />
-Final Rank Value:  606.0<br />
+Final Rank Value:  606.1<br />
 <br />
-Final Rank Value (606.0) = Starting Rank Value (613.0) + Head To Head Adjustments (-7.0)<br />
+Final Rank Value (606.1) = Starting Rank Value (613.0) + Head To Head Adjustments (-6.8)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -42,8 +42,8 @@ Note:<br />
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |           11 |     1578 | 2025-05-06 | Bounty Hunters Esports | L   | 0.520      | -            | -                | -                | -         |    -5.27 | Leomonster, r4ul, realz1n, rem1x, zmb |
 |           10 |     3093 | 2025-03-09 | DESEMPREGUEIDOS        | L   | 0.132      | -            | -                | -                | -         |    -1.85 | bnc, Leomonster, realz1n, rem1x, zmb  |
-|            9 |     3139 | 2025-03-08 | BESTIA                 | L   | 0.128      | -            | -                | -                | -         |    -0.99 | bnc, Leomonster, realz1n, rem1x, zmb  |
-|            8 |     3149 | 2025-03-08 | BESTIA                 | L   | 0.127      | -            | -                | -                | -         |    -0.99 | bnc, Leomonster, realz1n, rem1x, zmb  |
+|            9 |     3139 | 2025-03-08 | BESTIA                 | L   | 0.128      | -            | -                | -                | -         |    -0.93 | bnc, Leomonster, realz1n, rem1x, zmb  |
+|            8 |     3149 | 2025-03-08 | BESTIA                 | L   | 0.127      | -            | -                | -                | -         |    -0.93 | bnc, Leomonster, realz1n, rem1x, zmb  |
 |            7 |     3223 | 2025-03-07 | MIBR Academy           | W   | 0.120      | 0.769        | 0.001 (0.000)    | 0.108 (0.010)    | 0 (0.000) |     1.90 | bnc, Leomonster, realz1n, rem1x, zmb  |
 |            6 |     3295 | 2025-03-06 | Floripa Stars          | W   | 0.113      | 0.371        | 0.000 (0.000)    | 0.013 (0.001)    | 0 (0.000) |     1.26 | bnc, Leomonster, realz1n, rem1x, zmb  |
 |            5 |     3363 | 2025-03-04 | ShindeN                | L   | 0.100      | -            | -                | -                | -         |    -1.14 | bnc, Leomonster, realz1n, rem1x, zmb  |

@@ -40,11 +40,11 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent               | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                 |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           19 |      161 | 2025-08-01 | Game Hunters           | L   | 1.000      | -            | -                | -                | -         |    -7.91 | ALENNNCARrx, Lcs, Lukita, pkN, vzn     |
-|           18 |      193 | 2025-07-30 | Crashers               | W   | 1.000      | 0.143        | 0.002 (0.000)    | 0.149 (0.021)    | 0 (0.000) |    17.87 | ALENNNCARrx, Lcs, Lukita, pkN, vzn     |
+|           19 |      161 | 2025-08-01 | Game Hunters           | L   | 1.000      | -            | -                | -                | -         |    -7.90 | ALENNNCARrx, Lcs, Lukita, pkN, vzn     |
+|           18 |      193 | 2025-07-30 | Crashers               | W   | 1.000      | 0.143        | 0.002 (0.000)    | 0.149 (0.021)    | 0 (0.000) |    17.88 | ALENNNCARrx, Lcs, Lukita, pkN, vzn     |
 |           17 |      218 | 2025-07-28 | JERSA ESPORTS          | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.097 (0.014)    | 0 (0.000) |    13.48 | ALENNNCARrx, Lcs, Lukita, pkN, vzn     |
-|           16 |      269 | 2025-07-26 | KRÜ Esports            | L   | 1.000      | -            | -                | -                | -         |    -8.18 | ALENNNCARrx, Lcs, Lukita, pkN, vzn     |
-|           15 |      296 | 2025-07-24 | Flamengo Esports       | L   | 1.000      | -            | -                | -                | -         |    -6.03 | ALENNNCARrx, Lcs, Lukita, pkN, vzn     |
+|           16 |      269 | 2025-07-26 | KRÜ Esports            | L   | 1.000      | -            | -                | -                | -         |    -8.17 | ALENNNCARrx, Lcs, Lukita, pkN, vzn     |
+|           15 |      296 | 2025-07-24 | Flamengo Esports       | L   | 1.000      | -            | -                | -                | -         |    -6.02 | ALENNNCARrx, Lcs, Lukita, pkN, vzn     |
 |           14 |     2158 | 2025-04-09 | Game Hunters           | L   | 0.340      | -            | -                | -                | -         |    -2.33 | ALENNNCARrx, CaPiM, Lukita, s1cko, vzn |
 |           13 |     2162 | 2025-04-09 | Game Hunters           | L   | 0.340      | -            | -                | -                | -         |    -2.38 | ALENNNCARrx, CaPiM, Lukita, s1cko, vzn |
 |           12 |     2359 | 2025-04-02 | Yawara E-Sports        | W   | 0.294      | 0.393        | 0.007 (0.001)    | 0.269 (0.031)    | 0 (0.000) |     6.44 | ALENNNCARrx, CaPiM, Lukita, s1cko, vzn |

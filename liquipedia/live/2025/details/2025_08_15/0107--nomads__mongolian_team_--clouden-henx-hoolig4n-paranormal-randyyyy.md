@@ -6,9 +6,9 @@ Global Rank: [107](../../standings_global_2025_08_15.md)<br />
 Region: [Asia]( ../../standings_asia_2025_08_15.md)<br />
 Regional Rank: [11]( ../../standings_asia_2025_08_15.md)<br />
 <br />
-Final Rank Value:  763.8<br />
+Final Rank Value:  764.2<br />
 <br />
-Final Rank Value (763.8) = Starting Rank Value (774.7) + Head To Head Adjustments (-10.9)<br />
+Final Rank Value (764.2) = Starting Rank Value (774.7) + Head To Head Adjustments (-10.5)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -40,25 +40,25 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                        |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           19 |      498 | 2025-07-13 | IHC Esports       | L   | 0.969      | -            | -                | -                | -         |   -18.15 | clouden, HenX, hoolig4n, Paranormal, Randyyyy |
-|           18 |      516 | 2025-07-12 | Chinggis Warriors | L   | 0.964      | -            | -                | -                | -         |    -5.57 | clouden, HenX, hoolig4n, Paranormal, Randyyyy |
-|           17 |      524 | 2025-07-12 | Ex-TALON          | W   | 0.963      | 0.143        | 0.002 (0.000)    | 0.138 (0.019)    | 0 (0.000) |    11.44 | clouden, HenX, hoolig4n, Paranormal, Randyyyy |
+|           19 |      498 | 2025-07-13 | IHC Esports       | L   | 0.969      | -            | -                | -                | -         |   -18.16 | clouden, HenX, hoolig4n, Paranormal, Randyyyy |
+|           18 |      516 | 2025-07-12 | Chinggis Warriors | L   | 0.964      | -            | -                | -                | -         |    -5.52 | clouden, HenX, hoolig4n, Paranormal, Randyyyy |
+|           17 |      524 | 2025-07-12 | Ex-TALON          | W   | 0.963      | 0.143        | 0.002 (0.000)    | 0.138 (0.019)    | 0 (0.000) |    11.58 | clouden, HenX, hoolig4n, Paranormal, Randyyyy |
 |           16 |      552 | 2025-07-11 | Kaleido Gaming    | W   | 0.957      | 0.143        | 0.011 (0.002)    | 0.106 (0.015)    | 0 (0.000) |    12.35 | clouden, HenX, hoolig4n, Paranormal, Randyyyy |
 |           15 |     1508 | 2025-05-09 | Rare Atom         | L   | 0.537      | -            | -                | -                | -         |    -1.95 | clouden, CRYTICAL, HenX, hoolig4n, Paranormal |
-|           14 |     1566 | 2025-05-07 | FlyQuest          | L   | 0.523      | -            | -                | -                | -         |    -0.58 | clouden, CRYTICAL, HenX, hoolig4n, Paranormal |
+|           14 |     1566 | 2025-05-07 | FlyQuest          | L   | 0.523      | -            | -                | -                | -         |    -0.57 | clouden, CRYTICAL, HenX, hoolig4n, Paranormal |
 |           13 |     1745 | 2025-04-30 | SENZA Esports     | L   | 0.477      | -            | -                | -                | -         |    -7.33 | clouden, HenX, hoolig4n, Paranormal, Randyyyy |
-|           12 |     1769 | 2025-04-29 | The Huns Esports  | L   | 0.470      | -            | -                | -                | -         |    -3.45 | clouden, HenX, hoolig4n, Paranormal, Randyyyy |
+|           12 |     1769 | 2025-04-29 | The Huns Esports  | L   | 0.470      | -            | -                | -                | -         |    -3.44 | clouden, HenX, hoolig4n, Paranormal, Randyyyy |
 |           11 |     1805 | 2025-04-27 | Kaleido Gaming    | W   | 0.457      | 0.534        | 0.011 (0.003)    | 0.106 (0.026)    | 1 (0.457) |     6.11 | clouden, CRYTICAL, HenX, hoolig4n, Paranormal |
-|           10 |     1849 | 2025-04-26 | JiJieHao          | L   | 0.450      | -            | -                | -                | -         |    -3.08 | clouden, CRYTICAL, HenX, hoolig4n, Paranormal |
-|            9 |     1932 | 2025-04-20 | Chinggis Warriors | W   | 0.410      | 0.534        | 0.028 (0.006)    | 0.475 (0.104)    | 1 (0.410) |    10.48 | clouden, CRYTICAL, HenX, hoolig4n, Paranormal |
+|           10 |     1849 | 2025-04-26 | JiJieHao          | L   | 0.450      | -            | -                | -                | -         |    -3.09 | clouden, CRYTICAL, HenX, hoolig4n, Paranormal |
+|            9 |     1932 | 2025-04-20 | Chinggis Warriors | W   | 0.410      | 0.534        | 0.028 (0.006)    | 0.475 (0.104)    | 1 (0.410) |    10.51 | clouden, CRYTICAL, HenX, hoolig4n, Paranormal |
 |            8 |     1973 | 2025-04-18 | KZG               | W   | 0.396      | 0.534        | 0.000 (0.000)    | 0.022 (0.005)    | 1 (0.396) |     2.09 | clouden, CRYTICAL, HenX, hoolig4n, Paranormal |
-|            7 |     2288 | 2025-04-05 | Eruption          | L   | 0.309      | -            | -                | -                | -         |    -3.84 | clouden, HenX, hoolig4n, Paranormal, Randyyyy |
-|            6 |     2342 | 2025-04-02 | Eruption          | L   | 0.295      | -            | -                | -                | -         |    -3.72 | clouden, HenX, hoolig4n, Paranormal, Randyyyy |
+|            7 |     2288 | 2025-04-05 | Eruption          | L   | 0.309      | -            | -                | -                | -         |    -3.76 | clouden, HenX, hoolig4n, Paranormal, Randyyyy |
+|            6 |     2342 | 2025-04-02 | Eruption          | L   | 0.295      | -            | -                | -                | -         |    -3.64 | clouden, HenX, hoolig4n, Paranormal, Randyyyy |
 |            5 |     2951 | 2025-03-15 | IHC Esports       | L   | 0.175      | -            | -                | -                | -         |    -3.60 | clouden, CRYTICAL, HenX, hoolig4n, Paranormal |
 |            4 |     2963 | 2025-03-15 | The Huns Esports  | L   | 0.170      | -            | -                | -                | -         |    -1.24 | clouden, CRYTICAL, HenX, hoolig4n, Paranormal |
-|            3 |     3544 | 2025-02-25 | Eruption          | L   | 0.055      | -            | -                | -                | -         |    -0.72 | clouden, CRYTICAL, HenX, hoolig4n, Paranormal |
+|            3 |     3544 | 2025-02-25 | Eruption          | L   | 0.055      | -            | -                | -                | -         |    -0.70 | clouden, CRYTICAL, HenX, hoolig4n, Paranormal |
 |            2 |     3575 | 2025-02-25 | HOTU              | L   | 0.049      | -            | -                | -                | -         |    -0.56 | clouden, CRYTICAL, HenX, hoolig4n, Paranormal |
-|            1 |     3604 | 2025-02-23 | Gods Reign        | W   | 0.042      | 0.624        | 0.001 (0.000)    | 0.079 (0.002)    | 0 (0.000) |     0.44 | clouden, CRYTICAL, HenX, hoolig4n, Paranormal |
+|            1 |     3604 | 2025-02-23 | Gods Reign        | W   | 0.042      | 0.624        | 0.001 (0.000)    | 0.079 (0.002)    | 0 (0.000) |     0.46 | clouden, CRYTICAL, HenX, hoolig4n, Paranormal |
 
 <br />
 <span id="table2"></span><br />

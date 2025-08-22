@@ -6,9 +6,9 @@ Global Rank: [209](../../standings_global_2025_08_15.md)<br />
 Region: [Americas]( ../../standings_americas_2025_08_15.md)<br />
 Regional Rank: [67]( ../../standings_americas_2025_08_15.md)<br />
 <br />
-Final Rank Value:  577.2<br />
+Final Rank Value:  577.3<br />
 <br />
-Final Rank Value (577.2) = Starting Rank Value (614.0) + Head To Head Adjustments (-36.8)<br />
+Final Rank Value (577.3) = Starting Rank Value (614.0) + Head To Head Adjustments (-36.8)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -40,10 +40,10 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent                 | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           15 |      190 | 2025-07-30 | KRÜ Esports              | L   | 1.000      | -            | -                | -                | -         |    -9.95 | brn$, card, lkz, perez, stormzyn      |
-|           14 |      212 | 2025-07-28 | ShindeN                  | L   | 1.000      | -            | -                | -                | -         |   -11.76 | brn$, card, lkz, perez, stormzyn      |
+|           15 |      190 | 2025-07-30 | KRÜ Esports              | L   | 1.000      | -            | -                | -                | -         |    -9.93 | brn$, card, lkz, perez, stormzyn      |
+|           14 |      212 | 2025-07-28 | ShindeN                  | L   | 1.000      | -            | -                | -                | -         |   -11.75 | brn$, card, lkz, perez, stormzyn      |
 |           13 |      261 | 2025-07-26 | JERSA ESPORTS            | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.097 (0.014)    | 0 (0.000) |    12.02 | brn$, card, lkz, perez, stormzyn      |
-|           12 |      292 | 2025-07-24 | RED Canids               | L   | 1.000      | -            | -                | -                | -         |    -5.13 | brn$, card, lkz, perez, stormzyn      |
+|           12 |      292 | 2025-07-24 | RED Canids               | L   | 1.000      | -            | -                | -                | -         |    -5.11 | brn$, card, lkz, perez, stormzyn      |
 |           11 |      743 | 2025-06-20 | Elevate                  | L   | 0.820      | -            | -                | -                | -         |   -15.31 | brn$, card, lkz, perez, stormzyn      |
 |           10 |      771 | 2025-06-18 | Game Hunters             | L   | 0.807      | -            | -                | -                | -         |    -6.59 | brn$, card, lkz, perez, stormzyn      |
 |            9 |      794 | 2025-06-17 | 2Game Esports            | L   | 0.797      | -            | -                | -                | -         |    -6.48 | brn$, card, lkz, perez, stormzyn      |
